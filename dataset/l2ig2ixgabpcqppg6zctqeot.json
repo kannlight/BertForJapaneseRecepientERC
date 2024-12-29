@@ -1,0 +1,814 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 1,
+                    "utter": "あの…わたすじゃありませんが\n\nとにかくありがとうございます🙇‍♂️"
+                },
+                {
+                    "author": "did:plc:j5gvykb75scqkujgrvjmfyr5",
+                    "type": 2,
+                    "utter": "理解いたしておりますので、ご安心を :-)))"
+                },
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 3,
+                    "utter": "台湾好きでもないのに、台湾に沈んじゃった方です😂"
+                }
+            ],
+            "uri": "at://did:plc:l2ig2ixgabpcqppg6zctqeot/app.bsky.feed.post/3lac6mc4h3d2q",
+            "label": [
+                0.023463444784283638,
+                0.9609321355819702,
+                0.004584945272654295,
+                0.007797252386808395,
+                0.000848288822453469,
+                0.015036603435873985,
+                0.005105158314108849,
+                0.000852241413667798
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 1,
+                    "utter": "台湾好きでもないのに、台湾に沈んじゃった方です😂"
+                },
+                {
+                    "author": "did:plc:j5gvykb75scqkujgrvjmfyr5",
+                    "type": 2,
+                    "utter": "ふむ、人間思わぬところで予期せぬ迷宮に入り込みます(それがまた面白い)"
+                },
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 3,
+                    "utter": "わたしだって、まさか台湾に移住するなんて思ってもいませんでした。"
+                }
+            ],
+            "uri": "at://did:plc:l2ig2ixgabpcqppg6zctqeot/app.bsky.feed.post/3laeqnhl35m2n",
+            "label": [
+                0.017226099967956543,
+                0.023762555792927742,
+                0.007330161519348621,
+                0.9231494069099426,
+                0.0029988547321408987,
+                0.016419904306530952,
+                0.002285977592691779,
+                0.0019502994837239385
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 1,
+                    "utter": "わたしだって、まさか台湾に移住するなんて思ってもいませんでした。"
+                },
+                {
+                    "author": "did:plc:j5gvykb75scqkujgrvjmfyr5",
+                    "type": 2,
+                    "utter": "！！！！！笑\nで、いろいろ振り返ってみれば。\n安定と、思い描いた既存のルートの無味乾燥より。\nえーっと、人生そんなもんではなかろうかと :-)))"
+                },
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 3,
+                    "utter": "いやー、安定したまま亡くなる人もいらっしゃるのですよ。\nわたしが写真で発見したこと\n\nこの世界は安定なんかしていない"
+                }
+            ],
+            "uri": "at://did:plc:l2ig2ixgabpcqppg6zctqeot/app.bsky.feed.post/3lahav7xxcp2s",
+            "label": [
+                0.03383524343371391,
+                0.3607397675514221,
+                0.002410943154245615,
+                0.14444932341575623,
+                0.002495540538802743,
+                0.202164426445961,
+                0.006999575067311525,
+                0.003365318290889263
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 1,
+                    "utter": "いやー、安定したまま亡くなる人もいらっしゃるのですよ。\nわたしが写真で発見したこと\n\nこの世界は安定なんかしていない"
+                },
+                {
+                    "author": "did:plc:j5gvykb75scqkujgrvjmfyr5",
+                    "type": 2,
+                    "utter": "そそ、それ。\n不安定こそが生命と哲学を生み出した、という宇宙の真理 :-)))"
+                },
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 3,
+                    "utter": "ふ、深い❗"
+                }
+            ],
+            "uri": "at://did:plc:l2ig2ixgabpcqppg6zctqeot/app.bsky.feed.post/3lajqquhkwb2s",
+            "label": [
+                0.4375360906124115,
+                0.006917526945471764,
+                0.012225568294525146,
+                0.5216832160949707,
+                0.0009415051899850368,
+                0.0026088182348757982,
+                0.0028778035193681717,
+                0.0038966285064816475
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 1,
+                    "utter": "エベレスト、ください、"
+                },
+                {
+                    "author": "did:plc:j5gvykb75scqkujgrvjmfyr5",
+                    "type": 2,
+                    "utter": "と言ったら、「え、チョモランマですよ」と言われた時代の流れ(笑)\n\nと、横のおじさんがポツリと、「牛丼3杯、食べられる」(笑)"
+                },
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 3,
+                    "utter": "台湾では、弁当いくつ食べられる…と お弁当が単位になっています😃"
+                }
+            ],
+            "uri": "at://did:plc:l2ig2ixgabpcqppg6zctqeot/app.bsky.feed.post/3lbcuigp7b222",
+            "label": [
+                0.03910974785685539,
+                0.006552586331963539,
+                0.021091869100928307,
+                0.9460145235061646,
+                0.0021676847245544195,
+                0.0064934538677334785,
+                0.003140621352940798,
+                0.002489442005753517
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 1,
+                    "utter": "台湾では、弁当いくつ食べられる…と お弁当が単位になっています😃"
+                },
+                {
+                    "author": "did:plc:j5gvykb75scqkujgrvjmfyr5",
+                    "type": 2,
+                    "utter": "！！！！！笑\nなるほど、「所変われば品変わる」(笑)"
+                },
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 3,
+                    "utter": "かつては弁当６０元が… いまや\n100元以上になりました🥲"
+                }
+            ],
+            "uri": "at://did:plc:l2ig2ixgabpcqppg6zctqeot/app.bsky.feed.post/3lbkgde5ql22e",
+            "label": [
+                0.021791599690914154,
+                0.018863698467612267,
+                0.00736635597422719,
+                0.9440912008285522,
+                0.0032518436200916767,
+                0.01721034198999405,
+                0.0034542062785476446,
+                0.0021631133276969194
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 1,
+                    "utter": "かつては弁当６０元が… いまや\n100元以上になりました🥲"
+                },
+                {
+                    "author": "did:plc:j5gvykb75scqkujgrvjmfyr5",
+                    "type": 2,
+                    "utter": "えーと．．．所得換算はできませんけど．．．\nそれでも500円を切ってるシアワセ．．．:-)))"
+                },
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 3,
+                    "utter": "弁当は台湾では一番安く買えるものですよ。\n日用品とか乳製品とか、日本よりバカ高です。"
+                }
+            ],
+            "uri": "at://did:plc:l2ig2ixgabpcqppg6zctqeot/app.bsky.feed.post/3lbmxils3ys24",
+            "label": [
+                0.529373049736023,
+                0.03770005702972412,
+                0.06350413709878922,
+                0.11317730695009232,
+                0.00713606271892786,
+                0.02733214758336544,
+                0.027141215279698372,
+                0.030914513394236565
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 1,
+                    "utter": "弁当は台湾では一番安く買えるものですよ。\n日用品とか乳製品とか、日本よりバカ高です。"
+                },
+                {
+                    "author": "did:plc:j5gvykb75scqkujgrvjmfyr5",
+                    "type": 2,
+                    "utter": "バターとミルクは必須ですので、ソコは辛い．．．\n気温は最高ですけど(笑)"
+                },
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 3,
+                    "utter": "寒くなってきました。いま外気温23度です。\nでも部屋の中ではエアコンつけてます。😂"
+                }
+            ],
+            "uri": "at://did:plc:l2ig2ixgabpcqppg6zctqeot/app.bsky.feed.post/3lbpgppcpfk2o",
+            "label": [
+                0.2614475190639496,
+                0.06100574508309364,
+                0.03396439179778099,
+                0.1140253022313118,
+                0.002770007587969303,
+                0.45318320393562317,
+                0.022929232567548752,
+                0.008293794468045235
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 1,
+                    "utter": "んま❗きれい"
+                },
+                {
+                    "author": "did:plc:j5gvykb75scqkujgrvjmfyr5",
+                    "type": 2,
+                    "utter": "ありがとうございます。\nが、残念ながら気温は冬へ、パッチが要る季節になりました．．．(笑)"
+                },
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 3,
+                    "utter": "パッチ？ はて、何のことかしら（笑）"
+                }
+            ],
+            "uri": "at://did:plc:l2ig2ixgabpcqppg6zctqeot/app.bsky.feed.post/3lbpgmrvacs2o",
+            "label": [
+                0.04466121271252632,
+                0.004087149631232023,
+                0.033186040818691254,
+                0.9385732412338257,
+                0.0020691759418696165,
+                0.007108648307621479,
+                0.0027958969585597515,
+                0.0025755835231393576
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 1,
+                    "utter": "パッチ？ はて、何のことかしら（笑）"
+                },
+                {
+                    "author": "did:plc:j5gvykb75scqkujgrvjmfyr5",
+                    "type": 2,
+                    "utter": "股引でも結構でございます(笑)"
+                },
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 3,
+                    "utter": "子供の時、穿かされていたあれ😅"
+                }
+            ],
+            "uri": "at://did:plc:l2ig2ixgabpcqppg6zctqeot/app.bsky.feed.post/3lbrygvtaks2l",
+            "label": [
+                0.7666445970535278,
+                0.06356686353683472,
+                0.05395552143454552,
+                0.041377317160367966,
+                0.002171323401853442,
+                0.03340898081660271,
+                0.019993746653199196,
+                0.00901200994849205
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 1,
+                    "utter": "子供の時、穿かされていたあれ😅"
+                },
+                {
+                    "author": "did:plc:j5gvykb75scqkujgrvjmfyr5",
+                    "type": 2,
+                    "utter": "最近、ラクダはハイエンド品になっております(笑)"
+                },
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 3,
+                    "utter": "🐪はじっちゃんが穿いてました。\n\n子供は白いのね😃"
+                }
+            ],
+            "uri": "at://did:plc:l2ig2ixgabpcqppg6zctqeot/app.bsky.feed.post/3lbuj7h5vck24",
+            "label": [
+                0.038969170302152634,
+                0.008715980686247349,
+                0.015352634713053703,
+                0.9426891207695007,
+                0.00207861908711493,
+                0.003282602410763502,
+                0.0035809900145977736,
+                0.0023572081699967384
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 1,
+                    "utter": "🐪はじっちゃんが穿いてました。\n\n子供は白いのね😃"
+                },
+                {
+                    "author": "did:plc:j5gvykb75scqkujgrvjmfyr5",
+                    "type": 2,
+                    "utter": "木綿が蒸れなくていいです(笑)"
+                },
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 3,
+                    "utter": "いまどき純木綿は高いですー\n\nああ、木綿のハンカチーフ🎵"
+                }
+            ],
+            "uri": "at://did:plc:l2ig2ixgabpcqppg6zctqeot/app.bsky.feed.post/3lbx2po3z2s2m",
+            "label": [
+                0.1406884491443634,
+                0.7272123694419861,
+                0.1537410467863083,
+                0.013054592534899712,
+                0.0014555854722857475,
+                0.014808458276093006,
+                0.008812441490590572,
+                0.0026637325063347816
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 1,
+                    "utter": "こんな写真が、いい意味の普通で…\n好きです。\n（わらしはこういう写真撮るのが実は難しいのを知っている）"
+                },
+                {
+                    "author": "did:plc:j5gvykb75scqkujgrvjmfyr5",
+                    "type": 2,
+                    "utter": "いつもありがとうございます。\n逆に、遠くまでなーんもない平原とか、そちらの海や空の色に憧れております。\n(地べたに居ると、気持ちがせせこましく(笑))"
+                },
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 3,
+                    "utter": "あの写真は例外です。\nいつもは町中にいて、せこせこ生活してます。\nそして、誰かまた車で田舎に連れてってくれないかなぁ…と  人頼み😂"
+                }
+            ],
+            "uri": "at://did:plc:l2ig2ixgabpcqppg6zctqeot/app.bsky.feed.post/3lbpgjtm3ic2o",
+            "label": [
+                0.012370744720101357,
+                0.041498541831970215,
+                0.9670356512069702,
+                0.0025140210054814816,
+                0.001579109812155366,
+                0.004536564461886883,
+                0.0030330501031130552,
+                0.001907623023726046
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 1,
+                    "utter": "あの写真は例外です。\nいつもは町中にいて、せこせこ生活してます。\nそして、誰かまた車で田舎に連れてってくれないかなぁ…と  人頼み😂"
+                },
+                {
+                    "author": "did:plc:j5gvykb75scqkujgrvjmfyr5",
+                    "type": 2,
+                    "utter": "他にも素敵なのがいっぱいあるんですけど、既にリツイートもいっぱいで :-)))"
+                },
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 3,
+                    "utter": "リツイート枠 決めてらっしゃるの？ 😂\nブルースカイ、ほんと素敵な写真\nばっかりですよねー。\n小さいアカウントさんでも渾身の\n写真ポストしてくるし…\n\nわたしはどんどんリポストしまくるから、たぶんフォロワーさんにはご迷惑かけてます😆"
+                }
+            ],
+            "uri": "at://did:plc:l2ig2ixgabpcqppg6zctqeot/app.bsky.feed.post/3lbrypg3tcc2l",
+            "label": [
+                0.5788713693618774,
+                0.06846504658460617,
+                0.01464271079748869,
+                0.010052022524178028,
+                0.001279918709769845,
+                0.4437882602214813,
+                0.004131405148655176,
+                0.005001434590667486
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 1,
+                    "utter": "リツイート枠 決めてらっしゃるの？ 😂\nブルースカイ、ほんと素敵な写真\nばっかりですよねー。\n小さいアカウントさんでも渾身の\n写真ポストしてくるし…\n\nわたしはどんどんリポストしまくるから、たぶんフォロワーさんにはご迷惑かけてます😆"
+                },
+                {
+                    "author": "did:plc:j5gvykb75scqkujgrvjmfyr5",
+                    "type": 2,
+                    "utter": "でもありませんけど、エエカゲンでちゃんと情報流せとか言われそうで(笑)\nはい、ホンマにうれしい写真の嵐でございます :-)))\n\nで、できるだけリツイートが少ないポストをリツイート(あ、リポストか(笑))しようとしております。\n\nフィードの「OnlyPosts」だと、取りこぼしはありますが、ご本人のポストだけ表示されますのでお気遣いなく :-)))\n取りこぼしは、「Following」フィードを見れば拾えるような気がいたします。"
+                },
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 3,
+                    "utter": "bluesky の 達人 ですね🙂‍↕️\n\nonlypost とか feed とか まだ\n\n使えません🥲\n\nリプもらった人だけ巡回してますが、それで費やす時間精一杯なんです。\n自分の写真の編集もあるし、新しいフォロワーさんも見に行ってバックするか決めなきゃならないしー\n時間いくらあっても足りないですね"
+                }
+            ],
+            "uri": "at://did:plc:l2ig2ixgabpcqppg6zctqeot/app.bsky.feed.post/3lbuj46ecu224",
+            "label": [
+                0.18710294365882874,
+                0.7551869750022888,
+                0.010542010888457298,
+                0.010703811421990395,
+                0.0019244399154558778,
+                0.06474338471889496,
+                0.010786826722323895,
+                0.002251098630949855
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 1,
+                    "utter": "bluesky の 達人 ですね🙂‍↕️\n\nonlypost とか feed とか まだ\n\n使えません🥲\n\nリプもらった人だけ巡回してますが、それで費やす時間精一杯なんです。\n自分の写真の編集もあるし、新しいフォロワーさんも見に行ってバックするか決めなきゃならないしー\n時間いくらあっても足りないですね"
+                },
+                {
+                    "author": "did:plc:j5gvykb75scqkujgrvjmfyr5",
+                    "type": 2,
+                    "utter": "そそそそそそそ、それ。\n時間がどんどん過ぎて、目がチカチカチカチカ。\n別段達人とかではなく、なんかエエのん、あれへんのかと。\n「その他のフィード」で「onlypost」を検索して、クリックしたらメニューに出てきました(笑)"
+                },
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 3,
+                    "utter": "怒涛の自家製写真ポストをしているから、自分から探しに行く時間なんか到底ありませんよー\n\nということで、板宿さんのページからとか、新規フォロワーさんチェックしたついでに見つけた写真をリポストしております😅"
+                }
+            ],
+            "uri": "at://did:plc:l2ig2ixgabpcqppg6zctqeot/app.bsky.feed.post/3lbx2xe2coc2m",
+            "label": [
+                0.8969411253929138,
+                0.007566859945654869,
+                0.11933285742998123,
+                0.0017793449806049466,
+                0.0008700196049176157,
+                0.003499738173559308,
+                0.002006166847422719,
+                0.0029290663078427315
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 1,
+                    "utter": "100万人はとうに越えて、またジリ下がりしていますね"
+                },
+                {
+                    "author": "did:plc:j5gvykb75scqkujgrvjmfyr5",
+                    "type": 2,
+                    "utter": "ユーザー数(というか登録者数)は上がりますけど(0をもう一個)、反応が極端に偏ってるんで、また下がっていきますねー．．．\n\n分散型ですし「フィード」という手法は致し方ないとしても、もう少しベタ検索が強くなれば上向くのではないかと。\n(と、エラソーに)"
+                },
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 3,
+                    "utter": "わーーーー、和かラナーい ↑ 😂"
+                }
+            ],
+            "uri": "at://did:plc:l2ig2ixgabpcqppg6zctqeot/app.bsky.feed.post/3lajqxnu7zz2h",
+            "label": [
+                0.9716843366622925,
+                0.002880612388253212,
+                0.012765987776219845,
+                0.004320382606238127,
+                0.001057324232533574,
+                0.0012044820468872786,
+                0.0024212580174207687,
+                0.0016082703368738294
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 1,
+                    "utter": "わーーーー、和かラナーい ↑ 😂"
+                },
+                {
+                    "author": "did:plc:j5gvykb75scqkujgrvjmfyr5",
+                    "type": 2,
+                    "utter": "いえ、単純に検索結果が抜けまくりなだけです(笑)"
+                },
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 3,
+                    "utter": "フィードとかわからなくて、使ってないです🥲"
+                }
+            ],
+            "uri": "at://did:plc:l2ig2ixgabpcqppg6zctqeot/app.bsky.feed.post/3laoq7iwd6k2q",
+            "label": [
+                0.7199308276176453,
+                0.1110781878232956,
+                0.004494333174079657,
+                0.00345172849483788,
+                0.0016832014080137014,
+                0.16891375184059143,
+                0.09029807150363922,
+                0.00904308632016182
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 1,
+                    "utter": "フィードとかわからなくて、使ってないです🥲"
+                },
+                {
+                    "author": "did:plc:j5gvykb75scqkujgrvjmfyr5",
+                    "type": 2,
+                    "utter": "はい、前提として。\nベーシックな機能を使いこなせることは、なりより一番でございます。 :-)))"
+                },
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 3,
+                    "utter": "いまのところ二股かけてるから、\nリプ返するので精一杯でございます\n😅"
+                }
+            ],
+            "uri": "at://did:plc:l2ig2ixgabpcqppg6zctqeot/app.bsky.feed.post/3larddmyi422i",
+            "label": [
+                0.06440091133117676,
+                0.5999273657798767,
+                0.003966758958995342,
+                0.009566092863678932,
+                0.001418331521563232,
+                0.3528491258621216,
+                0.014008834958076477,
+                0.001029584207572043
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 1,
+                    "utter": "えーーーと、いつの写真か忘れましたー☺️"
+                },
+                {
+                    "author": "did:plc:j5gvykb75scqkujgrvjmfyr5",
+                    "type": 2,
+                    "utter": "平均気温が高いので、気に掛けることもないと思います :-)))\n(さっぶ)"
+                },
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 3,
+                    "utter": "常時なにかしら咲いてますから\n\nそんなにさぶいの？"
+                }
+            ],
+            "uri": "at://did:plc:l2ig2ixgabpcqppg6zctqeot/app.bsky.feed.post/3lbrz3tdbvk2l",
+            "label": [
+                0.05373179167509079,
+                0.005961503833532333,
+                0.02755923755466938,
+                0.8769513368606567,
+                0.0030211792327463627,
+                0.016038596630096436,
+                0.007687659002840519,
+                0.004897721577435732
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 1,
+                    "utter": "常時なにかしら咲いてますから\n\nそんなにさぶいの？"
+                },
+                {
+                    "author": "did:plc:j5gvykb75scqkujgrvjmfyr5",
+                    "type": 2,
+                    "utter": "雨が過ぎると、最高気温が15度を切る予定です。\n(最低気温は1桁へ)\n冬眠準備(笑)"
+                },
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 3,
+                    "utter": "雪が降らないだけまだましですよー。\n日本各地からきょうは雪のニュースが台湾にも届いてますよ。"
+                }
+            ],
+            "uri": "at://did:plc:l2ig2ixgabpcqppg6zctqeot/app.bsky.feed.post/3lbuil2z3kc24",
+            "label": [
+                0.03182799369096756,
+                0.03742366284132004,
+                0.004750568885356188,
+                0.19248704612255096,
+                0.0023913737386465073,
+                0.7454500198364258,
+                0.005695652682334185,
+                0.0022013119887560606
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 1,
+                    "utter": "雪が降らないだけまだましですよー。\n日本各地からきょうは雪のニュースが台湾にも届いてますよ。"
+                },
+                {
+                    "author": "did:plc:j5gvykb75scqkujgrvjmfyr5",
+                    "type": 2,
+                    "utter": "クーラー効かせながら、みたいな(笑)"
+                },
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 3,
+                    "utter": "さすがに、きのうからクーラー停止中です😅"
+                }
+            ],
+            "uri": "at://did:plc:l2ig2ixgabpcqppg6zctqeot/app.bsky.feed.post/3lbx37ccowk2m",
+            "label": [
+                0.10063611716032028,
+                0.1200319156050682,
+                0.003938546869903803,
+                0.0482604093849659,
+                0.003122900379821658,
+                0.8243679404258728,
+                0.014744891785085201,
+                0.004134993068873882
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 1,
+                    "utter": "さすがに、きのうからクーラー停止中です😅"
+                },
+                {
+                    "author": "did:plc:j5gvykb75scqkujgrvjmfyr5",
+                    "type": 2,
+                    "utter": "聞いて、なんとなくホッと(笑)"
+                },
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 3,
+                    "utter": "さて、そろそろ暖房に切り替えたいな。\nきのう寒すぎて足がつった😅"
+                }
+            ],
+            "uri": "at://did:plc:l2ig2ixgabpcqppg6zctqeot/app.bsky.feed.post/3lbzjvwjdjs27",
+            "label": [
+                0.01216269750148058,
+                0.6708798408508301,
+                0.06975165754556656,
+                0.013389157131314278,
+                0.0008493435452692211,
+                0.20552092790603638,
+                0.007803104817867279,
+                0.0008716168813407421
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 1,
+                    "utter": "複雑でしょう？ \nいろんなとこへ、入っていけます😂"
+                },
+                {
+                    "author": "did:plc:j5gvykb75scqkujgrvjmfyr5",
+                    "type": 2,
+                    "utter": "もう最高！ (笑)"
+                },
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 3,
+                    "utter": "２階にお店がありそうですね😃"
+                }
+            ],
+            "uri": "at://did:plc:l2ig2ixgabpcqppg6zctqeot/app.bsky.feed.post/3lbcvdebzuc22",
+            "label": [
+                0.03176266327500343,
+                0.005369065795093775,
+                0.966999351978302,
+                0.004131142515689135,
+                0.0015524760819971561,
+                0.003230566158890724,
+                0.0015672229928895831,
+                0.001732288976199925
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 1,
+                    "utter": "２階にお店がありそうですね😃"
+                },
+                {
+                    "author": "did:plc:j5gvykb75scqkujgrvjmfyr5",
+                    "type": 2,
+                    "utter": "とてもアヤシク(大笑)"
+                },
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 3,
+                    "utter": "昼間だからぜんぜん怪しくないです😃"
+                }
+            ],
+            "uri": "at://did:plc:l2ig2ixgabpcqppg6zctqeot/app.bsky.feed.post/3lbkfqqhkdk2e",
+            "label": [
+                0.8008899688720703,
+                0.0016400401946157217,
+                0.08147381991147995,
+                0.004035646561533213,
+                0.002150766085833311,
+                0.05757436528801918,
+                0.004107324872165918,
+                0.010739665478467941
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 1,
+                    "utter": "昼間だからぜんぜん怪しくないです😃"
+                },
+                {
+                    "author": "did:plc:j5gvykb75scqkujgrvjmfyr5",
+                    "type": 2,
+                    "utter": "！！！！！笑\n鉄の柵の撃つ側がとても興味を(笑)"
+                },
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 3,
+                    "utter": "窓のヤツは台湾では一般的で、単なる泥棒避けです😆"
+                }
+            ],
+            "uri": "at://did:plc:l2ig2ixgabpcqppg6zctqeot/app.bsky.feed.post/3lbmyelw4ss24",
+            "label": [
+                0.5727996826171875,
+                0.009044744074344635,
+                0.07717256993055344,
+                0.03160630911588669,
+                0.004201336298137903,
+                0.054888587445020676,
+                0.024138864129781723,
+                0.018723823130130768
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 1,
+                    "utter": "窓のヤツは台湾では一般的で、単なる泥棒避けです😆"
+                },
+                {
+                    "author": "did:plc:j5gvykb75scqkujgrvjmfyr5",
+                    "type": 2,
+                    "utter": "少年探偵団としては残念(笑)"
+                },
+                {
+                    "author": "did:plc:l2ig2ixgabpcqppg6zctqeot",
+                    "type": 3,
+                    "utter": "侵入禁止🈲"
+                }
+            ],
+            "uri": "at://did:plc:l2ig2ixgabpcqppg6zctqeot/app.bsky.feed.post/3lbpg2oygek2o",
+            "label": [
+                0.2331853061914444,
+                0.039507411420345306,
+                0.010131525807082653,
+                0.02403554879128933,
+                0.011887725442647934,
+                0.3449702262878418,
+                0.10185731947422028,
+                0.007116285618394613
+            ]
+        }
+    ]
+}

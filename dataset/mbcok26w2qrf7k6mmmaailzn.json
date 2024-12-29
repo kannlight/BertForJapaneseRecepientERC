@@ -1,0 +1,784 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 1,
+                    "utter": "……なんだ"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 2,
+                    "utter": "いえ、なんでも？"
+                },
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 3,
+                    "utter": "ならいいが…"
+                }
+            ],
+            "uri": "at://did:plc:mbcok26w2qrf7k6mmmaailzn/app.bsky.feed.post/3lbv2bgkvz22q",
+            "label": [
+                0.11815357208251953,
+                0.2584788203239441,
+                0.013297735713422298,
+                0.04030974581837654,
+                0.0022955494932830334,
+                0.5233139991760254,
+                0.04815138876438141,
+                0.004217115696519613
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 1,
+                    "utter": "ならいいが…"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 2,
+                    "utter": "…\n（無言でアンタルクの頭を撫でる）"
+                },
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 3,
+                    "utter": "ん…\n\n（無意識に頭を擦り付ける）"
+                }
+            ],
+            "uri": "at://did:plc:mbcok26w2qrf7k6mmmaailzn/app.bsky.feed.post/3lbvyx5rtnk2m",
+            "label": [
+                0.0283510722219944,
+                0.9098561406135559,
+                0.004143496043980122,
+                0.006342737004160881,
+                0.0012355949729681015,
+                0.02986830286681652,
+                0.016576597467064857,
+                0.0006845688330940902
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 1,
+                    "utter": "ん…\n\n（無意識に頭を擦り付ける）"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 2,
+                    "utter": "ふふふ…"
+                },
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 3,
+                    "utter": "…っ!!い…今のは忘れろ…"
+                }
+            ],
+            "uri": "at://did:plc:mbcok26w2qrf7k6mmmaailzn/app.bsky.feed.post/3lbw3uvaylk2k",
+            "label": [
+                0.008602280169725418,
+                0.8212831020355225,
+                0.013834278099238873,
+                0.0243972335010767,
+                0.06456217169761658,
+                0.06980195641517639,
+                0.09555117040872574,
+                0.0026713614352047443
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 1,
+                    "utter": "…っ!!い…今のは忘れろ…"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 2,
+                    "utter": "えー？\n可愛かったよ？"
+                },
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 3,
+                    "utter": "……\n\n（思わず反射で睨んでしまう）"
+                }
+            ],
+            "uri": "at://did:plc:mbcok26w2qrf7k6mmmaailzn/app.bsky.feed.post/3lbw43qq2uk2k",
+            "label": [
+                0.27759209275245667,
+                0.052037566900253296,
+                0.04040735214948654,
+                0.05054546520113945,
+                0.007642339915037155,
+                0.5617707967758179,
+                0.017903724685311317,
+                0.012959299609065056
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 1,
+                    "utter": "…なんだ、見世物じゃないぞ"
+                },
+                {
+                    "author": "did:plc:4hrs22tpennuqsdapsjykku2",
+                    "type": 2,
+                    "utter": "シノビ:…たまにはいいだろうアンタルク？(ニヤリと笑う)"
+                },
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 3,
+                    "utter": "か…構わないが…\n\n（頬を赤らめている）"
+                }
+            ],
+            "uri": "at://did:plc:mbcok26w2qrf7k6mmmaailzn/app.bsky.feed.post/3lbtzupmgnc2j",
+            "label": [
+                0.7827783226966858,
+                0.05925315245985985,
+                0.021526308730244637,
+                0.021453581750392914,
+                0.004360363353043795,
+                0.1692635864019394,
+                0.035424381494522095,
+                0.009901340119540691
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 1,
+                    "utter": "か…構わないが…\n\n（頬を赤らめている）"
+                },
+                {
+                    "author": "did:plc:4hrs22tpennuqsdapsjykku2",
+                    "type": 2,
+                    "utter": "シノビ:…そんな照れた顔は始めてだなぁ？(そのままアンタルクに壁ドンする)"
+                },
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 3,
+                    "utter": "私…いや、オレが言うのもなんだけどさ…シノビ…今夜はオマエに抱かれてみたい\n\n（自身の大きな身体と翼でシノビを覆い隠すようにする）"
+                }
+            ],
+            "uri": "at://did:plc:mbcok26w2qrf7k6mmmaailzn/app.bsky.feed.post/3lbu2dtr4bc2j",
+            "label": [
+                0.01850690133869648,
+                0.015362110920250416,
+                0.9706873297691345,
+                0.002809725468978286,
+                0.0018195058219134808,
+                0.004940561018884182,
+                0.0029563254211097956,
+                0.0020235751289874315
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 1,
+                    "utter": "私…いや、オレが言うのもなんだけどさ…シノビ…今夜はオマエに抱かれてみたい\n\n（自身の大きな身体と翼でシノビを覆い隠すようにする）"
+                },
+                {
+                    "author": "did:plc:4hrs22tpennuqsdapsjykku2",
+                    "type": 2,
+                    "utter": "シノビ:…へぇ？珍しいなお前が俺に聞くなんてな？"
+                },
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 3,
+                    "utter": "んまぁ…そうだな…けど、あん時犯されたの…気持ちよくってずっと忘れられなくってな…\n\n……ダメ…か?"
+                }
+            ],
+            "uri": "at://did:plc:mbcok26w2qrf7k6mmmaailzn/app.bsky.feed.post/3lbu3lloep22x",
+            "label": [
+                0.9469331502914429,
+                0.02828853577375412,
+                0.006277489010244608,
+                0.004040414001792669,
+                0.0012528569204732776,
+                0.010724472813308239,
+                0.005309711210429668,
+                0.0030298163183033466
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 1,
+                    "utter": "んまぁ…そうだな…けど、あん時犯されたの…気持ちよくってずっと忘れられなくってな…\n\n……ダメ…か?"
+                },
+                {
+                    "author": "did:plc:4hrs22tpennuqsdapsjykku2",
+                    "type": 2,
+                    "utter": "シノビ:…構わねえぜ？"
+                },
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 3,
+                    "utter": "……!!\n（シノビに頭を擦り付けてくる）"
+                }
+            ],
+            "uri": "at://did:plc:mbcok26w2qrf7k6mmmaailzn/app.bsky.feed.post/3lbu3vh4pas2x",
+            "label": [
+                0.1654374748468399,
+                0.055689651519060135,
+                0.009266795590519905,
+                0.7086325287818909,
+                0.00728484895080328,
+                0.02606908045709133,
+                0.013562186621129513,
+                0.002758535323664546
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 1,
+                    "utter": "ふむ…抜いてやろうか…?"
+                },
+                {
+                    "author": "did:plc:zgje4eyp6mtlkof7qfdnrg2y",
+                    "type": 2,
+                    "utter": "抜くというより引っこ抜かれそう…(?"
+                },
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 3,
+                    "utter": "くふふ…いくら私とてそこまで酷なことはせんよ"
+                }
+            ],
+            "uri": "at://did:plc:mbcok26w2qrf7k6mmmaailzn/app.bsky.feed.post/3lbbnezzp4k2x",
+            "label": [
+                0.9366421103477478,
+                0.0440964438021183,
+                0.00693678529933095,
+                0.007410818245261908,
+                0.0018058883724734187,
+                0.025971032679080963,
+                0.012677709572017193,
+                0.005151212681084871
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 1,
+                    "utter": "くふふ…いくら私とてそこまで酷なことはせんよ"
+                },
+                {
+                    "author": "did:plc:zgje4eyp6mtlkof7qfdnrg2y",
+                    "type": 2,
+                    "utter": "ガッツリ犯すアンタルク様がいいなぁ…"
+                },
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 3,
+                    "utter": "ほぉ…?なら白濁漬けにしてやってもいいぞ?（ﾆﾔｯ）"
+                }
+            ],
+            "uri": "at://did:plc:mbcok26w2qrf7k6mmmaailzn/app.bsky.feed.post/3lbbni3dxek2x",
+            "label": [
+                0.7565532326698303,
+                0.008978883735835552,
+                0.09580323845148087,
+                0.005701534450054169,
+                0.006341541185975075,
+                0.0197900477796793,
+                0.014459759928286076,
+                0.004595102276653051
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 1,
+                    "utter": "ほぉ…?なら白濁漬けにしてやってもいいぞ?（ﾆﾔｯ）"
+                },
+                {
+                    "author": "did:plc:zgje4eyp6mtlkof7qfdnrg2y",
+                    "type": 2,
+                    "utter": "犯し潰されて便器に…"
+                },
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 3,
+                    "utter": "クク…変態め"
+                }
+            ],
+            "uri": "at://did:plc:mbcok26w2qrf7k6mmmaailzn/app.bsky.feed.post/3lbbo5fwefk2n",
+            "label": [
+                0.08578792959451675,
+                0.09826698154211044,
+                0.005082298070192337,
+                0.027856241911649704,
+                0.033031120896339417,
+                0.18298116326332092,
+                0.6226033568382263,
+                0.004564451519399881
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 1,
+                    "utter": "クク…変態め"
+                },
+                {
+                    "author": "did:plc:zgje4eyp6mtlkof7qfdnrg2y",
+                    "type": 2,
+                    "utter": "んむぅぅ…"
+                },
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 3,
+                    "utter": "ははっ…貴様には否定できまいな?"
+                }
+            ],
+            "uri": "at://did:plc:mbcok26w2qrf7k6mmmaailzn/app.bsky.feed.post/3lbboavndss2g",
+            "label": [
+                0.04785821586847305,
+                0.17524853348731995,
+                0.008478120900690556,
+                0.3710131049156189,
+                0.10363966971635818,
+                0.09135304391384125,
+                0.10481973737478256,
+                0.008265478536486626
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 1,
+                    "utter": "クフフ…貴様も此方へ越してきていたと噂は聞いていたが…今宵も肴には困らなさそうだ"
+                },
+                {
+                    "author": "did:plc:4hrs22tpennuqsdapsjykku2",
+                    "type": 2,
+                    "utter": "そりゃあ、そうだな？シノビも一緒に来てるけどな？"
+                },
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 3,
+                    "utter": "ほぉ…あの者は今度搾ることにしようか"
+                }
+            ],
+            "uri": "at://did:plc:mbcok26w2qrf7k6mmmaailzn/app.bsky.feed.post/3l7s7a7gllm2n",
+            "label": [
+                0.22720646858215332,
+                0.0036177625879645348,
+                0.7964245676994324,
+                0.0016032853163778782,
+                0.0006580433691851795,
+                0.0014890535967424512,
+                0.0011136290850117803,
+                0.0010559451766312122
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 1,
+                    "utter": "ほぉ…あの者は今度搾ることにしようか"
+                },
+                {
+                    "author": "did:plc:4hrs22tpennuqsdapsjykku2",
+                    "type": 2,
+                    "utter": "搾れんのか？更に絶倫になったアイツを？"
+                },
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 3,
+                    "utter": "なに、飛竜一頭の相手でへばるほどヤワじゃあ無いさ"
+                }
+            ],
+            "uri": "at://did:plc:mbcok26w2qrf7k6mmmaailzn/app.bsky.feed.post/3l7s7gpsjhx2j",
+            "label": [
+                0.15444448590278625,
+                0.09091448783874512,
+                0.009457243606448174,
+                0.08496934175491333,
+                0.10706539452075958,
+                0.21646608412265778,
+                0.1236710324883461,
+                0.019295724108815193
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 1,
+                    "utter": "なに、飛竜一頭の相手でへばるほどヤワじゃあ無いさ"
+                },
+                {
+                    "author": "did:plc:4hrs22tpennuqsdapsjykku2",
+                    "type": 2,
+                    "utter": "そうか…(最近古龍5体抱き潰したことは内緒にしておくか)"
+                },
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 3,
+                    "utter": "む…?"
+                }
+            ],
+            "uri": "at://did:plc:mbcok26w2qrf7k6mmmaailzn/app.bsky.feed.post/3l7s7k7joxk22",
+            "label": [
+                0.013933202251791954,
+                0.011294775642454624,
+                0.017007824033498764,
+                0.9598914980888367,
+                0.0032951633911579847,
+                0.010185115970671177,
+                0.004384228028357029,
+                0.0019261937122792006
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 1,
+                    "utter": "む…?"
+                },
+                {
+                    "author": "did:plc:4hrs22tpennuqsdapsjykku2",
+                    "type": 2,
+                    "utter": "まぁ、頑張りな…\nシノビ:…匂うと思ったらお前かアンタルク…(丁度戻ってきたシノビ)"
+                },
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 3,
+                    "utter": "フフ…久しいな?"
+                }
+            ],
+            "uri": "at://did:plc:mbcok26w2qrf7k6mmmaailzn/app.bsky.feed.post/3l7s7pptpsb2p",
+            "label": [
+                0.9373161196708679,
+                0.002820216817781329,
+                0.010997108183801174,
+                0.022160770371556282,
+                0.0005577205447480083,
+                0.0017518571112304926,
+                0.002350887516513467,
+                0.0014471159083768725
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 1,
+                    "utter": "エロスガル…か…\nククッ…言い得て妙だな"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 2,
+                    "utter": "(^^)"
+                },
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 3,
+                    "utter": "い…いつの間に…!?"
+                }
+            ],
+            "uri": "at://did:plc:mbcok26w2qrf7k6mmmaailzn/app.bsky.feed.post/3l6rj5bo6xk26",
+            "label": [
+                0.01292143389582634,
+                0.01000880729407072,
+                0.017451100051403046,
+                0.9677112698554993,
+                0.008947700262069702,
+                0.009129786863923073,
+                0.006140236277133226,
+                0.003503939835354686
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 1,
+                    "utter": "い…いつの間に…!?"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 2,
+                    "utter": "さーて…少しお話しようか？？"
+                },
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 3,
+                    "utter": "あ…あの駄犬共が言っていたのだ!!私は何も関与していないぞ!?"
+                }
+            ],
+            "uri": "at://did:plc:mbcok26w2qrf7k6mmmaailzn/app.bsky.feed.post/3l6rjnjpgz324",
+            "label": [
+                0.013019295409321785,
+                0.02817748673260212,
+                0.004473856184631586,
+                0.8699067234992981,
+                0.05418802425265312,
+                0.036033995449543,
+                0.031681161373853683,
+                0.003151680575683713
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 1,
+                    "utter": "あ…あの駄犬共が言っていたのだ!!私は何も関与していないぞ!?"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 2,
+                    "utter": "(^^)\n（すんごい鈍器をもってジリジリと近づく）"
+                },
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 3,
+                    "utter": "ま…まて…ココは冷静に話し合う気は…"
+                }
+            ],
+            "uri": "at://did:plc:mbcok26w2qrf7k6mmmaailzn/app.bsky.feed.post/3l6rjxpdk3e2e",
+            "label": [
+                0.0036331703886389732,
+                0.46674609184265137,
+                0.010711797513067722,
+                0.019841786473989487,
+                0.14135988056659698,
+                0.11548162996768951,
+                0.1988336741924286,
+                0.0029773034621030092
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 1,
+                    "utter": "ま…まて…ココは冷静に話し合う気は…"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 2,
+                    "utter": "ﾀﾞﾒﾃﾞｽ( ＾ω＾ )"
+                },
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 3,
+                    "utter": "ぐ…ぅ…\n\n（念の為最低限の防御として氷の壁を展開する）"
+                }
+            ],
+            "uri": "at://did:plc:mbcok26w2qrf7k6mmmaailzn/app.bsky.feed.post/3l6rkgbl2rt2s",
+            "label": [
+                0.007247865200042725,
+                0.9626942873001099,
+                0.0068149506114423275,
+                0.0043755886144936085,
+                0.001570001128129661,
+                0.016950950026512146,
+                0.005800177808851004,
+                0.0006760528194718063
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 1,
+                    "utter": "ぐ…ぅ…\n\n（念の為最低限の防御として氷の壁を展開する）"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 2,
+                    "utter": "だぁっらっしやい！！！\n\n（ハンマーで壁をぶち破る）"
+                },
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 3,
+                    "utter": "…!?\n\n（食らってたまるかと後ろに跳躍しようと試みる）"
+                }
+            ],
+            "uri": "at://did:plc:mbcok26w2qrf7k6mmmaailzn/app.bsky.feed.post/3l6rl3242oc24",
+            "label": [
+                0.01260915957391262,
+                0.01593901216983795,
+                0.011730385944247246,
+                0.9432770609855652,
+                0.0028484868817031384,
+                0.024145547300577164,
+                0.0024685170501470566,
+                0.0017196758417412639
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 1,
+                    "utter": "むぅ…昂ってきてしまったな…"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 2,
+                    "utter": "おやおや"
+                },
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 3,
+                    "utter": "おや…貴様か"
+                }
+            ],
+            "uri": "at://did:plc:mbcok26w2qrf7k6mmmaailzn/app.bsky.feed.post/3kx5gkaemhj2j",
+            "label": [
+                0.03063216060400009,
+                0.007365930359810591,
+                0.006645335350185633,
+                0.8743318319320679,
+                0.023562844842672348,
+                0.03220656141638756,
+                0.02518649585545063,
+                0.0033787712454795837
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 1,
+                    "utter": "おや…貴様か"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 2,
+                    "utter": "どうも〜\n\n（手を振り返す）"
+                },
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 3,
+                    "utter": "うむ\n\n（こちらも尻尾で返してやり…）"
+                }
+            ],
+            "uri": "at://did:plc:mbcok26w2qrf7k6mmmaailzn/app.bsky.feed.post/3kx5goxodw622",
+            "label": [
+                0.19124311208724976,
+                0.05061837658286095,
+                0.19968938827514648,
+                0.011161409318447113,
+                0.24785131216049194,
+                0.014091304503381252,
+                0.07109834998846054,
+                0.014853534288704395
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 1,
+                    "utter": "うむ\n\n（こちらも尻尾で返してやり…）"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 2,
+                    "utter": "ふふふ"
+                },
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 3,
+                    "utter": "然しこんな白昼に会うとはな…貴様も暇していたのか?"
+                }
+            ],
+            "uri": "at://did:plc:mbcok26w2qrf7k6mmmaailzn/app.bsky.feed.post/3kx5gxcmwjc2e",
+            "label": [
+                0.028797628358006477,
+                0.020931778475642204,
+                0.012372849509119987,
+                0.9363185167312622,
+                0.012474888004362583,
+                0.015897884964942932,
+                0.018444206565618515,
+                0.004064374137669802
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 1,
+                    "utter": "然しこんな白昼に会うとはな…貴様も暇していたのか?"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 2,
+                    "utter": "そんな所かなぁ\n\n（ニコニコしてる）"
+                },
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 3,
+                    "utter": "フンッ…奇遇だな…?\n\n…なんだその気味の悪い笑みは"
+                }
+            ],
+            "uri": "at://did:plc:mbcok26w2qrf7k6mmmaailzn/app.bsky.feed.post/3kx5hagy4hw2w",
+            "label": [
+                0.2214260697364807,
+                0.024671858176589012,
+                0.02515714056789875,
+                0.3497619032859802,
+                0.0021843360736966133,
+                0.2666322588920593,
+                0.01952487602829933,
+                0.005321202799677849
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 1,
+                    "utter": "フンッ…奇遇だな…?\n\n…なんだその気味の悪い笑みは"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 2,
+                    "utter": "いやいや、あなたに会えて良かったななんて"
+                },
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 3,
+                    "utter": "ククッ…嬉しいことを言うではないか"
+                }
+            ],
+            "uri": "at://did:plc:mbcok26w2qrf7k6mmmaailzn/app.bsky.feed.post/3kx5hkrm5xg22",
+            "label": [
+                0.9823567867279053,
+                0.003144391579553485,
+                0.00583310192450881,
+                0.004047014284878969,
+                0.0013897179160267115,
+                0.0023885155096650124,
+                0.002678477670997381,
+                0.0020650692749768496
+            ]
+        }
+    ]
+}

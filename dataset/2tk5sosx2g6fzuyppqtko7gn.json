@@ -1,0 +1,454 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2tk5sosx2g6fzuyppqtko7gn",
+                    "type": 1,
+                    "utter": "ラコリーナいきたい🥹!!!!!!!"
+                },
+                {
+                    "author": "did:plc:stn22vwo23ozf2b54cmlbmab",
+                    "type": 2,
+                    "utter": "美味しいものがいっぱいで、誘惑に負けちゃうけど(笑)行ってみて🥰"
+                },
+                {
+                    "author": "did:plc:2tk5sosx2g6fzuyppqtko7gn",
+                    "type": 3,
+                    "utter": "景色がきれいでしょ??\n緑たっぷりですき☺️🥰"
+                }
+            ],
+            "uri": "at://did:plc:2tk5sosx2g6fzuyppqtko7gn/app.bsky.feed.post/3l6ym7n5mvd2s",
+            "label": [
+                0.9844494462013245,
+                0.0024617468006908894,
+                0.007627697195857763,
+                0.003701718058437109,
+                0.002093312330543995,
+                0.0024145585484802723,
+                0.0030963702592998743,
+                0.002985574072226882
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2tk5sosx2g6fzuyppqtko7gn",
+                    "type": 1,
+                    "utter": "景色がきれいでしょ??\n緑たっぷりですき☺️🥰"
+                },
+                {
+                    "author": "did:plc:stn22vwo23ozf2b54cmlbmab",
+                    "type": 2,
+                    "utter": "行ったことあるのね😊そう、自然たっぷりで🌿建物もジブリに出てきそうな、素敵な景色だったよ✨"
+                },
+                {
+                    "author": "did:plc:2tk5sosx2g6fzuyppqtko7gn",
+                    "type": 3,
+                    "utter": "行ったことないよ😊\n建物が綺麗だなーと思って\n母連れてってあげたいって\nずっと思ってるところ☺️"
+                }
+            ],
+            "uri": "at://did:plc:2tk5sosx2g6fzuyppqtko7gn/app.bsky.feed.post/3l733aaxur22t",
+            "label": [
+                0.06519696861505508,
+                0.004996591713279486,
+                0.9331744909286499,
+                0.0023827687837183475,
+                0.0012438909616321325,
+                0.001667450531385839,
+                0.0011961414711549878,
+                0.0016673194477334619
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2tk5sosx2g6fzuyppqtko7gn",
+                    "type": 1,
+                    "utter": "行ったことないよ😊\n建物が綺麗だなーと思って\n母連れてってあげたいって\nずっと思ってるところ☺️"
+                },
+                {
+                    "author": "did:plc:stn22vwo23ozf2b54cmlbmab",
+                    "type": 2,
+                    "utter": "いつかお母様とご一緒出来るといいね☺️"
+                },
+                {
+                    "author": "did:plc:2tk5sosx2g6fzuyppqtko7gn",
+                    "type": 3,
+                    "utter": "ありがとう♥️"
+                }
+            ],
+            "uri": "at://did:plc:2tk5sosx2g6fzuyppqtko7gn/app.bsky.feed.post/3l736ynqxzh2u",
+            "label": [
+                0.9845012426376343,
+                0.0029880846850574017,
+                0.00588632095605135,
+                0.004295299295336008,
+                0.0016533376183360815,
+                0.002347267000004649,
+                0.0029130990151315928,
+                0.002628386951982975
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2tk5sosx2g6fzuyppqtko7gn",
+                    "type": 1,
+                    "utter": "いいなまえ👏🏻👏🏻👏🏻👏🏻👏🏻🥰"
+                },
+                {
+                    "author": "did:plc:4cuy35utjpnzf2qz6anky5c4",
+                    "type": 2,
+                    "utter": "オッチャン💦今頃、気付いたのね🤣どこ行ってたーーー⁉️\nてか、こっちの名前は今日戻したよ🤣チックタックは、もうすぐ元に戻すよ😊\n前ちゃん、私が誰だか分からなかったかも😅アイコンも覚えられてないみたい😅ショックでﾁﾆました😇"
+                },
+                {
+                    "author": "did:plc:2tk5sosx2g6fzuyppqtko7gn",
+                    "type": 3,
+                    "utter": "ショックでチナないで🥹\n元の名前がいちばんピカってるよ 🥰"
+                }
+            ],
+            "uri": "at://did:plc:2tk5sosx2g6fzuyppqtko7gn/app.bsky.feed.post/3lagbvxpjut2k",
+            "label": [
+                0.011190381832420826,
+                0.9769566655158997,
+                0.005741178523749113,
+                0.009523749351501465,
+                0.002169257029891014,
+                0.0075553953647613525,
+                0.006435919087380171,
+                0.0011673849076032639
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2tk5sosx2g6fzuyppqtko7gn",
+                    "type": 1,
+                    "utter": "ショックでチナないで🥹\n元の名前がいちばんピカってるよ 🥰"
+                },
+                {
+                    "author": "did:plc:4cuy35utjpnzf2qz6anky5c4",
+                    "type": 2,
+                    "utter": "ちゃうちゃう💦\nカッピカピに干からびてるから、カピッてるのよ😇\n\nヒヒヒヒヒヒヒ．．．までは言ってくれたけど、あれはただの妖怪かなんかのマネしただけみたいだから、結果的に、私だとは分からなかったみたいね😇\nショックでﾁﾆました．．．💔"
+                },
+                {
+                    "author": "did:plc:2tk5sosx2g6fzuyppqtko7gn",
+                    "type": 3,
+                    "utter": "ヒヒヒヒヒまで言ってくれたんだ\n😂\n妖怪😂"
+                }
+            ],
+            "uri": "at://did:plc:2tk5sosx2g6fzuyppqtko7gn/app.bsky.feed.post/3laggi4qhyo2l",
+            "label": [
+                0.8373801708221436,
+                0.012666285037994385,
+                0.0063901497051119804,
+                0.10532856732606888,
+                0.0009172605932690203,
+                0.0024673480074852705,
+                0.0032304800115525723,
+                0.002022750908508897
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2tk5sosx2g6fzuyppqtko7gn",
+                    "type": 1,
+                    "utter": "ヒヒヒヒヒまで言ってくれたんだ\n😂\n妖怪😂"
+                },
+                {
+                    "author": "did:plc:4cuy35utjpnzf2qz6anky5c4",
+                    "type": 2,
+                    "utter": "ヒって言った瞬間に、キャーッ😍😍😍ってなった私がバカだった…＿|￣|●\n妖怪人間ヒカル になろうかしら．．．🙍💨"
+                },
+                {
+                    "author": "did:plc:2tk5sosx2g6fzuyppqtko7gn",
+                    "type": 3,
+                    "utter": "もうヒカル☆で☺️\n妖怪って呼ばれつづけたら\n嫌でしょ??\n🤣🤣🤣"
+                }
+            ],
+            "uri": "at://did:plc:2tk5sosx2g6fzuyppqtko7gn/app.bsky.feed.post/3lahbtwr4si27",
+            "label": [
+                0.3156774938106537,
+                0.13045695424079895,
+                0.019165413454174995,
+                0.01037265919148922,
+                0.005391410551965237,
+                0.06160546466708183,
+                0.19606590270996094,
+                0.005476726219058037
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2tk5sosx2g6fzuyppqtko7gn",
+                    "type": 1,
+                    "utter": "もうヒカル☆で☺️\n妖怪って呼ばれつづけたら\n嫌でしょ??\n🤣🤣🤣"
+                },
+                {
+                    "author": "did:plc:4cuy35utjpnzf2qz6anky5c4",
+                    "type": 2,
+                    "utter": "それはそれで嬉しい😍💓💓💓\n私にあだ名を付けてくれたみたいで❤️"
+                },
+                {
+                    "author": "did:plc:2tk5sosx2g6fzuyppqtko7gn",
+                    "type": 3,
+                    "utter": "☺️☺️☺️\nきもちわかるよ😌\nどんなでも嬉しいよね😊"
+                }
+            ],
+            "uri": "at://did:plc:2tk5sosx2g6fzuyppqtko7gn/app.bsky.feed.post/3laic65bi6g22",
+            "label": [
+                0.9836938977241516,
+                0.0029053683392703533,
+                0.008016906678676605,
+                0.003518340876325965,
+                0.0015326893189921975,
+                0.0021600956097245216,
+                0.0025937410537153482,
+                0.0026403767988085747
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2tk5sosx2g6fzuyppqtko7gn",
+                    "type": 1,
+                    "utter": "お大事にだよ🥹\nヒカルすっぱーすたーっ🎶"
+                },
+                {
+                    "author": "did:plc:4cuy35utjpnzf2qz6anky5c4",
+                    "type": 2,
+                    "utter": "もしや、オッチャンですか⁉️お目にかかったことのないお名前とアイコンなので．．．😅\n\n健くんのスーパースター、私のこと呼んでくれてるみたいで、ドキドキします😆💓💓💓"
+                },
+                {
+                    "author": "did:plc:2tk5sosx2g6fzuyppqtko7gn",
+                    "type": 3,
+                    "utter": "おっちゃんだよ🤣\nドキドキしちゃうね🤗\n\nいっぱいドキドキしよーっ🌟"
+                }
+            ],
+            "uri": "at://did:plc:2tk5sosx2g6fzuyppqtko7gn/app.bsky.feed.post/3l7o34pozal2r",
+            "label": [
+                0.3302949070930481,
+                0.002440128941088915,
+                0.6948841214179993,
+                0.002010350814089179,
+                0.0005391938029788435,
+                0.002725388156250119,
+                0.0005814534379169345,
+                0.0010110235307365656
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2tk5sosx2g6fzuyppqtko7gn",
+                    "type": 1,
+                    "utter": "おっちゃんだよ🤣\nドキドキしちゃうね🤗\n\nいっぱいドキドキしよーっ🌟"
+                },
+                {
+                    "author": "did:plc:4cuy35utjpnzf2qz6anky5c4",
+                    "type": 2,
+                    "utter": "やっぱりオッチャンだった🤣ドキドキしたわよ💦ｺﾝﾆｬﾛ!  敬語まで使っちゃったじゃんかー🤣\n\nまた改名しよーかなー🤔\n\nヒカルスーパースター☆２号\n\nって✨\n長過ぎる名前．．．"
+                },
+                {
+                    "author": "did:plc:2tk5sosx2g6fzuyppqtko7gn",
+                    "type": 3,
+                    "utter": "👏🏻👏🏻👏🏻👏🏻👏🏻\nすてきすてき🥰\n\n絶対読まれるよ😌"
+                }
+            ],
+            "uri": "at://did:plc:2tk5sosx2g6fzuyppqtko7gn/app.bsky.feed.post/3l7o3w7q6dl2r",
+            "label": [
+                0.9191800355911255,
+                0.002117087133228779,
+                0.08103201538324356,
+                0.0018651001155376434,
+                0.0009872838854789734,
+                0.001028426457196474,
+                0.001112714409828186,
+                0.0015840742271393538
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2tk5sosx2g6fzuyppqtko7gn",
+                    "type": 1,
+                    "utter": "👏🏻👏🏻👏🏻👏🏻👏🏻\nすてきすてき🥰\n\n絶対読まれるよ😌"
+                },
+                {
+                    "author": "did:plc:4cuy35utjpnzf2qz6anky5c4",
+                    "type": 2,
+                    "utter": "読まれる⁉️褒められちゃう⁉️\nでも、今の名前もまだ気付かれてない😇"
+                },
+                {
+                    "author": "did:plc:2tk5sosx2g6fzuyppqtko7gn",
+                    "type": 3,
+                    "utter": "コメント、いいね、ギフト、\nがんばーっ✨️\nその前に配信に\nいけますように😊✨️🙏🏻💗"
+                }
+            ],
+            "uri": "at://did:plc:2tk5sosx2g6fzuyppqtko7gn/app.bsky.feed.post/3l7prf72cxe2v",
+            "label": [
+                0.021787872537970543,
+                0.007588888984173536,
+                0.9712836742401123,
+                0.004043207038193941,
+                0.002065237145870924,
+                0.0026897129137068987,
+                0.0019766364712268114,
+                0.0020695775747299194
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2tk5sosx2g6fzuyppqtko7gn",
+                    "type": 1,
+                    "utter": "コメント、いいね、ギフト、\nがんばーっ✨️\nその前に配信に\nいけますように😊✨️🙏🏻💗"
+                },
+                {
+                    "author": "did:plc:4cuy35utjpnzf2qz6anky5c4",
+                    "type": 2,
+                    "utter": "もしもーし💦オッチャン💦\nコメント読んではもらえたけど、名前には触れてくれないわ😅ギフトは相変わらず呼ばれないし😅 私、嫌われてるのかしら🙃"
+                },
+                {
+                    "author": "did:plc:2tk5sosx2g6fzuyppqtko7gn",
+                    "type": 3,
+                    "utter": "コメントおめでとう🎊\nわたしは読まれなーい🤣\n\nそのうちよばれるさ☺️"
+                }
+            ],
+            "uri": "at://did:plc:2tk5sosx2g6fzuyppqtko7gn/app.bsky.feed.post/3l7strfyzyy2j",
+            "label": [
+                0.1969451606273651,
+                0.05281802639365196,
+                0.6409624218940735,
+                0.0012092296965420246,
+                0.00037290455657057464,
+                0.001627203542739153,
+                0.0011735712178051472,
+                0.0010529184946790338
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2tk5sosx2g6fzuyppqtko7gn",
+                    "type": 1,
+                    "utter": "いつも明るくてかわいいよ☺️"
+                },
+                {
+                    "author": "did:plc:4cuy35utjpnzf2qz6anky5c4",
+                    "type": 2,
+                    "utter": "ギャーーーッ💦また謎のオジチャン現れたー😱\nてか、今回は女性なのね🤣\n\nオジチャン、頭強打した⁉️私、いつも暗くておブスだよ😅\nオジチャンの方が、明るすぎて可愛いすぎるよ💓"
+                },
+                {
+                    "author": "did:plc:2tk5sosx2g6fzuyppqtko7gn",
+                    "type": 3,
+                    "utter": "おっちゃん、田ゆみ って\nなめーなんじゃ😆\n\nおっちゃん、おなごじゃ\nねーべな🤣"
+                }
+            ],
+            "uri": "at://did:plc:2tk5sosx2g6fzuyppqtko7gn/app.bsky.feed.post/3l6aom4t2uj2j",
+            "label": [
+                0.013581735081970692,
+                0.08708655089139938,
+                0.002343116793781519,
+                0.5582259297370911,
+                0.09238670766353607,
+                0.03147955983877182,
+                0.14963340759277344,
+                0.0028380004223436117
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2tk5sosx2g6fzuyppqtko7gn",
+                    "type": 1,
+                    "utter": "おっちゃん、田ゆみ って\nなめーなんじゃ😆\n\nおっちゃん、おなごじゃ\nねーべな🤣"
+                },
+                {
+                    "author": "did:plc:4cuy35utjpnzf2qz6anky5c4",
+                    "type": 2,
+                    "utter": "田みゆ．．．🤔なんて読むのー？\nオジチャン、オモロイ名前ばっかりだね🤣\nたまには女性になってみて❤️"
+                },
+                {
+                    "author": "did:plc:2tk5sosx2g6fzuyppqtko7gn",
+                    "type": 3,
+                    "utter": "あいっ☺️"
+                }
+            ],
+            "uri": "at://did:plc:2tk5sosx2g6fzuyppqtko7gn/app.bsky.feed.post/3l6arn52x6w2c",
+            "label": [
+                0.9816898107528687,
+                0.003799229860305786,
+                0.005900375545024872,
+                0.0035013698507100344,
+                0.0012776940129697323,
+                0.002123680431395769,
+                0.0031191203743219376,
+                0.0018863317091017962
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2tk5sosx2g6fzuyppqtko7gn",
+                    "type": 1,
+                    "utter": "あいっ☺️"
+                },
+                {
+                    "author": "did:plc:4cuy35utjpnzf2qz6anky5c4",
+                    "type": 2,
+                    "utter": "田みゆって書いて、あいっ⁉️アイーンって読むんでしょー🤣🤣🤣"
+                },
+                {
+                    "author": "did:plc:2tk5sosx2g6fzuyppqtko7gn",
+                    "type": 3,
+                    "utter": "ん??\nなんでアイーン??\n志村けん??🤣\n\nへいっ☺️にしとく?\n\nとくにかんがえてなかった🤣\n面白いからまいっか🤣🤣🤣"
+                }
+            ],
+            "uri": "at://did:plc:2tk5sosx2g6fzuyppqtko7gn/app.bsky.feed.post/3l6bjw3jwjn2t",
+            "label": [
+                0.8887661695480347,
+                0.002078837715089321,
+                0.052210960537195206,
+                0.00739523209631443,
+                0.0007323794416151941,
+                0.0006866483017802238,
+                0.0013368654763326049,
+                0.0015015910612419248
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2tk5sosx2g6fzuyppqtko7gn",
+                    "type": 1,
+                    "utter": "ん??\nなんでアイーン??\n志村けん??🤣\n\nへいっ☺️にしとく?\n\nとくにかんがえてなかった🤣\n面白いからまいっか🤣🤣🤣"
+                },
+                {
+                    "author": "did:plc:4cuy35utjpnzf2qz6anky5c4",
+                    "type": 2,
+                    "utter": "《あぃ》って読むって書いてあったから、《アイーン》の方がいいと思ったから🤗💓\nてか、今日は改名してないぞッ❤️"
+                },
+                {
+                    "author": "did:plc:2tk5sosx2g6fzuyppqtko7gn",
+                    "type": 3,
+                    "utter": "(￣･ω･￣)じー"
+                }
+            ],
+            "uri": "at://did:plc:2tk5sosx2g6fzuyppqtko7gn/app.bsky.feed.post/3l6fj4tsy6k2j",
+            "label": [
+                0.7857341766357422,
+                0.06258628517389297,
+                0.04850664362311363,
+                0.008817953988909721,
+                0.006923405919224024,
+                0.022778773680329323,
+                0.03377092257142067,
+                0.008721445687115192
+            ]
+        }
+    ]
+}

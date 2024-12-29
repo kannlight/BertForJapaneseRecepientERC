@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:k7i2wn56zwne5tgqyqvzhvyj",
+                    "type": 1,
+                    "utter": "すぴぃ…"
+                },
+                {
+                    "author": "did:plc:l6j5kmj4osp6tjzb7oqeeg4f",
+                    "type": 2,
+                    "utter": "すぅ～ピィ～ᶻ 𝘇 𐰁"
+                },
+                {
+                    "author": "did:plc:k7i2wn56zwne5tgqyqvzhvyj",
+                    "type": 3,
+                    "utter": "むく！"
+                }
+            ],
+            "uri": "at://did:plc:k7i2wn56zwne5tgqyqvzhvyj/app.bsky.feed.post/3lbv2aatuz22j",
+            "label": [
+                0.028275439515709877,
+                0.108211450278759,
+                0.003954343963414431,
+                0.8209084272384644,
+                0.004529431462287903,
+                0.02181316167116165,
+                0.0738188847899437,
+                0.0017164847813546658
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:k7i2wn56zwne5tgqyqvzhvyj",
+                    "type": 1,
+                    "utter": "むく！"
+                },
+                {
+                    "author": "did:plc:l6j5kmj4osp6tjzb7oqeeg4f",
+                    "type": 2,
+                    "utter": "おはようございます？\n二度寝にしますか？\n悪魔の誘いです！"
+                },
+                {
+                    "author": "did:plc:k7i2wn56zwne5tgqyqvzhvyj",
+                    "type": 3,
+                    "utter": "お布団にいらっしゃい！"
+                }
+            ],
+            "uri": "at://did:plc:k7i2wn56zwne5tgqyqvzhvyj/app.bsky.feed.post/3lbv2nf55xk26",
+            "label": [
+                0.168690487742424,
+                0.0040687499567866325,
+                0.8441532850265503,
+                0.0019503484945744276,
+                0.0013337547425180674,
+                0.001032280153594911,
+                0.0018510875524953008,
+                0.0013938492629677057
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:k7i2wn56zwne5tgqyqvzhvyj",
+                    "type": 1,
+                    "utter": "お布団にいらっしゃい！"
+                },
+                {
+                    "author": "did:plc:l6j5kmj4osp6tjzb7oqeeg4f",
+                    "type": 2,
+                    "utter": "ポカポカおとーん✨"
+                },
+                {
+                    "author": "did:plc:k7i2wn56zwne5tgqyqvzhvyj",
+                    "type": 3,
+                    "utter": "おいでおいで！"
+                }
+            ],
+            "uri": "at://did:plc:k7i2wn56zwne5tgqyqvzhvyj/app.bsky.feed.post/3lbv3pgai5k2t",
+            "label": [
+                0.05534302443265915,
+                0.004511908162385225,
+                0.9419586658477783,
+                0.002396166557446122,
+                0.0017334370641037822,
+                0.0018996774451807141,
+                0.0015934858238324523,
+                0.001531875808723271
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:k7i2wn56zwne5tgqyqvzhvyj",
+                    "type": 1,
+                    "utter": "おいでおいで！"
+                },
+                {
+                    "author": "did:plc:l6j5kmj4osp6tjzb7oqeeg4f",
+                    "type": 2,
+                    "utter": "いくです～おふとーん\nもふーっ！"
+                },
+                {
+                    "author": "did:plc:k7i2wn56zwne5tgqyqvzhvyj",
+                    "type": 3,
+                    "utter": "抱き枕にしちゃうわね！"
+                }
+            ],
+            "uri": "at://did:plc:k7i2wn56zwne5tgqyqvzhvyj/app.bsky.feed.post/3lbvkdb6if224",
+            "label": [
+                0.38997724652290344,
+                0.004100192338228226,
+                0.6445755362510681,
+                0.0016282147262245417,
+                0.0006340840482152998,
+                0.0012184311635792255,
+                0.0009770115138962865,
+                0.0010301360161975026
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:k7i2wn56zwne5tgqyqvzhvyj",
+                    "type": 1,
+                    "utter": "あ、コラ！？"
+                },
+                {
+                    "author": "did:plc:l6j5kmj4osp6tjzb7oqeeg4f",
+                    "type": 2,
+                    "utter": "ふっふっふーん♪\n覚えましたよ✨\nミラミラは 【ふともも】好きっと！"
+                },
+                {
+                    "author": "did:plc:k7i2wn56zwne5tgqyqvzhvyj",
+                    "type": 3,
+                    "utter": "そ、そそそ、そんなことは！？"
+                }
+            ],
+            "uri": "at://did:plc:k7i2wn56zwne5tgqyqvzhvyj/app.bsky.feed.post/3lb6waaiz5v27",
+            "label": [
+                0.016450051218271255,
+                0.013166794553399086,
+                0.019415339455008507,
+                0.9666938781738281,
+                0.004802839830517769,
+                0.006377361714839935,
+                0.004834628663957119,
+                0.002481109229847789
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:k7i2wn56zwne5tgqyqvzhvyj",
+                    "type": 1,
+                    "utter": "そ、そそそ、そんなことは！？"
+                },
+                {
+                    "author": "did:plc:l6j5kmj4osp6tjzb7oqeeg4f",
+                    "type": 2,
+                    "utter": "そうなのです？\n(じー)"
+                },
+                {
+                    "author": "did:plc:k7i2wn56zwne5tgqyqvzhvyj",
+                    "type": 3,
+                    "utter": "うぐっ…"
+                }
+            ],
+            "uri": "at://did:plc:k7i2wn56zwne5tgqyqvzhvyj/app.bsky.feed.post/3lb6zo7m52427",
+            "label": [
+                0.007730576209723949,
+                0.9702726602554321,
+                0.005448693409562111,
+                0.00451167905703187,
+                0.0021046705078333616,
+                0.007226473651826382,
+                0.010919376276433468,
+                0.0008326834649778903
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:k7i2wn56zwne5tgqyqvzhvyj",
+                    "type": 1,
+                    "utter": "うぐっ…"
+                },
+                {
+                    "author": "did:plc:l6j5kmj4osp6tjzb7oqeeg4f",
+                    "type": 2,
+                    "utter": "むぅ…？じーー…"
+                },
+                {
+                    "author": "did:plc:k7i2wn56zwne5tgqyqvzhvyj",
+                    "type": 3,
+                    "utter": "太ももじーーー"
+                }
+            ],
+            "uri": "at://did:plc:k7i2wn56zwne5tgqyqvzhvyj/app.bsky.feed.post/3lbdkmhfghv2n",
+            "label": [
+                0.7023561000823975,
+                0.2153056561946869,
+                0.016462089493870735,
+                0.06892046332359314,
+                0.0023817126639187336,
+                0.015779761597514153,
+                0.019498374313116074,
+                0.00472634332254529
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:k7i2wn56zwne5tgqyqvzhvyj",
+                    "type": 1,
+                    "utter": "太ももじーーー"
+                },
+                {
+                    "author": "did:plc:l6j5kmj4osp6tjzb7oqeeg4f",
+                    "type": 2,
+                    "utter": "やっぱり ふともも 趣味です？？です？？"
+                },
+                {
+                    "author": "did:plc:k7i2wn56zwne5tgqyqvzhvyj",
+                    "type": 3,
+                    "utter": "そ、そうよ！"
+                }
+            ],
+            "uri": "at://did:plc:k7i2wn56zwne5tgqyqvzhvyj/app.bsky.feed.post/3lbdyoohiem2q",
+            "label": [
+                0.2138276845216751,
+                0.01540717389434576,
+                0.018441330641508102,
+                0.8220145106315613,
+                0.003971633967012167,
+                0.0026172951329499483,
+                0.007048003375530243,
+                0.005591433495283127
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:k7i2wn56zwne5tgqyqvzhvyj",
+                    "type": 1,
+                    "utter": "使い方が分からないわ"
+                },
+                {
+                    "author": "did:plc:wmqrtozu5lpqorqydlonkscv",
+                    "type": 2,
+                    "utter": "あっちと変わるのは鍵垢はないのらぁ～(・ω・`)"
+                },
+                {
+                    "author": "did:plc:k7i2wn56zwne5tgqyqvzhvyj",
+                    "type": 3,
+                    "utter": "そうなのね"
+                }
+            ],
+            "uri": "at://did:plc:k7i2wn56zwne5tgqyqvzhvyj/app.bsky.feed.post/3lavvphs37z2l",
+            "label": [
+                0.34463492035865784,
+                0.008149131201207638,
+                0.019574441015720367,
+                0.7105528712272644,
+                0.0020521373953670263,
+                0.0020220521837472916,
+                0.005057331640273333,
+                0.006082369014620781
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:k7i2wn56zwne5tgqyqvzhvyj",
+                    "type": 1,
+                    "utter": "そうなのね"
+                },
+                {
+                    "author": "did:plc:wmqrtozu5lpqorqydlonkscv",
+                    "type": 2,
+                    "utter": "なのなの～(・ω・`)あとは多分𝐗と変わらないDMっぽいのもあるよ"
+                },
+                {
+                    "author": "did:plc:k7i2wn56zwne5tgqyqvzhvyj",
+                    "type": 3,
+                    "utter": "ほほう！"
+                }
+            ],
+            "uri": "at://did:plc:k7i2wn56zwne5tgqyqvzhvyj/app.bsky.feed.post/3lavvzs5ec62m",
+            "label": [
+                0.5785712003707886,
+                0.002664263127371669,
+                0.017586421221494675,
+                0.32896023988723755,
+                0.0011475994251668453,
+                0.0007378337322734296,
+                0.0019756010733544827,
+                0.0017618134152144194
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:k7i2wn56zwne5tgqyqvzhvyj",
+                    "type": 1,
+                    "utter": "ほほう！"
+                },
+                {
+                    "author": "did:plc:wmqrtozu5lpqorqydlonkscv",
+                    "type": 2,
+                    "utter": "あとは…(・ω・`)わかんないや↩︎"
+                },
+                {
+                    "author": "did:plc:k7i2wn56zwne5tgqyqvzhvyj",
+                    "type": 3,
+                    "utter": "ぬおおおお(●´ω`●)"
+                }
+            ],
+            "uri": "at://did:plc:k7i2wn56zwne5tgqyqvzhvyj/app.bsky.feed.post/3lavwe3bhzx2w",
+            "label": [
+                0.4372827410697937,
+                0.25321245193481445,
+                0.021085944026708603,
+                0.1675606071949005,
+                0.0038126735016703606,
+                0.028619909659028053,
+                0.02603190764784813,
+                0.002592857927083969
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:k7i2wn56zwne5tgqyqvzhvyj",
+                    "type": 1,
+                    "utter": "ぬおおおお(●´ω`●)"
+                },
+                {
+                    "author": "did:plc:wmqrtozu5lpqorqydlonkscv",
+                    "type": 2,
+                    "utter": "ミラミラが荒ぶっとる！\n可愛い顔文字つきで！\n꜀(^. .^꜀  )꜆੭"
+                },
+                {
+                    "author": "did:plc:k7i2wn56zwne5tgqyqvzhvyj",
+                    "type": 3,
+                    "utter": "(˶ᐢωᐢ˶)♡"
+                }
+            ],
+            "uri": "at://did:plc:k7i2wn56zwne5tgqyqvzhvyj/app.bsky.feed.post/3law2flqqsv2q",
+            "label": [
+                0.9630007147789001,
+                0.003833712777122855,
+                0.020603954792022705,
+                0.0018216260941699147,
+                0.001308618113398552,
+                0.0020937686786055565,
+                0.00463681248947978,
+                0.002122895559296012
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:k7i2wn56zwne5tgqyqvzhvyj",
+                    "type": 1,
+                    "utter": "(˶ᐢωᐢ˶)♡"
+                },
+                {
+                    "author": "did:plc:wmqrtozu5lpqorqydlonkscv",
+                    "type": 2,
+                    "utter": "可愛い～顔文字( ु ›ω‹ ) ु♡"
+                },
+                {
+                    "author": "did:plc:k7i2wn56zwne5tgqyqvzhvyj",
+                    "type": 3,
+                    "utter": "えへへ♡"
+                }
+            ],
+            "uri": "at://did:plc:k7i2wn56zwne5tgqyqvzhvyj/app.bsky.feed.post/3laxm5ddj7p2v",
+            "label": [
+                0.982289731502533,
+                0.003929325845092535,
+                0.0065368954092264175,
+                0.002965424442663789,
+                0.0011765811359509826,
+                0.0029312868136912584,
+                0.003427457995712757,
+                0.001957491971552372
+            ]
+        }
+    ]
+}

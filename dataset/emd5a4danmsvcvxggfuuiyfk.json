@@ -1,0 +1,604 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 1,
+                    "utter": "ﾋﾝ…半分脅しだよ"
+                },
+                {
+                    "author": "did:plc:tptxxcsizqwsta3t7xsrqs4e",
+                    "type": 2,
+                    "utter": "ご飯食べようね〜のコーチングだよ！！！！潰れたおにぎり見せるぞコラ！！"
+                },
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 3,
+                    "utter": "ちゃんと食べてるもんね！！！今日はカレーだったよ！！！\n\n潰れたおにぎりは見せて！"
+                }
+            ],
+            "uri": "at://did:plc:emd5a4danmsvcvxggfuuiyfk/app.bsky.feed.post/3lbttj45sjc2n",
+            "label": [
+                0.9360417723655701,
+                0.004520092625170946,
+                0.0474761538207531,
+                0.003508011344820261,
+                0.0015112789114937186,
+                0.0011459580855444074,
+                0.002238260814920068,
+                0.0027074674144387245
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 1,
+                    "utter": "ちゃんと食べてるもんね！！！今日はカレーだったよ！！！\n\n潰れたおにぎりは見せて！"
+                },
+                {
+                    "author": "did:plc:tptxxcsizqwsta3t7xsrqs4e",
+                    "type": 2,
+                    "utter": "偉い偉い🍛いつでもわたしはつつく隙を狙ってるよ🐦‍⬛\n\n見せる"
+                },
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 3,
+                    "utter": "あなたは鳥かなんかか！！\n\n今度はぺちゃんこおにぎりで出直してきて"
+                }
+            ],
+            "uri": "at://did:plc:emd5a4danmsvcvxggfuuiyfk/app.bsky.feed.post/3lbu3hoi3jk2z",
+            "label": [
+                0.014687057584524155,
+                0.09442586451768875,
+                0.05502159893512726,
+                0.542958676815033,
+                0.2484300136566162,
+                0.021996399387717247,
+                0.05746883898973465,
+                0.006160440854728222
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 1,
+                    "utter": "あなたは鳥かなんかか！！\n\n今度はぺちゃんこおにぎりで出直してきて"
+                },
+                {
+                    "author": "did:plc:tptxxcsizqwsta3t7xsrqs4e",
+                    "type": 2,
+                    "utter": "(っ'ヮ'c)＜ｶｱｧｧｧｧｧｧｧｧｧｧｧｧｧ!!!!!!\n\n食への冒涜だと思います"
+                },
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 3,
+                    "utter": "カラスだった！怖！つつかないでね！\n\nぺちゃんこでもちゃんと食べるんだよ、なんなら食べやすい迄ある"
+                }
+            ],
+            "uri": "at://did:plc:emd5a4danmsvcvxggfuuiyfk/app.bsky.feed.post/3lbypeh6q3k22",
+            "label": [
+                0.010803843848407269,
+                0.006356534082442522,
+                0.0066727097146213055,
+                0.8582838773727417,
+                0.003809091169387102,
+                0.13919249176979065,
+                0.003219520440325141,
+                0.0018514787079766393
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 1,
+                    "utter": "裸でもいいと思う(？)"
+                },
+                {
+                    "author": "did:plc:tptxxcsizqwsta3t7xsrqs4e",
+                    "type": 2,
+                    "utter": "載せらんねぇだろ！！！！！"
+                },
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 3,
+                    "utter": "大事なところ光らせちゃえばいいんだよ！！！"
+                }
+            ],
+            "uri": "at://did:plc:emd5a4danmsvcvxggfuuiyfk/app.bsky.feed.post/3lb72tcidmc26",
+            "label": [
+                0.07059086859226227,
+                0.004179484210908413,
+                0.9222902655601501,
+                0.002447773702442646,
+                0.0021362975239753723,
+                0.0014521573903039098,
+                0.001680180081166327,
+                0.002135681454092264
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 1,
+                    "utter": "大事なところ光らせちゃえばいいんだよ！！！"
+                },
+                {
+                    "author": "did:plc:tptxxcsizqwsta3t7xsrqs4e",
+                    "type": 2,
+                    "utter": "黙らっしゃい"
+                },
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 3,
+                    "utter": "すみませんでした"
+                }
+            ],
+            "uri": "at://did:plc:emd5a4danmsvcvxggfuuiyfk/app.bsky.feed.post/3lb7mg6heh22s",
+            "label": [
+                0.008568715304136276,
+                0.9668610095977783,
+                0.0031356674153357744,
+                0.004750323481857777,
+                0.003814633470028639,
+                0.011035790666937828,
+                0.011861876584589481,
+                0.0012108715018257499
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 1,
+                    "utter": "すみませんでした"
+                },
+                {
+                    "author": "did:plc:tptxxcsizqwsta3t7xsrqs4e",
+                    "type": 2,
+                    "utter": "∑( ᐛ )▄︻┻┳═💥  ̖́-‬ｽﾞﾄﾞﾄﾞﾄﾞﾄﾞﾄﾞ"
+                },
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 3,
+                    "utter": "蜂の巣になっちまう！"
+                }
+            ],
+            "uri": "at://did:plc:emd5a4danmsvcvxggfuuiyfk/app.bsky.feed.post/3lbbzkefq322y",
+            "label": [
+                0.02452070266008377,
+                0.07868318259716034,
+                0.008689792826771736,
+                0.12524951994419098,
+                0.013121598400175571,
+                0.8181310892105103,
+                0.009761366993188858,
+                0.0028955992311239243
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 1,
+                    "utter": "蜂の巣になっちまう！"
+                },
+                {
+                    "author": "did:plc:tptxxcsizqwsta3t7xsrqs4e",
+                    "type": 2,
+                    "utter": "穴だらけだぜ"
+                },
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 3,
+                    "utter": "会話の流れ忘れてて変な意味合いの穴かと思っちゃった"
+                }
+            ],
+            "uri": "at://did:plc:emd5a4danmsvcvxggfuuiyfk/app.bsky.feed.post/3lbc5takva22u",
+            "label": [
+                0.017728816717863083,
+                0.27401790022850037,
+                0.0021750943269580603,
+                0.5981004238128662,
+                0.001601482043042779,
+                0.06031780317425728,
+                0.0031926969531923532,
+                0.0009123150957748294
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 1,
+                    "utter": "タバコ吸ってるだけなのに危ない薬を疑われてます！！！"
+                },
+                {
+                    "author": "did:plc:tptxxcsizqwsta3t7xsrqs4e",
+                    "type": 2,
+                    "utter": "事実だろ"
+                },
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 3,
+                    "utter": "無実だっておばか！！！！"
+                }
+            ],
+            "uri": "at://did:plc:emd5a4danmsvcvxggfuuiyfk/app.bsky.feed.post/3lb3kyi4oak2f",
+            "label": [
+                0.014383343048393726,
+                0.06646337360143661,
+                0.008327370509505272,
+                0.052261870354413986,
+                0.7478926181793213,
+                0.02604227140545845,
+                0.07827730476856232,
+                0.004761422984302044
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 1,
+                    "utter": "無実だっておばか！！！！"
+                },
+                {
+                    "author": "did:plc:tptxxcsizqwsta3t7xsrqs4e",
+                    "type": 2,
+                    "utter": "ナニを巻いたものを吸ってるんだよ\nヒドロ…"
+                },
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 3,
+                    "utter": "ただのコンビニで買った合法🚬だよ…ﾋﾄﾞﾛやめてね？？？？やってないよ"
+                }
+            ],
+            "uri": "at://did:plc:emd5a4danmsvcvxggfuuiyfk/app.bsky.feed.post/3lb3ld3ltdk2f",
+            "label": [
+                0.01971014402806759,
+                0.07908470928668976,
+                0.0061075459234416485,
+                0.0383773073554039,
+                0.0052710832096636295,
+                0.852965235710144,
+                0.01224470604211092,
+                0.002011659787967801
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 1,
+                    "utter": "ただのコンビニで買った合法🚬だよ…ﾋﾄﾞﾛやめてね？？？？やってないよ"
+                },
+                {
+                    "author": "did:plc:tptxxcsizqwsta3t7xsrqs4e",
+                    "type": 2,
+                    "utter": "黒"
+                },
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 3,
+                    "utter": "NO黒\nYES白"
+                }
+            ],
+            "uri": "at://did:plc:emd5a4danmsvcvxggfuuiyfk/app.bsky.feed.post/3lb3m2dy7c22f",
+            "label": [
+                0.8489057421684265,
+                0.01235898770391941,
+                0.06261968612670898,
+                0.006209093611687422,
+                0.006648621987551451,
+                0.01071222685277462,
+                0.05325749143958092,
+                0.017652060836553574
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 1,
+                    "utter": "NO黒\nYES白"
+                },
+                {
+                    "author": "did:plc:tptxxcsizqwsta3t7xsrqs4e",
+                    "type": 2,
+                    "utter": "I know what you're doing"
+                },
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 3,
+                    "utter": "Don't lie. you are doing it"
+                }
+            ],
+            "uri": "at://did:plc:emd5a4danmsvcvxggfuuiyfk/app.bsky.feed.post/3lb3mckae4k2f",
+            "label": [
+                0.6542030572891235,
+                0.043352942913770676,
+                0.1233154833316803,
+                0.03115919977426529,
+                0.010673814453184605,
+                0.011102421209216118,
+                0.027083979919552803,
+                0.019514307379722595
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 1,
+                    "utter": "Don't lie. you are doing it"
+                },
+                {
+                    "author": "did:plc:tptxxcsizqwsta3t7xsrqs4e",
+                    "type": 2,
+                    "utter": "はいはい、ハッパを巻いたものを吸ってるんやね"
+                },
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 3,
+                    "utter": "It's you, right?"
+                }
+            ],
+            "uri": "at://did:plc:emd5a4danmsvcvxggfuuiyfk/app.bsky.feed.post/3lb3mgiug522f",
+            "label": [
+                0.9773790836334229,
+                0.003484476823359728,
+                0.009319169446825981,
+                0.0030799959786236286,
+                0.0014835803303867579,
+                0.0016407602233812213,
+                0.0030002593994140625,
+                0.0028186843264847994
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 1,
+                    "utter": "CRってあのCR？？？？"
+                },
+                {
+                    "author": "did:plc:q3vuqxr2afs5pvmjxv3wan33",
+                    "type": 2,
+                    "utter": "パチンコって答えようか"
+                },
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 3,
+                    "utter": "そこから入ったの？？？すきだね~~~~🎰"
+                }
+            ],
+            "uri": "at://did:plc:emd5a4danmsvcvxggfuuiyfk/app.bsky.feed.post/3lbenwtfm4s2p",
+            "label": [
+                0.9840166568756104,
+                0.002727275714278221,
+                0.006740988232195377,
+                0.0038949078880250454,
+                0.0016869916580617428,
+                0.0023018703795969486,
+                0.002881445223465562,
+                0.0027319006621837616
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 1,
+                    "utter": "そこから入ったの？？？すきだね~~~~🎰"
+                },
+                {
+                    "author": "did:plc:q3vuqxr2afs5pvmjxv3wan33",
+                    "type": 2,
+                    "utter": "たぶん通じてない…"
+                },
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 3,
+                    "utter": "ありゃりゃ？？？すれ違い通信してるならまたその話もしたいわよ"
+                }
+            ],
+            "uri": "at://did:plc:emd5a4danmsvcvxggfuuiyfk/app.bsky.feed.post/3lbexceppfs2i",
+            "label": [
+                0.026587966829538345,
+                0.021658092737197876,
+                0.8787499666213989,
+                0.02055642567574978,
+                0.007479961961507797,
+                0.0008957342361100018,
+                0.005518990568816662,
+                0.0015420435229316354
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 1,
+                    "utter": "ありゃりゃ？？？すれ違い通信してるならまたその話もしたいわよ"
+                },
+                {
+                    "author": "did:plc:q3vuqxr2afs5pvmjxv3wan33",
+                    "type": 2,
+                    "utter": "パ、パチンコネタ…"
+                },
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 3,
+                    "utter": "え、私も考えてたのパチンコネタ…ん？"
+                }
+            ],
+            "uri": "at://did:plc:emd5a4danmsvcvxggfuuiyfk/app.bsky.feed.post/3lbgnop3eys2c",
+            "label": [
+                0.01185770146548748,
+                0.016806041821837425,
+                0.014194675721228123,
+                0.9635315537452698,
+                0.004728277213871479,
+                0.0074288509786129,
+                0.005246381275355816,
+                0.0023183368612080812
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 1,
+                    "utter": "え、私も考えてたのパチンコネタ…ん？"
+                },
+                {
+                    "author": "did:plc:q3vuqxr2afs5pvmjxv3wan33",
+                    "type": 2,
+                    "utter": "すれ違い通信起きてる"
+                },
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 3,
+                    "utter": "すれ違い通信の答え合わせは今度しましょう"
+                }
+            ],
+            "uri": "at://did:plc:emd5a4danmsvcvxggfuuiyfk/app.bsky.feed.post/3lbh7ofcbn22m",
+            "label": [
+                0.31037047505378723,
+                0.004966598004102707,
+                0.7422791719436646,
+                0.0011406857520341873,
+                0.0006188310217112303,
+                0.0020765955559909344,
+                0.0011438357178121805,
+                0.001072680694051087
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 1,
+                    "utter": "ぴったりハマってくれたみたいで嬉しいわね~~~~！\n睡眠で記憶持ってかれて何の話からその曲なったか忘れちゃったけどね…"
+                },
+                {
+                    "author": "did:plc:tptxxcsizqwsta3t7xsrqs4e",
+                    "type": 2,
+                    "utter": "可愛い曲聴きながら描きたいよ〜この曲可愛いでナイス\nだったと思う。\nロケサイ中毒になりました。どうしてくれるんすか"
+                },
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 3,
+                    "utter": "そうだったそうだった、記憶力すごい\nいいねもっと可愛い曲発掘してハマってけ~"
+                }
+            ],
+            "uri": "at://did:plc:emd5a4danmsvcvxggfuuiyfk/app.bsky.feed.post/3lb7miaowmk2s",
+            "label": [
+                0.4699697196483612,
+                0.0021510084625333548,
+                0.4479677975177765,
+                0.006741473451256752,
+                0.0008666975190863013,
+                0.0005465999129228294,
+                0.0007714883540757,
+                0.0017093565547838807
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 1,
+                    "utter": "そうだったそうだった、記憶力すごい\nいいねもっと可愛い曲発掘してハマってけ~"
+                },
+                {
+                    "author": "did:plc:tptxxcsizqwsta3t7xsrqs4e",
+                    "type": 2,
+                    "utter": "あなたは私との会話を忘れてしまうのね……世界が…私を忘れて…"
+                },
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 3,
+                    "utter": "眠気が悪いのよ、分けてあげる…"
+                }
+            ],
+            "uri": "at://did:plc:emd5a4danmsvcvxggfuuiyfk/app.bsky.feed.post/3lbbzkurvj22y",
+            "label": [
+                0.029934559017419815,
+                0.7865329384803772,
+                0.14503295719623566,
+                0.0020106739830225706,
+                0.0018333086045458913,
+                0.011152870953083038,
+                0.02692876011133194,
+                0.0011979172704741359
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 1,
+                    "utter": "眠気が悪いのよ、分けてあげる…"
+                },
+                {
+                    "author": "did:plc:tptxxcsizqwsta3t7xsrqs4e",
+                    "type": 2,
+                    "utter": "いらん"
+                },
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 3,
+                    "utter": "逆に起床時間わけて"
+                }
+            ],
+            "uri": "at://did:plc:emd5a4danmsvcvxggfuuiyfk/app.bsky.feed.post/3lbc5vcv4ec2u",
+            "label": [
+                0.2928026616573334,
+                0.007479352410882711,
+                0.6262304782867432,
+                0.01919461227953434,
+                0.0019680883269757032,
+                0.0034911679103970528,
+                0.007428021635860205,
+                0.005117379128932953
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 1,
+                    "utter": "逆に起床時間わけて"
+                },
+                {
+                    "author": "did:plc:tptxxcsizqwsta3t7xsrqs4e",
+                    "type": 2,
+                    "utter": "やだ"
+                },
+                {
+                    "author": "did:plc:emd5a4danmsvcvxggfuuiyfk",
+                    "type": 3,
+                    "utter": "😢😢😢私だって起きてたいの、、"
+                }
+            ],
+            "uri": "at://did:plc:emd5a4danmsvcvxggfuuiyfk/app.bsky.feed.post/3lbdra7mpr22l",
+            "label": [
+                0.012507621198892593,
+                0.820541501045227,
+                0.046277083456516266,
+                0.002394631505012512,
+                0.007782431785017252,
+                0.007470027543604374,
+                0.03917940706014633,
+                0.0009752612095326185
+            ]
+        }
+    ]
+}

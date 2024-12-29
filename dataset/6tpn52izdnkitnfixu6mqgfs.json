@@ -1,0 +1,424 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6tpn52izdnkitnfixu6mqgfs",
+                    "type": 1,
+                    "utter": "みんなのアクセとかメイクとかファッションとかセンスの塊すぎて私済で縮こまるしか出来ねぇ……"
+                },
+                {
+                    "author": "did:plc:5iejztlcpacrent5oarzmayn",
+                    "type": 2,
+                    "utter": "分かる"
+                },
+                {
+                    "author": "did:plc:6tpn52izdnkitnfixu6mqgfs",
+                    "type": 3,
+                    "utter": "？？？？かつきちゃんも含まれているが？？？"
+                }
+            ],
+            "uri": "at://did:plc:6tpn52izdnkitnfixu6mqgfs/app.bsky.feed.post/3lbxjdy7y3c2m",
+            "label": [
+                0.20737160742282867,
+                0.009723208844661713,
+                0.052239567041397095,
+                0.6510383486747742,
+                0.0016652214108034968,
+                0.007676764391362667,
+                0.003601230913773179,
+                0.003533401992172003
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6tpn52izdnkitnfixu6mqgfs",
+                    "type": 1,
+                    "utter": "？？？？かつきちゃんも含まれているが？？？"
+                },
+                {
+                    "author": "did:plc:5iejztlcpacrent5oarzmayn",
+                    "type": 2,
+                    "utter": "？？？？？私センス終わってるが？？？？？？"
+                },
+                {
+                    "author": "did:plc:6tpn52izdnkitnfixu6mqgfs",
+                    "type": 3,
+                    "utter": "？？？？？ちょっとな言ってるか分からない🤔🤔"
+                }
+            ],
+            "uri": "at://did:plc:6tpn52izdnkitnfixu6mqgfs/app.bsky.feed.post/3lby4frnryc2m",
+            "label": [
+                0.05442114174365997,
+                0.12447081506252289,
+                0.0010250585619360209,
+                0.33116987347602844,
+                0.0035574783105403185,
+                0.2058972269296646,
+                0.023076187819242477,
+                0.001562526565976441
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6tpn52izdnkitnfixu6mqgfs",
+                    "type": 1,
+                    "utter": "？？？？？ちょっとな言ってるか分からない🤔🤔"
+                },
+                {
+                    "author": "did:plc:5iejztlcpacrent5oarzmayn",
+                    "type": 2,
+                    "utter": "どーして🥺🥺🥺🥺🥺"
+                },
+                {
+                    "author": "did:plc:6tpn52izdnkitnfixu6mqgfs",
+                    "type": 3,
+                    "utter": "ぬんんん？？？？"
+                }
+            ],
+            "uri": "at://did:plc:6tpn52izdnkitnfixu6mqgfs/app.bsky.feed.post/3lbyncz6obk24",
+            "label": [
+                0.6210957765579224,
+                0.1187169998884201,
+                0.08132230490446091,
+                0.042382653802633286,
+                0.014648525044322014,
+                0.02842051163315773,
+                0.06319399923086166,
+                0.012314658612012863
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6tpn52izdnkitnfixu6mqgfs",
+                    "type": 1,
+                    "utter": "ぬんんん？？？？"
+                },
+                {
+                    "author": "did:plc:5iejztlcpacrent5oarzmayn",
+                    "type": 2,
+                    "utter": "センスくれよ"
+                },
+                {
+                    "author": "did:plc:6tpn52izdnkitnfixu6mqgfs",
+                    "type": 3,
+                    "utter": "それはこっちのセリフよ‎( ꒪ཫ‎꒪)"
+                }
+            ],
+            "uri": "at://did:plc:6tpn52izdnkitnfixu6mqgfs/app.bsky.feed.post/3lbynm2f2vk24",
+            "label": [
+                0.3381299674510956,
+                0.04225458577275276,
+                0.01892048679292202,
+                0.023960763588547707,
+                0.6935625672340393,
+                0.015611213631927967,
+                0.04561563953757286,
+                0.022151654586195946
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6tpn52izdnkitnfixu6mqgfs",
+                    "type": 1,
+                    "utter": "それはこっちのセリフよ‎( ꒪ཫ‎꒪)"
+                },
+                {
+                    "author": "did:plc:5iejztlcpacrent5oarzmayn",
+                    "type": 2,
+                    "utter": "なして？？？？？？"
+                },
+                {
+                    "author": "did:plc:6tpn52izdnkitnfixu6mqgfs",
+                    "type": 3,
+                    "utter": "センスありありだからだよぉ？"
+                }
+            ],
+            "uri": "at://did:plc:6tpn52izdnkitnfixu6mqgfs/app.bsky.feed.post/3lbynzoznx224",
+            "label": [
+                0.9766030311584473,
+                0.003052483545616269,
+                0.005965924821794033,
+                0.010300121270120144,
+                0.0030300698708742857,
+                0.0021790286991745234,
+                0.00476990407332778,
+                0.007346900645643473
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6tpn52izdnkitnfixu6mqgfs",
+                    "type": 1,
+                    "utter": "短刀がいっぱいいるの？？？？\n床になっていい？？？"
+                },
+                {
+                    "author": "did:plc:5iejztlcpacrent5oarzmayn",
+                    "type": 2,
+                    "utter": "お前も短刀になるんだよ"
+                },
+                {
+                    "author": "did:plc:6tpn52izdnkitnfixu6mqgfs",
+                    "type": 3,
+                    "utter": "私出来子居無"
+                }
+            ],
+            "uri": "at://did:plc:6tpn52izdnkitnfixu6mqgfs/app.bsky.feed.post/3laybchcbk223",
+            "label": [
+                0.011261570267379284,
+                0.9721580743789673,
+                0.006150808185338974,
+                0.005800023674964905,
+                0.0021611142437905073,
+                0.005094991531223059,
+                0.006891918834298849,
+                0.0010354063706472516
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6tpn52izdnkitnfixu6mqgfs",
+                    "type": 1,
+                    "utter": "私出来子居無"
+                },
+                {
+                    "author": "did:plc:5iejztlcpacrent5oarzmayn",
+                    "type": 2,
+                    "utter": "え？？？？やるんだよ☺️"
+                },
+                {
+                    "author": "did:plc:6tpn52izdnkitnfixu6mqgfs",
+                    "type": 3,
+                    "utter": ":( ; 'ㅂ';):ﾋｪ…"
+                }
+            ],
+            "uri": "at://did:plc:6tpn52izdnkitnfixu6mqgfs/app.bsky.feed.post/3laybua2axc23",
+            "label": [
+                0.018212653696537018,
+                0.8844402432441711,
+                0.0031115321908146143,
+                0.018250765278935432,
+                0.001472218194976449,
+                0.07142775505781174,
+                0.010945150628685951,
+                0.0006455117254517972
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6tpn52izdnkitnfixu6mqgfs",
+                    "type": 1,
+                    "utter": ":( ; 'ㅂ';):ﾋｪ…"
+                },
+                {
+                    "author": "did:plc:5iejztlcpacrent5oarzmayn",
+                    "type": 2,
+                    "utter": "誰する？？？？"
+                },
+                {
+                    "author": "did:plc:6tpn52izdnkitnfixu6mqgfs",
+                    "type": 3,
+                    "utter": "📸"
+                }
+            ],
+            "uri": "at://did:plc:6tpn52izdnkitnfixu6mqgfs/app.bsky.feed.post/3laycttlt4s23",
+            "label": [
+                0.7955643534660339,
+                0.04578904062509537,
+                0.06354942172765732,
+                0.007805889472365379,
+                0.0035425222013145685,
+                0.0128534696996212,
+                0.03758782520890236,
+                0.005353034473955631
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6tpn52izdnkitnfixu6mqgfs",
+                    "type": 1,
+                    "utter": "📸"
+                },
+                {
+                    "author": "did:plc:5iejztlcpacrent5oarzmayn",
+                    "type": 2,
+                    "utter": "📸するならいち兄だよ"
+                },
+                {
+                    "author": "did:plc:6tpn52izdnkitnfixu6mqgfs",
+                    "type": 3,
+                    "utter": "嘘だろ"
+                }
+            ],
+            "uri": "at://did:plc:6tpn52izdnkitnfixu6mqgfs/app.bsky.feed.post/3laydezz63c23",
+            "label": [
+                0.008457139134407043,
+                0.029814301058650017,
+                0.001809807843528688,
+                0.6007465124130249,
+                0.02770729921758175,
+                0.03083474561572075,
+                0.06952022761106491,
+                0.0014526726445183158
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6tpn52izdnkitnfixu6mqgfs",
+                    "type": 1,
+                    "utter": "嘘だろ"
+                },
+                {
+                    "author": "did:plc:5iejztlcpacrent5oarzmayn",
+                    "type": 2,
+                    "utter": "あたりめぇだよ"
+                },
+                {
+                    "author": "did:plc:6tpn52izdnkitnfixu6mqgfs",
+                    "type": 3,
+                    "utter": "ほらいち兄はくろごまさん"
+                }
+            ],
+            "uri": "at://did:plc:6tpn52izdnkitnfixu6mqgfs/app.bsky.feed.post/3laydkx4eqs23",
+            "label": [
+                0.9742289185523987,
+                0.003958133980631828,
+                0.021058175712823868,
+                0.005512179806828499,
+                0.0015775446081534028,
+                0.001953322906047106,
+                0.0033261561766266823,
+                0.0046750279143452644
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6tpn52izdnkitnfixu6mqgfs",
+                    "type": 1,
+                    "utter": "短刀生足と聞いて"
+                },
+                {
+                    "author": "did:plc:5iejztlcpacrent5oarzmayn",
+                    "type": 2,
+                    "utter": "生足では無いね？？？？"
+                },
+                {
+                    "author": "did:plc:6tpn52izdnkitnfixu6mqgfs",
+                    "type": 3,
+                    "utter": "あれ？？？"
+                }
+            ],
+            "uri": "at://did:plc:6tpn52izdnkitnfixu6mqgfs/app.bsky.feed.post/3lay6obcpws23",
+            "label": [
+                0.015744497999548912,
+                0.007665475830435753,
+                0.024365747347474098,
+                0.9627790451049805,
+                0.006192767061293125,
+                0.007350118365138769,
+                0.004926854744553566,
+                0.0032708272337913513
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6tpn52izdnkitnfixu6mqgfs",
+                    "type": 1,
+                    "utter": "あれ？？？"
+                },
+                {
+                    "author": "did:plc:5iejztlcpacrent5oarzmayn",
+                    "type": 2,
+                    "utter": "ストッキング大事"
+                },
+                {
+                    "author": "did:plc:6tpn52izdnkitnfixu6mqgfs",
+                    "type": 3,
+                    "utter": "痣隠し"
+                }
+            ],
+            "uri": "at://did:plc:6tpn52izdnkitnfixu6mqgfs/app.bsky.feed.post/3lay6ydhgts23",
+            "label": [
+                0.711610734462738,
+                0.016322379931807518,
+                0.1877851039171219,
+                0.0069277905859053135,
+                0.0009844289161264896,
+                0.023966217413544655,
+                0.0076353345066308975,
+                0.003579785581678152
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6tpn52izdnkitnfixu6mqgfs",
+                    "type": 1,
+                    "utter": "痣隠し"
+                },
+                {
+                    "author": "did:plc:5iejztlcpacrent5oarzmayn",
+                    "type": 2,
+                    "utter": "まじでほんとそれ"
+                },
+                {
+                    "author": "did:plc:6tpn52izdnkitnfixu6mqgfs",
+                    "type": 3,
+                    "utter": "痣が年々消えなくなってくる"
+                }
+            ],
+            "uri": "at://did:plc:6tpn52izdnkitnfixu6mqgfs/app.bsky.feed.post/3layaulmqas23",
+            "label": [
+                0.022615715861320496,
+                0.9175310134887695,
+                0.0015786971198394895,
+                0.009408162906765938,
+                0.0009305860148742795,
+                0.024540552869439125,
+                0.011981092393398285,
+                0.0005587419145740569
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6tpn52izdnkitnfixu6mqgfs",
+                    "type": 1,
+                    "utter": "痣が年々消えなくなってくる"
+                },
+                {
+                    "author": "did:plc:5iejztlcpacrent5oarzmayn",
+                    "type": 2,
+                    "utter": "増えてくよねあれ"
+                },
+                {
+                    "author": "did:plc:6tpn52izdnkitnfixu6mqgfs",
+                    "type": 3,
+                    "utter": "足痣だらけだもん"
+                }
+            ],
+            "uri": "at://did:plc:6tpn52izdnkitnfixu6mqgfs/app.bsky.feed.post/3laybdsyydc23",
+            "label": [
+                0.015521890483796597,
+                0.9659020304679871,
+                0.0027478886768221855,
+                0.007895760238170624,
+                0.0035918033681809902,
+                0.004134675022214651,
+                0.011998551897704601,
+                0.0008347259135916829
+            ]
+        }
+    ]
+}

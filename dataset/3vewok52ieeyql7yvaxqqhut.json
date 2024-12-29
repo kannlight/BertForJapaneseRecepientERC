@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3vewok52ieeyql7yvaxqqhut",
+                    "type": 1,
+                    "utter": "地獄の1週間始まった...痛すぎる、仕事中の激痛が1番しんどい:( ˘ •ω•｡ ˘ ):"
+                },
+                {
+                    "author": "did:plc:tkwnmbqw2baqcvs5dtyxc75v",
+                    "type": 2,
+                    "utter": "なぎちゃんだいじょうぶ？　無理しないでね…"
+                },
+                {
+                    "author": "did:plc:3vewok52ieeyql7yvaxqqhut",
+                    "type": 3,
+                    "utter": "なんか体調悪いな〜と思ったら...。店長優しくて、早めに上がっていいよって言ってくれたからも少ししたら帰る꜀(  ꜆ *´`*)꜆"
+                }
+            ],
+            "uri": "at://did:plc:3vewok52ieeyql7yvaxqqhut/app.bsky.feed.post/3lc2ppyev3c27",
+            "label": [
+                0.9691221714019775,
+                0.01048656739294529,
+                0.012420614250004292,
+                0.002108951099216938,
+                0.0007049929117783904,
+                0.002735692774876952,
+                0.0023040289524942636,
+                0.002333356998860836
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3vewok52ieeyql7yvaxqqhut",
+                    "type": 1,
+                    "utter": "なんか体調悪いな〜と思ったら...。店長優しくて、早めに上がっていいよって言ってくれたからも少ししたら帰る꜀(  ꜆ *´`*)꜆"
+                },
+                {
+                    "author": "did:plc:tkwnmbqw2baqcvs5dtyxc75v",
+                    "type": 2,
+                    "utter": "よかった、ゆっくりやすんでねuwu"
+                },
+                {
+                    "author": "did:plc:3vewok52ieeyql7yvaxqqhut",
+                    "type": 3,
+                    "utter": "帰った!!(  '꒳​'   )⊃＜お布団]\nゆっくりやすむー...ろずちゃはゲーム中??"
+                }
+            ],
+            "uri": "at://did:plc:3vewok52ieeyql7yvaxqqhut/app.bsky.feed.post/3lc2scaa7n225",
+            "label": [
+                0.9781652092933655,
+                0.0031117245089262724,
+                0.01262733805924654,
+                0.0021004765294492245,
+                0.0012624075170606375,
+                0.0021361622493714094,
+                0.002671267371624708,
+                0.0021523190662264824
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3vewok52ieeyql7yvaxqqhut",
+                    "type": 1,
+                    "utter": "帰った!!(  '꒳​'   )⊃＜お布団]\nゆっくりやすむー...ろずちゃはゲーム中??"
+                },
+                {
+                    "author": "did:plc:tkwnmbqw2baqcvs5dtyxc75v",
+                    "type": 2,
+                    "utter": "うん！今日はおやすみ～ ぼっちだけどｕｗｕ"
+                },
+                {
+                    "author": "did:plc:3vewok52ieeyql7yvaxqqhut",
+                    "type": 3,
+                    "utter": "1人じゃないよ〜((( * ´꒳`) ´꒳`*)"
+                }
+            ],
+            "uri": "at://did:plc:3vewok52ieeyql7yvaxqqhut/app.bsky.feed.post/3lc2vca32522r",
+            "label": [
+                0.9530119895935059,
+                0.008981344290077686,
+                0.022795571014285088,
+                0.001304920413531363,
+                0.0007698330446146429,
+                0.0030823510605841875,
+                0.0021045682951807976,
+                0.0019835710991173983
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3vewok52ieeyql7yvaxqqhut",
+                    "type": 1,
+                    "utter": "1人じゃないよ〜((( * ´꒳`) ´꒳`*)"
+                },
+                {
+                    "author": "did:plc:tkwnmbqw2baqcvs5dtyxc75v",
+                    "type": 2,
+                    "utter": "そうかなuwu うれしい"
+                },
+                {
+                    "author": "did:plc:3vewok52ieeyql7yvaxqqhut",
+                    "type": 3,
+                    "utter": "うたたねしてた...(  ՞- -՞)ᐝ\n\nそうだよ〜( ๑>ω<)۶”ﾖｼﾖｼ"
+                }
+            ],
+            "uri": "at://did:plc:3vewok52ieeyql7yvaxqqhut/app.bsky.feed.post/3lc2zwub3zk2o",
+            "label": [
+                0.9788201451301575,
+                0.005430666264146566,
+                0.00761046726256609,
+                0.003550487570464611,
+                0.0012294199550524354,
+                0.002617275109514594,
+                0.004708204884082079,
+                0.002849665703251958
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3vewok52ieeyql7yvaxqqhut",
+                    "type": 1,
+                    "utter": "うたたねしてた...(  ՞- -՞)ᐝ\n\nそうだよ〜( ๑>ω<)۶”ﾖｼﾖｼ"
+                },
+                {
+                    "author": "did:plc:tkwnmbqw2baqcvs5dtyxc75v",
+                    "type": 2,
+                    "utter": "えへ　休みの日特にやることもなくてさみしい"
+                },
+                {
+                    "author": "did:plc:3vewok52ieeyql7yvaxqqhut",
+                    "type": 3,
+                    "utter": "バロでもポケモンでも配信するなら見に行くよ？"
+                }
+            ],
+            "uri": "at://did:plc:3vewok52ieeyql7yvaxqqhut/app.bsky.feed.post/3lc32maqdds2u",
+            "label": [
+                0.03634719178080559,
+                0.0045442283153533936,
+                0.9585054516792297,
+                0.0030065146274864674,
+                0.002524592215195298,
+                0.0021048688795417547,
+                0.0022589624859392643,
+                0.0019434653222560883
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3vewok52ieeyql7yvaxqqhut",
+                    "type": 1,
+                    "utter": "BWの配信面白すぎる(ﾉ)•ω•(ヾ)\n今はポケモンが堂々とうろちょろしてるけど、歩くと強制バトル,目と目が合ったらバトル時代が懐かしくなるくらいバトってて微笑ましい(*  ˊ꒳ˋ*)"
+                },
+                {
+                    "author": "did:plc:tkwnmbqw2baqcvs5dtyxc75v",
+                    "type": 2,
+                    "utter": "BWすき"
+                },
+                {
+                    "author": "did:plc:3vewok52ieeyql7yvaxqqhut",
+                    "type": 3,
+                    "utter": "一緒にやろ"
+                }
+            ],
+            "uri": "at://did:plc:3vewok52ieeyql7yvaxqqhut/app.bsky.feed.post/3lbffodtlc22a",
+            "label": [
+                0.03475351259112358,
+                0.006614045239984989,
+                0.9472421407699585,
+                0.0029546755831688643,
+                0.0015805328730493784,
+                0.0018243063241243362,
+                0.0018018478294834495,
+                0.0013794039841741323
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3vewok52ieeyql7yvaxqqhut",
+                    "type": 1,
+                    "utter": "一緒にやろ"
+                },
+                {
+                    "author": "did:plc:tkwnmbqw2baqcvs5dtyxc75v",
+                    "type": 2,
+                    "utter": "特に2がいい　レシラム大好きw"
+                },
+                {
+                    "author": "did:plc:3vewok52ieeyql7yvaxqqhut",
+                    "type": 3,
+                    "utter": "え！！分かる!!!!ストーリーもBGMもめちゃめちゃ好きだった(∩ˊ꒳​ˋ∩)\nサザンドラ好きだった記憶…今はドラパルト"
+                }
+            ],
+            "uri": "at://did:plc:3vewok52ieeyql7yvaxqqhut/app.bsky.feed.post/3lbggm4vijk25",
+            "label": [
+                0.9740185141563416,
+                0.0033103215973824263,
+                0.005847263149917126,
+                0.01268321368843317,
+                0.001618887996301055,
+                0.0012757653603330255,
+                0.0024760644882917404,
+                0.003687639255076647
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3vewok52ieeyql7yvaxqqhut",
+                    "type": 1,
+                    "utter": "え！！分かる!!!!ストーリーもBGMもめちゃめちゃ好きだった(∩ˊ꒳​ˋ∩)\nサザンドラ好きだった記憶…今はドラパルト"
+                },
+                {
+                    "author": "did:plc:tkwnmbqw2baqcvs5dtyxc75v",
+                    "type": 2,
+                    "utter": "キバゴ好き　\nお気に入りはツタージャ　弱い　uwu"
+                },
+                {
+                    "author": "did:plc:3vewok52ieeyql7yvaxqqhut",
+                    "type": 3,
+                    "utter": "どっちも進化するとイケメンになるやつだ(ﾉ) ´꒳` (ヾ)ろずちゃはね、ポケモンに例えるとヒスイゾロアの色違いの子みたい。水色の子"
+                }
+            ],
+            "uri": "at://did:plc:3vewok52ieeyql7yvaxqqhut/app.bsky.feed.post/3lbghdcvcbs23",
+            "label": [
+                0.9576329588890076,
+                0.0025178049691021442,
+                0.03207996487617493,
+                0.0021591163240373135,
+                0.001050315797328949,
+                0.0016191747272387147,
+                0.0024659261107444763,
+                0.002200242830440402
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3vewok52ieeyql7yvaxqqhut",
+                    "type": 1,
+                    "utter": "どっちも進化するとイケメンになるやつだ(ﾉ) ´꒳` (ヾ)ろずちゃはね、ポケモンに例えるとヒスイゾロアの色違いの子みたい。水色の子"
+                },
+                {
+                    "author": "did:plc:tkwnmbqw2baqcvs5dtyxc75v",
+                    "type": 2,
+                    "utter": "みてきたら可愛かった\nぼっちの時これくらい消えかかってるかもしれない"
+                },
+                {
+                    "author": "did:plc:3vewok52ieeyql7yvaxqqhut",
+                    "type": 3,
+                    "utter": "でしょー！！すごい似てると思って( ੭ु•ω•)੭ु\nち、違うよ!?そんな意味で言ったわけじゃ…でも儚い感じは似てる、？消えないでー、、"
+                }
+            ],
+            "uri": "at://did:plc:3vewok52ieeyql7yvaxqqhut/app.bsky.feed.post/3lbgiydkbbs2o",
+            "label": [
+                0.2862643599510193,
+                0.11293145269155502,
+                0.0866159200668335,
+                0.12374350428581238,
+                0.004915373399853706,
+                0.04291493445634842,
+                0.014306134544312954,
+                0.008312979713082314
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3vewok52ieeyql7yvaxqqhut",
+                    "type": 1,
+                    "utter": "でしょー！！すごい似てると思って( ੭ु•ω•)੭ु\nち、違うよ!?そんな意味で言ったわけじゃ…でも儚い感じは似てる、？消えないでー、、"
+                },
+                {
+                    "author": "did:plc:tkwnmbqw2baqcvs5dtyxc75v",
+                    "type": 2,
+                    "utter": "今のところ消えてないからセーフ\n早く帰ってねるuwu"
+                },
+                {
+                    "author": "did:plc:3vewok52ieeyql7yvaxqqhut",
+                    "type": 3,
+                    "utter": "消えそうになったら言ってね、いつでも慰めてあげよう(   >ω<)ヾ(･ω･^ヾ)ﾜｼｬﾜｼｬ"
+                }
+            ],
+            "uri": "at://did:plc:3vewok52ieeyql7yvaxqqhut/app.bsky.feed.post/3lbgln2ltk22w",
+            "label": [
+                0.1465994119644165,
+                0.009886621497571468,
+                0.7997620105743408,
+                0.0007435763254761696,
+                0.0008612460223957896,
+                0.001809101551771164,
+                0.0015703517710790038,
+                0.0012654665624722838
+            ]
+        }
+    ]
+}

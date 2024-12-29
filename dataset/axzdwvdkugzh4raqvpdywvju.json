@@ -1,0 +1,424 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 1,
+                    "utter": "イク"
+                },
+                {
+                    "author": "did:plc:76bohlc6lq4k3am4qes7ys4e",
+                    "type": 2,
+                    "utter": "イク"
+                },
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 3,
+                    "utter": "イク"
+                }
+            ],
+            "uri": "at://did:plc:axzdwvdkugzh4raqvpdywvju/app.bsky.feed.post/3l72vb3xflq2m",
+            "label": [
+                0.9538126587867737,
+                0.008634405210614204,
+                0.012146477587521076,
+                0.006214456632733345,
+                0.0023977640084922314,
+                0.0053631458431482315,
+                0.008735167793929577,
+                0.003476672573015094
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 1,
+                    "utter": "イク"
+                },
+                {
+                    "author": "did:plc:76bohlc6lq4k3am4qes7ys4e",
+                    "type": 2,
+                    "utter": "イク"
+                },
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 3,
+                    "utter": "イク"
+                }
+            ],
+            "uri": "at://did:plc:axzdwvdkugzh4raqvpdywvju/app.bsky.feed.post/3l74innjkbj2r",
+            "label": [
+                0.9538126587867737,
+                0.008634405210614204,
+                0.012146477587521076,
+                0.006214456632733345,
+                0.0023977640084922314,
+                0.0053631458431482315,
+                0.008735167793929577,
+                0.003476672573015094
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 1,
+                    "utter": "イク"
+                },
+                {
+                    "author": "did:plc:76bohlc6lq4k3am4qes7ys4e",
+                    "type": 2,
+                    "utter": "イク"
+                },
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 3,
+                    "utter": "イク"
+                }
+            ],
+            "uri": "at://did:plc:axzdwvdkugzh4raqvpdywvju/app.bsky.feed.post/3l77tzj6raw22",
+            "label": [
+                0.9538126587867737,
+                0.008634405210614204,
+                0.012146477587521076,
+                0.006214456632733345,
+                0.0023977640084922314,
+                0.0053631458431482315,
+                0.008735167793929577,
+                0.003476672573015094
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 1,
+                    "utter": "イク"
+                },
+                {
+                    "author": "did:plc:76bohlc6lq4k3am4qes7ys4e",
+                    "type": 2,
+                    "utter": "イク"
+                },
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 3,
+                    "utter": "イク"
+                }
+            ],
+            "uri": "at://did:plc:axzdwvdkugzh4raqvpdywvju/app.bsky.feed.post/3l7apxh32zy22",
+            "label": [
+                0.9538126587867737,
+                0.008634405210614204,
+                0.012146477587521076,
+                0.006214456632733345,
+                0.0023977640084922314,
+                0.0053631458431482315,
+                0.008735167793929577,
+                0.003476672573015094
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 1,
+                    "utter": "イク"
+                },
+                {
+                    "author": "did:plc:76bohlc6lq4k3am4qes7ys4e",
+                    "type": 2,
+                    "utter": "イク"
+                },
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 3,
+                    "utter": "イク"
+                }
+            ],
+            "uri": "at://did:plc:axzdwvdkugzh4raqvpdywvju/app.bsky.feed.post/3l7aq24g57j2a",
+            "label": [
+                0.9538126587867737,
+                0.008634405210614204,
+                0.012146477587521076,
+                0.006214456632733345,
+                0.0023977640084922314,
+                0.0053631458431482315,
+                0.008735167793929577,
+                0.003476672573015094
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 1,
+                    "utter": "イク"
+                },
+                {
+                    "author": "did:plc:76bohlc6lq4k3am4qes7ys4e",
+                    "type": 2,
+                    "utter": "イク"
+                },
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 3,
+                    "utter": "イク"
+                }
+            ],
+            "uri": "at://did:plc:axzdwvdkugzh4raqvpdywvju/app.bsky.feed.post/3l74insfzbq2z",
+            "label": [
+                0.9538126587867737,
+                0.008634405210614204,
+                0.012146477587521076,
+                0.006214456632733345,
+                0.0023977640084922314,
+                0.0053631458431482315,
+                0.008735167793929577,
+                0.003476672573015094
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 1,
+                    "utter": "イク"
+                },
+                {
+                    "author": "did:plc:76bohlc6lq4k3am4qes7ys4e",
+                    "type": 2,
+                    "utter": "イク"
+                },
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 3,
+                    "utter": "イク"
+                }
+            ],
+            "uri": "at://did:plc:axzdwvdkugzh4raqvpdywvju/app.bsky.feed.post/3l77tzokjtf2r",
+            "label": [
+                0.9538126587867737,
+                0.008634405210614204,
+                0.012146477587521076,
+                0.006214456632733345,
+                0.0023977640084922314,
+                0.0053631458431482315,
+                0.008735167793929577,
+                0.003476672573015094
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 1,
+                    "utter": "イク"
+                },
+                {
+                    "author": "did:plc:76bohlc6lq4k3am4qes7ys4e",
+                    "type": 2,
+                    "utter": "イク"
+                },
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 3,
+                    "utter": "イク"
+                }
+            ],
+            "uri": "at://did:plc:axzdwvdkugzh4raqvpdywvju/app.bsky.feed.post/3l7apxmhnqr2l",
+            "label": [
+                0.9538126587867737,
+                0.008634405210614204,
+                0.012146477587521076,
+                0.006214456632733345,
+                0.0023977640084922314,
+                0.0053631458431482315,
+                0.008735167793929577,
+                0.003476672573015094
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 1,
+                    "utter": "イク"
+                },
+                {
+                    "author": "did:plc:76bohlc6lq4k3am4qes7ys4e",
+                    "type": 2,
+                    "utter": "イク"
+                },
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 3,
+                    "utter": "イク"
+                }
+            ],
+            "uri": "at://did:plc:axzdwvdkugzh4raqvpdywvju/app.bsky.feed.post/3l7aq2ajt3m2r",
+            "label": [
+                0.9538126587867737,
+                0.008634405210614204,
+                0.012146477587521076,
+                0.006214456632733345,
+                0.0023977640084922314,
+                0.0053631458431482315,
+                0.008735167793929577,
+                0.003476672573015094
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 1,
+                    "utter": "夏休みの予定、なんと今日しか無いです"
+                },
+                {
+                    "author": "did:plc:76bohlc6lq4k3am4qes7ys4e",
+                    "type": 2,
+                    "utter": "ポテト屋さんいかん？"
+                },
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 3,
+                    "utter": "え！！！！！！！！！！　いいね〜〜〜〜〜〜〜〜〜〜！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！"
+                }
+            ],
+            "uri": "at://did:plc:axzdwvdkugzh4raqvpdywvju/app.bsky.feed.post/3kzmbmeiznb2q",
+            "label": [
+                0.783303439617157,
+                0.002935699885711074,
+                0.005416627041995525,
+                0.16929981112480164,
+                0.0011612323578447104,
+                0.000784729199949652,
+                0.0016321238363161683,
+                0.0014717549784108996
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 1,
+                    "utter": "え！！！！！！！！！！　いいね〜〜〜〜〜〜〜〜〜〜！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！"
+                },
+                {
+                    "author": "did:plc:76bohlc6lq4k3am4qes7ys4e",
+                    "type": 2,
+                    "utter": "キタキタキタキタ"
+                },
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 3,
+                    "utter": "いつ？？？？？？？？？？"
+                }
+            ],
+            "uri": "at://did:plc:axzdwvdkugzh4raqvpdywvju/app.bsky.feed.post/3kzsy2kwfvn2p",
+            "label": [
+                0.26779109239578247,
+                0.026622068136930466,
+                0.6948946714401245,
+                0.013094722293317318,
+                0.0022503286600112915,
+                0.01692727953195572,
+                0.004356431774795055,
+                0.0037896158173680305
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 1,
+                    "utter": "いつ？？？？？？？？？？"
+                },
+                {
+                    "author": "did:plc:76bohlc6lq4k3am4qes7ys4e",
+                    "type": 2,
+                    "utter": "明日か明後日なら可能\nそれか再来週の土日"
+                },
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 3,
+                    "utter": "なんと全部暇です"
+                }
+            ],
+            "uri": "at://did:plc:axzdwvdkugzh4raqvpdywvju/app.bsky.feed.post/3kzv5vgjv5i22",
+            "label": [
+                0.01958381198346615,
+                0.9283782839775085,
+                0.0017747265519574285,
+                0.013195392675697803,
+                0.0011758663458749652,
+                0.006814028136432171,
+                0.03375193104147911,
+                0.000629755319096148
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 1,
+                    "utter": "なんと全部暇です"
+                },
+                {
+                    "author": "did:plc:76bohlc6lq4k3am4qes7ys4e",
+                    "type": 2,
+                    "utter": "明日予定入りそうだから再来週だと嬉しいかも"
+                },
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 3,
+                    "utter": "多分暇！！！！！！！！！！"
+                }
+            ],
+            "uri": "at://did:plc:axzdwvdkugzh4raqvpdywvju/app.bsky.feed.post/3kzzutab3kc22",
+            "label": [
+                0.2555830776691437,
+                0.36104509234428406,
+                0.012101332657039165,
+                0.02344522811472416,
+                0.008933220990002155,
+                0.04830591753125191,
+                0.3461591303348541,
+                0.008687173016369343
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 1,
+                    "utter": "多分暇！！！！！！！！！！"
+                },
+                {
+                    "author": "did:plc:76bohlc6lq4k3am4qes7ys4e",
+                    "type": 2,
+                    "utter": "いいね👍\n誰か呼ぶ？"
+                },
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 3,
+                    "utter": "しのれんさん暇やろ！！！！！！！！！！"
+                }
+            ],
+            "uri": "at://did:plc:axzdwvdkugzh4raqvpdywvju/app.bsky.feed.post/3l22gkdyeyc2y",
+            "label": [
+                0.10168252885341644,
+                0.050921227782964706,
+                0.7265855669975281,
+                0.05839797109365463,
+                0.014101231470704079,
+                0.009000353515148163,
+                0.018616952002048492,
+                0.006537604611366987
+            ]
+        }
+    ]
+}

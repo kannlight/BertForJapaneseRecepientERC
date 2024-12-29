@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:svcabcchbcz7diorhxozvpg7",
+                    "type": 1,
+                    "utter": "あー、これ、人に駐車手伝ってもらうのがダメかもしれん。もうちょい右！とか後ろ！とか言われると頭がパンクする。オカン轢き殺すとこだった。🙂……"
+                },
+                {
+                    "author": "did:plc:ntj2wyiwldvq723gfkzqjdon",
+                    "type": 2,
+                    "utter": "アラウンドビューモニターがめちゃくちゃ楽です…モニター優先で車種選びました"
+                },
+                {
+                    "author": "did:plc:svcabcchbcz7diorhxozvpg7",
+                    "type": 3,
+                    "utter": "なるほど……バックモニター見てると頭おかしくなりそうになって使ってないんですがいけますかね……‍ｗｗｗ‍ｗｗ"
+                }
+            ],
+            "uri": "at://did:plc:svcabcchbcz7diorhxozvpg7/app.bsky.feed.post/3lcfc4jlgks2f",
+            "label": [
+                0.06327537447214127,
+                0.007320917211472988,
+                0.3167346715927124,
+                0.009420791640877724,
+                0.0008739599725231528,
+                0.5665993094444275,
+                0.0017059823730960488,
+                0.0019412466790527105
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:svcabcchbcz7diorhxozvpg7",
+                    "type": 1,
+                    "utter": "あーー、これ系のスマホ駐車ゲームやったんですが（駐車が雑魚過ぎて練習してました）ダメでした。‍ｗｗｗ‍ｗｗ‍ｗｗｗ‍ｗｗ目視！目視目視ーーっ！(T＿T)\n\nてかこれ日産？だけ？なんですかね……？"
+                },
+                {
+                    "author": "did:plc:ezscznpwqxfk7jnerbg3agqp",
+                    "type": 2,
+                    "utter": "めちゃくちゃ横からですが、各社似たようなモニターついてるやつは付いてます！（名称が違ったりします）\nカメラとかセンサーとかいっぱい付いてる車にはある（と思う）"
+                },
+                {
+                    "author": "did:plc:svcabcchbcz7diorhxozvpg7",
+                    "type": 3,
+                    "utter": "うちはバックモニター？がついてるんですが、私の脳がアホすぎてカオスになるので目視してますヽ(=° ∀､° =)ノ……"
+                }
+            ],
+            "uri": "at://did:plc:svcabcchbcz7diorhxozvpg7/app.bsky.feed.post/3lcfkterrzs2f",
+            "label": [
+                0.12458889186382294,
+                0.2012338787317276,
+                0.023306583985686302,
+                0.008094162680208683,
+                0.00427410751581192,
+                0.6971777081489563,
+                0.04653752222657204,
+                0.005609126761555672
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:svcabcchbcz7diorhxozvpg7",
+                    "type": 1,
+                    "utter": "うちはバックモニター？がついてるんですが、私の脳がアホすぎてカオスになるので目視してますヽ(=° ∀､° =)ノ……"
+                },
+                {
+                    "author": "did:plc:ezscznpwqxfk7jnerbg3agqp",
+                    "type": 2,
+                    "utter": "私もバックモニターあるけど基本目視です！今日ちゃんと駐車できてえらい！！👏👏👏私は前進駐車が苦手です…"
+                },
+                {
+                    "author": "did:plc:svcabcchbcz7diorhxozvpg7",
+                    "type": 3,
+                    "utter": "前向き、出られなくないですか……？"
+                }
+            ],
+            "uri": "at://did:plc:svcabcchbcz7diorhxozvpg7/app.bsky.feed.post/3lcfrgmskok2f",
+            "label": [
+                0.003912652377039194,
+                0.919277012348175,
+                0.0019604081753641367,
+                0.007421818561851978,
+                0.0032001568470150232,
+                0.054208189249038696,
+                0.010102572850883007,
+                0.0005601253360509872
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:svcabcchbcz7diorhxozvpg7",
+                    "type": 1,
+                    "utter": "これ全部はやばくないですか？‍ｗｗｗ‍ｗｗ‍ｗｗｗ‍ｗｗ"
+                },
+                {
+                    "author": "did:plc:ilsyluda2ek7zviuxr7k23yd",
+                    "type": 2,
+                    "utter": "（１キロ近くつけてた人）"
+                },
+                {
+                    "author": "did:plc:svcabcchbcz7diorhxozvpg7",
+                    "type": 3,
+                    "utter": "やっば！！！私言っても500gくらいだったと思います。自転車乗る時にポケットから重みで落ちちゃってやめました……。もはや筋トレでは？"
+                }
+            ],
+            "uri": "at://did:plc:svcabcchbcz7diorhxozvpg7/app.bsky.feed.post/3lcfzzgdumk2j",
+            "label": [
+                0.2040458470582962,
+                0.025391748175024986,
+                0.042848117649555206,
+                0.6669196486473083,
+                0.00135828519705683,
+                0.014239777810871601,
+                0.003429828677326441,
+                0.004522294737398624
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:svcabcchbcz7diorhxozvpg7",
+                    "type": 1,
+                    "utter": "やっば！！！私言っても500gくらいだったと思います。自転車乗る時にポケットから重みで落ちちゃってやめました……。もはや筋トレでは？"
+                },
+                {
+                    "author": "did:plc:ilsyluda2ek7zviuxr7k23yd",
+                    "type": 2,
+                    "utter": "ふつうにポケット無理でサブバッグに入れてました……(っ＾ω＾c)"
+                },
+                {
+                    "author": "did:plc:svcabcchbcz7diorhxozvpg7",
+                    "type": 3,
+                    "utter": "コンパクトさがーーー！\nあのあのあの〜わはー神的にこめはどれが似合いますか！？！？！？！？😂"
+                }
+            ],
+            "uri": "at://did:plc:svcabcchbcz7diorhxozvpg7/app.bsky.feed.post/3lcg27oidy22j",
+            "label": [
+                0.7599827647209167,
+                0.009458203800022602,
+                0.22238539159297943,
+                0.0034329986665397882,
+                0.0009477919666096568,
+                0.0027525785844773054,
+                0.0017092606285586953,
+                0.0023499932140111923
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:svcabcchbcz7diorhxozvpg7",
+                    "type": 1,
+                    "utter": "コンパクトさがーーー！\nあのあのあの〜わはー神的にこめはどれが似合いますか！？！？！？！？😂"
+                },
+                {
+                    "author": "did:plc:ilsyluda2ek7zviuxr7k23yd",
+                    "type": 2,
+                    "utter": "教皇ワロタ\n魔術師気になるとか言ってなかったっけ"
+                },
+                {
+                    "author": "did:plc:svcabcchbcz7diorhxozvpg7",
+                    "type": 3,
+                    "utter": "せっかくタロットカードの絵柄こんなに作られたので、ロンTの袖にタロットカードの絵柄並べて、胸にワンポイントわはーとか背中に裏面の絵柄ドーンとかどうですか……！？すっごく欲しいです。"
+                }
+            ],
+            "uri": "at://did:plc:svcabcchbcz7diorhxozvpg7/app.bsky.feed.post/3lcg2gs2efc2j",
+            "label": [
+                0.02028655633330345,
+                0.006797940470278263,
+                0.9754627346992493,
+                0.00450931116938591,
+                0.002256432082504034,
+                0.003308703191578388,
+                0.0023312843404710293,
+                0.0020657384302467108
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:svcabcchbcz7diorhxozvpg7",
+                    "type": 1,
+                    "utter": "せっかくタロットカードの絵柄こんなに作られたので、ロンTの袖にタロットカードの絵柄並べて、胸にワンポイントわはーとか背中に裏面の絵柄ドーンとかどうですか……！？すっごく欲しいです。"
+                },
+                {
+                    "author": "did:plc:ilsyluda2ek7zviuxr7k23yd",
+                    "type": 2,
+                    "utter": "背中怪しくていいな〜〜〜(っ＾ω＾c)\n袖プリントできんのかな　わからんけどたしかになんか全部並べたデザインの何かあってもいいかもしれない！"
+                },
+                {
+                    "author": "did:plc:svcabcchbcz7diorhxozvpg7",
+                    "type": 3,
+                    "utter": "suzuri袖プリント行けそう……！"
+                }
+            ],
+            "uri": "at://did:plc:svcabcchbcz7diorhxozvpg7/app.bsky.feed.post/3lcg2pyewwc2j",
+            "label": [
+                0.7523134350776672,
+                0.0020345314405858517,
+                0.28055641055107117,
+                0.0018379864050075412,
+                0.0006536426371894777,
+                0.0013119434006512165,
+                0.0006969167734496295,
+                0.0010694217635318637
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:svcabcchbcz7diorhxozvpg7",
+                    "type": 1,
+                    "utter": "コンパクトさがーーー！\nあのあのあの〜わはー神的にこめはどれが似合いますか！？！？！？！？😂"
+                },
+                {
+                    "author": "did:plc:ilsyluda2ek7zviuxr7k23yd",
+                    "type": 2,
+                    "utter": "教皇ワロタ\n魔術師気になるとか言ってなかったっけ"
+                },
+                {
+                    "author": "did:plc:svcabcchbcz7diorhxozvpg7",
+                    "type": 3,
+                    "utter": "慈悲好きだから………………\n魔術師も気になる！でもデザイン的にアクキーなら太陽がいいなぁとかとか……"
+                }
+            ],
+            "uri": "at://did:plc:svcabcchbcz7diorhxozvpg7/app.bsky.feed.post/3lcg2dyo7y22j",
+            "label": [
+                0.039563022553920746,
+                0.006049205083400011,
+                0.9606325030326843,
+                0.0024455355014652014,
+                0.001454722136259079,
+                0.0026331322733312845,
+                0.0016573084285482764,
+                0.0017177141271531582
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:svcabcchbcz7diorhxozvpg7",
+                    "type": 1,
+                    "utter": "慈悲好きだから………………\n魔術師も気になる！でもデザイン的にアクキーなら太陽がいいなぁとかとか……"
+                },
+                {
+                    "author": "did:plc:ilsyluda2ek7zviuxr7k23yd",
+                    "type": 2,
+                    "utter": "たしかに〜〜これ背景色？みたいなの透明に抜いたから絵のときとはまたちょっと違った感じだしねー"
+                },
+                {
+                    "author": "did:plc:svcabcchbcz7diorhxozvpg7",
+                    "type": 3,
+                    "utter": "グラスも抜けるからいい感じなのでは！？とsuzuriラインナップ見てて思いました。面倒なこと言っちゃってすみません。色んなグッズとして日常使いにわはーを紛れ込まさせて欲しいなって……。"
+                }
+            ],
+            "uri": "at://did:plc:svcabcchbcz7diorhxozvpg7/app.bsky.feed.post/3lcg2oilhks2j",
+            "label": [
+                0.02125958912074566,
+                0.007520685903728008,
+                0.9740119576454163,
+                0.003652311395853758,
+                0.0021281070075929165,
+                0.0031450733076781034,
+                0.002254716120660305,
+                0.001992276404052973
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:svcabcchbcz7diorhxozvpg7",
+                    "type": 1,
+                    "utter": "遠隔呪いかけておきます。\n姐さんは美味しいもの食べてください！！！！！"
+                },
+                {
+                    "author": "did:plc:dl44pcbyijg24zhxlfymczty",
+                    "type": 2,
+                    "utter": "こめちゃん、ありがとう。\nみんな優しいから泣いちゃったよー！\n泣いた分美味しいカロリー摂取するね。"
+                },
+                {
+                    "author": "did:plc:svcabcchbcz7diorhxozvpg7",
+                    "type": 3,
+                    "utter": "まさか、うわさの謎の白液体令和バージョンを……！！！？！？\nそんなのやめてケーキにしてくださいね！！冬の味覚にしてね……マヨ"
+                }
+            ],
+            "uri": "at://did:plc:svcabcchbcz7diorhxozvpg7/app.bsky.feed.post/3lcffileowk2f",
+            "label": [
+                0.014014645479619503,
+                0.009557666257023811,
+                0.02420971728861332,
+                0.9578570127487183,
+                0.0032510061282664537,
+                0.010499429889023304,
+                0.0038960420060902834,
+                0.002022846369072795
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:svcabcchbcz7diorhxozvpg7",
+                    "type": 1,
+                    "utter": "まさか、うわさの謎の白液体令和バージョンを……！！！？！？\nそんなのやめてケーキにしてくださいね！！冬の味覚にしてね……マヨ"
+                },
+                {
+                    "author": "did:plc:dl44pcbyijg24zhxlfymczty",
+                    "type": 2,
+                    "utter": "謎の白液体が…手元に…ない！！\n買いに行かないと！！w"
+                },
+                {
+                    "author": "did:plc:svcabcchbcz7diorhxozvpg7",
+                    "type": 3,
+                    "utter": "イマダ先生にテリーヌにしてもらわねば……！！！"
+                }
+            ],
+            "uri": "at://did:plc:svcabcchbcz7diorhxozvpg7/app.bsky.feed.post/3lcfg6o7okc2f",
+            "label": [
+                0.03880897909402847,
+                0.0060525028966367245,
+                0.9529505968093872,
+                0.003025599056854844,
+                0.0013427934609353542,
+                0.0025072575081139803,
+                0.001170838950201869,
+                0.0014261574251577258
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:svcabcchbcz7diorhxozvpg7",
+                    "type": 1,
+                    "utter": "イマダ先生にテリーヌにしてもらわねば……！！！"
+                },
+                {
+                    "author": "did:plc:dl44pcbyijg24zhxlfymczty",
+                    "type": 2,
+                    "utter": "ご褒美！！！！"
+                },
+                {
+                    "author": "did:plc:svcabcchbcz7diorhxozvpg7",
+                    "type": 3,
+                    "utter": "違いない！(*•̀ㅂ•́)و✧"
+                }
+            ],
+            "uri": "at://did:plc:svcabcchbcz7diorhxozvpg7/app.bsky.feed.post/3lcfgcnqpd22f",
+            "label": [
+                0.7164602875709534,
+                0.0021704859100282192,
+                0.28259700536727905,
+                0.0012667623814195395,
+                0.0014615023974329233,
+                0.0012810718035325408,
+                0.0010933997109532356,
+                0.0018122594337910414
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:svcabcchbcz7diorhxozvpg7",
+                    "type": 1,
+                    "utter": "違いない！(*•̀ㅂ•́)و✧"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 2,
+                    "utter": "テリーヌになりたい"
+                },
+                {
+                    "author": "did:plc:svcabcchbcz7diorhxozvpg7",
+                    "type": 3,
+                    "utter": "いいですよ。\nうしだチルテリーヌさん。"
+                }
+            ],
+            "uri": "at://did:plc:svcabcchbcz7diorhxozvpg7/app.bsky.feed.post/3lcfgfeyzss2f",
+            "label": [
+                0.9824662208557129,
+                0.002614933531731367,
+                0.009050755761563778,
+                0.0030137943103909492,
+                0.0018181240884587169,
+                0.002093435963615775,
+                0.002832782920449972,
+                0.0031059507746249437
+            ]
+        }
+    ]
+}

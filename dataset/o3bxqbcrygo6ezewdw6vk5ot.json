@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o3bxqbcrygo6ezewdw6vk5ot",
+                    "type": 1,
+                    "utter": "凄いよく寝た～感あるのに体痛いのは筋肉痛なのか新マットレスのせいなのかはわからんがとてもよく眠れた(笑)"
+                },
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 2,
+                    "utter": "マットレス、慣れるまで身体痛むことはあるあるです！←某有名寝具メーカー勤務歴ありwww"
+                },
+                {
+                    "author": "did:plc:o3bxqbcrygo6ezewdw6vk5ot",
+                    "type": 3,
+                    "utter": "そうなの！？\nなるほど、慣れるまではﾌﾑ((¯ω¯*))ﾌﾑ"
+                }
+            ],
+            "uri": "at://did:plc:o3bxqbcrygo6ezewdw6vk5ot/app.bsky.feed.post/3lbxsigrpb22f",
+            "label": [
+                0.7845365405082703,
+                0.005157175939530134,
+                0.08568207919597626,
+                0.04455165937542915,
+                0.000870022049639374,
+                0.003120201174169779,
+                0.0025248154997825623,
+                0.003529987297952175
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o3bxqbcrygo6ezewdw6vk5ot",
+                    "type": 1,
+                    "utter": "そうなの！？\nなるほど、慣れるまではﾌﾑ((¯ω¯*))ﾌﾑ"
+                },
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 2,
+                    "utter": "姿勢悪くなってるの矯正しようとするからね🤔"
+                },
+                {
+                    "author": "did:plc:o3bxqbcrygo6ezewdw6vk5ot",
+                    "type": 3,
+                    "utter": "あ〜なるほど、、\nほんと沈みきったマットで寝てたから変な寝そうだったと思うwwww"
+                }
+            ],
+            "uri": "at://did:plc:o3bxqbcrygo6ezewdw6vk5ot/app.bsky.feed.post/3lbyeuwwv2c2t",
+            "label": [
+                0.07923723012208939,
+                0.018068866804242134,
+                0.005146193318068981,
+                0.5162996649742126,
+                0.0011008861474692822,
+                0.3146462142467499,
+                0.004055381752550602,
+                0.0020420250948518515
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o3bxqbcrygo6ezewdw6vk5ot",
+                    "type": 1,
+                    "utter": "あ〜なるほど、、\nほんと沈みきったマットで寝てたから変な寝そうだったと思うwwww"
+                },
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 2,
+                    "utter": "しばらくしたら大丈夫になるはず✨✨✨"
+                },
+                {
+                    "author": "did:plc:o3bxqbcrygo6ezewdw6vk5ot",
+                    "type": 3,
+                    "utter": "な〜る～\nだからこの前おばあちゃん家のベッドでも体バキバキになったのかw歳かと思ったわwwww"
+                }
+            ],
+            "uri": "at://did:plc:o3bxqbcrygo6ezewdw6vk5ot/app.bsky.feed.post/3lbysolt5cs2q",
+            "label": [
+                0.019416261464357376,
+                0.010533091612160206,
+                0.009152737446129322,
+                0.9632319808006287,
+                0.003999155480414629,
+                0.007986778393387794,
+                0.005781937390565872,
+                0.002562684938311577
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o3bxqbcrygo6ezewdw6vk5ot",
+                    "type": 1,
+                    "utter": "な〜る～\nだからこの前おばあちゃん家のベッドでも体バキバキになったのかw歳かと思ったわwwww"
+                },
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 2,
+                    "utter": "そうかも🤣🤣🤣\n単純に合わない←硬すぎるとかね？\nもあるとは思うが、マットレスも寝てると自分の形になってくしね！！\nまぁ、子供が痛くならないのはそもそも姿勢がおかしくなってないから...てことを考えたら歳とも言えるかも🤣"
+                },
+                {
+                    "author": "did:plc:o3bxqbcrygo6ezewdw6vk5ot",
+                    "type": 3,
+                    "utter": "あ、でも家に来た子はちょうどいい硬さだよ\nばあちゃん家のは硬かった(笑)\n\n歳なのにずっと変な体勢で寝てた反動もあるかな😂😂😂"
+                }
+            ],
+            "uri": "at://did:plc:o3bxqbcrygo6ezewdw6vk5ot/app.bsky.feed.post/3lbz5cogejc2k",
+            "label": [
+                0.1169331818819046,
+                0.021135585382580757,
+                0.01909375563263893,
+                0.8373864889144897,
+                0.0013655408984050155,
+                0.04693160206079483,
+                0.005328635219484568,
+                0.003654142376035452
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o3bxqbcrygo6ezewdw6vk5ot",
+                    "type": 1,
+                    "utter": "あ、でも家に来た子はちょうどいい硬さだよ\nばあちゃん家のは硬かった(笑)\n\n歳なのにずっと変な体勢で寝てた反動もあるかな😂😂😂"
+                },
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 2,
+                    "utter": "ホテルとかも痛くなるとこあるからね😂😂😂アスリートがマット持ち歩くの分かるわwww"
+                },
+                {
+                    "author": "did:plc:o3bxqbcrygo6ezewdw6vk5ot",
+                    "type": 3,
+                    "utter": "そうなのか、、ホテルとかはあんまり感じたこと無かった😂若い時に泊まっただけだからかなw"
+                }
+            ],
+            "uri": "at://did:plc:o3bxqbcrygo6ezewdw6vk5ot/app.bsky.feed.post/3lc2fsriwws2i",
+            "label": [
+                0.025835471227765083,
+                0.007853198796510696,
+                0.019159488379955292,
+                0.9600164890289307,
+                0.0027715442702174187,
+                0.006227315403521061,
+                0.004344848450273275,
+                0.002844280796125531
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o3bxqbcrygo6ezewdw6vk5ot",
+                    "type": 1,
+                    "utter": "X簡単に18ｷﾝ動画流れてくんのホントやめて欲しい、会社の垢でそれやられてビクってなった\nなんか設定できないのか？と思ったけど何もなし😐詰み\n\nやっぱXよくないな〜"
+                },
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 2,
+                    "utter": "えいたろと私、原因同じ人な気がwww"
+                },
+                {
+                    "author": "did:plc:o3bxqbcrygo6ezewdw6vk5ot",
+                    "type": 3,
+                    "utter": "( ˙᷄ỏ˙᷅ )oh......まじか、、\nあ、でもトレンドに入ってるニュースとか見てるとなんか出てくるのはニュースとかと関係ないタグつけて流してる不埒な輩もいるんだと思う。それもモザイク無しだからね…これ子供がみたらどうすんだって毎回心配になる"
+                }
+            ],
+            "uri": "at://did:plc:o3bxqbcrygo6ezewdw6vk5ot/app.bsky.feed.post/3lbrlbsix322w",
+            "label": [
+                0.010308923199772835,
+                0.022386843338608742,
+                0.006177147850394249,
+                0.024704456329345703,
+                0.009816971607506275,
+                0.9341466426849365,
+                0.015673495829105377,
+                0.0030936982948333025
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o3bxqbcrygo6ezewdw6vk5ot",
+                    "type": 1,
+                    "utter": "( ˙᷄ỏ˙᷅ )oh......まじか、、\nあ、でもトレンドに入ってるニュースとか見てるとなんか出てくるのはニュースとかと関係ないタグつけて流してる不埒な輩もいるんだと思う。それもモザイク無しだからね…これ子供がみたらどうすんだって毎回心配になる"
+                },
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 2,
+                    "utter": "Xなんて、やってる子は小学生でもやってるしね💦\nSNS禁止したい気持ちが分かる。\n昔みたいに落ちてたエロ本回し読みとかある意味健全（ではないwww）だったなと…( ´-`)"
+                },
+                {
+                    "author": "did:plc:o3bxqbcrygo6ezewdw6vk5ot",
+                    "type": 3,
+                    "utter": "いや、でもそっちの方が健全だったかもね😂もう今簡単に見れすぎてきまづい🤦‍♀️"
+                }
+            ],
+            "uri": "at://did:plc:o3bxqbcrygo6ezewdw6vk5ot/app.bsky.feed.post/3lbtpwvvas225",
+            "label": [
+                0.09143322706222534,
+                0.5394533276557922,
+                0.0076072984375059605,
+                0.045145273208618164,
+                0.001903748488985002,
+                0.446900874376297,
+                0.010417518205940723,
+                0.0022550486028194427
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o3bxqbcrygo6ezewdw6vk5ot",
+                    "type": 1,
+                    "utter": "いや、でもそっちの方が健全だったかもね😂もう今簡単に見れすぎてきまづい🤦‍♀️"
+                },
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 2,
+                    "utter": "開いただけでそういうの現れるのはマジでどうなのか...\nそりゃ報告しても違反無しって言うよね...なんなら広告で流してくるんだもん"
+                },
+                {
+                    "author": "did:plc:o3bxqbcrygo6ezewdw6vk5ot",
+                    "type": 3,
+                    "utter": "広告で流すとかホント論外\nXもう歌舞伎町みたいwwww荒れ度がやばいな🤦‍♀️"
+                }
+            ],
+            "uri": "at://did:plc:o3bxqbcrygo6ezewdw6vk5ot/app.bsky.feed.post/3lbubhekrbs2w",
+            "label": [
+                0.008455400355160236,
+                0.07108199596405029,
+                0.0006321073742583394,
+                0.21220959722995758,
+                0.006183275021612644,
+                0.4132114350795746,
+                0.08065522462129593,
+                0.0011817326303571463
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o3bxqbcrygo6ezewdw6vk5ot",
+                    "type": 1,
+                    "utter": "広告で流すとかホント論外\nXもう歌舞伎町みたいwwww荒れ度がやばいな🤦‍♀️"
+                },
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 2,
+                    "utter": "見る専にするしかないのかな😇😇😇それすら間引かれるがwww\nほんと公式達動いてくれwww"
+                },
+                {
+                    "author": "did:plc:o3bxqbcrygo6ezewdw6vk5ot",
+                    "type": 3,
+                    "utter": "私は、見る専なら他の垢あるから、もう見限ろうかなーって見限り装置( ｡･ω･｡)ﾉ 凸ﾎﾟﾁｯっとなってして🦋だけで活動しようかなと思ってる"
+                }
+            ],
+            "uri": "at://did:plc:o3bxqbcrygo6ezewdw6vk5ot/app.bsky.feed.post/3lbvqfwt3ns2t",
+            "label": [
+                0.05022088810801506,
+                0.005501061212271452,
+                0.9485706686973572,
+                0.0017770841950550675,
+                0.0014590797945857048,
+                0.0032599742989987135,
+                0.0035639717243611813,
+                0.0025362728629261255
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o3bxqbcrygo6ezewdw6vk5ot",
+                    "type": 1,
+                    "utter": "私は、見る専なら他の垢あるから、もう見限ろうかなーって見限り装置( ｡･ω･｡)ﾉ 凸ﾎﾟﾁｯっとなってして🦋だけで活動しようかなと思ってる"
+                },
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 2,
+                    "utter": "そうね💦\nここまで酷いとホントにwww"
+                },
+                {
+                    "author": "did:plc:o3bxqbcrygo6ezewdw6vk5ot",
+                    "type": 3,
+                    "utter": "ね…😅"
+                }
+            ],
+            "uri": "at://did:plc:o3bxqbcrygo6ezewdw6vk5ot/app.bsky.feed.post/3lbvsmxbiw22y",
+            "label": [
+                0.37941351532936096,
+                0.41362521052360535,
+                0.058784786611795425,
+                0.01980840228497982,
+                0.010199753567576408,
+                0.13235868513584137,
+                0.11969655007123947,
+                0.01265149936079979
+            ]
+        }
+    ]
+}

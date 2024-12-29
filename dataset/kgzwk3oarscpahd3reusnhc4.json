@@ -1,0 +1,664 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 1,
+                    "utter": "辛い…辛すぎます😭"
+                },
+                {
+                    "author": "did:plc:spuy3hb3adkbpzy4isqvnyci",
+                    "type": 2,
+                    "utter": "あのときの最高の言葉…記憶の彼方です"
+                },
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 3,
+                    "utter": "わかります…同じ言葉全く出ないんですよね…吐き出しちゃってもう帰ってこない🙃"
+                }
+            ],
+            "uri": "at://did:plc:kgzwk3oarscpahd3reusnhc4/app.bsky.feed.post/3lbtukfnjyk2i",
+            "label": [
+                0.008159087970852852,
+                0.9571243524551392,
+                0.0043916418217122555,
+                0.0036478701513260603,
+                0.0015916948905214667,
+                0.017339034005999565,
+                0.010940768755972385,
+                0.0007423922070302069
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 1,
+                    "utter": "わかります…同じ言葉全く出ないんですよね…吐き出しちゃってもう帰ってこない🙃"
+                },
+                {
+                    "author": "did:plc:spuy3hb3adkbpzy4isqvnyci",
+                    "type": 2,
+                    "utter": "そうなんですよ\n手繰り寄せても同じ言葉は出てこないし、似た言葉になったかも思い出せず、ピタッとはまる感じが帰ってこないの…つらい…🙃"
+                },
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 3,
+                    "utter": "わかりみしかないです…ぅう…辛い…\nでもきっと新しく紡ぐのが一番なんですそう信じてる…"
+                }
+            ],
+            "uri": "at://did:plc:kgzwk3oarscpahd3reusnhc4/app.bsky.feed.post/3lbtxf4ryh22i",
+            "label": [
+                0.008423740044236183,
+                0.9722985625267029,
+                0.009427530691027641,
+                0.0033061045687645674,
+                0.0016052932478487492,
+                0.009496893733739853,
+                0.008465727791190147,
+                0.00108313316013664
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 1,
+                    "utter": "わかりみしかないです…ぅう…辛い…\nでもきっと新しく紡ぐのが一番なんですそう信じてる…"
+                },
+                {
+                    "author": "did:plc:spuy3hb3adkbpzy4isqvnyci",
+                    "type": 2,
+                    "utter": "そうですね、きっと神様がこれじゃないのにしろと言ってきたんですよね\nそう信じて言葉を紡ぎたいと思います。😂"
+                },
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 3,
+                    "utter": "書く時は涙で画面が見えないんですよね…くぅ\nでもきっとそうなので…信じましょ😭"
+                }
+            ],
+            "uri": "at://did:plc:kgzwk3oarscpahd3reusnhc4/app.bsky.feed.post/3lbv5uqez422j",
+            "label": [
+                0.030430495738983154,
+                0.9432522058486938,
+                0.018383873626589775,
+                0.003059717360883951,
+                0.0007123068207874894,
+                0.013340640813112259,
+                0.004782059695571661,
+                0.0011700429022312164
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 1,
+                    "utter": "書く時は涙で画面が見えないんですよね…くぅ\nでもきっとそうなので…信じましょ😭"
+                },
+                {
+                    "author": "did:plc:spuy3hb3adkbpzy4isqvnyci",
+                    "type": 2,
+                    "utter": "信じてポチポチ！とりあえず軽く読めるくらいには文章復活してきました😂"
+                },
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 3,
+                    "utter": "わー！お疲れ様です😭ラストまで頑張ってくださーい！！"
+                }
+            ],
+            "uri": "at://did:plc:kgzwk3oarscpahd3reusnhc4/app.bsky.feed.post/3lbw6jj6pjs2j",
+            "label": [
+                0.04201147332787514,
+                0.005597330164164305,
+                0.9598751664161682,
+                0.004493238870054483,
+                0.0018783906707540154,
+                0.0020214191172271967,
+                0.0016126112313941121,
+                0.0022092831786721945
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 1,
+                    "utter": "ほんと、ぬいちゃん達可愛いよね😭たまらーん！"
+                },
+                {
+                    "author": "did:plc:knwmnx7adcpgbvpk44hl3vpt",
+                    "type": 2,
+                    "utter": "浮さんの文がまたたまらんわ.....！なんなのトウとトウぬい.....かわいすぎる火花🤭"
+                },
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 3,
+                    "utter": "本当？嬉しいー！まだまだだけど楽しく朝一稼働しちゃった🤭\nばっちばちに火花発してるよねw"
+                }
+            ],
+            "uri": "at://did:plc:kgzwk3oarscpahd3reusnhc4/app.bsky.feed.post/3lbyp3jehgc2j",
+            "label": [
+                0.9850550889968872,
+                0.0026831654831767082,
+                0.006712740287184715,
+                0.0038678564596921206,
+                0.001871992484666407,
+                0.002808833261951804,
+                0.0029009045101702213,
+                0.002659388119354844
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 1,
+                    "utter": "本当？嬉しいー！まだまだだけど楽しく朝一稼働しちゃった🤭\nばっちばちに火花発してるよねw"
+                },
+                {
+                    "author": "did:plc:knwmnx7adcpgbvpk44hl3vpt",
+                    "type": 2,
+                    "utter": "ぬいたちのぬ！がいい〜！ちゃんとセリフ入っとる🤭うん本人たちばっちばちだけどこっちはまじで美味しいありがとう🤤"
+                },
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 3,
+                    "utter": "ぬぬーって喋るの可愛い…たまらん\nおみとｵﾐﾐは平和そうなのがまた美味しい😋"
+                }
+            ],
+            "uri": "at://did:plc:kgzwk3oarscpahd3reusnhc4/app.bsky.feed.post/3lbyqwsjoqc2j",
+            "label": [
+                0.9858967661857605,
+                0.002796782646328211,
+                0.0064866929315030575,
+                0.0038602857384830713,
+                0.0018920872826129198,
+                0.0028809302020817995,
+                0.0031796758994460106,
+                0.002894824370741844
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 1,
+                    "utter": "ぬぬーって喋るの可愛い…たまらん\nおみとｵﾐﾐは平和そうなのがまた美味しい😋"
+                },
+                {
+                    "author": "did:plc:knwmnx7adcpgbvpk44hl3vpt",
+                    "type": 2,
+                    "utter": "読んでてまじ可愛さにもだえてたわありがとう☺️\nたしかに！手の中で寝ませんか.......？←え"
+                },
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 3,
+                    "utter": "今回は摘んで起こしちゃったもんなぁ…とう様いない日じゃないと難しいねきっと🤣"
+                }
+            ],
+            "uri": "at://did:plc:kgzwk3oarscpahd3reusnhc4/app.bsky.feed.post/3lbzp2d5jbk2j",
+            "label": [
+                0.012317512184381485,
+                0.910918653011322,
+                0.004448730498552322,
+                0.003437569597736001,
+                0.001029238454066217,
+                0.06745637953281403,
+                0.0034500854089856148,
+                0.000720151758287102
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 1,
+                    "utter": "白い粉仲間…？！"
+                },
+                {
+                    "author": "did:plc:t2g457jcd6xbfeinq3ds24ll",
+                    "type": 2,
+                    "utter": "そう、白い粉…！！\nそれかダイレクトのピーチ味🍑←"
+                },
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 3,
+                    "utter": "まるかん？43gが常備…！\nピーチ美味しい？マンゴーも気になってるけどつい粉買っちゃってw"
+                }
+            ],
+            "uri": "at://did:plc:kgzwk3oarscpahd3reusnhc4/app.bsky.feed.post/3lbollp5r6c2h",
+            "label": [
+                0.9836200475692749,
+                0.0033281391952186823,
+                0.006181683856993914,
+                0.00536185409873724,
+                0.001333490596152842,
+                0.002509531332179904,
+                0.002129465341567993,
+                0.0028293663635849953
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 1,
+                    "utter": "まるかん？43gが常備…！\nピーチ美味しい？マンゴーも気になってるけどつい粉買っちゃってw"
+                },
+                {
+                    "author": "did:plc:t2g457jcd6xbfeinq3ds24ll",
+                    "type": 2,
+                    "utter": "丸缶はね、気管支に入りそうになったことあってwww\nダイレクトはすぐに溶けて楽！ピーチの味だから飲みやすい！\nマンゴーのトローチは舐め続けんといけんけ、我慢できない黒まめはよく噛んじゃう🤣"
+                },
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 3,
+                    "utter": "わかるwでもめっちゃ効くよ…ごふ\nえー今度試してみるか🤔\n舐め続けるの無理！私も噛んじゃうw"
+                }
+            ],
+            "uri": "at://did:plc:kgzwk3oarscpahd3reusnhc4/app.bsky.feed.post/3lbomcb2evk2h",
+            "label": [
+                0.13495300710201263,
+                0.004836381878703833,
+                0.7617976665496826,
+                0.052786119282245636,
+                0.0007870405679568648,
+                0.003644911339506507,
+                0.0010794710833579302,
+                0.00228104111738503
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 1,
+                    "utter": "わかるwでもめっちゃ効くよ…ごふ\nえー今度試してみるか🤔\n舐め続けるの無理！私も噛んじゃうw"
+                },
+                {
+                    "author": "did:plc:t2g457jcd6xbfeinq3ds24ll",
+                    "type": 2,
+                    "utter": "むせてるがなwww\n今日は朝から喉がやばかったから龍角散とお友達になるよ😇\nだよねー！！飴ちゃんも我慢できないから、この間はそれでべろ切った😂"
+                },
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 3,
+                    "utter": "たまに失敗するん…たまに…本当だよそんな目で見るなって！！\n私も死にそう🤝\nあーwめっちゃわかるわってなったw"
+                }
+            ],
+            "uri": "at://did:plc:kgzwk3oarscpahd3reusnhc4/app.bsky.feed.post/3lbr5hfqugc2i",
+            "label": [
+                0.0058185141533613205,
+                0.7906926274299622,
+                0.001400093431584537,
+                0.01886063627898693,
+                0.03228168189525604,
+                0.0368080735206604,
+                0.06568105518817902,
+                0.0010714613599702716
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 1,
+                    "utter": "たまに失敗するん…たまに…本当だよそんな目で見るなって！！\n私も死にそう🤝\nあーwめっちゃわかるわってなったw"
+                },
+                {
+                    "author": "did:plc:t2g457jcd6xbfeinq3ds24ll",
+                    "type": 2,
+                    "utter": "じーー(´◉ω◉` )www\n浮さんも喉使うって言ってたからね、気をつけてね🥺\nでしょー！だからちゃんと舐めるようにするってきめた！(フラグ)"
+                },
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 3,
+                    "utter": "本当だもん…たまに粉巻いて服が龍角散臭いくらいで…w\nありがとうー！もう毎日やばい白い粉摂取して頑張る（言い方）\n\nあーこれまたやるな🙂‍↕️"
+                }
+            ],
+            "uri": "at://did:plc:kgzwk3oarscpahd3reusnhc4/app.bsky.feed.post/3lbtfzfayj22i",
+            "label": [
+                0.03955189138650894,
+                0.1090739369392395,
+                0.8580461740493774,
+                0.00469085481017828,
+                0.0019125539110973477,
+                0.01122750248759985,
+                0.004819510504603386,
+                0.002654226729646325
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 1,
+                    "utter": "あの会話からここまで膨らむだなんて😂でもやり残した事が…あるんだ…"
+                },
+                {
+                    "author": "did:plc:rutkc5jmlyfp4ads7kwv4mfd",
+                    "type": 2,
+                    "utter": "ま？？！？！\nんふふふ、続きでもまた新しくても私待つわいつまでもまーつーわー😌🫶💓"
+                },
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 3,
+                    "utter": "このすぐ後（同じ夜）と別の日✖️２とやり残しが出てきてしまって…えちぱーと書く才能が欲しい😭おみは鳴いてるのに私が泣いてるw\nあみんならぬまめん"
+                }
+            ],
+            "uri": "at://did:plc:kgzwk3oarscpahd3reusnhc4/app.bsky.feed.post/3lbqaetsr3s2h",
+            "label": [
+                0.010829727165400982,
+                0.9765325784683228,
+                0.00898871198296547,
+                0.004283782094717026,
+                0.0021178286988288164,
+                0.006573347840458155,
+                0.006654526572674513,
+                0.0012315530329942703
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 1,
+                    "utter": "このすぐ後（同じ夜）と別の日✖️２とやり残しが出てきてしまって…えちぱーと書く才能が欲しい😭おみは鳴いてるのに私が泣いてるw\nあみんならぬまめん"
+                },
+                {
+                    "author": "did:plc:rutkc5jmlyfp4ads7kwv4mfd",
+                    "type": 2,
+                    "utter": "私もえちぱーと書く才能が欲しいでふ…（アホえろじゃなくて、なんかこう、清らかな美しい文章のやつ…）\nまめん歌います🎤「まつわ」\nあっでもこれデュエットやん！！！ひとりじゃできない！！！！！！"
+                },
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 3,
+                    "utter": "えちだけ進まないの五本も貯めててずーんてするから早く産んでしまいたいいい\n\nじゃあ片方歌うねwww音痴だけど…"
+                }
+            ],
+            "uri": "at://did:plc:kgzwk3oarscpahd3reusnhc4/app.bsky.feed.post/3lbr5fyrgvk2i",
+            "label": [
+                0.040990423411130905,
+                0.6681452989578247,
+                0.2481481283903122,
+                0.001162817468866706,
+                0.0007618970121257007,
+                0.008260422386229038,
+                0.008477840572595596,
+                0.0009009375353343785
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 1,
+                    "utter": "えちだけ進まないの五本も貯めててずーんてするから早く産んでしまいたいいい\n\nじゃあ片方歌うねwww音痴だけど…"
+                },
+                {
+                    "author": "did:plc:rutkc5jmlyfp4ads7kwv4mfd",
+                    "type": 2,
+                    "utter": "5本も溜まってた笑\n生まれましたよ！！元気な作品ですよ！！！って言いたいな☺️\n\n私も音痴だし、美声とかそんなもんじゃないからww"
+                },
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 3,
+                    "utter": "もう終わらんので最低限書けたとこで４本は出した！残りはまぁそのうち納得できたら😂生まれましたよ（母体が瀕死）\n\n聞けるの楽しみにしてるね😌🫶"
+                }
+            ],
+            "uri": "at://did:plc:kgzwk3oarscpahd3reusnhc4/app.bsky.feed.post/3lbtfxuncbs2i",
+            "label": [
+                0.03788401186466217,
+                0.006028208415955305,
+                0.9574928283691406,
+                0.0023722415789961815,
+                0.001536367111839354,
+                0.0024152672849595547,
+                0.001623589894734323,
+                0.0016026374651119113
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 1,
+                    "utter": "もう終わらんので最低限書けたとこで４本は出した！残りはまぁそのうち納得できたら😂生まれましたよ（母体が瀕死）\n\n聞けるの楽しみにしてるね😌🫶"
+                },
+                {
+                    "author": "did:plc:rutkc5jmlyfp4ads7kwv4mfd",
+                    "type": 2,
+                    "utter": "お疲れ様すぎて…😂\nでもどれも美味しく読んだよー！！！めちゃくちゃ盛り上がってしまったｵﾐ総受けは黒まめの好物でした…🤦‍♀️💗\n\n俺様の美声に酔いな！！！(ダミ声)"
+                },
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 3,
+                    "utter": "総受け面白いけど続き物にしちゃダメだよあれ、りんさん闇落ちしちゃうwてなったから頭悪い感じの総受けを書かなきゃだなと思っている😌好物やったー！\n\nクフフのフ〜\n踊らせてあげますよ（対抗すな）"
+                }
+            ],
+            "uri": "at://did:plc:kgzwk3oarscpahd3reusnhc4/app.bsky.feed.post/3lbw6hedkkk2j",
+            "label": [
+                0.9826444983482361,
+                0.0028302273713052273,
+                0.009501074440777302,
+                0.0025337431579828262,
+                0.001522288890555501,
+                0.0027354692574590445,
+                0.0027983004692941904,
+                0.0023816083557903767
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 1,
+                    "utter": "お粗末さまでした🫶\n\n追加分はまたいずれ😌"
+                },
+                {
+                    "author": "did:plc:spuy3hb3adkbpzy4isqvnyci",
+                    "type": 2,
+                    "utter": "お待ち申し上げております😂"
+                },
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 3,
+                    "utter": "最近えちぱーとが難産気味なので気長にお願いします😇"
+                }
+            ],
+            "uri": "at://did:plc:kgzwk3oarscpahd3reusnhc4/app.bsky.feed.post/3lbr5igmrkk2i",
+            "label": [
+                0.017981022596359253,
+                0.012974550947546959,
+                0.9718657732009888,
+                0.0024182067718356848,
+                0.0017973327776417136,
+                0.0042957435362041,
+                0.002134521258994937,
+                0.0018655199091881514
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 1,
+                    "utter": "最近えちぱーとが難産気味なので気長にお願いします😇"
+                },
+                {
+                    "author": "did:plc:spuy3hb3adkbpzy4isqvnyci",
+                    "type": 2,
+                    "utter": "了解しました！\n気長に待つのは得意です！🥺"
+                },
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 3,
+                    "utter": "難産すぎて後回しにすることにしました😂ぴぇ"
+                }
+            ],
+            "uri": "at://did:plc:kgzwk3oarscpahd3reusnhc4/app.bsky.feed.post/3lbtg25s6ic2i",
+            "label": [
+                0.046385958790779114,
+                0.8642836809158325,
+                0.010368694551289082,
+                0.006853342056274414,
+                0.0011334054870530963,
+                0.09233909845352173,
+                0.010382688604295254,
+                0.001001887023448944
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 1,
+                    "utter": "難産すぎて後回しにすることにしました😂ぴぇ"
+                },
+                {
+                    "author": "did:plc:spuy3hb3adkbpzy4isqvnyci",
+                    "type": 2,
+                    "utter": "私もめっちゃ難産ですぅ😂\n今、仕事の合間でちょこちょこ書いてたのがすべて飛んでしまったのでもうやる気が…⤵️"
+                },
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 3,
+                    "utter": "私も飛ばしたことがあります…しかももう終わるってとこで😭たまにpixivのダッシュボード突っ込んだり、メモ二重に残してます😭どんまいです"
+                }
+            ],
+            "uri": "at://did:plc:kgzwk3oarscpahd3reusnhc4/app.bsky.feed.post/3lbtgy7nvns2i",
+            "label": [
+                0.005357151385396719,
+                0.8936529755592346,
+                0.0013363410253077745,
+                0.01472777035087347,
+                0.004208615515381098,
+                0.051261238753795624,
+                0.009504823014140129,
+                0.0005576387047767639
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 1,
+                    "utter": "全部癖ですありがとうございます…美味しい…うぅ幸せ"
+                },
+                {
+                    "author": "did:plc:ioekr5s4gpkgdne4gtc2ogls",
+                    "type": 2,
+                    "utter": "ろくおみ、オッケーですか⁈\nがばーっってしてるのも、意外と育ちが良くてキチッと座れるのもいけるなんてズルい男ですろくおみ…\n今回はガラ悪ヤンチャおみってことでひとつ…！😉"
+                },
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 3,
+                    "utter": "OKもなにも最高です！！！カッコ良😭🙏\n育ち良さげなイメージも美味しいし悪悪もありですし…どっちも似合うの凄くないですか？🙂‍↕️でも悪い騰様も最高すぎますね？もうおーき軍でやんちゃして欲しすぎます🤤"
+                }
+            ],
+            "uri": "at://did:plc:kgzwk3oarscpahd3reusnhc4/app.bsky.feed.post/3lbtphdrmgk2i",
+            "label": [
+                0.9640020728111267,
+                0.0024744775146245956,
+                0.0286251250654459,
+                0.001975859748199582,
+                0.001322377473115921,
+                0.001330410479567945,
+                0.0017739732284098864,
+                0.0024913751985877752
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 1,
+                    "utter": "OKもなにも最高です！！！カッコ良😭🙏\n育ち良さげなイメージも美味しいし悪悪もありですし…どっちも似合うの凄くないですか？🙂‍↕️でも悪い騰様も最高すぎますね？もうおーき軍でやんちゃして欲しすぎます🤤"
+                },
+                {
+                    "author": "did:plc:ioekr5s4gpkgdne4gtc2ogls",
+                    "type": 2,
+                    "utter": "みんながヤンチャしてるのニコニコ？見てる殿尊いぃぃ…その内自分も参戦してくる…みんなも最高潮……ヤンチャいいっすね！😚"
+                },
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 3,
+                    "utter": "その殿が一番ヤンチャですよね？実は🤭\n一番強くて楽しく蹂躙してそうでw参戦してください！！！"
+                }
+            ],
+            "uri": "at://did:plc:kgzwk3oarscpahd3reusnhc4/app.bsky.feed.post/3lbtugq53z22i",
+            "label": [
+                0.01890687085688114,
+                0.0068794917315244675,
+                0.9759190678596497,
+                0.004784847144037485,
+                0.0026841775979846716,
+                0.0031688364688307047,
+                0.002426331164315343,
+                0.0022541561629623175
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 1,
+                    "utter": "その殿が一番ヤンチャですよね？実は🤭\n一番強くて楽しく蹂躙してそうでw参戦してください！！！"
+                },
+                {
+                    "author": "did:plc:ioekr5s4gpkgdne4gtc2ogls",
+                    "type": 2,
+                    "utter": "圧倒的武ですね！殿！\n血湧き肉躍る戦いが大好きな殿がみんな大好きですよね！\nうちわ振っちゃいますわ〜"
+                },
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 3,
+                    "utter": "ですです！！藺相如様も認めるほどに童のように大いに無邪気ですしね🤤🫶"
+                }
+            ],
+            "uri": "at://did:plc:kgzwk3oarscpahd3reusnhc4/app.bsky.feed.post/3lbtvrrndfc2i",
+            "label": [
+                0.9776806831359863,
+                0.0024741007946431637,
+                0.010868202894926071,
+                0.003612108761444688,
+                0.0020741443149745464,
+                0.001743704080581665,
+                0.0028329622000455856,
+                0.0040541645139455795
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 1,
+                    "utter": "ですです！！藺相如様も認めるほどに童のように大いに無邪気ですしね🤤🫶"
+                },
+                {
+                    "author": "did:plc:ioekr5s4gpkgdne4gtc2ogls",
+                    "type": 2,
+                    "utter": "大いに無邪気(コクリ)\nあー…めっちゃ楽しそう、殿率いるおーき軍…"
+                },
+                {
+                    "author": "did:plc:kgzwk3oarscpahd3reusnhc4",
+                    "type": 3,
+                    "utter": "こっわいけど絶対楽しそうだし敵ぶちのめしながらイチャ…わちゃわちゃ喋ってそうだし\n\nはぁ…また死んだかろくおみ（🔫…いやナイフ系か？とう様）\nバカとうめ…死んでねぇし（ドゴっ）\nぷっ（どうきん、遠距離射撃）\n墓を建ててやらねばなぁ、鱗坊そっち行ったぞ（ナビりゅーこく）\nあーぁろくおみがやられたばっかり（りんぼう）\nだーかーらー！！（けりおみ）\nンッフフフ、あなたたちは本当に（にっこり殿、一番ヤバげな獲物持ってそう）\n\nみたいなやりとりをしてて欲しいです（伝われ）"
+                }
+            ],
+            "uri": "at://did:plc:kgzwk3oarscpahd3reusnhc4/app.bsky.feed.post/3lbtwzakd7k2i",
+            "label": [
+                0.031975869089365005,
+                0.10190866142511368,
+                0.45637986063957214,
+                0.007236808072775602,
+                0.006798748392611742,
+                0.16499383747577667,
+                0.021995041519403458,
+                0.003075326094403863
+            ]
+        }
+    ]
+}

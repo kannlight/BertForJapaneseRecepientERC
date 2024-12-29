@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z3pnlxtpwyl2zhblahyjqgme",
+                    "type": 1,
+                    "utter": "アポは神だから血圧とか問題なし/｡:+( ˘ω˘ )ﾉ+:｡\\"
+                },
+                {
+                    "author": "did:plc:srommqndyko3x2zybwngjvcm",
+                    "type": 2,
+                    "utter": "ちょっとヽ(￣ ￣*)ﾁｮｲﾏﾁ💦\n\nこの前健康診断で上が80\nで何回も測り直して😮‍💨\nやっとこ90😅😅😅"
+                },
+                {
+                    "author": "did:plc:z3pnlxtpwyl2zhblahyjqgme",
+                    "type": 3,
+                    "utter": "生きて？母乳出さないといけないし🍼"
+                }
+            ],
+            "uri": "at://did:plc:z3pnlxtpwyl2zhblahyjqgme/app.bsky.feed.post/3lbpz2ggqvc2c",
+            "label": [
+                0.032980676740407944,
+                0.237165167927742,
+                0.18758119642734528,
+                0.0015322865219786763,
+                0.0011253742268308997,
+                0.27219659090042114,
+                0.007143905386328697,
+                0.0013733276864513755
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z3pnlxtpwyl2zhblahyjqgme",
+                    "type": 1,
+                    "utter": "生きて？母乳出さないといけないし🍼"
+                },
+                {
+                    "author": "did:plc:srommqndyko3x2zybwngjvcm",
+                    "type": 2,
+                    "utter": "あの…私は出しません🙄"
+                },
+                {
+                    "author": "did:plc:z3pnlxtpwyl2zhblahyjqgme",
+                    "type": 3,
+                    "utter": "出る出る！🤱"
+                }
+            ],
+            "uri": "at://did:plc:z3pnlxtpwyl2zhblahyjqgme/app.bsky.feed.post/3lbq2m5xz7s2c",
+            "label": [
+                0.04854736104607582,
+                0.005505408626049757,
+                0.9339597821235657,
+                0.0038353553973138332,
+                0.0012515975395217538,
+                0.0020018103532493114,
+                0.0011040837271139026,
+                0.0010790320811793208
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z3pnlxtpwyl2zhblahyjqgme",
+                    "type": 1,
+                    "utter": "出る出る！🤱"
+                },
+                {
+                    "author": "did:plc:srommqndyko3x2zybwngjvcm",
+                    "type": 2,
+                    "utter": "違うものが出そうです‎𖦹‎  ̫ 𖦹‎‎"
+                },
+                {
+                    "author": "did:plc:z3pnlxtpwyl2zhblahyjqgme",
+                    "type": 3,
+                    "utter": "アポ汁はどこから出るん😂"
+                }
+            ],
+            "uri": "at://did:plc:z3pnlxtpwyl2zhblahyjqgme/app.bsky.feed.post/3lbshgotjz22c",
+            "label": [
+                0.385660856962204,
+                0.23896129429340363,
+                0.046888478100299835,
+                0.17391961812973022,
+                0.02376066893339157,
+                0.19516360759735107,
+                0.06861178576946259,
+                0.014172732830047607
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z3pnlxtpwyl2zhblahyjqgme",
+                    "type": 1,
+                    "utter": "アポ汁はどこから出るん😂"
+                },
+                {
+                    "author": "did:plc:srommqndyko3x2zybwngjvcm",
+                    "type": 2,
+                    "utter": "スネあたりꉂ🤣𐤔"
+                },
+                {
+                    "author": "did:plc:z3pnlxtpwyl2zhblahyjqgme",
+                    "type": 3,
+                    "utter": "カサカサする場所じゃん🤔"
+                }
+            ],
+            "uri": "at://did:plc:z3pnlxtpwyl2zhblahyjqgme/app.bsky.feed.post/3lc4wuzqvmc2h",
+            "label": [
+                0.02839650772511959,
+                0.31841859221458435,
+                0.0018284408142790198,
+                0.27111107110977173,
+                0.005684203468263149,
+                0.07576116174459457,
+                0.23534809052944183,
+                0.001309308223426342
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z3pnlxtpwyl2zhblahyjqgme",
+                    "type": 1,
+                    "utter": "マッキーありがとう😇\nゆんぎと寝てれば元気になるわ💓"
+                },
+                {
+                    "author": "did:plc:4v6vqqopyg4t2ttjzfuepqgj",
+                    "type": 2,
+                    "utter": "ゆ、ゆんぎと寝…\nヾ( 〃∇〃)ﾂ ｷｬｰｰｰｯ💗"
+                },
+                {
+                    "author": "did:plc:z3pnlxtpwyl2zhblahyjqgme",
+                    "type": 3,
+                    "utter": "ちょっともう変なこと考えてるでしょーｱﾗﾔﾀﾞｧ(*￣ლ￣)ﾌｳﾌｾｲｶﾂ"
+                }
+            ],
+            "uri": "at://did:plc:z3pnlxtpwyl2zhblahyjqgme/app.bsky.feed.post/3lblpf4tit223",
+            "label": [
+                0.33984947204589844,
+                0.09901615977287292,
+                0.032466962933540344,
+                0.02361459471285343,
+                0.005450344644486904,
+                0.6235023140907288,
+                0.029538333415985107,
+                0.006024629808962345
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z3pnlxtpwyl2zhblahyjqgme",
+                    "type": 1,
+                    "utter": "ちょっともう変なこと考えてるでしょーｱﾗﾔﾀﾞｧ(*￣ლ￣)ﾌｳﾌｾｲｶﾂ"
+                },
+                {
+                    "author": "did:plc:4v6vqqopyg4t2ttjzfuepqgj",
+                    "type": 2,
+                    "utter": "昼間っから変なことを考えてしまうのはいつもの事だから大丈夫だよね？？😂"
+                },
+                {
+                    "author": "did:plc:z3pnlxtpwyl2zhblahyjqgme",
+                    "type": 3,
+                    "utter": "基本変な方に行くから😇"
+                }
+            ],
+            "uri": "at://did:plc:z3pnlxtpwyl2zhblahyjqgme/app.bsky.feed.post/3lbpz7robmk2c",
+            "label": [
+                0.0360705591738224,
+                0.5213520526885986,
+                0.005578264128416777,
+                0.005251413211226463,
+                0.0017057101940736175,
+                0.25756973028182983,
+                0.09577957540750504,
+                0.0015150057151913643
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z3pnlxtpwyl2zhblahyjqgme",
+                    "type": 1,
+                    "utter": "基本変な方に行くから😇"
+                },
+                {
+                    "author": "did:plc:4v6vqqopyg4t2ttjzfuepqgj",
+                    "type": 2,
+                    "utter": "バレてる…‪(  ･᷄ ᴗ･᷅ )ゝ"
+                },
+                {
+                    "author": "did:plc:z3pnlxtpwyl2zhblahyjqgme",
+                    "type": 3,
+                    "utter": "顔に書いてあるよ？ヽ(変ω態)ﾉ"
+                }
+            ],
+            "uri": "at://did:plc:z3pnlxtpwyl2zhblahyjqgme/app.bsky.feed.post/3lbpzxqbnjk2c",
+            "label": [
+                0.48343607783317566,
+                0.057981837540864944,
+                0.03199238330125809,
+                0.13928833603858948,
+                0.006386789958924055,
+                0.16603437066078186,
+                0.06277548521757126,
+                0.008323815651237965
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z3pnlxtpwyl2zhblahyjqgme",
+                    "type": 1,
+                    "utter": "顔に書いてあるよ？ヽ(変ω態)ﾉ"
+                },
+                {
+                    "author": "did:plc:4v6vqqopyg4t2ttjzfuepqgj",
+                    "type": 2,
+                    "utter": "もう顔出して歩けないじゃん🤣"
+                },
+                {
+                    "author": "did:plc:z3pnlxtpwyl2zhblahyjqgme",
+                    "type": 3,
+                    "utter": "時すでにおそしおすし🍣"
+                }
+            ],
+            "uri": "at://did:plc:z3pnlxtpwyl2zhblahyjqgme/app.bsky.feed.post/3lbq2ta3bk22c",
+            "label": [
+                0.02735224738717079,
+                0.9378981590270996,
+                0.005369157530367374,
+                0.008050555363297462,
+                0.001267286017537117,
+                0.017142610624432564,
+                0.0064691356383264065,
+                0.0008661047904752195
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z3pnlxtpwyl2zhblahyjqgme",
+                    "type": 1,
+                    "utter": "鼻水とまらん(￣ii￣)ｽﾞﾙｽﾞﾙ\n寒すぎる"
+                },
+                {
+                    "author": "did:plc:rd2tskhnbmkpqllktwq3ow65",
+                    "type": 2,
+                    "utter": "同じくーー(￣ii￣)ｽﾞﾙｽﾞﾙ💦💦\n季節の変わり目\nホントやだね😣\nか弱いあたしたち…笑笑"
+                },
+                {
+                    "author": "did:plc:z3pnlxtpwyl2zhblahyjqgme",
+                    "type": 3,
+                    "utter": "繊細でデリケートだもんねわたしたち(⸝⸝´ก`)ｵﾎﾎ"
+                }
+            ],
+            "uri": "at://did:plc:z3pnlxtpwyl2zhblahyjqgme/app.bsky.feed.post/3lb7sqxdtik2w",
+            "label": [
+                0.032333243638277054,
+                0.8616698980331421,
+                0.0025838983710855246,
+                0.004775353707373142,
+                0.0006858367123641074,
+                0.05403765290975571,
+                0.0050047654658555984,
+                0.0008304133079946041
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z3pnlxtpwyl2zhblahyjqgme",
+                    "type": 1,
+                    "utter": "ま、また見つかった💦"
+                },
+                {
+                    "author": "did:plc:4odik4ytkvoejidkvptrdqty",
+                    "type": 2,
+                    "utter": "隠れても無駄よ😆"
+                },
+                {
+                    "author": "did:plc:z3pnlxtpwyl2zhblahyjqgme",
+                    "type": 3,
+                    "utter": "👱‍♀ワタシハ チガウ カズア デス"
+                }
+            ],
+            "uri": "at://did:plc:z3pnlxtpwyl2zhblahyjqgme/app.bsky.feed.post/3laugngg7os2y",
+            "label": [
+                0.17954255640506744,
+                0.588820219039917,
+                0.08615574240684509,
+                0.009518591687083244,
+                0.00955275073647499,
+                0.023141449317336082,
+                0.06310617923736572,
+                0.004599652253091335
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z3pnlxtpwyl2zhblahyjqgme",
+                    "type": 1,
+                    "utter": "👱‍♀ワタシハ チガウ カズア デス"
+                },
+                {
+                    "author": "did:plc:4odik4ytkvoejidkvptrdqty",
+                    "type": 2,
+                    "utter": "外人さんなのか？🤣\nそんな事言ってたらまた アレが始まっちゃうよ？😁"
+                },
+                {
+                    "author": "did:plc:z3pnlxtpwyl2zhblahyjqgme",
+                    "type": 3,
+                    "utter": "หวัดดี! สบายดีไหม"
+                }
+            ],
+            "uri": "at://did:plc:z3pnlxtpwyl2zhblahyjqgme/app.bsky.feed.post/3lauojrdy7c22",
+            "label": [
+                0.6296314001083374,
+                0.015101231634616852,
+                0.05951882526278496,
+                0.0786948949098587,
+                0.0074958233162760735,
+                0.003318947972729802,
+                0.00972858164459467,
+                0.005466562230139971
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z3pnlxtpwyl2zhblahyjqgme",
+                    "type": 1,
+                    "utter": "หวัดดี! สบายดีไหม"
+                },
+                {
+                    "author": "did:plc:4odik4ytkvoejidkvptrdqty",
+                    "type": 2,
+                    "utter": "ยังมีชีวิตอยู่"
+                },
+                {
+                    "author": "did:plc:z3pnlxtpwyl2zhblahyjqgme",
+                    "type": 3,
+                    "utter": "50 ปีต่อมา สวดมนต์เรื่องสุขภาพ"
+                }
+            ],
+            "uri": "at://did:plc:z3pnlxtpwyl2zhblahyjqgme/app.bsky.feed.post/3lb5hmhrrjs2w",
+            "label": [
+                0.6690648794174194,
+                0.10691384971141815,
+                0.11309117078781128,
+                0.022578995674848557,
+                0.008310951292514801,
+                0.03181217610836029,
+                0.04389949142932892,
+                0.01161535270512104
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z3pnlxtpwyl2zhblahyjqgme",
+                    "type": 1,
+                    "utter": "50 ปีต่อมา สวดมนต์เรื่องสุขภาพ"
+                },
+                {
+                    "author": "did:plc:4odik4ytkvoejidkvptrdqty",
+                    "type": 2,
+                    "utter": "50年後かーい\n○んどるわー🤣←急な日本語ㅋㅋㅋ"
+                },
+                {
+                    "author": "did:plc:z3pnlxtpwyl2zhblahyjqgme",
+                    "type": 3,
+                    "utter": "まだまだイケる👵"
+                }
+            ],
+            "uri": "at://did:plc:z3pnlxtpwyl2zhblahyjqgme/app.bsky.feed.post/3lb7sf6reb22w",
+            "label": [
+                0.2034762054681778,
+                0.0029002067167311907,
+                0.812026858329773,
+                0.0016025855438783765,
+                0.0011632401729002595,
+                0.0020022925455123186,
+                0.0012157741002738476,
+                0.0016128586139529943
+            ]
+        }
+    ]
+}

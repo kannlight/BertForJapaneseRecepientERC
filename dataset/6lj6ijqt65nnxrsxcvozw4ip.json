@@ -1,0 +1,334 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6lj6ijqt65nnxrsxcvozw4ip",
+                    "type": 1,
+                    "utter": "축하드려요 ><"
+                },
+                {
+                    "author": "did:plc:gheuesoclanb6go7jah74zif",
+                    "type": 2,
+                    "utter": "희희 >< \n이미 꽤 됐지만요(?)"
+                },
+                {
+                    "author": "did:plc:6lj6ijqt65nnxrsxcvozw4ip",
+                    "type": 3,
+                    "utter": "아앗 ㅋㅋㅋ 구러네요!!!\n그래도 축하받으세요 (강제"
+                }
+            ],
+            "uri": "at://did:plc:6lj6ijqt65nnxrsxcvozw4ip/app.bsky.feed.post/3lc546jpsac2m",
+            "label": [
+                0.4897226393222809,
+                0.018490472808480263,
+                0.2408229261636734,
+                0.01153605803847313,
+                0.01028391346335411,
+                0.004438124131411314,
+                0.010781663469970226,
+                0.006280282512307167
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6lj6ijqt65nnxrsxcvozw4ip",
+                    "type": 1,
+                    "utter": "아앗 ㅋㅋㅋ 구러네요!!!\n그래도 축하받으세요 (강제"
+                },
+                {
+                    "author": "did:plc:gheuesoclanb6go7jah74zif",
+                    "type": 2,
+                    "utter": "‘//////’ 부끄럽읍니다\n거의 출간용으로 원고를 뒤엎고 있지만욬ㅋㅋㅋㅋㅋ ㅎ ㅏ..."
+                },
+                {
+                    "author": "did:plc:6lj6ijqt65nnxrsxcvozw4ip",
+                    "type": 3,
+                    "utter": "으히히 원래 다 그런 거 아니겠슴미까 ><\n저도 오늘 작업할 거야요..."
+                }
+            ],
+            "uri": "at://did:plc:6lj6ijqt65nnxrsxcvozw4ip/app.bsky.feed.post/3lc54gey2d22m",
+            "label": [
+                0.4517780840396881,
+                0.051593806594610214,
+                0.39902231097221375,
+                0.005592178087681532,
+                0.005465178284794092,
+                0.011267985217273235,
+                0.02195187658071518,
+                0.006166735198348761
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6lj6ijqt65nnxrsxcvozw4ip",
+                    "type": 1,
+                    "utter": "으히히 원래 다 그런 거 아니겠슴미까 ><\n저도 오늘 작업할 거야요..."
+                },
+                {
+                    "author": "did:plc:gheuesoclanb6go7jah74zif",
+                    "type": 2,
+                    "utter": "같이하실래요?????!"
+                },
+                {
+                    "author": "did:plc:6lj6ijqt65nnxrsxcvozw4ip",
+                    "type": 3,
+                    "utter": "엇 좋아요 쩌 이제야 일어났는데.. 지금 작업하고 계세요?"
+                }
+            ],
+            "uri": "at://did:plc:6lj6ijqt65nnxrsxcvozw4ip/app.bsky.feed.post/3lc54in4y2s2m",
+            "label": [
+                0.5757845640182495,
+                0.045048803091049194,
+                0.27628928422927856,
+                0.015086820349097252,
+                0.007122103590518236,
+                0.015120101161301136,
+                0.02214796654880047,
+                0.008949188515543938
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6lj6ijqt65nnxrsxcvozw4ip",
+                    "type": 1,
+                    "utter": "엇 좋아요 쩌 이제야 일어났는데.. 지금 작업하고 계세요?"
+                },
+                {
+                    "author": "did:plc:gheuesoclanb6go7jah74zif",
+                    "type": 2,
+                    "utter": "넵 혼자 타닥타닥..... ㅜㅇㅜ 언제든 편히오샤용~"
+                },
+                {
+                    "author": "did:plc:6lj6ijqt65nnxrsxcvozw4ip",
+                    "type": 3,
+                    "utter": "주소 주시면 저 밥통에 밥만 앉혀두고 갈게영"
+                }
+            ],
+            "uri": "at://did:plc:6lj6ijqt65nnxrsxcvozw4ip/app.bsky.feed.post/3lc57aop2lk2p",
+            "label": [
+                0.5201370716094971,
+                0.030469009652733803,
+                0.3945589065551758,
+                0.003518040059134364,
+                0.0034058026503771544,
+                0.009654711931943893,
+                0.015205519273877144,
+                0.005376034416258335
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6lj6ijqt65nnxrsxcvozw4ip",
+                    "type": 1,
+                    "utter": "그거슨 괜찮다는 것!"
+                },
+                {
+                    "author": "did:plc:gheuesoclanb6go7jah74zif",
+                    "type": 2,
+                    "utter": "ㅠㅇㅜ 야사시이.... ㅜㅜㅜㅜㅜㅜ"
+                },
+                {
+                    "author": "did:plc:6lj6ijqt65nnxrsxcvozw4ip",
+                    "type": 3,
+                    "utter": "헤헷 😍😍😍"
+                }
+            ],
+            "uri": "at://did:plc:6lj6ijqt65nnxrsxcvozw4ip/app.bsky.feed.post/3lc3dye3ock2i",
+            "label": [
+                0.7365325689315796,
+                0.041545141488313675,
+                0.11621377617120743,
+                0.00727241113781929,
+                0.003819683101028204,
+                0.012593355029821396,
+                0.027671219781041145,
+                0.0062782238237559795
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6lj6ijqt65nnxrsxcvozw4ip",
+                    "type": 1,
+                    "utter": "헤헷 😍😍😍"
+                },
+                {
+                    "author": "did:plc:gheuesoclanb6go7jah74zif",
+                    "type": 2,
+                    "utter": "💖💖💖💖💖💖💖💖💖💖💖💖"
+                },
+                {
+                    "author": "did:plc:6lj6ijqt65nnxrsxcvozw4ip",
+                    "type": 3,
+                    "utter": "헤헷 >< 저녁 드셨습미까"
+                }
+            ],
+            "uri": "at://did:plc:6lj6ijqt65nnxrsxcvozw4ip/app.bsky.feed.post/3lc3e7kst2c2i",
+            "label": [
+                0.583804190158844,
+                0.03673284500837326,
+                0.1888817399740219,
+                0.007088537327945232,
+                0.005989259574562311,
+                0.01155487634241581,
+                0.030113844200968742,
+                0.0069345287047326565
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6lj6ijqt65nnxrsxcvozw4ip",
+                    "type": 1,
+                    "utter": "헤헷 >< 저녁 드셨습미까"
+                },
+                {
+                    "author": "did:plc:gheuesoclanb6go7jah74zif",
+                    "type": 2,
+                    "utter": "앗 먹으려고 삿는데 아직 못먹엇어요 기다려라 내김밥"
+                },
+                {
+                    "author": "did:plc:6lj6ijqt65nnxrsxcvozw4ip",
+                    "type": 3,
+                    "utter": "저 점심에 김밥 두 줄 먹었디롱"
+                }
+            ],
+            "uri": "at://did:plc:6lj6ijqt65nnxrsxcvozw4ip/app.bsky.feed.post/3lc3eo4k3ds2i",
+            "label": [
+                0.5790863633155823,
+                0.03125421702861786,
+                0.32000917196273804,
+                0.0037010093219578266,
+                0.0035818645264953375,
+                0.01025606319308281,
+                0.017306864261627197,
+                0.005644760560244322
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6lj6ijqt65nnxrsxcvozw4ip",
+                    "type": 1,
+                    "utter": "저 점심에 김밥 두 줄 먹었디롱"
+                },
+                {
+                    "author": "did:plc:gheuesoclanb6go7jah74zif",
+                    "type": 2,
+                    "utter": "헉 두줄이나요???????\n엄청난 대식가"
+                },
+                {
+                    "author": "did:plc:6lj6ijqt65nnxrsxcvozw4ip",
+                    "type": 3,
+                    "utter": "넹 근데 그거 먹어서 지금 아무것도 못 먹어요... 그렇게 먹은 날은 그 이후로 아무것도 못 먹는다...."
+                }
+            ],
+            "uri": "at://did:plc:6lj6ijqt65nnxrsxcvozw4ip/app.bsky.feed.post/3lc3eqhzais2i",
+            "label": [
+                0.4112269878387451,
+                0.06135914474725723,
+                0.47758930921554565,
+                0.004299622494727373,
+                0.0038531883619725704,
+                0.013167809695005417,
+                0.014725458808243275,
+                0.00534031679853797
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6lj6ijqt65nnxrsxcvozw4ip",
+                    "type": 1,
+                    "utter": "꺄아아아아아악!!!!!! 축하해요 교수님"
+                },
+                {
+                    "author": "did:plc:gheuesoclanb6go7jah74zif",
+                    "type": 2,
+                    "utter": "이제 원고뿐... ㅜㅇㅜ"
+                },
+                {
+                    "author": "did:plc:6lj6ijqt65nnxrsxcvozw4ip",
+                    "type": 3,
+                    "utter": "같이 달려욥"
+                }
+            ],
+            "uri": "at://did:plc:6lj6ijqt65nnxrsxcvozw4ip/app.bsky.feed.post/3lbtssoxehc2z",
+            "label": [
+                0.7365325689315796,
+                0.041545141488313675,
+                0.11621377617120743,
+                0.00727241113781929,
+                0.003819683101028204,
+                0.012593355029821396,
+                0.027671219781041145,
+                0.0062782238237559795
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6lj6ijqt65nnxrsxcvozw4ip",
+                    "type": 1,
+                    "utter": "같이 달려욥"
+                },
+                {
+                    "author": "did:plc:gheuesoclanb6go7jah74zif",
+                    "type": 2,
+                    "utter": "탈주못해요 센세 안전벨트채우세요"
+                },
+                {
+                    "author": "did:plc:6lj6ijqt65nnxrsxcvozw4ip",
+                    "type": 3,
+                    "utter": "꽉 채울게요 🥹"
+                }
+            ],
+            "uri": "at://did:plc:6lj6ijqt65nnxrsxcvozw4ip/app.bsky.feed.post/3lbttavvevk2z",
+            "label": [
+                0.7099421620368958,
+                0.03230154141783714,
+                0.1714325249195099,
+                0.00539354095235467,
+                0.003662201575934887,
+                0.01042577438056469,
+                0.021619800478219986,
+                0.006164880469441414
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6lj6ijqt65nnxrsxcvozw4ip",
+                    "type": 1,
+                    "utter": "꽉 채울게요 🥹"
+                },
+                {
+                    "author": "did:plc:gheuesoclanb6go7jah74zif",
+                    "type": 2,
+                    "utter": "갑자기생각난건데\n우드플레이트러브\n木板愛\n세글자네요......(진자 개뜬금"
+                },
+                {
+                    "author": "did:plc:6lj6ijqt65nnxrsxcvozw4ip",
+                    "type": 3,
+                    "utter": "엇 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n그럼 마펠럽은\n面畫愛\n가 되겠군요..."
+                }
+            ],
+            "uri": "at://did:plc:6lj6ijqt65nnxrsxcvozw4ip/app.bsky.feed.post/3lbttovo4gk2z",
+            "label": [
+                0.873077929019928,
+                0.020139388740062714,
+                0.05530569329857826,
+                0.002903569024056196,
+                0.0017990890191867948,
+                0.0034006775822490454,
+                0.006539618130773306,
+                0.003527383552864194
+            ]
+        }
+    ]
+}

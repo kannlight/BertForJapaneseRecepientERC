@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ucxw3m3cyra7ojjycmnykklq",
+                    "type": 1,
+                    "utter": "こだわりポイントですわ〜！！！！！！！！！！！！！\n\n薄荷一葉(うすもち　かずは)っていいます　よろしくお願いします"
+                },
+                {
+                    "author": "did:plc:v4riv2yuv6kghxucua4o5pvk",
+                    "type": 2,
+                    "utter": "名前もオシャレ！！！！\n知り合ったばかりで図々しいお願いしますが一葉さんって描いても大丈夫ですかｯｯ"
+                },
+                {
+                    "author": "did:plc:ucxw3m3cyra7ojjycmnykklq",
+                    "type": 3,
+                    "utter": "いっすよん！！！！！！！\nこいつはフリー素材です　もう何してもいいでづ\n\nちなみに合法と脱法っていう概念があるんですけど、どっちがいいですか(どういう質問？)"
+                }
+            ],
+            "uri": "at://did:plc:ucxw3m3cyra7ojjycmnykklq/app.bsky.feed.post/3l7nbunju6g2r",
+            "label": [
+                0.9283572435379028,
+                0.0014041648246347904,
+                0.051590561866760254,
+                0.0026301012840121984,
+                0.002796285320073366,
+                0.002330630086362362,
+                0.0035446216352283955,
+                0.0048385486006736755
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ucxw3m3cyra7ojjycmnykklq",
+                    "type": 1,
+                    "utter": "いっすよん！！！！！！！\nこいつはフリー素材です　もう何してもいいでづ\n\nちなみに合法と脱法っていう概念があるんですけど、どっちがいいですか(どういう質問？)"
+                },
+                {
+                    "author": "did:plc:v4riv2yuv6kghxucua4o5pvk",
+                    "type": 2,
+                    "utter": "なにそれ気になる…脱法で😂"
+                },
+                {
+                    "author": "did:plc:ucxw3m3cyra7ojjycmnykklq",
+                    "type": 3,
+                    "utter": "要するに世界線毎に「人に言える職業かどうか」って話なんですけど、脱法だと右目がチョコレート色(合法は両目とも薄荷色、見せてないけど)です！！\n\n何かの足しにしてくだちい"
+                }
+            ],
+            "uri": "at://did:plc:ucxw3m3cyra7ojjycmnykklq/app.bsky.feed.post/3l7nc4g7d2w2r",
+            "label": [
+                0.018267391249537468,
+                0.0114522660151124,
+                0.9714710712432861,
+                0.004497320856899023,
+                0.002188370330259204,
+                0.0049438183195889,
+                0.00303189386613667,
+                0.0024042788427323103
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ucxw3m3cyra7ojjycmnykklq",
+                    "type": 1,
+                    "utter": "要するに世界線毎に「人に言える職業かどうか」って話なんですけど、脱法だと右目がチョコレート色(合法は両目とも薄荷色、見せてないけど)です！！\n\n何かの足しにしてくだちい"
+                },
+                {
+                    "author": "did:plc:v4riv2yuv6kghxucua4o5pvk",
+                    "type": 2,
+                    "utter": "ｱｯ！だからチョコレート色！！\n脱法だと右目だけだしてる状態です？？"
+                },
+                {
+                    "author": "did:plc:ucxw3m3cyra7ojjycmnykklq",
+                    "type": 3,
+                    "utter": "いや、これは分かりやすく俺が見せてるだけで、本来は薄荷色の目(左)を出しておりますわね！！\n\n右目見え脱法おじさんにして頂いても大丈夫です。お好みで！！"
+                }
+            ],
+            "uri": "at://did:plc:ucxw3m3cyra7ojjycmnykklq/app.bsky.feed.post/3l7ncfgbpxk2g",
+            "label": [
+                0.42687806487083435,
+                0.0019263285212218761,
+                0.5390540957450867,
+                0.0023643586318939924,
+                0.0016916452441364527,
+                0.0014965663431212306,
+                0.0019448616076260805,
+                0.0025002299807965755
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ucxw3m3cyra7ojjycmnykklq",
+                    "type": 1,
+                    "utter": "いや、これは分かりやすく俺が見せてるだけで、本来は薄荷色の目(左)を出しておりますわね！！\n\n右目見え脱法おじさんにして頂いても大丈夫です。お好みで！！"
+                },
+                {
+                    "author": "did:plc:v4riv2yuv6kghxucua4o5pvk",
+                    "type": 2,
+                    "utter": "あー！なるほど！\n目の色で分かるのはいいですね…ではありがたく🙏🏻✨"
+                },
+                {
+                    "author": "did:plc:ucxw3m3cyra7ojjycmnykklq",
+                    "type": 3,
+                    "utter": "えへえへ…超楽しみです…コソコソ待ってますね…💕"
+                }
+            ],
+            "uri": "at://did:plc:ucxw3m3cyra7ojjycmnykklq/app.bsky.feed.post/3l7ncnvohhg2r",
+            "label": [
+                0.37705934047698975,
+                0.003068350488319993,
+                0.6308146715164185,
+                0.0010463278740644455,
+                0.0006565527291968465,
+                0.001743888366036117,
+                0.0007807237561792135,
+                0.0008306142990477383
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ucxw3m3cyra7ojjycmnykklq",
+                    "type": 1,
+                    "utter": "イェーーーーーーーーーイ！！！！！！！！！！！！\nフォロバありがとうございます！！！！！！！やったーーーーー！！！！！\n私もぼちぼちうるさいので大丈夫でっす！！！！！！\nテンションあげすぎて電車一駅早く降りましたが元気です"
+                },
+                {
+                    "author": "did:plc:v4riv2yuv6kghxucua4o5pvk",
+                    "type": 2,
+                    "utter": "一駅早く降りちゃったですかーーー！！元気でなによりです！！！！！！💪🏻💪🏻💪🏻💪🏻"
+                },
+                {
+                    "author": "did:plc:ucxw3m3cyra7ojjycmnykklq",
+                    "type": 3,
+                    "utter": "降りちゃった！！！！！！！！\n引き返したのでセーフです。元気です。メカクレ黒髪和服男子でめちゃくちゃ元気になったので…"
+                }
+            ],
+            "uri": "at://did:plc:ucxw3m3cyra7ojjycmnykklq/app.bsky.feed.post/3l7naoerbij2p",
+            "label": [
+                0.9731642603874207,
+                0.005510063376277685,
+                0.00821161549538374,
+                0.004703742451965809,
+                0.0010737271513789892,
+                0.004173705354332924,
+                0.0026612139772623777,
+                0.0025898925960063934
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ucxw3m3cyra7ojjycmnykklq",
+                    "type": 1,
+                    "utter": "降りちゃった！！！！！！！！\n引き返したのでセーフです。元気です。メカクレ黒髪和服男子でめちゃくちゃ元気になったので…"
+                },
+                {
+                    "author": "did:plc:v4riv2yuv6kghxucua4o5pvk",
+                    "type": 2,
+                    "utter": "良かったそのまま電車に置いていかれなくて！\n我が家ので元気になってくれてありがたい…🙏💕"
+                },
+                {
+                    "author": "did:plc:ucxw3m3cyra7ojjycmnykklq",
+                    "type": 3,
+                    "utter": "なったっス！！！！！！！\n甚平さんは普段は髪が短いデザインなんですの？？？？？\nロングもショートもどっちもステキです…💕"
+                }
+            ],
+            "uri": "at://did:plc:ucxw3m3cyra7ojjycmnykklq/app.bsky.feed.post/3l7nazrnivz2r",
+            "label": [
+                0.9832924008369446,
+                0.0026976882945746183,
+                0.007584631443023682,
+                0.004362798295915127,
+                0.0016446192748844624,
+                0.0018938890425488353,
+                0.0023149356711655855,
+                0.002720993012189865
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ucxw3m3cyra7ojjycmnykklq",
+                    "type": 1,
+                    "utter": "なったっス！！！！！！！\n甚平さんは普段は髪が短いデザインなんですの？？？？？\nロングもショートもどっちもステキです…💕"
+                },
+                {
+                    "author": "did:plc:v4riv2yuv6kghxucua4o5pvk",
+                    "type": 2,
+                    "utter": "そーなんです！いつもはアイコンのように襟足ちょっと首に触るくらいの長さです！\n昔は長髪っていう設定がありますん✌️"
+                },
+                {
+                    "author": "did:plc:ucxw3m3cyra7ojjycmnykklq",
+                    "type": 3,
+                    "utter": "そうなんですね…！！！！！\n二度美味しいな…普段見られない姿って…美味しくて……"
+                }
+            ],
+            "uri": "at://did:plc:ucxw3m3cyra7ojjycmnykklq/app.bsky.feed.post/3l7nbemdznf2j",
+            "label": [
+                0.9827407002449036,
+                0.002891496755182743,
+                0.005324979778379202,
+                0.00630471995100379,
+                0.0014020095113664865,
+                0.0021066402550786734,
+                0.0022613336332142353,
+                0.0023261751048266888
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ucxw3m3cyra7ojjycmnykklq",
+                    "type": 1,
+                    "utter": "そうなんですね…！！！！！\n二度美味しいな…普段見られない姿って…美味しくて……"
+                },
+                {
+                    "author": "did:plc:v4riv2yuv6kghxucua4o5pvk",
+                    "type": 2,
+                    "utter": "常習化すると(私が)面白くないのでたまーーーにこうやって描いてます‪🤣‬\nこのタイミングで見つけてもらえたことに感謝…"
+                },
+                {
+                    "author": "did:plc:ucxw3m3cyra7ojjycmnykklq",
+                    "type": 3,
+                    "utter": "じゃあ今度は逆にうなじ刈り上げとかも見られたり…するですか…ぱっつんとか…そういうのも…？？？"
+                }
+            ],
+            "uri": "at://did:plc:ucxw3m3cyra7ojjycmnykklq/app.bsky.feed.post/3l7nbr7gyq62r",
+            "label": [
+                0.03184692934155464,
+                0.006428288295865059,
+                0.9620857834815979,
+                0.004750643391162157,
+                0.0012488324427977204,
+                0.0028099792543798685,
+                0.001273436937481165,
+                0.0013587174471467733
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ucxw3m3cyra7ojjycmnykklq",
+                    "type": 1,
+                    "utter": "わかる、猫っ毛じゃなさそう"
+                },
+                {
+                    "author": "did:plc:uk6hc2qof7hppxqzaqyilxde",
+                    "type": 2,
+                    "utter": "シャンプーとかの問題じゃなくてそういう髪質そうだよね"
+                },
+                {
+                    "author": "did:plc:ucxw3m3cyra7ojjycmnykklq",
+                    "type": 3,
+                    "utter": "太めでちょっと硬そうよね"
+                }
+            ],
+            "uri": "at://did:plc:ucxw3m3cyra7ojjycmnykklq/app.bsky.feed.post/3lbex2uvj6s2u",
+            "label": [
+                0.044430218636989594,
+                0.0062164063565433025,
+                0.8976786732673645,
+                0.003518598387017846,
+                0.0005958635010756552,
+                0.04326169192790985,
+                0.001404947368428111,
+                0.0014677116414532065
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ucxw3m3cyra7ojjycmnykklq",
+                    "type": 1,
+                    "utter": "太めでちょっと硬そうよね"
+                },
+                {
+                    "author": "did:plc:uk6hc2qof7hppxqzaqyilxde",
+                    "type": 2,
+                    "utter": "コーディとはほんと真逆のタイプだなって思う\n結わえるならシンプルにポニテとかかなあ"
+                },
+                {
+                    "author": "did:plc:ucxw3m3cyra7ojjycmnykklq",
+                    "type": 3,
+                    "utter": "お揃いのハーフアップでもいいよぉ〜？？"
+                }
+            ],
+            "uri": "at://did:plc:ucxw3m3cyra7ojjycmnykklq/app.bsky.feed.post/3lbex5tviic2u",
+            "label": [
+                0.8322601318359375,
+                0.00244291964918375,
+                0.15842770040035248,
+                0.0014183754101395607,
+                0.0008854648331180215,
+                0.000902664614841342,
+                0.0012554109562188387,
+                0.0012250288855284452
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ucxw3m3cyra7ojjycmnykklq",
+                    "type": 1,
+                    "utter": "お揃いのハーフアップでもいいよぉ〜？？"
+                },
+                {
+                    "author": "did:plc:uk6hc2qof7hppxqzaqyilxde",
+                    "type": 2,
+                    "utter": "え〜いいのぉ〜？？？\nじゃあお願いしちゃおっかな〜"
+                },
+                {
+                    "author": "did:plc:ucxw3m3cyra7ojjycmnykklq",
+                    "type": 3,
+                    "utter": "やってあげるよぉ〜〜！！！！！\nかわちいリボン付けてあげんね"
+                }
+            ],
+            "uri": "at://did:plc:ucxw3m3cyra7ojjycmnykklq/app.bsky.feed.post/3lbex7x7l5k2u",
+            "label": [
+                0.7160923480987549,
+                0.003963926807045937,
+                0.24999743700027466,
+                0.0011337946634739637,
+                0.0009034597314894199,
+                0.0008160173892974854,
+                0.00111623655539006,
+                0.0010562168899923563
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ucxw3m3cyra7ojjycmnykklq",
+                    "type": 1,
+                    "utter": "やってあげるよぉ〜〜！！！！！\nかわちいリボン付けてあげんね"
+                },
+                {
+                    "author": "did:plc:uk6hc2qof7hppxqzaqyilxde",
+                    "type": 2,
+                    "utter": "やったぜ\nどんな色のリボンが似合うかな\nシンプルに白とか？"
+                },
+                {
+                    "author": "did:plc:ucxw3m3cyra7ojjycmnykklq",
+                    "type": 3,
+                    "utter": "そうねえ…、バートさんの髪色が暗いからねえ…。\n赤系も似合いそうじゃない？？"
+                }
+            ],
+            "uri": "at://did:plc:ucxw3m3cyra7ojjycmnykklq/app.bsky.feed.post/3lbexepcs4s2u",
+            "label": [
+                0.043275170028209686,
+                0.005142635200172663,
+                0.9554381966590881,
+                0.0027319437358528376,
+                0.0012722985120490193,
+                0.0028197902720421553,
+                0.0014452215982601047,
+                0.0016283225268125534
+            ]
+        }
+    ]
+}

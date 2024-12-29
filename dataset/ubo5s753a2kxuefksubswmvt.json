@@ -1,0 +1,514 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 1,
+                    "utter": "そんなことあんの！？"
+                },
+                {
+                    "author": "did:plc:w6nzgqa2vkmgtr7g2tllj3hx",
+                    "type": 2,
+                    "utter": "コンデンサーマイクってやつなんだけど、湿気が多くなると不調の原因になるらしい…"
+                },
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 3,
+                    "utter": "マジか…日本に向かないじゃん…ジップロックで乾燥剤入れて保管するのがいい感じ…？"
+                }
+            ],
+            "uri": "at://did:plc:ubo5s753a2kxuefksubswmvt/app.bsky.feed.post/3l7z7p4tghw2x",
+            "label": [
+                0.010706416331231594,
+                0.9484758973121643,
+                0.023104257881641388,
+                0.005770375952124596,
+                0.0008988056215457618,
+                0.007762247230857611,
+                0.004289356525987387,
+                0.0006150983390398324
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 1,
+                    "utter": "マジか…日本に向かないじゃん…ジップロックで乾燥剤入れて保管するのがいい感じ…？"
+                },
+                {
+                    "author": "did:plc:w6nzgqa2vkmgtr7g2tllj3hx",
+                    "type": 2,
+                    "utter": "ほんまにそうなんよw特に四国や雨が多いし毎日湿度70越えやザラにあるのにw\n\n毎回使い終わったらタッパーかジップロックに乾燥剤入れて保管が良いらしい…扱いが繊細すぎてwww"
+                },
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 3,
+                    "utter": "うひぃ～マジかそんな繊細なんか…そういえば私の前のPSPも知らんうちに濡れてだめになったことあったけどあれも多分結露なんだよな…"
+                }
+            ],
+            "uri": "at://did:plc:ubo5s753a2kxuefksubswmvt/app.bsky.feed.post/3la2cudmopf2x",
+            "label": [
+                0.005626003723591566,
+                0.8506186604499817,
+                0.0012755892239511013,
+                0.08014193922281265,
+                0.0026222015731036663,
+                0.043965745717287064,
+                0.012873518280684948,
+                0.0005079378606751561
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 1,
+                    "utter": "うひぃ～マジかそんな繊細なんか…そういえば私の前のPSPも知らんうちに濡れてだめになったことあったけどあれも多分結露なんだよな…"
+                },
+                {
+                    "author": "did:plc:w6nzgqa2vkmgtr7g2tllj3hx",
+                    "type": 2,
+                    "utter": "やっぱりどんな電子機器も湿度にはめっぽう弱いってことなんやなw"
+                },
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 3,
+                    "utter": "今のスマホて大体防水だからすごいよねぇ"
+                }
+            ],
+            "uri": "at://did:plc:ubo5s753a2kxuefksubswmvt/app.bsky.feed.post/3la6eoje2z42v",
+            "label": [
+                0.10847947001457214,
+                0.003598995041102171,
+                0.012246361933648586,
+                0.8709558844566345,
+                0.0023721682373434305,
+                0.0025087844114750624,
+                0.002280495362356305,
+                0.0030532428063452244
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 1,
+                    "utter": "今のスマホて大体防水だからすごいよねぇ"
+                },
+                {
+                    "author": "did:plc:w6nzgqa2vkmgtr7g2tllj3hx",
+                    "type": 2,
+                    "utter": "トイレに流したり、水浸しになっても壊れないの助かるw"
+                },
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 3,
+                    "utter": "わしガラケーの時は毎回雪でやらかしてたわねwww"
+                }
+            ],
+            "uri": "at://did:plc:ubo5s753a2kxuefksubswmvt/app.bsky.feed.post/3la7bazrlmg2a",
+            "label": [
+                0.46244898438453674,
+                0.0366034172475338,
+                0.00984993577003479,
+                0.4038684070110321,
+                0.002526643918827176,
+                0.09452395886182785,
+                0.010119892656803131,
+                0.0057527413591742516
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 1,
+                    "utter": "やったぜ！！！"
+                },
+                {
+                    "author": "did:plc:w6nzgqa2vkmgtr7g2tllj3hx",
+                    "type": 2,
+                    "utter": "最高やなマジ(っ’ヮ’c)\n\n調子に乗って2合も炊いちゃったよ"
+                },
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 3,
+                    "utter": "2合なんかすぐなくなるやろ"
+                }
+            ],
+            "uri": "at://did:plc:ubo5s753a2kxuefksubswmvt/app.bsky.feed.post/3l4tg52wxzk2a",
+            "label": [
+                0.046097204089164734,
+                0.10889700055122375,
+                0.004070802591741085,
+                0.6101441979408264,
+                0.0209132581949234,
+                0.03059033490717411,
+                0.049900878220796585,
+                0.0036330269649624825
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 1,
+                    "utter": "2合なんかすぐなくなるやろ"
+                },
+                {
+                    "author": "did:plc:w6nzgqa2vkmgtr7g2tllj3hx",
+                    "type": 2,
+                    "utter": "うん、もうなくなったw\n\nさっき残ったご飯のけて綺麗にしたとこやで\n\n調味料系をまだなんも買ってないから、焼飯したいけど我慢なうw"
+                },
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 3,
+                    "utter": "チャーハンの素もいいんでない？何合炊き買ったの？"
+                }
+            ],
+            "uri": "at://did:plc:ubo5s753a2kxuefksubswmvt/app.bsky.feed.post/3l4uaec6vqb2f",
+            "label": [
+                0.046787142753601074,
+                0.005057137459516525,
+                0.9470704197883606,
+                0.007061116397380829,
+                0.0017219613073393703,
+                0.0020394837483763695,
+                0.001991631928831339,
+                0.0025734174996614456
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 1,
+                    "utter": "チャーハンの素もいいんでない？何合炊き買ったの？"
+                },
+                {
+                    "author": "did:plc:w6nzgqa2vkmgtr7g2tllj3hx",
+                    "type": 2,
+                    "utter": "タイガーの5.5合炊きやで(っ’ヮ’c)\nホムセンで見て一番売れてたからそれにした〜\n\nチャーハンの素か〜\nいつもはご飯にたまごと玉ねぎと塩コショウで作ってたんやけど、試してみよか"
+                },
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 3,
+                    "utter": "それなら2合ちまちま炊かないで4、5合まとめて炊いた方がおいしく炊けるで！チャーハンの素卵だけあれば作れるからめんどい時によいわよ"
+                }
+            ],
+            "uri": "at://did:plc:ubo5s753a2kxuefksubswmvt/app.bsky.feed.post/3l4v6pc6x4s2r",
+            "label": [
+                0.6268108487129211,
+                0.002082807244732976,
+                0.3861083686351776,
+                0.001910372287966311,
+                0.001421284512616694,
+                0.0007341841119341552,
+                0.0014834708999842405,
+                0.002088912297040224
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 1,
+                    "utter": "それなら2合ちまちま炊かないで4、5合まとめて炊いた方がおいしく炊けるで！チャーハンの素卵だけあれば作れるからめんどい時によいわよ"
+                },
+                {
+                    "author": "did:plc:w6nzgqa2vkmgtr7g2tllj3hx",
+                    "type": 2,
+                    "utter": "まじか、がっつり炊いてもいいんやな！\n試してみるで〜(っ’ヮ’c)"
+                },
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 3,
+                    "utter": "むしろ上限に近い量炊いた方がおいしい。そういう作りなので炊飯器。"
+                }
+            ],
+            "uri": "at://did:plc:ubo5s753a2kxuefksubswmvt/app.bsky.feed.post/3l4x3spmwc323",
+            "label": [
+                0.47431617975234985,
+                0.005887556821107864,
+                0.5333020091056824,
+                0.00468470761552453,
+                0.002175044734030962,
+                0.004196451045572758,
+                0.006981386337429285,
+                0.013269240967929363
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 1,
+                    "utter": "PS5Proを買う奴はバカです\n\nって海外からもディスられてるの見て大笑いしてる"
+                },
+                {
+                    "author": "did:plc:w6nzgqa2vkmgtr7g2tllj3hx",
+                    "type": 2,
+                    "utter": "ソニーが優遇してるはずの海外勢にもボロクソ言われてるからおもろいwww"
+                },
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 3,
+                    "utter": "ディスクドライブもないからBDもみれねぇ12万もする箱クソって言われてたのも見たな…wwwwww"
+                }
+            ],
+            "uri": "at://did:plc:ubo5s753a2kxuefksubswmvt/app.bsky.feed.post/3l3xbupgqn525",
+            "label": [
+                0.16077636182308197,
+                0.025429073721170425,
+                0.0037380170542746782,
+                0.710455596446991,
+                0.0022807286586612463,
+                0.031465765088796616,
+                0.032811447978019714,
+                0.0038580584805458784
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 1,
+                    "utter": "ディスクドライブもないからBDもみれねぇ12万もする箱クソって言われてたのも見たな…wwwwww"
+                },
+                {
+                    "author": "did:plc:w6nzgqa2vkmgtr7g2tllj3hx",
+                    "type": 2,
+                    "utter": "しかもそのディスクドライブの単品が、PRO用に今買い占められてるっていうwwwwwww\n\n世も末やでwwwwwwww"
+                },
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 3,
+                    "utter": "外付けのってこと！？ウケるんだが…PC買おうぜ…"
+                }
+            ],
+            "uri": "at://did:plc:ubo5s753a2kxuefksubswmvt/app.bsky.feed.post/3l3yzkyzch62y",
+            "label": [
+                0.029615962877869606,
+                0.005236282479017973,
+                0.40046095848083496,
+                0.7752097249031067,
+                0.001929358928464353,
+                0.0029272758401930332,
+                0.0017971103079617023,
+                0.0023681307211518288
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 1,
+                    "utter": "外付けのってこと！？ウケるんだが…PC買おうぜ…"
+                },
+                {
+                    "author": "did:plc:w6nzgqa2vkmgtr7g2tllj3hx",
+                    "type": 2,
+                    "utter": "そうそうww\n\nデジタルエディションも後付けドライブつければディスク仕様になるらしくて、それも2万くらいするwww\n\nPROと合わせたら15万wwwwww\nバカすぎワロタwww"
+                },
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 3,
+                    "utter": "そりゃ買う奴はバカって言われるわwwwwww\n元取れるほどゲーム出ないじゃん絶対。オワコンがすぎる。"
+                }
+            ],
+            "uri": "at://did:plc:ubo5s753a2kxuefksubswmvt/app.bsky.feed.post/3l3zdusixgn2t",
+            "label": [
+                0.07095827907323837,
+                0.10573051124811172,
+                0.002314796904101968,
+                0.029332753270864487,
+                0.011032507754862309,
+                0.032395053654909134,
+                0.8013914823532104,
+                0.004532889928668737
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 1,
+                    "utter": "そりゃ買う奴はバカって言われるわwwwwww\n元取れるほどゲーム出ないじゃん絶対。オワコンがすぎる。"
+                },
+                {
+                    "author": "did:plc:w6nzgqa2vkmgtr7g2tllj3hx",
+                    "type": 2,
+                    "utter": "ここまで値段したら、PS5PROよりだいぶ性能高いゲーミングPC買えるもんwww\n\nただのアホだよこれはwww\n同じアホならXBOX2台買うわw"
+                },
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 3,
+                    "utter": "本当にxboxの時代きてしまうかもしれん…"
+                }
+            ],
+            "uri": "at://did:plc:ubo5s753a2kxuefksubswmvt/app.bsky.feed.post/3l3zsybpzze27",
+            "label": [
+                0.036355160176754,
+                0.009379949420690536,
+                0.28789785504341125,
+                0.06879538297653198,
+                0.0006285188719630241,
+                0.30734261870384216,
+                0.0008378057391382754,
+                0.001154193771071732
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 1,
+                    "utter": "本当にxboxの時代きてしまうかもしれん…"
+                },
+                {
+                    "author": "did:plc:w6nzgqa2vkmgtr7g2tllj3hx",
+                    "type": 2,
+                    "utter": "間違いなく来てしまうなwww\n\n来年のモンハン発売前に、みんなXBOX買うやろなぁ〜"
+                },
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 3,
+                    "utter": "PS5proじゃなくてPS4の廉価版出すべきだったって何度でも言うぞ…絶対売れたもん…"
+                }
+            ],
+            "uri": "at://did:plc:ubo5s753a2kxuefksubswmvt/app.bsky.feed.post/3l3zzvito4l2a",
+            "label": [
+                0.006310536526143551,
+                0.9039952158927917,
+                0.005954184103757143,
+                0.0025467504747211933,
+                0.040269963443279266,
+                0.009690988808870316,
+                0.058664239943027496,
+                0.00196088757365942
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 1,
+                    "utter": "なんか今流れてきたけど電気代もかかるしやりたいゲームもいうてそんなないしPS4で十分ってwwwやはり出すべきは据え置きじゃなかったんや……"
+                },
+                {
+                    "author": "did:plc:w6nzgqa2vkmgtr7g2tllj3hx",
+                    "type": 2,
+                    "utter": "まじでそれなんやけど、来年のモンハン発売で嫌でも本体を買うタイミングでの値上げ…_(┐「ε:)_\nわいも来年欲しかったけど、8万はもう買えん…無理や\n\n今の66000円で買えるうちに買うか、めっちゃ迷う…おのれソニー！"
+                },
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 3,
+                    "utter": "モンハンPS5でしか出ないの？なかなかきつい売り方するよね…何…8万のゲームハードて…他に使い道もないのに…"
+                }
+            ],
+            "uri": "at://did:plc:ubo5s753a2kxuefksubswmvt/app.bsky.feed.post/3l2pfunxxkc2s",
+            "label": [
+                0.004933448974043131,
+                0.8633061051368713,
+                0.0014300933107733727,
+                0.05757864564657211,
+                0.004989479668438435,
+                0.03468059003353119,
+                0.021867886185646057,
+                0.0005640130839310586
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 1,
+                    "utter": "モンハンPS5でしか出ないの？なかなかきつい売り方するよね…何…8万のゲームハードて…他に使い道もないのに…"
+                },
+                {
+                    "author": "did:plc:w6nzgqa2vkmgtr7g2tllj3hx",
+                    "type": 2,
+                    "utter": "XBOXとPCでも出るんだけどねw\n\n動作はPCよりも据え置きが安定やから、どうせならPS5か？って思ってたけど、まじでモンハンだけに8万は出せんから大人しくPC版買おうと思うw\n\n8万出したらPS4PROの中古が2台買えるでwww"
+                },
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 3,
+                    "utter": "switchに置き換えてる人もいたねwww\nそっかーだからここにきてxbox売れるかも！？みたいな話も出てたのか…笑"
+                }
+            ],
+            "uri": "at://did:plc:ubo5s753a2kxuefksubswmvt/app.bsky.feed.post/3l2qkdnhkrk2t",
+            "label": [
+                0.2469869703054428,
+                0.0044691734947264194,
+                0.012166593223810196,
+                0.7220286130905151,
+                0.0009014888200908899,
+                0.001964661292731762,
+                0.001831407193094492,
+                0.0019555105827748775
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 1,
+                    "utter": "switchに置き換えてる人もいたねwww\nそっかーだからここにきてxbox売れるかも！？みたいな話も出てたのか…笑"
+                },
+                {
+                    "author": "did:plc:w6nzgqa2vkmgtr7g2tllj3hx",
+                    "type": 2,
+                    "utter": "PS5が転売で品薄だった時にみんなXBOXなら買えるぞ！ってめっちゃ売れだしたんよねwしかも安いっていうwww\n\nしかもXBOXには定額で新作遊び放題のゲームパスがあるから無敵なんよなw"
+                },
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 3,
+                    "utter": "別にps5て処理能力と画質くらいでゲームする分にはxboxでもなんも困らんのよな…\nブランドにあぐらかいてドヤ顔してたsonyの負けって感じ"
+                }
+            ],
+            "uri": "at://did:plc:ubo5s753a2kxuefksubswmvt/app.bsky.feed.post/3l2qtykmo3s2x",
+            "label": [
+                0.036131639033555984,
+                0.5181813836097717,
+                0.0022578861098736525,
+                0.010775973089039326,
+                0.006220856215804815,
+                0.008069755509495735,
+                0.5443578958511353,
+                0.002248440869152546
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 1,
+                    "utter": "別にps5て処理能力と画質くらいでゲームする分にはxboxでもなんも困らんのよな…\nブランドにあぐらかいてドヤ顔してたsonyの負けって感じ"
+                },
+                {
+                    "author": "did:plc:w6nzgqa2vkmgtr7g2tllj3hx",
+                    "type": 2,
+                    "utter": "ソニー完全敗北すぎるよな〜\n\nしかも値上げは日本だけらしいから、よっぽど終わらせたいんやろなw"
+                },
+                {
+                    "author": "did:plc:ubo5s753a2kxuefksubswmvt",
+                    "type": 3,
+                    "utter": "ゲームハードにこの値段は海外でもどうなの？って言われるだろうさ…わからんけど…\nもう大人しく携帯機作っといてほしい"
+                }
+            ],
+            "uri": "at://did:plc:ubo5s753a2kxuefksubswmvt/app.bsky.feed.post/3l2r64i2cf226",
+            "label": [
+                0.009533556178212166,
+                0.151604562997818,
+                0.005908029619604349,
+                0.0030751535668969154,
+                0.014259598217904568,
+                0.21253511309623718,
+                0.6245039701461792,
+                0.002456902526319027
+            ]
+        }
+    ]
+}

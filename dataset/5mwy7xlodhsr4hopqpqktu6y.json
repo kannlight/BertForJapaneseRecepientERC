@@ -1,0 +1,334 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5mwy7xlodhsr4hopqpqktu6y",
+                    "type": 1,
+                    "utter": "デカいブーツも可愛げかも。"
+                },
+                {
+                    "author": "did:plc:dyhpf7egynoi35vala2w7ghs",
+                    "type": 2,
+                    "utter": "メンズブーツ、底が分厚くフラットで重さがあるので安定感あるんですよね。\nリアル女子もでかめのブーツにもこもこ靴下仕込んで履いてたりするのででかブーツもいいかなと。メンズ靴の方が好みなんですよね…"
+                },
+                {
+                    "author": "did:plc:5mwy7xlodhsr4hopqpqktu6y",
+                    "type": 3,
+                    "utter": "街中歩いていらっしゃる女子のコーデは各季節毎に参考になります。"
+                }
+            ],
+            "uri": "at://did:plc:5mwy7xlodhsr4hopqpqktu6y/app.bsky.feed.post/3lby47cxwgk2c",
+            "label": [
+                0.7265738248825073,
+                0.0015393720241263509,
+                0.28579002618789673,
+                0.004002436995506287,
+                0.001438454375602305,
+                0.0014599318383261561,
+                0.0009723043767735362,
+                0.003929588943719864
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5mwy7xlodhsr4hopqpqktu6y",
+                    "type": 1,
+                    "utter": "街中歩いていらっしゃる女子のコーデは各季節毎に参考になります。"
+                },
+                {
+                    "author": "did:plc:dyhpf7egynoi35vala2w7ghs",
+                    "type": 2,
+                    "utter": "夢魅さんのコーデ、めちゃかわですよね💕わたしコーデがしなしななので本当に見習いたい…\n今年は厚底や謎のベルトつきトップス出てきてるので、まさにドール服コーデのリアル版かもですね！！"
+                },
+                {
+                    "author": "did:plc:5mwy7xlodhsr4hopqpqktu6y",
+                    "type": 3,
+                    "utter": "ありがとうございます。\n大分季節毎の衣装が集まったので色々組み合わせるの楽しいです😆"
+                }
+            ],
+            "uri": "at://did:plc:5mwy7xlodhsr4hopqpqktu6y/app.bsky.feed.post/3lby4vrdtpk2c",
+            "label": [
+                0.9837324023246765,
+                0.0023343174252659082,
+                0.009564989246428013,
+                0.0033038759138435125,
+                0.002181130228564143,
+                0.002596760168671608,
+                0.00285096256993711,
+                0.002837229985743761
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5mwy7xlodhsr4hopqpqktu6y",
+                    "type": 1,
+                    "utter": "ありがとうございます。\n大分季節毎の衣装が集まったので色々組み合わせるの楽しいです😆"
+                },
+                {
+                    "author": "did:plc:dyhpf7egynoi35vala2w7ghs",
+                    "type": 2,
+                    "utter": "いっぱいあるアイテムから組み合わせ考えるの難しいけど楽しいですよね！！\nうちも大分揃ってきて、やっとコーデ少しずつできるようになりました！！今は靴周りの重要性と直面してます…秋冬はやはりアイテム数多いのでまだまだですね💦\nイドルでSENさんが靴大放出してくれたら買いに行こうかな…"
+                },
+                {
+                    "author": "did:plc:5mwy7xlodhsr4hopqpqktu6y",
+                    "type": 3,
+                    "utter": "靴は夏はアゾンのストラップサンダル、それ以外はオデコ靴がお気に入り‼️\nあと、便所ゲタ🤣"
+                }
+            ],
+            "uri": "at://did:plc:5mwy7xlodhsr4hopqpqktu6y/app.bsky.feed.post/3lbydn2d3ac2e",
+            "label": [
+                0.9855258464813232,
+                0.0024186912924051285,
+                0.005998453125357628,
+                0.004314935766160488,
+                0.002296786056831479,
+                0.002769754733890295,
+                0.003303621429949999,
+                0.003851865418255329
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5mwy7xlodhsr4hopqpqktu6y",
+                    "type": 1,
+                    "utter": "ここだけの話、電子より当日券のほうが早く入れるかもです。\n確か、リストバンド交換するのに並んだような。"
+                },
+                {
+                    "author": "did:plc:dyhpf7egynoi35vala2w7ghs",
+                    "type": 2,
+                    "utter": "多分午後あたりによろっと行くとは思うんですが…混みますかねー。\n浜松町で当日券に並んでるのは見たことあるんですが、ビックサイトにはまだ行ったことなくて…当日券だとリストバンドも貰えるからですかね…"
+                },
+                {
+                    "author": "did:plc:5mwy7xlodhsr4hopqpqktu6y",
+                    "type": 3,
+                    "utter": "そうそう・・・"
+                }
+            ],
+            "uri": "at://did:plc:5mwy7xlodhsr4hopqpqktu6y/app.bsky.feed.post/3lbttc7qx4c24",
+            "label": [
+                0.799938440322876,
+                0.03463613614439964,
+                0.03733223304152489,
+                0.035789184272289276,
+                0.0035838596522808075,
+                0.022472970187664032,
+                0.022806691005825996,
+                0.017111025750637054
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5mwy7xlodhsr4hopqpqktu6y",
+                    "type": 1,
+                    "utter": "そうそう・・・"
+                },
+                {
+                    "author": "did:plc:dyhpf7egynoi35vala2w7ghs",
+                    "type": 2,
+                    "utter": "ううっ買っちゃった…並ばず入れますように…！！"
+                },
+                {
+                    "author": "did:plc:5mwy7xlodhsr4hopqpqktu6y",
+                    "type": 3,
+                    "utter": "まあ、そんなに変わらんかと。\n先行ガチャやるんでしょ？\n私は運試しでいつも大体一回ですけど😆"
+                }
+            ],
+            "uri": "at://did:plc:5mwy7xlodhsr4hopqpqktu6y/app.bsky.feed.post/3lbv4kyec6s23",
+            "label": [
+                0.3052191138267517,
+                0.018403252586722374,
+                0.701442301273346,
+                0.007444499526172876,
+                0.0028206270653754473,
+                0.00656577292829752,
+                0.011165783740580082,
+                0.008442297577857971
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5mwy7xlodhsr4hopqpqktu6y",
+                    "type": 1,
+                    "utter": "まあ、そんなに変わらんかと。\n先行ガチャやるんでしょ？\n私は運試しでいつも大体一回ですけど😆"
+                },
+                {
+                    "author": "did:plc:dyhpf7egynoi35vala2w7ghs",
+                    "type": 2,
+                    "utter": "先行はやらないですねー。遊びに行ってあわよくばお目当てがゲットできれば嬉しいかなー、くらいです😊"
+                },
+                {
+                    "author": "did:plc:5mwy7xlodhsr4hopqpqktu6y",
+                    "type": 3,
+                    "utter": "私もなんだかんだ卓で遊んでて、全く買い物行かなかったりしますからね😆\n終わり間際に一周して気になったのをお迎えするとか(笑)"
+                }
+            ],
+            "uri": "at://did:plc:5mwy7xlodhsr4hopqpqktu6y/app.bsky.feed.post/3lbv5wonfws25",
+            "label": [
+                0.29537490010261536,
+                0.005609647836536169,
+                0.7143417596817017,
+                0.0038316771388053894,
+                0.0007546584238298237,
+                0.0034898624289780855,
+                0.0013435955625027418,
+                0.0015031268121674657
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5mwy7xlodhsr4hopqpqktu6y",
+                    "type": 1,
+                    "utter": "私もなんだかんだ卓で遊んでて、全く買い物行かなかったりしますからね😆\n終わり間際に一周して気になったのをお迎えするとか(笑)"
+                },
+                {
+                    "author": "did:plc:dyhpf7egynoi35vala2w7ghs",
+                    "type": 2,
+                    "utter": "一通りラッシュが終わったあとののんびりしたところを回るのが好きで…ゆっくり回れて色々見れるので、そういうのも楽しいですよね！！\n先行からごりっと行くと戦士の心構えが必要なので😅"
+                },
+                {
+                    "author": "did:plc:5mwy7xlodhsr4hopqpqktu6y",
+                    "type": 3,
+                    "utter": "ほんそれ。\nで、大手に並ぶとそれだけで1日終わってしまう😆"
+                }
+            ],
+            "uri": "at://did:plc:5mwy7xlodhsr4hopqpqktu6y/app.bsky.feed.post/3lbvfckgyff2c",
+            "label": [
+                0.11367707699537277,
+                0.5685228109359741,
+                0.010007507167756557,
+                0.01631133444607258,
+                0.0022693260107189417,
+                0.2817370891571045,
+                0.01775638945400715,
+                0.0025976644828915596
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5mwy7xlodhsr4hopqpqktu6y",
+                    "type": 1,
+                    "utter": "シュウさん、おはよ。\nイドル来るん？"
+                },
+                {
+                    "author": "did:plc:vbc5r4iwaxo73fjkd3cbanxt",
+                    "type": 2,
+                    "utter": "行く予定です。\nチケットも買いましたし🎫 .·"
+                },
+                {
+                    "author": "did:plc:5mwy7xlodhsr4hopqpqktu6y",
+                    "type": 3,
+                    "utter": "電子チケットね。\nガチャる？"
+                }
+            ],
+            "uri": "at://did:plc:5mwy7xlodhsr4hopqpqktu6y/app.bsky.feed.post/3lbsnojdgu22b",
+            "label": [
+                0.029737260192632675,
+                0.006208160426467657,
+                0.963397204875946,
+                0.0049673449248075485,
+                0.0015379830729216337,
+                0.002343295142054558,
+                0.0016893838765099645,
+                0.0014032652834430337
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5mwy7xlodhsr4hopqpqktu6y",
+                    "type": 1,
+                    "utter": "電子チケットね。\nガチャる？"
+                },
+                {
+                    "author": "did:plc:vbc5r4iwaxo73fjkd3cbanxt",
+                    "type": 2,
+                    "utter": "先行買った方がいいって聞いたのでチャレンジしてみようかと..."
+                },
+                {
+                    "author": "did:plc:5mwy7xlodhsr4hopqpqktu6y",
+                    "type": 3,
+                    "utter": "引く人は20とか引くからなー🤣\n自分はいつも運試しで1回位。\n神番引ければ選り取りみどり。\n多分卓とるので会えたら会いますか？"
+                }
+            ],
+            "uri": "at://did:plc:5mwy7xlodhsr4hopqpqktu6y/app.bsky.feed.post/3lbsnu23t5h2o",
+            "label": [
+                0.028580106794834137,
+                0.005925876088440418,
+                0.9686660170555115,
+                0.003260525641962886,
+                0.0019448280800133944,
+                0.0028573707677423954,
+                0.0019893755670636892,
+                0.0018608450191095471
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5mwy7xlodhsr4hopqpqktu6y",
+                    "type": 1,
+                    "utter": "引く人は20とか引くからなー🤣\n自分はいつも運試しで1回位。\n神番引ければ選り取りみどり。\n多分卓とるので会えたら会いますか？"
+                },
+                {
+                    "author": "did:plc:vbc5r4iwaxo73fjkd3cbanxt",
+                    "type": 2,
+                    "utter": "9時から販売ですよね。\nいい番号引ければいいな...\n\n交流卓にも伺いますのでよろしくお願いします！"
+                },
+                {
+                    "author": "did:plc:5mwy7xlodhsr4hopqpqktu6y",
+                    "type": 3,
+                    "utter": "あまり良い番号引いちゃうと何買おうか焦りますよ😆"
+                }
+            ],
+            "uri": "at://did:plc:5mwy7xlodhsr4hopqpqktu6y/app.bsky.feed.post/3lbsum3be7g2v",
+            "label": [
+                0.2185048609972,
+                0.004922788590192795,
+                0.5255811214447021,
+                0.010895110666751862,
+                0.0006329019088298082,
+                0.09393734484910965,
+                0.0006697358330711722,
+                0.0016300318529829383
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5mwy7xlodhsr4hopqpqktu6y",
+                    "type": 1,
+                    "utter": "あまり良い番号引いちゃうと何買おうか焦りますよ😆"
+                },
+                {
+                    "author": "did:plc:vbc5r4iwaxo73fjkd3cbanxt",
+                    "type": 2,
+                    "utter": "私クジ運ないのできっと大丈夫ッス😭"
+                },
+                {
+                    "author": "did:plc:5mwy7xlodhsr4hopqpqktu6y",
+                    "type": 3,
+                    "utter": "😆"
+                }
+            ],
+            "uri": "at://did:plc:5mwy7xlodhsr4hopqpqktu6y/app.bsky.feed.post/3lbtel542ff2r",
+            "label": [
+                0.7955643534660339,
+                0.04578904062509537,
+                0.06354942172765732,
+                0.007805889472365379,
+                0.0035425222013145685,
+                0.0128534696996212,
+                0.03758782520890236,
+                0.005353034473955631
+            ]
+        }
+    ]
+}

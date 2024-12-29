@@ -1,0 +1,634 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 1,
+                    "utter": "1日まで札幌に帰れないフラグがたった"
+                },
+                {
+                    "author": "did:plc:idisabwjch4kqpvkrwnqrtcs",
+                    "type": 2,
+                    "utter": "帰って来るの待ってたのに‼️\nねこ大丈夫か？？"
+                },
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 3,
+                    "utter": "大雪でどうにもこうにもならん大遅延で難民多発じゃ！！\nペットシッターさんに連絡ついたからお願いしといた…🥺"
+                }
+            ],
+            "uri": "at://did:plc:qiwwnbsadpcyhlwll33kq6lm/app.bsky.feed.post/3lbyi66c4zc2f",
+            "label": [
+                0.005043348763138056,
+                0.6132763028144836,
+                0.002953236224129796,
+                0.13005779683589935,
+                0.01867646537721157,
+                0.244485005736351,
+                0.009988176636397839,
+                0.0014110107440501451
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 1,
+                    "utter": "大雪でどうにもこうにもならん大遅延で難民多発じゃ！！\nペットシッターさんに連絡ついたからお願いしといた…🥺"
+                },
+                {
+                    "author": "did:plc:idisabwjch4kqpvkrwnqrtcs",
+                    "type": 2,
+                    "utter": "とりあえず延長保育（？）出来て良かったね🥺\nこんな時期に旅行するから、、😫"
+                },
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 3,
+                    "utter": "いやまさか仁川がだめになるとはおもわんじゃん？！"
+                }
+            ],
+            "uri": "at://did:plc:qiwwnbsadpcyhlwll33kq6lm/app.bsky.feed.post/3lbyqlaaums2f",
+            "label": [
+                0.010247992351651192,
+                0.02086094580590725,
+                0.006789096165448427,
+                0.9628149271011353,
+                0.0099495155736804,
+                0.0129125090315938,
+                0.008175957016646862,
+                0.002491569612175226
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 1,
+                    "utter": "いやまさか仁川がだめになるとはおもわんじゃん？！"
+                },
+                {
+                    "author": "did:plc:idisabwjch4kqpvkrwnqrtcs",
+                    "type": 2,
+                    "utter": "じゃん！？ってのがいつも大体ダメになるんだよな（経験談）"
+                },
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 3,
+                    "utter": "ゆるせねぇなぁ？？悲しいから失敗作の話してよ"
+                }
+            ],
+            "uri": "at://did:plc:qiwwnbsadpcyhlwll33kq6lm/app.bsky.feed.post/3lbythsxpxk2f",
+            "label": [
+                0.005697621963918209,
+                0.9681785702705383,
+                0.00623931922018528,
+                0.0036781630478799343,
+                0.005137363448739052,
+                0.005991003010421991,
+                0.018377454951405525,
+                0.0010175625793635845
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 1,
+                    "utter": "ゆるせねぇなぁ？？悲しいから失敗作の話してよ"
+                },
+                {
+                    "author": "did:plc:idisabwjch4kqpvkrwnqrtcs",
+                    "type": 2,
+                    "utter": "いいよ 何が知りたいんだい"
+                },
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 3,
+                    "utter": "身長、体重、血液型、好みのタイプ、初体験の年齢、何ラウンドできるか"
+                }
+            ],
+            "uri": "at://did:plc:qiwwnbsadpcyhlwll33kq6lm/app.bsky.feed.post/3lbytzbmud22f",
+            "label": [
+                0.09036930650472641,
+                0.00463344668969512,
+                0.9350913166999817,
+                0.00440185097977519,
+                0.0017070506000891328,
+                0.003321736352518201,
+                0.0018318501533940434,
+                0.0030201494228094816
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 1,
+                    "utter": "身長、体重、血液型、好みのタイプ、初体験の年齢、何ラウンドできるか"
+                },
+                {
+                    "author": "did:plc:idisabwjch4kqpvkrwnqrtcs",
+                    "type": 2,
+                    "utter": "欲望に忠実過ぎるだろ（草）\n好みのタイプだけは即答できるがうさちゃん一択"
+                },
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 3,
+                    "utter": "好みのタイプなんかなかったのに🐰しかかたん！になっちゃったんだねぇ可愛いねぇ！"
+                }
+            ],
+            "uri": "at://did:plc:qiwwnbsadpcyhlwll33kq6lm/app.bsky.feed.post/3lbyur3kuwk2f",
+            "label": [
+                0.9828229546546936,
+                0.004842773079872131,
+                0.0031721866689622402,
+                0.007084158714860678,
+                0.0010812912369146943,
+                0.00289775338023901,
+                0.0025446449872106314,
+                0.0023266265634447336
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 1,
+                    "utter": "随分と丸くなったなって容赦無くいわれるしお腹の皮をプニられるよ？？？"
+                },
+                {
+                    "author": "did:plc:idisabwjch4kqpvkrwnqrtcs",
+                    "type": 2,
+                    "utter": "そんなことを言ったらダメだよ、傷ついてるじゃないか可哀想にってゼーレちゃんに言われるけどアンタのせいって怒ってる（カロンが）"
+                },
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 3,
+                    "utter": "にーー！してるのが目に見えてるでも威嚇猫って全てがまんまるで可愛らしいからチュッ💋てされるんだよ！"
+                }
+            ],
+            "uri": "at://did:plc:qiwwnbsadpcyhlwll33kq6lm/app.bsky.feed.post/3lbvpp7tl222b",
+            "label": [
+                0.9843058586120605,
+                0.004326671827584505,
+                0.0070412857457995415,
+                0.0036931231152266264,
+                0.00149011320900172,
+                0.002374402480199933,
+                0.0029934251215308905,
+                0.0032068730797618628
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 1,
+                    "utter": "にーー！してるのが目に見えてるでも威嚇猫って全てがまんまるで可愛らしいからチュッ💋てされるんだよ！"
+                },
+                {
+                    "author": "did:plc:idisabwjch4kqpvkrwnqrtcs",
+                    "type": 2,
+                    "utter": "🛡「💋」\n🐺「⁉️」\n🐈‍⬛「🤢」"
+                },
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 3,
+                    "utter": "どうしようそれで猫カロンが嘔吐しちゃったら…"
+                }
+            ],
+            "uri": "at://did:plc:qiwwnbsadpcyhlwll33kq6lm/app.bsky.feed.post/3lbvswzwo6s2b",
+            "label": [
+                0.010425981134176254,
+                0.032030828297138214,
+                0.011622586287558079,
+                0.024768173694610596,
+                0.00769288744777441,
+                0.939419686794281,
+                0.006038004998117685,
+                0.0029846657998859882
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 1,
+                    "utter": "どうしようそれで猫カロンが嘔吐しちゃったら…"
+                },
+                {
+                    "author": "did:plc:idisabwjch4kqpvkrwnqrtcs",
+                    "type": 2,
+                    "utter": "猫だしカコカコするかもな…"
+                },
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 3,
+                    "utter": "ちゃんと吐く時は🛡️の方向いてんだよな"
+                }
+            ],
+            "uri": "at://did:plc:qiwwnbsadpcyhlwll33kq6lm/app.bsky.feed.post/3lbvtepgu2c2b",
+            "label": [
+                0.7574090361595154,
+                0.037131037563085556,
+                0.1019672155380249,
+                0.025949954986572266,
+                0.009001059457659721,
+                0.04001976177096367,
+                0.035479772835969925,
+                0.04296228289604187
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 1,
+                    "utter": "ホメロスとかいう男激卑猥なんやが"
+                },
+                {
+                    "author": "did:plc:idisabwjch4kqpvkrwnqrtcs",
+                    "type": 2,
+                    "utter": "お目が高いですね 推しです（軽率）"
+                },
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 3,
+                    "utter": "ビジュアルと声優を知った時点であ、やばいとは思ってました　死ぬなんて嫌です！"
+                }
+            ],
+            "uri": "at://did:plc:qiwwnbsadpcyhlwll33kq6lm/app.bsky.feed.post/3lbvbk65vx22b",
+            "label": [
+                0.010540598072111607,
+                0.0613144189119339,
+                0.008275756612420082,
+                0.007910718210041523,
+                0.005644397344440222,
+                0.9128844141960144,
+                0.016625188291072845,
+                0.0021179537288844585
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 1,
+                    "utter": "ビジュアルと声優を知った時点であ、やばいとは思ってました　死ぬなんて嫌です！"
+                },
+                {
+                    "author": "did:plc:idisabwjch4kqpvkrwnqrtcs",
+                    "type": 2,
+                    "utter": "推しが死ぬのは宿命だよ………"
+                },
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 3,
+                    "utter": "性格悪すぎてドラクエの悪役美形って感じや…あの手のキャラなんだかんだ生きてることあるのにホメロスは死ぬんや…(泣く"
+                }
+            ],
+            "uri": "at://did:plc:qiwwnbsadpcyhlwll33kq6lm/app.bsky.feed.post/3lbvms6p47s2b",
+            "label": [
+                0.013258319348096848,
+                0.9712130427360535,
+                0.003995352890342474,
+                0.012549960054457188,
+                0.0012678679777309299,
+                0.00859613437205553,
+                0.0076719312928617,
+                0.0010179256787523627
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 1,
+                    "utter": "性格悪すぎてドラクエの悪役美形って感じや…あの手のキャラなんだかんだ生きてることあるのにホメロスは死ぬんや…(泣く"
+                },
+                {
+                    "author": "did:plc:idisabwjch4kqpvkrwnqrtcs",
+                    "type": 2,
+                    "utter": "まあでも死ぬからこそ輝くはあるから（推しが軒並み死んでる顔）"
+                },
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 3,
+                    "utter": "あの見た目で三十六って最高じゃない？"
+                }
+            ],
+            "uri": "at://did:plc:qiwwnbsadpcyhlwll33kq6lm/app.bsky.feed.post/3lbvndcevg22b",
+            "label": [
+                0.9825962781906128,
+                0.00229922728613019,
+                0.006502621341496706,
+                0.00461232103407383,
+                0.0018302404787391424,
+                0.0023229944054037333,
+                0.0026171281933784485,
+                0.002896370366215706
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 1,
+                    "utter": "あの見た目で三十六って最高じゃない？"
+                },
+                {
+                    "author": "did:plc:idisabwjch4kqpvkrwnqrtcs",
+                    "type": 2,
+                    "utter": "わかる（わかる）"
+                },
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 3,
+                    "utter": "しかもバラの香水をつけて髪をあんなに長く伸ばし綺麗に整え私服もシャレオツ…でも顔はちゃんと36でいい感じの老け方…たまらねぇよまじ"
+                }
+            ],
+            "uri": "at://did:plc:qiwwnbsadpcyhlwll33kq6lm/app.bsky.feed.post/3lbvnkbes2c2b",
+            "label": [
+                0.9740543961524963,
+                0.006908540613949299,
+                0.00337306153960526,
+                0.008011098951101303,
+                0.0014815115137025714,
+                0.0038253336679190397,
+                0.006008164491504431,
+                0.0022338181734085083
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 1,
+                    "utter": "しかもバラの香水をつけて髪をあんなに長く伸ばし綺麗に整え私服もシャレオツ…でも顔はちゃんと36でいい感じの老け方…たまらねぇよまじ"
+                },
+                {
+                    "author": "did:plc:idisabwjch4kqpvkrwnqrtcs",
+                    "type": 2,
+                    "utter": "グレイグの方がベビーフェイスかも（⁇）\n若かりし頃の2人の関係が好き過ぎてあのままでは狂っていたから敵対して良かった 良くねぇよさらに狂うわ（キレ）"
+                },
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 3,
+                    "utter": "いやわかる、可愛い顔してんのは実はグレイグなんだわ　あっあっ、それまだみてないが絶対狂う可能性あるやめてくれドラクエはエモい関係性を軽率に挟むから許せない！"
+                }
+            ],
+            "uri": "at://did:plc:qiwwnbsadpcyhlwll33kq6lm/app.bsky.feed.post/3lbvpnpfy4s2b",
+            "label": [
+                0.004857680294662714,
+                0.04826553538441658,
+                0.0025550881400704384,
+                0.016187122091650963,
+                0.12794847786426544,
+                0.2817949652671814,
+                0.40330612659454346,
+                0.0033394673373550177
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 1,
+                    "utter": "じゃあ私と食べたら楽しいに決まってるな"
+                },
+                {
+                    "author": "did:plc:idisabwjch4kqpvkrwnqrtcs",
+                    "type": 2,
+                    "utter": "むらまつさんいると食べたいものを食べたい分だけ食べれるから好き♡"
+                },
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 3,
+                    "utter": "私が残りもの片付けるからな！！食べるの興味ない割には馬刺しはおかわりしたな！"
+                }
+            ],
+            "uri": "at://did:plc:qiwwnbsadpcyhlwll33kq6lm/app.bsky.feed.post/3lbtznb2x5s2b",
+            "label": [
+                0.041684187948703766,
+                0.014082138426601887,
+                0.014096194878220558,
+                0.9371153712272644,
+                0.006492063868790865,
+                0.006992839742451906,
+                0.006332539487630129,
+                0.0040251342579722404
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 1,
+                    "utter": "私が残りもの片付けるからな！！食べるの興味ない割には馬刺しはおかわりしたな！"
+                },
+                {
+                    "author": "did:plc:idisabwjch4kqpvkrwnqrtcs",
+                    "type": 2,
+                    "utter": "わたしと暮らしたら見る見る増量し散らかす未来しかないが大丈夫そ？？\n偏食家故に好きなものは別なので😋また馬刺し食べて〜！"
+                },
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 3,
+                    "utter": "大丈夫だ、私も家にいたら好きな時にしかくわねーからよ！！\nあの馬刺しうまかったねーまた今月いってくる"
+                }
+            ],
+            "uri": "at://did:plc:qiwwnbsadpcyhlwll33kq6lm/app.bsky.feed.post/3lbu256tad22b",
+            "label": [
+                0.33577683568000793,
+                0.0038834030274301767,
+                0.6934853792190552,
+                0.001065980177372694,
+                0.0009976854780688882,
+                0.0013009499525651336,
+                0.0010455303126946092,
+                0.001313217799179256
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 1,
+                    "utter": "大丈夫だ、私も家にいたら好きな時にしかくわねーからよ！！\nあの馬刺しうまかったねーまた今月いってくる"
+                },
+                {
+                    "author": "did:plc:idisabwjch4kqpvkrwnqrtcs",
+                    "type": 2,
+                    "utter": "飯の時間バラバラなやつ😄\nすっかり常連になってんじゃん！！"
+                },
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 3,
+                    "utter": "くらげへたしたら一日中部屋からでてこないからな！！\nレバー焼きがうまくてよぉ！"
+                }
+            ],
+            "uri": "at://did:plc:qiwwnbsadpcyhlwll33kq6lm/app.bsky.feed.post/3lbu2m5e7x22b",
+            "label": [
+                0.9851263761520386,
+                0.0026894928887486458,
+                0.0054357317276299,
+                0.0042670248076319695,
+                0.0020939400419592857,
+                0.0029275959823280573,
+                0.0030025311280041933,
+                0.00280200713314116
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 1,
+                    "utter": "くらげへたしたら一日中部屋からでてこないからな！！\nレバー焼きがうまくてよぉ！"
+                },
+                {
+                    "author": "did:plc:idisabwjch4kqpvkrwnqrtcs",
+                    "type": 2,
+                    "utter": "出て来るなと言われれば出なくてもいい\nレバー焼きにいたく感動してたもんな😂次そっち行く時また連れてって〜"
+                },
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 3,
+                    "utter": "下手すりゃ数日飯くわなさそうじゃん！\nおう！猫みながらくえる焼肉もいこう！"
+                }
+            ],
+            "uri": "at://did:plc:qiwwnbsadpcyhlwll33kq6lm/app.bsky.feed.post/3lbu3dzfb3k2b",
+            "label": [
+                0.01145399920642376,
+                0.04777869954705238,
+                0.9131808280944824,
+                0.006903517991304398,
+                0.0009479229338467121,
+                0.013304606080055237,
+                0.0011357507901266217,
+                0.0009265693952329457
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 1,
+                    "utter": "草　明かしてなかったのに　山羊君は星詠みの一族なのは最初からきまってたの見抜かれてたか"
+                },
+                {
+                    "author": "did:plc:idisabwjch4kqpvkrwnqrtcs",
+                    "type": 2,
+                    "utter": "非公開情報で被りは草なんよ 仲良くしような"
+                },
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 3,
+                    "utter": "わらってしまったな？？クロを見た時懐かしい雰囲気を感じ取ったのだろうかやはり…"
+                }
+            ],
+            "uri": "at://did:plc:qiwwnbsadpcyhlwll33kq6lm/app.bsky.feed.post/3lbntvztozk26",
+            "label": [
+                0.64110267162323,
+                0.006185376085340977,
+                0.012594788335263729,
+                0.3719472289085388,
+                0.0007225925801321864,
+                0.0036426037549972534,
+                0.0015092863468453288,
+                0.002271828008815646
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 1,
+                    "utter": "わらってしまったな？？クロを見た時懐かしい雰囲気を感じ取ったのだろうかやはり…"
+                },
+                {
+                    "author": "did:plc:idisabwjch4kqpvkrwnqrtcs",
+                    "type": 2,
+                    "utter": "生き方を模してるしな 癖が似てたとかあるのかも…？？"
+                },
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 3,
+                    "utter": "生き方が似てるのもそう羊のツノの装飾もつけてるしね　彼女は誰かの王だったのだって感じてる"
+                }
+            ],
+            "uri": "at://did:plc:qiwwnbsadpcyhlwll33kq6lm/app.bsky.feed.post/3lbnuuxncos26",
+            "label": [
+                0.3834823668003082,
+                0.00976602267473936,
+                0.3999755382537842,
+                0.1817840337753296,
+                0.0038870456628501415,
+                0.012487941421568394,
+                0.006012437865138054,
+                0.05657009407877922
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 1,
+                    "utter": "生き方が似てるのもそう羊のツノの装飾もつけてるしね　彼女は誰かの王だったのだって感じてる"
+                },
+                {
+                    "author": "did:plc:idisabwjch4kqpvkrwnqrtcs",
+                    "type": 2,
+                    "utter": "同郷の誰かが自分と同じように「王」を見つけていたの、山羊くんとしては感慨深かったりするのかな〜"
+                },
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 3,
+                    "utter": "呼吸では山羊君のような「王は各々に存在する」はマイノリティだったからねぇ　同じ思想の同郷がいたのは喜ばしいことだったよ！！"
+                }
+            ],
+            "uri": "at://did:plc:qiwwnbsadpcyhlwll33kq6lm/app.bsky.feed.post/3lbomfv4w5226",
+            "label": [
+                0.9843666553497314,
+                0.003289592918008566,
+                0.007002591621130705,
+                0.0032875780016183853,
+                0.0014887104043737054,
+                0.002592369681224227,
+                0.0026252809911966324,
+                0.002694936702027917
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 1,
+                    "utter": "呼吸では山羊君のような「王は各々に存在する」はマイノリティだったからねぇ　同じ思想の同郷がいたのは喜ばしいことだったよ！！"
+                },
+                {
+                    "author": "did:plc:idisabwjch4kqpvkrwnqrtcs",
+                    "type": 2,
+                    "utter": "故郷でも二分してて各々派は村を出てる人が多かったんやろね！山羊くんは若かったから旅に出る前とかだったのかな"
+                },
+                {
+                    "author": "did:plc:qiwwnbsadpcyhlwll33kq6lm",
+                    "type": 3,
+                    "utter": "そう、その思想の子は度々一人旅にでることが多かったんだよ！！\n山羊は旅にでて一旦帰ってきたときに奴隷商につかまった子…"
+                }
+            ],
+            "uri": "at://did:plc:qiwwnbsadpcyhlwll33kq6lm/app.bsky.feed.post/3lbooi66p3226",
+            "label": [
+                0.16321133077144623,
+                0.032361216843128204,
+                0.09423574060201645,
+                0.6870213150978088,
+                0.004644494969397783,
+                0.018742550164461136,
+                0.007829082198441029,
+                0.016753993928432465
+            ]
+        }
+    ]
+}

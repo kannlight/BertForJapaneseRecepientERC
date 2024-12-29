@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mftufwsygfngd6nkxzs7hssl",
+                    "type": 1,
+                    "utter": "snsもリアルも難しいよ〜"
+                },
+                {
+                    "author": "did:plc:xuxfilq45u7bwjp6dgv246it",
+                    "type": 2,
+                    "utter": "リアルはまだ相手の表情わかるからわかるけども、SNSって表情わからんからさー"
+                },
+                {
+                    "author": "did:plc:mftufwsygfngd6nkxzs7hssl",
+                    "type": 3,
+                    "utter": "そういう事かー\nまぁ確かにね🤔\n今何でもsnsだからなぁ。こっちは気にしてなくても向こうは分からんしね"
+                }
+            ],
+            "uri": "at://did:plc:mftufwsygfngd6nkxzs7hssl/app.bsky.feed.post/3lbtwd3nqxk2p",
+            "label": [
+                0.1919294148683548,
+                0.013855286873877048,
+                0.03135101869702339,
+                0.15011566877365112,
+                0.002485821256414056,
+                0.4014432430267334,
+                0.006939169950783253,
+                0.009501478634774685
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mftufwsygfngd6nkxzs7hssl",
+                    "type": 1,
+                    "utter": "そういう事かー\nまぁ確かにね🤔\n今何でもsnsだからなぁ。こっちは気にしてなくても向こうは分からんしね"
+                },
+                {
+                    "author": "did:plc:xuxfilq45u7bwjp6dgv246it",
+                    "type": 2,
+                    "utter": "そうなんよねぇ😑"
+                },
+                {
+                    "author": "did:plc:mftufwsygfngd6nkxzs7hssl",
+                    "type": 3,
+                    "utter": "私もたまに変な事言っちゃったりしてるから\n後からしまったーってなる😗"
+                }
+            ],
+            "uri": "at://did:plc:mftufwsygfngd6nkxzs7hssl/app.bsky.feed.post/3lbtwluxlkk2p",
+            "label": [
+                0.00649805786088109,
+                0.5452492237091064,
+                0.0017201327718794346,
+                0.020996268838644028,
+                0.002482590964064002,
+                0.3321223855018616,
+                0.0031548698898404837,
+                0.0008679751772433519
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mftufwsygfngd6nkxzs7hssl",
+                    "type": 1,
+                    "utter": "私もたまに変な事言っちゃったりしてるから\n後からしまったーってなる😗"
+                },
+                {
+                    "author": "did:plc:xuxfilq45u7bwjp6dgv246it",
+                    "type": 2,
+                    "utter": "なるよねー😑\n難しいものだ"
+                },
+                {
+                    "author": "did:plc:mftufwsygfngd6nkxzs7hssl",
+                    "type": 3,
+                    "utter": "ほんとにねー🤔\n切ろうと思えばすぐ切れるしね"
+                }
+            ],
+            "uri": "at://did:plc:mftufwsygfngd6nkxzs7hssl/app.bsky.feed.post/3lbtx6ph7sc2p",
+            "label": [
+                0.8207465410232544,
+                0.006492051295936108,
+                0.10260454565286636,
+                0.0015657851472496986,
+                0.002290814882144332,
+                0.005976898595690727,
+                0.024682924151420593,
+                0.006065804976969957
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mftufwsygfngd6nkxzs7hssl",
+                    "type": 1,
+                    "utter": "ほんとにねー🤔\n切ろうと思えばすぐ切れるしね"
+                },
+                {
+                    "author": "did:plc:xuxfilq45u7bwjp6dgv246it",
+                    "type": 2,
+                    "utter": "そーそー\nそれで2〜3人切った笑"
+                },
+                {
+                    "author": "did:plc:mftufwsygfngd6nkxzs7hssl",
+                    "type": 3,
+                    "utter": "私もTwitterの時あったな。\nモンハン垢作ったけど丸ごと消したわ笑"
+                }
+            ],
+            "uri": "at://did:plc:mftufwsygfngd6nkxzs7hssl/app.bsky.feed.post/3lbtz6ws3rc2v",
+            "label": [
+                0.6284666061401367,
+                0.02594204992055893,
+                0.028675710782408714,
+                0.18441744148731232,
+                0.002628411864861846,
+                0.06999098509550095,
+                0.023283421993255615,
+                0.0196081455796957
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mftufwsygfngd6nkxzs7hssl",
+                    "type": 1,
+                    "utter": "👍👍👍"
+                },
+                {
+                    "author": "did:plc:xuxfilq45u7bwjp6dgv246it",
+                    "type": 2,
+                    "utter": "で、でーとしようや、、"
+                },
+                {
+                    "author": "did:plc:mftufwsygfngd6nkxzs7hssl",
+                    "type": 3,
+                    "utter": "こ、怖いよぉ…おまわりさーん←"
+                }
+            ],
+            "uri": "at://did:plc:mftufwsygfngd6nkxzs7hssl/app.bsky.feed.post/3lblknrr75s2h",
+            "label": [
+                0.012758202850818634,
+                0.018645375967025757,
+                0.014106574468314648,
+                0.0235066507011652,
+                0.007674578111618757,
+                0.9411061406135559,
+                0.007110277656465769,
+                0.0032733045518398285
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mftufwsygfngd6nkxzs7hssl",
+                    "type": 1,
+                    "utter": "こ、怖いよぉ…おまわりさーん←"
+                },
+                {
+                    "author": "did:plc:xuxfilq45u7bwjp6dgv246it",
+                    "type": 2,
+                    "utter": "なんでやw"
+                },
+                {
+                    "author": "did:plc:mftufwsygfngd6nkxzs7hssl",
+                    "type": 3,
+                    "utter": "襲われそうwww"
+                }
+            ],
+            "uri": "at://did:plc:mftufwsygfngd6nkxzs7hssl/app.bsky.feed.post/3lblkrupe4k2h",
+            "label": [
+                0.037228062748909,
+                0.008429434150457382,
+                0.017173320055007935,
+                0.24646103382110596,
+                0.001567023922689259,
+                0.6563153266906738,
+                0.0016739721177145839,
+                0.001564953476190567
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mftufwsygfngd6nkxzs7hssl",
+                    "type": 1,
+                    "utter": "襲われそうwww"
+                },
+                {
+                    "author": "did:plc:xuxfilq45u7bwjp6dgv246it",
+                    "type": 2,
+                    "utter": "ソンナコトナイヨー紳士だよー"
+                },
+                {
+                    "author": "did:plc:mftufwsygfngd6nkxzs7hssl",
+                    "type": 3,
+                    "utter": "変態紳士？"
+                }
+            ],
+            "uri": "at://did:plc:mftufwsygfngd6nkxzs7hssl/app.bsky.feed.post/3lbll2loqus2h",
+            "label": [
+                0.686157763004303,
+                0.011264964006841183,
+                0.04006579518318176,
+                0.11332900822162628,
+                0.002684666309505701,
+                0.01387383509427309,
+                0.020268185064196587,
+                0.00784219428896904
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mftufwsygfngd6nkxzs7hssl",
+                    "type": 1,
+                    "utter": "変態紳士？"
+                },
+                {
+                    "author": "did:plc:xuxfilq45u7bwjp6dgv246it",
+                    "type": 2,
+                    "utter": "まーた冤罪をふっかける、、"
+                },
+                {
+                    "author": "did:plc:mftufwsygfngd6nkxzs7hssl",
+                    "type": 3,
+                    "utter": "え…でも…←"
+                }
+            ],
+            "uri": "at://did:plc:mftufwsygfngd6nkxzs7hssl/app.bsky.feed.post/3lblliium2s2h",
+            "label": [
+                0.013581543229520321,
+                0.04929395020008087,
+                0.009309163317084312,
+                0.9426965713500977,
+                0.0022442652843892574,
+                0.008975234813988209,
+                0.0052165682427585125,
+                0.0013939808122813702
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mftufwsygfngd6nkxzs7hssl",
+                    "type": 1,
+                    "utter": "Qooさんもラルク好きなのですか！\n\n私もラルク好きでLIVE行ってましたよー☺️"
+                },
+                {
+                    "author": "did:plc:lmldk47soxamcthybpgrwsa7",
+                    "type": 2,
+                    "utter": "tamagoちゃんもラルク好きなんてー！嬉しい🥰\n\n野外LIVEはちっちゃいわたしにはハードルが高くて(152㎝なのでモニターしか見えず)\nUSJの時はメインとサブのステージがあり、オープンカーで移動してサブに来てくれたので真横でhyde君が見れて幸せでした😊"
+                },
+                {
+                    "author": "did:plc:mftufwsygfngd6nkxzs7hssl",
+                    "type": 3,
+                    "utter": "ラルク大好きですー🥰\n\nQooさん意外にちっちゃいのか…\nusjってジェットコースターにスピーカー着いててそこから曲流れた時のですか？"
+                }
+            ],
+            "uri": "at://did:plc:mftufwsygfngd6nkxzs7hssl/app.bsky.feed.post/3lb6wvybmjs2p",
+            "label": [
+                0.9712642431259155,
+                0.0019793484825640917,
+                0.005907525774091482,
+                0.01325295027345419,
+                0.0013784209731966257,
+                0.001466361340135336,
+                0.0017578145489096642,
+                0.0029102680273354053
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mftufwsygfngd6nkxzs7hssl",
+                    "type": 1,
+                    "utter": "ラルク大好きですー🥰\n\nQooさん意外にちっちゃいのか…\nusjってジェットコースターにスピーカー着いててそこから曲流れた時のですか？"
+                },
+                {
+                    "author": "did:plc:xuxfilq45u7bwjp6dgv246it",
+                    "type": 2,
+                    "utter": "たまごさんもちっちゃいよね←"
+                },
+                {
+                    "author": "did:plc:mftufwsygfngd6nkxzs7hssl",
+                    "type": 3,
+                    "utter": "tamagoは155cmですな"
+                }
+            ],
+            "uri": "at://did:plc:mftufwsygfngd6nkxzs7hssl/app.bsky.feed.post/3lb7fzzkkyk2p",
+            "label": [
+                0.6741509437561035,
+                0.008620485663414001,
+                0.1341424137353897,
+                0.11097218841314316,
+                0.0024233621079474688,
+                0.004928016569465399,
+                0.004226043354719877,
+                0.014357266947627068
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mftufwsygfngd6nkxzs7hssl",
+                    "type": 1,
+                    "utter": "tamagoは155cmですな"
+                },
+                {
+                    "author": "did:plc:xuxfilq45u7bwjp6dgv246it",
+                    "type": 2,
+                    "utter": "55だと平均ぐらい？😗"
+                },
+                {
+                    "author": "did:plc:mftufwsygfngd6nkxzs7hssl",
+                    "type": 3,
+                    "utter": "平均知らんw"
+                }
+            ],
+            "uri": "at://did:plc:mftufwsygfngd6nkxzs7hssl/app.bsky.feed.post/3lb7ge5fxvk2p",
+            "label": [
+                0.3300643563270569,
+                0.18075308203697205,
+                0.11128712445497513,
+                0.19320738315582275,
+                0.0053299120627343655,
+                0.05080534517765045,
+                0.04305218160152435,
+                0.009570231661200523
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mftufwsygfngd6nkxzs7hssl",
+                    "type": 1,
+                    "utter": "平均知らんw"
+                },
+                {
+                    "author": "did:plc:xuxfilq45u7bwjp6dgv246it",
+                    "type": 2,
+                    "utter": "158.2が平均らしいで😗"
+                },
+                {
+                    "author": "did:plc:mftufwsygfngd6nkxzs7hssl",
+                    "type": 3,
+                    "utter": "んなら低いやん笑"
+                }
+            ],
+            "uri": "at://did:plc:mftufwsygfngd6nkxzs7hssl/app.bsky.feed.post/3lb7gk5wphc2p",
+            "label": [
+                0.15724167227745056,
+                0.04064232483506203,
+                0.015988854691386223,
+                0.7291271686553955,
+                0.00811524223536253,
+                0.017388002946972847,
+                0.05389746278524399,
+                0.005959599744528532
+            ]
+        }
+    ]
+}

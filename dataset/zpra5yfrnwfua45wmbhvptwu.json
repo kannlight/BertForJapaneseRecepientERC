@@ -1,0 +1,994 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "ん！？むぎちゃん！！！\n2枚上げてたのね！？どっちだろ😎"
+                },
+                {
+                    "author": "did:plc:panotegualx3gykiilw7ue2e",
+                    "type": 2,
+                    "utter": "あたり！すごい！！\nこちらはむぎちゃん！！"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "え！？あたり！？😳✨✨\nやったあー！！🥰💓💓\n珍しく当てちゃった🥹笑"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbibkg4qz223",
+            "label": [
+                0.9804609417915344,
+                0.0023596875835210085,
+                0.005451122298836708,
+                0.007503532338887453,
+                0.0014290272956714034,
+                0.0020326878875494003,
+                0.002180814743041992,
+                0.0019564619287848473
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "え！？あたり！？😳✨✨\nやったあー！！🥰💓💓\n珍しく当てちゃった🥹笑"
+                },
+                {
+                    "author": "did:plc:panotegualx3gykiilw7ue2e",
+                    "type": 2,
+                    "utter": "当たり〜！\nいい事あるかも🤭！？笑"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "あるね…幸運が舞い降りてくる🥰🥰笑"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbkry4km622c",
+            "label": [
+                0.09681752324104309,
+                0.005177742335945368,
+                0.8933754563331604,
+                0.0026270707603543997,
+                0.0006801520357839763,
+                0.0022187605500221252,
+                0.0008804153767414391,
+                0.0011326342355459929
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "あるね…幸運が舞い降りてくる🥰🥰笑"
+                },
+                {
+                    "author": "did:plc:panotegualx3gykiilw7ue2e",
+                    "type": 2,
+                    "utter": "久しぶりに見たらわからないらしいからよく当たったね✨\n嬉しい🥰🥰🥰"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "そんなにわからないんだ！笑\nやったあ！！🥳🥳✨"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbltjiibj22w",
+            "label": [
+                0.9614363312721252,
+                0.002913770964369178,
+                0.003925671335309744,
+                0.023211564868688583,
+                0.0009785043075680733,
+                0.0013838743325322866,
+                0.0019463531207293272,
+                0.001594702247530222
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "そんなにわからないんだ！笑\nやったあ！！🥳🥳✨"
+                },
+                {
+                    "author": "did:plc:panotegualx3gykiilw7ue2e",
+                    "type": 2,
+                    "utter": "わからないらしい！\n似てるからかな？？\nナイスー！！"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "似てる似てる！！😳😳\n見分けつかん😇笑\nたまたま当たったから笑"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbm4oztgl22w",
+            "label": [
+                0.8166093230247498,
+                0.002715561306104064,
+                0.006892114412039518,
+                0.18934571743011475,
+                0.0006933651748113334,
+                0.003661554306745529,
+                0.002059841062873602,
+                0.0021388279274106026
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "おおお😳😳😳😳😳\nそれは嬉しすぎだねえ！！！🥰💓💓💓💓💓\n推しがコメント拾ってくれるなんて最高の癒しだなあ😭💓💓"
+                },
+                {
+                    "author": "did:plc:t2kzqptpfq3u33nzgzqg5jzn",
+                    "type": 2,
+                    "utter": "推せるか迷ってたけどこれは推すかな…笑\nめっちゃかわいくない？www"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "かわいいねえ🥳💓\n推した方がいいよ！！笑\nファンサしてくれたし🥳🥳笑(ちょろい笑)"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbwhyjiyqc2a",
+            "label": [
+                0.9775654077529907,
+                0.0022739041596651077,
+                0.012162869796156883,
+                0.0032071431633085012,
+                0.0015229355776682496,
+                0.001668145996518433,
+                0.0022519093472510576,
+                0.0027789617888629436
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "かわいいねえ🥳💓\n推した方がいいよ！！笑\nファンサしてくれたし🥳🥳笑(ちょろい笑)"
+                },
+                {
+                    "author": "did:plc:t2kzqptpfq3u33nzgzqg5jzn",
+                    "type": 2,
+                    "utter": "そう！\nチョロい女なんですよ🤣\nなんかファンミが年明けにあるんだけど、全員にもれなく頭ポンポンしてくれるらしいの。\n東京だから諦めるけど💦\nされたら多分しぬよ？笑"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "ええ！！それは行った方が……！！\n遠いのか🥲💦\nされたら発狂するんじゃない！？😳😳\n時止まるよ！？😳😳"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbwje5czac2k",
+            "label": [
+                0.006950301583856344,
+                0.020135274156928062,
+                0.004888137336820364,
+                0.7687800526618958,
+                0.008429314941167831,
+                0.20297904312610626,
+                0.008514579385519028,
+                0.0017987021710723639
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "ええ！！それは行った方が……！！\n遠いのか🥲💦\nされたら発狂するんじゃない！？😳😳\n時止まるよ！？😳😳"
+                },
+                {
+                    "author": "did:plc:t2kzqptpfq3u33nzgzqg5jzn",
+                    "type": 2,
+                    "utter": "寿命縮むからやめとく笑\n絶対死ぬよwww"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "過呼吸になりそう！！笑\nタヒるね🫠！！笑"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbwk6aow522k",
+            "label": [
+                0.04402221366763115,
+                0.08199860900640488,
+                0.011051857843995094,
+                0.26568737626075745,
+                0.003352904925122857,
+                0.5746309757232666,
+                0.013401036150753498,
+                0.0031701624393463135
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "過呼吸になりそう！！笑\nタヒるね🫠！！笑"
+                },
+                {
+                    "author": "did:plc:t2kzqptpfq3u33nzgzqg5jzn",
+                    "type": 2,
+                    "utter": "救急車🚑🚑💨\nそれにさ、頭ポンポンされたら頭洗えなくなるじゃんwww"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "🤣🤣🤣\nたしかにねえ😂😂笑"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbxe3pmj7k2k",
+            "label": [
+                0.8846414089202881,
+                0.0024663822259753942,
+                0.02029361017048359,
+                0.04838913306593895,
+                0.0012001353316009045,
+                0.004688121844083071,
+                0.004353930242359638,
+                0.005122484173625708
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "かりんさんに言われて気がついた😳\nひとつだけだねほんと！😳笑\nね！どこにいるかな！？みたいな笑"
+                },
+                {
+                    "author": "did:plc:znqa22kmjsg2iqhfjploj5iy",
+                    "type": 2,
+                    "utter": "でしょでしょ～～🤭💕\nもう、可愛すぎてつい探してしまうね🫶"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "もうちょいいい感じに仕上げてみる🥹✨✨\n隠れんぼツリーと名付けようか笑"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbptubdiy22m",
+            "label": [
+                0.08266273140907288,
+                0.0039063021540641785,
+                0.9087797999382019,
+                0.002017674967646599,
+                0.0011022251565009356,
+                0.0017120178090408444,
+                0.0011445399140939116,
+                0.0010796865681186318
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "もうちょいいい感じに仕上げてみる🥹✨✨\n隠れんぼツリーと名付けようか笑"
+                },
+                {
+                    "author": "did:plc:znqa22kmjsg2iqhfjploj5iy",
+                    "type": 2,
+                    "utter": "めちゃめちゃ可愛すぎる🤭\nここに、可愛すぎる隠れんぼツリーが完成しました～～🙏✨✨（点灯式的なww）"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "🤣🤣笑\nライト買ってこなかったから買ってくる🏃‍♀️笑(点灯式だもんね😎笑)"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbpyq4qaok2m",
+            "label": [
+                0.3248129189014435,
+                0.007636751048266888,
+                0.6776421070098877,
+                0.0018917027628049254,
+                0.0006104354979470372,
+                0.002055176766589284,
+                0.0013041059719398618,
+                0.001080741873010993
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "🤣🤣笑\nライト買ってこなかったから買ってくる🏃‍♀️笑(点灯式だもんね😎笑)"
+                },
+                {
+                    "author": "did:plc:znqa22kmjsg2iqhfjploj5iy",
+                    "type": 2,
+                    "utter": "よし、100均へGOだ💪✨\nそれから隠れんぼツリーの点灯式だぁ～～✨✨\nキラキラの中に隠れチラチラ見てる凪くん達･･･うう、それだけで萌える💕💕"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "ね！100均行ってくるぞー🚗³₃！\nでも飾り付けしてる時、オーナメント落とす刺客(猫)いるのよ🙄笑\n飾り付けしたい人間ＶＳ飾り落として遊びたい猫の戦い始まるよｳﾘｬｰ(⊃ᐛ )⊃💥⊂( ᐖ⊂)ｵﾘｬｰ笑"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbq4clj3cc2m",
+            "label": [
+                0.2591398358345032,
+                0.11580899357795715,
+                0.2711251974105835,
+                0.029682839289307594,
+                0.0041420538909733295,
+                0.19811701774597168,
+                0.01176543440669775,
+                0.004538789391517639
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "ね！100均行ってくるぞー🚗³₃！\nでも飾り付けしてる時、オーナメント落とす刺客(猫)いるのよ🙄笑\n飾り付けしたい人間ＶＳ飾り落として遊びたい猫の戦い始まるよｳﾘｬｰ(⊃ᐛ )⊃💥⊂( ᐖ⊂)ｵﾘｬｰ笑"
+                },
+                {
+                    "author": "did:plc:znqa22kmjsg2iqhfjploj5iy",
+                    "type": 2,
+                    "utter": "んはぁwwいっしょww\nだから、うちは部屋に飾れず毎年玄関にだけ小っさいツリー🎄飾ってるよ😭ww\n私も点灯式して盛大に部屋に置きたいんだけどねぇ😭\nツリーにじゃれて倒してギャー😭てなるの目に見えててww"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "そうなるよね！！😱😱笑\nうちも今玄関にいる！！笑\n点灯式は玄関です。。笑\n部屋からは見えない笑\nたしかにじゃれつくね🤣🤣"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbrgcfxca22d",
+            "label": [
+                0.8957595229148865,
+                0.003563949605450034,
+                0.014520956203341484,
+                0.07953250408172607,
+                0.0009373807697556913,
+                0.0029972840566188097,
+                0.0020430893637239933,
+                0.0034372250083833933
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "かわいいよねえ🥰✨\n飾り付け楽しくなっちゃった🥹💓\nあと１ヶ月くらい飾れると思うとウキウキだよー☺️💓"
+                },
+                {
+                    "author": "did:plc:panotegualx3gykiilw7ue2e",
+                    "type": 2,
+                    "utter": "ぬいを飾るは天才！\nこれは楽しんじゃうね🥰🥰🥰"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "ね！楽しむよお☺️💓\nありがとう✨"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbsdd2og2k2d",
+            "label": [
+                0.9143267869949341,
+                0.0020607567857950926,
+                0.08262455463409424,
+                0.0012648290721699595,
+                0.0011274188291281462,
+                0.0014289042446762323,
+                0.0013803730253130198,
+                0.0014583221636712551
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "ね！楽しむよお☺️💓\nありがとう✨"
+                },
+                {
+                    "author": "did:plc:panotegualx3gykiilw7ue2e",
+                    "type": 2,
+                    "utter": "ぬいいっぱいいるなら気分でメンバー変えてもいいしね✨"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "たしかに！！🥹\nブルロだけ飾ってたけど昨日ちみけもクロと忍たまも飾ったよ🥰✨\n賑やか☺️"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbt46scspc2d",
+            "label": [
+                0.9828434586524963,
+                0.0026456560008227825,
+                0.007547523360699415,
+                0.0038791478145867586,
+                0.001620332128368318,
+                0.0020929358433932066,
+                0.002644566586241126,
+                0.0022997020278126
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "たしかに！！🥹\nブルロだけ飾ってたけど昨日ちみけもクロと忍たまも飾ったよ🥰✨\n賑やか☺️"
+                },
+                {
+                    "author": "did:plc:panotegualx3gykiilw7ue2e",
+                    "type": 2,
+                    "utter": "おぉ！賑やかなのいいねいいね🥰🥰🥰"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "あとはオーナメントを手に入れればね😎笑\n完璧だぁあ🥹✨"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbtxy52ipc2y",
+            "label": [
+                0.9693659543991089,
+                0.0026550348848104477,
+                0.020605923607945442,
+                0.0019085939275100827,
+                0.0011501882690936327,
+                0.0017014520708471537,
+                0.002000338165089488,
+                0.0017360051861032844
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "あとはオーナメントを手に入れればね😎笑\n完璧だぁあ🥹✨"
+                },
+                {
+                    "author": "did:plc:panotegualx3gykiilw7ue2e",
+                    "type": 2,
+                    "utter": "オーナメントでさらにかわいく✨\n最高だぁ🥰🥰🥰"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "飾り付けするぞー！٩( 'ω' )و\n✊ ̖́-オー！"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbtyunwzic2y",
+            "label": [
+                0.19143050909042358,
+                0.003496176330372691,
+                0.803354024887085,
+                0.0013905803207308054,
+                0.0009418147965334356,
+                0.0013488945551216602,
+                0.0009547753143124282,
+                0.0008916902006603777
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "かわいいよねええ！！！🥰🫶\nはなちゃがクリスマスツリーに凛ちゃんぬい飾ってたじゃん？🥹\nあれみたらやりたくなっちゃって🥹💓"
+                },
+                {
+                    "author": "did:plc:eedt2jdw43zupkmncfofjokg",
+                    "type": 2,
+                    "utter": "はなちゃんのも可愛かったよねぇ🥰\nぬいツリー可愛い☺️💓"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "ね！可愛かった☺️✨\nそれなあ！ちんちくりんちゃんもツリー🎄飾ったりするの？？🥹"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbpsvyfni22m",
+            "label": [
+                0.9810866713523865,
+                0.0022597494535148144,
+                0.009416209533810616,
+                0.004284906666725874,
+                0.001478512305766344,
+                0.0018848007312044501,
+                0.0021195323206484318,
+                0.002378585282713175
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "ね！可愛かった☺️✨\nそれなあ！ちんちくりんちゃんもツリー🎄飾ったりするの？？🥹"
+                },
+                {
+                    "author": "did:plc:eedt2jdw43zupkmncfofjokg",
+                    "type": 2,
+                    "utter": "うちはねぇ、ツリー出すと犬が木だと思ってマーキングするんだよね…😇\nだから出せない😇笑\nみんなの見てクリスマスを感じてる(〃 ᷇ᵕ ᷆〃)"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "そっか…確かに🐕⸒⸒にしてみたら木🌳だもんね笑\nおお！じゃあクリスマス感じてってよ🎅笑"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbqj5ygsyk2m",
+            "label": [
+                0.3096761405467987,
+                0.016661016270518303,
+                0.554405152797699,
+                0.024014538154006004,
+                0.002761232201009989,
+                0.0019829056691378355,
+                0.004150242544710636,
+                0.003517364850267768
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "そっか…確かに🐕⸒⸒にしてみたら木🌳だもんね笑\nおお！じゃあクリスマス感じてってよ🎅笑"
+                },
+                {
+                    "author": "did:plc:eedt2jdw43zupkmncfofjokg",
+                    "type": 2,
+                    "utter": "躾がなってない犬なもんで…😇\nいっぱい感じる🥹🎄"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "いやみんな最初そうなるんじゃない？？笑"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbqtcudx422m",
+            "label": [
+                0.48253458738327026,
+                0.004990303888916969,
+                0.12432990223169327,
+                0.12003207951784134,
+                0.001881008269265294,
+                0.004847134463489056,
+                0.008143051527440548,
+                0.009161624126136303
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "いやみんな最初そうなるんじゃない？？笑"
+                },
+                {
+                    "author": "did:plc:eedt2jdw43zupkmncfofjokg",
+                    "type": 2,
+                    "utter": "そうかな🥹\nそうだといいけど(›´-`‹ )\n可愛いからって甘やかしもよくないね😇"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "躾難しいよね😇🙃\nついつい甘やかしちゃうもん😇"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbr5ewgktk2m",
+            "label": [
+                0.013361822813749313,
+                0.9311827421188354,
+                0.002509813057258725,
+                0.010942543856799603,
+                0.0015162446070462465,
+                0.03236827254295349,
+                0.003960384987294674,
+                0.0008653672412037849
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "ね！かわいいよね🥰✨\nニンテンドーショップかなにかか！？😳😳💓\nかわいいなあ🥰💓"
+                },
+                {
+                    "author": "did:plc:4gfar3mcdp3ohydgdfhznw7l",
+                    "type": 2,
+                    "utter": "そうそう！ちょきまるさんスゴイ💖任天堂SHOPに行った時に季節的に飾ってあった✨可愛！！て思って撮っちゃったよ🤭"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "しずえさんとかいたからさ🥳\nもしかして！？ってなった🤣✨\nこれは撮っちゃうね笑"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbrf2vb2es2d",
+            "label": [
+                0.7862228751182556,
+                0.0016821983736008406,
+                0.026900935918092728,
+                0.12949082255363464,
+                0.0008193053654395044,
+                0.0014823926612734795,
+                0.0008095700177364051,
+                0.001932604005560279
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "しずえさんとかいたからさ🥳\nもしかして！？ってなった🤣✨\nこれは撮っちゃうね笑"
+                },
+                {
+                    "author": "did:plc:4gfar3mcdp3ohydgdfhznw7l",
+                    "type": 2,
+                    "utter": "しずえさんで気づいたんだ😂"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "どうぶつの森好きだからさ🥹💓\n唯一やってるゲームさ🥰"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbtpnt7vac2y",
+            "label": [
+                0.9774346351623535,
+                0.0027120718732476234,
+                0.01676623523235321,
+                0.0022670351900160313,
+                0.0018351865001022816,
+                0.002202418399974704,
+                0.0029071553144603968,
+                0.00401785783469677
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "どうぶつの森好きだからさ🥹💓\n唯一やってるゲームさ🥰"
+                },
+                {
+                    "author": "did:plc:4gfar3mcdp3ohydgdfhznw7l",
+                    "type": 2,
+                    "utter": "そうなんだ！！今もしてるの？\n\n私マリオは昔してたけど今全然ゲームして無くて…どうぶつの森も気になってたけど結局しなかった🥹昔は結構してたからCAPCOMのSHOPもあってテンション上がった↑"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "今はやってないなあ🤔\nもう放置しちゃってる😇\nひららちゃんどうぶつの森やってないんだ！😳\n面白いのに！🥹\nハマるよおー！！\nCAPCOMかあ😳\n色々知ってるんだなあひららちゃん🥳"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbttoaofcs2y",
+            "label": [
+                0.29403063654899597,
+                0.03984459489583969,
+                0.564932107925415,
+                0.03452061489224434,
+                0.0011534732766449451,
+                0.002763950265944004,
+                0.0021476317197084427,
+                0.004264156799763441
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "助けてくれ……まじでえええええ！！！\n今の子(10代)って平気で仕事遅刻する感じですかね……？？\nみんながみんなそうじゃないと思うけど今研修に来てる子が相当やばい\n心が荒んでいく……\n１ヶ月耐えるだ……！！！！！！！！！！"
+                },
+                {
+                    "author": "did:plc:wczny3gxkkmohrp5kzhqilrh",
+                    "type": 2,
+                    "utter": "ちょきまる氏！大丈夫！？！？\n今の子ってびっくりすること平気でしますよな🙄\n昔、入った初日に「トイレ行ってきます」てそれきり戻って来なかった子がいましたな😇\n一週間後にロッカーの鍵と制服が送られてきましたな…🤔ﾄｵｲﾒ\nこれはぬいたちから潤いをもらうしかないのだ🥺😭😭😭\n何か温かくて美味しいものたべて…🥲🍲"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "生きてますぞー！😇\nええ！？それびっくり！！🙄🙄\nトイレから戻ってこなくて心配しちゃうやつだ！😱😱\n鍵と制服は送ってくるんだ……ちょっと律儀…でも変な子😇😇\n今みんなからパワーもらってますぞー！\nあざっす！あったかくして美味しいもの食べたよー😭✨"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbwheycdts2a",
+            "label": [
+                0.9800773859024048,
+                0.0024135857820510864,
+                0.006445726379752159,
+                0.0053014676086604595,
+                0.001328528975136578,
+                0.0019795463886111975,
+                0.002272701356559992,
+                0.0023288833908736706
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "生きてますぞー！😇\nええ！？それびっくり！！🙄🙄\nトイレから戻ってこなくて心配しちゃうやつだ！😱😱\n鍵と制服は送ってくるんだ……ちょっと律儀…でも変な子😇😇\n今みんなからパワーもらってますぞー！\nあざっす！あったかくして美味しいもの食べたよー😭✨"
+                },
+                {
+                    "author": "did:plc:wczny3gxkkmohrp5kzhqilrh",
+                    "type": 2,
+                    "utter": "なかなか戻らないので見に行ったら、トイレに誰もいなかったときの衝撃！🤣🤣💦\n心配で外まで見に行きましたね🥲\nでもその日一日終わるまで我慢できないほど嫌だったんだなぁと😂\nお！パワー補充大事ですからな！ぬいは本当にライフライン🥺❤️\n美味しいもの食べられて良きです🙆"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "そりゃ心配で外まで行く！！笑\nたしかに😂😂\n1日我慢すればいいのに😂笑\n今日はぬい連れていこうと思います😎\n心の安定剤！！💪\nありがとうですぜ😭💓"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbxfgnssx22k",
+            "label": [
+                0.8331007957458496,
+                0.02480180375277996,
+                0.04509897157549858,
+                0.013371110893785954,
+                0.0037791512440890074,
+                0.02377079799771309,
+                0.01170304324477911,
+                0.01905083656311035
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "あ、貴公子！！！！！"
+                },
+                {
+                    "author": "did:plc:wczny3gxkkmohrp5kzhqilrh",
+                    "type": 2,
+                    "utter": "さすがちょきまる氏！！！\nめざとい！！👁️👁️\n貴公子には白いマフラー巻いてほしいというオタクの願望を具現化しました😇"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "素晴らしい……🥹🥹🥹💓💓\nかわいいぞおお！！白マフラー似合うなあ🥰✨"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbyguwmal22d",
+            "label": [
+                0.9846776723861694,
+                0.002504543634131551,
+                0.007406389340758324,
+                0.0040151700377464294,
+                0.0019078392069786787,
+                0.002412560861557722,
+                0.0027676064055413008,
+                0.0028688195161521435
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "なんと！！😳😳\n知らなくてひきつり笑いしちゃったけどかなりときめくシーンなんだ！！😎😎\n反省！！😇😇\n初恋キラーとか相当かっこいいんだ真壁くん🥰"
+                },
+                {
+                    "author": "did:plc:bwu5ha4dutm475oz5ff3a6ea",
+                    "type": 2,
+                    "utter": "引きつり笑い😂😂😂\n真壁くんはかっこいいよ〜。しかもなんと魔界の○○だし。でも不言実行なところは今どきのヒーロー像としてはだめかもしれない……"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "それ知ってるよ！魔界の王子👑🦄なんでしょ！？😎\nちがうか！？😇\nあちゃー😱😱\n真壁くん……"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbtzfwiyq22y",
+            "label": [
+                0.029306113719940186,
+                0.8438559174537659,
+                0.004320329520851374,
+                0.17452241480350494,
+                0.0013301001163199544,
+                0.0037899466697126627,
+                0.0038135498762130737,
+                0.0008470433531329036
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "それ知ってるよ！魔界の王子👑🦄なんでしょ！？😎\nちがうか！？😇\nあちゃー😱😱\n真壁くん……"
+                },
+                {
+                    "author": "did:plc:bwu5ha4dutm475oz5ff3a6ea",
+                    "type": 2,
+                    "utter": "あっ、よくご存知で！そうなのプリンスなの！池野恋先生は王子好きで、何かと王子にしてしまうってどこかで書いてらした覚えがある🤣そして幼少期に姉のときめきトゥナイトを読んだわたしも立派な王子好きになってしまったのである……。"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "作者さま王子好きなのか😳\nおふとんさんもその影響で！😳✨✨\nたしかに王子憧れる👑よね🥰\nときめきトゥナイト読んでみようかなあ🥳"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbuslgqd4s27",
+            "label": [
+                0.09142792224884033,
+                0.0027023274451494217,
+                0.888969898223877,
+                0.021358275786042213,
+                0.001115549704991281,
+                0.0010918076150119305,
+                0.0008503801072947681,
+                0.0019797026179730892
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "作者さま王子好きなのか😳\nおふとんさんもその影響で！😳✨✨\nたしかに王子憧れる👑よね🥰\nときめきトゥナイト読んでみようかなあ🥳"
+                },
+                {
+                    "author": "did:plc:bwu5ha4dutm475oz5ff3a6ea",
+                    "type": 2,
+                    "utter": "今でも王子が出てくると居住まいを正しちゃうよ🤭\nときめきトゥナイト、おもしろいけど最初のほうは思いっきり昭和のマンガだから好みに合うかどうかは心配……でも読んでほしい……心がふたつある〜"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "おおう😳😳\nとりあえず読んでみるよ☺️💓"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbvgsxlbpc27",
+            "label": [
+                0.061218954622745514,
+                0.004608325194567442,
+                0.9379108548164368,
+                0.0023798777256160975,
+                0.001176541903987527,
+                0.002153039211407304,
+                0.0012725002598017454,
+                0.0013013335410505533
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "なにこれー！新しいやつかい！？🥹🥹\nちぎりんでてよかったねえ🥰💓\nゲロ吐くとかワロタ😂👏"
+                },
+                {
+                    "author": "did:plc:eedt2jdw43zupkmncfofjokg",
+                    "type": 2,
+                    "utter": "そー！今日発売のやつ(  ˶ˊᵕˋ)\nエピ凪シリーズだからちぎりんカードは2枚しか入ってないうちの1枚引き当てたから嬉しいのだ🥰\nウエハースはもう食べすぎて嫌いになりそう😇笑"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "アニメイト行ったらあった！🥹\nちぎりん2枚しかないのに引けたのすごすぎ！！🥰🫶\nわかる…ウエハースなうーん🤔😓ってなる😇笑\n今回は見送ったよ😇"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbqthbjims2m",
+            "label": [
+                0.9779999852180481,
+                0.003082427429035306,
+                0.003772837109863758,
+                0.011543167755007744,
+                0.0011710553662851453,
+                0.00180308916606009,
+                0.0020537825766950846,
+                0.0020197818521410227
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "アニメイト行ったらあった！🥹\nちぎりん2枚しかないのに引けたのすごすぎ！！🥰🫶\nわかる…ウエハースなうーん🤔😓ってなる😇笑\n今回は見送ったよ😇"
+                },
+                {
+                    "author": "did:plc:eedt2jdw43zupkmncfofjokg",
+                    "type": 2,
+                    "utter": "近くにアニメイトあるの良きだね🥹💓\n不味くはないんだけどね…うーんってなるよね(›´-`‹ )\n買わないのかぁ🥺わたしはもういいやって思ってもコンビニとか行くとつい買っちゃうかも😇"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "買わないって言っちゃったけどXでラインナップ的なの流れてきてちんちくりんちゃんが出した士道くんと凛ちゃんと潔くん欲しくなった😇😇笑\n今度スーパー行った時買うぞたぶん笑"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbr5keqym22m",
+            "label": [
+                0.06039491295814514,
+                0.004305422306060791,
+                0.9369850754737854,
+                0.0024718870408833027,
+                0.0012454054085537791,
+                0.0020281928591430187,
+                0.00125504145398736,
+                0.0013570336159318686
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "買わないって言っちゃったけどXでラインナップ的なの流れてきてちんちくりんちゃんが出した士道くんと凛ちゃんと潔くん欲しくなった😇😇笑\n今度スーパー行った時買うぞたぶん笑"
+                },
+                {
+                    "author": "did:plc:eedt2jdw43zupkmncfofjokg",
+                    "type": 2,
+                    "utter": "買っちゃえ〜っ！☺️\n欲しいのなぎれおじゃないんだ🤭\n当たるといいねぇぇ！🔥"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "今度見かけたら買う！☺️\n同じ絵柄だとさ１個あれば良くない？っていうマイルールが出てきててね😎\nなぎれおは缶バとかアクスタあったんだよね🥹\nだから持ってない絵柄欲しい🥹\nありがとう！！"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbrjvnogqk2d",
+            "label": [
+                0.11632823944091797,
+                0.003643766976892948,
+                0.9011173844337463,
+                0.0019753810483962297,
+                0.0012373710051178932,
+                0.0014248955994844437,
+                0.001104871742427349,
+                0.001378373010084033
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 1,
+                    "utter": "今度見かけたら買う！☺️\n同じ絵柄だとさ１個あれば良くない？っていうマイルールが出てきててね😎\nなぎれおは缶バとかアクスタあったんだよね🥹\nだから持ってない絵柄欲しい🥹\nありがとう！！"
+                },
+                {
+                    "author": "did:plc:eedt2jdw43zupkmncfofjokg",
+                    "type": 2,
+                    "utter": "なるほど！絵柄1個っていいね！😳✨\nこのカードって新規書き下ろしじゃないもんね🥹\nウエハース地獄の始まりだね😇笑"
+                },
+                {
+                    "author": "did:plc:zpra5yfrnwfua45wmbhvptwu",
+                    "type": 3,
+                    "utter": "そうなの🥹\nだからその3つのうちのどれか出てくれれば😎(みんな欲しいけれども)\nたしかに……😇😇😇\nつらすぎる！！！ウエハース！！😇😇😇笑"
+                }
+            ],
+            "uri": "at://did:plc:zpra5yfrnwfua45wmbhvptwu/app.bsky.feed.post/3lbscxkzrck2d",
+            "label": [
+                0.017761753872036934,
+                0.9088860154151917,
+                0.10756470263004303,
+                0.0027387216687202454,
+                0.0017099238466471434,
+                0.0042222789488732815,
+                0.0070463549345731735,
+                0.0010711270151659846
+            ]
+        }
+    ]
+}

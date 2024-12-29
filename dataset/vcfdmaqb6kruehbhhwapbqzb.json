@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vcfdmaqb6kruehbhhwapbqzb",
+                    "type": 1,
+                    "utter": "悪いこと何も出来なさそうな餓者髑髏になっちゃう…"
+                },
+                {
+                    "author": "did:plc:mam2afnjif4vdi4tohz5obtw",
+                    "type": 2,
+                    "utter": "え、約束された可愛さじゃないですかそれ…！"
+                },
+                {
+                    "author": "did:plc:vcfdmaqb6kruehbhhwapbqzb",
+                    "type": 3,
+                    "utter": "どんなに頑張っても寸前で｢やっぱ出来ない…！｣ってなっちゃったりして、それはそれで愛嬌あって良いかもしれませんが＼(^o^)／"
+                }
+            ],
+            "uri": "at://did:plc:vcfdmaqb6kruehbhhwapbqzb/app.bsky.feed.post/3lbpbs73nu22r",
+            "label": [
+                0.9791034460067749,
+                0.0030020526610314846,
+                0.009157201275229454,
+                0.0028269849717617035,
+                0.0011406949488446116,
+                0.003457056824117899,
+                0.0026231207884848118,
+                0.0022477477323263884
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vcfdmaqb6kruehbhhwapbqzb",
+                    "type": 1,
+                    "utter": "どんなに頑張っても寸前で｢やっぱ出来ない…！｣ってなっちゃったりして、それはそれで愛嬌あって良いかもしれませんが＼(^o^)／"
+                },
+                {
+                    "author": "did:plc:mam2afnjif4vdi4tohz5obtw",
+                    "type": 2,
+                    "utter": "愛らし…唆す悪い妖怪になりたい気持ちと、優しく見守りたい気持ちとVSしてます今"
+                },
+                {
+                    "author": "did:plc:vcfdmaqb6kruehbhhwapbqzb",
+                    "type": 3,
+                    "utter": "めっちゃ分かります🤣\n多分きっと悪いこと思い付いたときは｢やってやるぞ｣ってニヤニヤしてるけど、いざってときに怖気付いちゃうんだろうなと思います笑"
+                }
+            ],
+            "uri": "at://did:plc:vcfdmaqb6kruehbhhwapbqzb/app.bsky.feed.post/3lbpc4v5ihc2r",
+            "label": [
+                0.30219244956970215,
+                0.02000012807548046,
+                0.0873902216553688,
+                0.015024123713374138,
+                0.0015209473203867674,
+                0.48545679450035095,
+                0.0045919474214315414,
+                0.008367418311536312
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vcfdmaqb6kruehbhhwapbqzb",
+                    "type": 1,
+                    "utter": "めっちゃ分かります🤣\n多分きっと悪いこと思い付いたときは｢やってやるぞ｣ってニヤニヤしてるけど、いざってときに怖気付いちゃうんだろうなと思います笑"
+                },
+                {
+                    "author": "did:plc:mam2afnjif4vdi4tohz5obtw",
+                    "type": 2,
+                    "utter": "あぁぁ〜〜怖気付いちゃうの愛おしい〜〜〜でもそっと早くやりなよって唆したい〜〜でも無理なら良いよって連れて帰りたい〜〜"
+                },
+                {
+                    "author": "did:plc:vcfdmaqb6kruehbhhwapbqzb",
+                    "type": 3,
+                    "utter": "めっちゃ感情がVSしてますね🤣\n最終的には何もやらないで｢今日はここまでにしといてやる！｣とか言ってれば愛しさの完成だと思います💪✨️"
+                }
+            ],
+            "uri": "at://did:plc:vcfdmaqb6kruehbhhwapbqzb/app.bsky.feed.post/3lbpched6522r",
+            "label": [
+                0.9641373157501221,
+                0.0024163955822587013,
+                0.027074426412582397,
+                0.0024260657373815775,
+                0.00126583781093359,
+                0.0017380996141582727,
+                0.0020262000616639853,
+                0.0031123191583901644
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vcfdmaqb6kruehbhhwapbqzb",
+                    "type": 1,
+                    "utter": "めっちゃ感情がVSしてますね🤣\n最終的には何もやらないで｢今日はここまでにしといてやる！｣とか言ってれば愛しさの完成だと思います💪✨️"
+                },
+                {
+                    "author": "did:plc:mam2afnjif4vdi4tohz5obtw",
+                    "type": 2,
+                    "utter": "うーん！可愛い！！あんまり可愛いからお線香焚いて読経しちゃう！()"
+                },
+                {
+                    "author": "did:plc:vcfdmaqb6kruehbhhwapbqzb",
+                    "type": 3,
+                    "utter": "それは下手したら祓われちゃう＼(^o^)／"
+                }
+            ],
+            "uri": "at://did:plc:vcfdmaqb6kruehbhhwapbqzb/app.bsky.feed.post/3lbqjgsehes2y",
+            "label": [
+                0.013653066009283066,
+                0.023301776498556137,
+                0.013695497997105122,
+                0.030467016622424126,
+                0.004206949844956398,
+                0.9206007719039917,
+                0.004604612942785025,
+                0.002338757971301675
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vcfdmaqb6kruehbhhwapbqzb",
+                    "type": 1,
+                    "utter": "それは下手したら祓われちゃう＼(^o^)／"
+                },
+                {
+                    "author": "did:plc:mam2afnjif4vdi4tohz5obtw",
+                    "type": 2,
+                    "utter": "こう…困ってる様子を眺めたいなって…(´＾ω＾`)ﾆﾁｬｧ"
+                },
+                {
+                    "author": "did:plc:vcfdmaqb6kruehbhhwapbqzb",
+                    "type": 3,
+                    "utter": "めっちゃSですね＼(^o^)／\nでもめっちゃ分かりますﾆﾁｬｧ"
+                }
+            ],
+            "uri": "at://did:plc:vcfdmaqb6kruehbhhwapbqzb/app.bsky.feed.post/3lbrldrk3vk2t",
+            "label": [
+                0.9826532602310181,
+                0.002106655389070511,
+                0.007513346616178751,
+                0.005492107477039099,
+                0.0016399855958297849,
+                0.0020282596815377474,
+                0.0026896181516349316,
+                0.002632640302181244
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vcfdmaqb6kruehbhhwapbqzb",
+                    "type": 1,
+                    "utter": "和風かっこいい…！"
+                },
+                {
+                    "author": "did:plc:mam2afnjif4vdi4tohz5obtw",
+                    "type": 2,
+                    "utter": "やったー！和風大好きです！ありがとうございます！！"
+                },
+                {
+                    "author": "did:plc:vcfdmaqb6kruehbhhwapbqzb",
+                    "type": 3,
+                    "utter": "和風妖怪って良いですよね✨️\n私も大好きです🙌"
+                }
+            ],
+            "uri": "at://did:plc:vcfdmaqb6kruehbhhwapbqzb/app.bsky.feed.post/3lbpbezcwds2a",
+            "label": [
+                0.9834144711494446,
+                0.0021955841220915318,
+                0.009245973080396652,
+                0.003352204104885459,
+                0.0022335504181683064,
+                0.002531130565330386,
+                0.002845889190211892,
+                0.003483841195702553
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vcfdmaqb6kruehbhhwapbqzb",
+                    "type": 1,
+                    "utter": "和風妖怪って良いですよね✨️\n私も大好きです🙌"
+                },
+                {
+                    "author": "did:plc:mam2afnjif4vdi4tohz5obtw",
+                    "type": 2,
+                    "utter": "液体猫さんも和風妖怪お好きですか！ﾅｶｰﾏ！！✨🙌🏻🫶💕"
+                },
+                {
+                    "author": "did:plc:vcfdmaqb6kruehbhhwapbqzb",
+                    "type": 3,
+                    "utter": "( ´∀｀)人(´∀｀ )ﾅｶｰﾏ\n大好きです！昔描いてたときもありました🙌✨️"
+                }
+            ],
+            "uri": "at://did:plc:vcfdmaqb6kruehbhhwapbqzb/app.bsky.feed.post/3lbpbpa7sfc2r",
+            "label": [
+                0.9846915602684021,
+                0.002651161514222622,
+                0.006400460842996836,
+                0.003313647350296378,
+                0.0024444679729640484,
+                0.002510923659428954,
+                0.0037669381126761436,
+                0.003918841946870089
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vcfdmaqb6kruehbhhwapbqzb",
+                    "type": 1,
+                    "utter": "( ´∀｀)人(´∀｀ )ﾅｶｰﾏ\n大好きです！昔描いてたときもありました🙌✨️"
+                },
+                {
+                    "author": "did:plc:mam2afnjif4vdi4tohz5obtw",
+                    "type": 2,
+                    "utter": "ぅわー！本当ですか！！✨和風も妖怪も心惹かれますよねぇ(*ˊᗜˋ*)✨"
+                },
+                {
+                    "author": "did:plc:vcfdmaqb6kruehbhhwapbqzb",
+                    "type": 3,
+                    "utter": "めちゃくちゃ惹かれます…！\n特に動物系の妖怪には目が無いです(*´艸`)"
+                }
+            ],
+            "uri": "at://did:plc:vcfdmaqb6kruehbhhwapbqzb/app.bsky.feed.post/3lbpbyiahfc2r",
+            "label": [
+                0.780430018901825,
+                0.0012996842851862311,
+                0.32256457209587097,
+                0.00232771597802639,
+                0.0011085215955972672,
+                0.0017913730116561055,
+                0.0010124017717316747,
+                0.0019604761619120836
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vcfdmaqb6kruehbhhwapbqzb",
+                    "type": 1,
+                    "utter": "めちゃくちゃ惹かれます…！\n特に動物系の妖怪には目が無いです(*´艸`)"
+                },
+                {
+                    "author": "did:plc:mam2afnjif4vdi4tohz5obtw",
+                    "type": 2,
+                    "utter": "わっかります！！動物系妖怪って可愛いやらかっこいいやらでとても魅惑的ですよね♥️"
+                },
+                {
+                    "author": "did:plc:vcfdmaqb6kruehbhhwapbqzb",
+                    "type": 3,
+                    "utter": "ですです…！\n猫又とか犬神とか可愛いですよね！\nあと妖狐や白蛇も好きです✨️"
+                }
+            ],
+            "uri": "at://did:plc:vcfdmaqb6kruehbhhwapbqzb/app.bsky.feed.post/3lbpcduj52s2r",
+            "label": [
+                0.9843980669975281,
+                0.0024983505718410015,
+                0.009868448600172997,
+                0.002974775154143572,
+                0.0021122803445905447,
+                0.002393522532656789,
+                0.0029278353322297335,
+                0.0034348033368587494
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vcfdmaqb6kruehbhhwapbqzb",
+                    "type": 1,
+                    "utter": "ですです…！\n猫又とか犬神とか可愛いですよね！\nあと妖狐や白蛇も好きです✨️"
+                },
+                {
+                    "author": "did:plc:mam2afnjif4vdi4tohz5obtw",
+                    "type": 2,
+                    "utter": "全部！好きなやつです！！！化け狸やすねこすり、鎌鼬も可愛いですね！"
+                },
+                {
+                    "author": "did:plc:vcfdmaqb6kruehbhhwapbqzb",
+                    "type": 3,
+                    "utter": "わあぁそれ私も好きなやつです！\n動物系妖怪は総じて可愛くて美しくてかっこよくてズルいッッ"
+                }
+            ],
+            "uri": "at://did:plc:vcfdmaqb6kruehbhhwapbqzb/app.bsky.feed.post/3lbpckedz6s2r",
+            "label": [
+                0.9853339195251465,
+                0.0025227114092558622,
+                0.0072411843575537205,
+                0.0037122827488929033,
+                0.0023334803991019726,
+                0.0024743431713432074,
+                0.003173415781930089,
+                0.003672122023999691
+            ]
+        }
+    ]
+}
