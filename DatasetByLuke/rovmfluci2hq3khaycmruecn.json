@@ -1,0 +1,514 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 1,
+                    "utter": "すけべ！！！！"
+                },
+                {
+                    "author": "did:plc:ztlosdapkofmrqryx32wbjzz",
+                    "type": 2,
+                    "utter": "このすけべ！でもかんなさんなら許される…"
+                },
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 3,
+                    "utter": "かんなさんがしょた......??"
+                }
+            ],
+            "uri": "at://did:plc:rovmfluci2hq3khaycmruecn/app.bsky.feed.post/3lc3uamqkz22t",
+            "label": [
+                0.0011708843521773815,
+                0.00047851738054305315,
+                0.0009867185726761818,
+                0.9967259168624878,
+                0.00013693104847334325,
+                0.0002449494495522231,
+                0.0001502978557255119,
+                0.00010573252075118944
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 1,
+                    "utter": "かんなさんがしょた......??"
+                },
+                {
+                    "author": "did:plc:ztlosdapkofmrqryx32wbjzz",
+                    "type": 2,
+                    "utter": "かんなさんはショタ…！"
+                },
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 3,
+                    "utter": "かんなさんを覗いちゃだめだよ.....！！"
+                }
+            ],
+            "uri": "at://did:plc:rovmfluci2hq3khaycmruecn/app.bsky.feed.post/3lc3ucqdyis2t",
+            "label": [
+                0.00407033646479249,
+                0.002643589163199067,
+                0.001743784872815013,
+                0.005423850379884243,
+                0.000792798469774425,
+                0.9844149351119995,
+                0.0004387607623357326,
+                0.0004719698627013713
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 1,
+                    "utter": "かんなさんを覗いちゃだめだよ.....！！"
+                },
+                {
+                    "author": "did:plc:ztlosdapkofmrqryx32wbjzz",
+                    "type": 2,
+                    "utter": "じー…"
+                },
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 3,
+                    "utter": "....!!😳😰"
+                }
+            ],
+            "uri": "at://did:plc:rovmfluci2hq3khaycmruecn/app.bsky.feed.post/3lc3ugdkn5s2c",
+            "label": [
+                0.3285474181175232,
+                0.023842856287956238,
+                0.03437322378158569,
+                0.5922801494598389,
+                0.007397816516458988,
+                0.003328865161165595,
+                0.0062616365030407906,
+                0.003967974800616503
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 1,
+                    "utter": "....!!😳😰"
+                },
+                {
+                    "author": "did:plc:ztlosdapkofmrqryx32wbjzz",
+                    "type": 2,
+                    "utter": "じー…かわいい！"
+                },
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 3,
+                    "utter": "えへへ☺️"
+                }
+            ],
+            "uri": "at://did:plc:rovmfluci2hq3khaycmruecn/app.bsky.feed.post/3lc3uvlgsys2z",
+            "label": [
+                0.9996036887168884,
+                6.830708298366517e-05,
+                0.0001127629293478094,
+                5.3672960348194465e-05,
+                2.0736250007757917e-05,
+                4.898541374132037e-05,
+                5.6955261243274435e-05,
+                3.503234256641008e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 1,
+                    "utter": "コミュ障なので目も合わせられないし恋に恋なんてしないわよっ！！！"
+                },
+                {
+                    "author": "did:plc:ztlosdapkofmrqryx32wbjzz",
+                    "type": 2,
+                    "utter": "…じー"
+                },
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 3,
+                    "utter": "コミュニケーションなんて無理だ無理だわよ！\nぼくの実力では難しすぎて会話が進めないわよっ！"
+                }
+            ],
+            "uri": "at://did:plc:rovmfluci2hq3khaycmruecn/app.bsky.feed.post/3laoiwyfubc2k",
+            "label": [
+                0.0002707414096221328,
+                0.9961180686950684,
+                0.00014273030683398247,
+                0.00048738712212070823,
+                0.0006273289327509701,
+                0.0013867083471268415,
+                0.0009164066868834198,
+                5.0727601774269715e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 1,
+                    "utter": "コミュニケーションなんて無理だ無理だわよ！\nぼくの実力では難しすぎて会話が進めないわよっ！"
+                },
+                {
+                    "author": "did:plc:ztlosdapkofmrqryx32wbjzz",
+                    "type": 2,
+                    "utter": "エアーマン ロックバスターでダメージ食らいながらゴリ押しで倒せるんだよ だから大丈夫！"
+                },
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 3,
+                    "utter": "あやとさん流石ですわよっ！笑\nあやとさんはエアーマン経験はおあり？"
+                }
+            ],
+            "uri": "at://did:plc:rovmfluci2hq3khaycmruecn/app.bsky.feed.post/3laolbx7gf22y",
+            "label": [
+                0.3415895104408264,
+                0.001327213947661221,
+                0.014749688096344471,
+                0.6385584473609924,
+                0.0006435093237087131,
+                0.0007042511133477092,
+                0.0007441247580572963,
+                0.001683265552856028
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 1,
+                    "utter": "あやとさん流石ですわよっ！笑\nあやとさんはエアーマン経験はおあり？"
+                },
+                {
+                    "author": "did:plc:ztlosdapkofmrqryx32wbjzz",
+                    "type": 2,
+                    "utter": "いえーいはいたーっち☆\nエアーマン経験ってなんかすけべ！一応やったことはあるよ！"
+                },
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 3,
+                    "utter": "はいたーち！！\nあやとさんのすけべ！すごい！！\nエアーマン経験すごい！！😍"
+                }
+            ],
+            "uri": "at://did:plc:rovmfluci2hq3khaycmruecn/app.bsky.feed.post/3lapj7ovftc2h",
+            "label": [
+                0.001129873562604189,
+                0.00028067288803867996,
+                0.0009920567972585559,
+                0.9968057870864868,
+                0.00025258163805119693,
+                0.00018486987391952425,
+                0.00019090170098934323,
+                0.00016315269749611616
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 1,
+                    "utter": "はいたーち！！\nあやとさんのすけべ！すごい！！\nエアーマン経験すごい！！😍"
+                },
+                {
+                    "author": "did:plc:ztlosdapkofmrqryx32wbjzz",
+                    "type": 2,
+                    "utter": "わふー！すけべ！エアーマン経験…。ロックマン、楽しいよっ☆"
+                },
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 3,
+                    "utter": "わふー✨\nロックマンやってみたい❣️"
+                }
+            ],
+            "uri": "at://did:plc:rovmfluci2hq3khaycmruecn/app.bsky.feed.post/3laqqsbyljs2j",
+            "label": [
+                0.045638307929039,
+                0.0009177522733807564,
+                0.9523685574531555,
+                0.000300868006888777,
+                0.00014577193360310048,
+                0.00023784620861988515,
+                0.00021042165462858975,
+                0.0001805405190680176
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 1,
+                    "utter": "わふー✨\nロックマンやってみたい❣️"
+                },
+                {
+                    "author": "did:plc:ztlosdapkofmrqryx32wbjzz",
+                    "type": 2,
+                    "utter": "…鬼畜なロックマンのナンバーをちょっとやらせてみたい"
+                },
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 3,
+                    "utter": "....😨!!"
+                }
+            ],
+            "uri": "at://did:plc:rovmfluci2hq3khaycmruecn/app.bsky.feed.post/3laqqytou2c2j",
+            "label": [
+                0.6789143085479736,
+                0.029244225472211838,
+                0.05259812995791435,
+                0.21494817733764648,
+                0.007030040491372347,
+                0.0037630132865160704,
+                0.009389611892402172,
+                0.00411258777603507
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 1,
+                    "utter": "すけべ！"
+                },
+                {
+                    "author": "did:plc:ztlosdapkofmrqryx32wbjzz",
+                    "type": 2,
+                    "utter": "やっぱりすけべなんだ 実は見たことないよ このすけべ！\nブランダラの人だよね…？"
+                },
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 3,
+                    "utter": "実は見た事ないの？\nプランダラの人だよ！\nあやとさんはすけべだよ！\nすけべなシーンもあるよ"
+                }
+            ],
+            "uri": "at://did:plc:rovmfluci2hq3khaycmruecn/app.bsky.feed.post/3lab5sspckl23",
+            "label": [
+                0.35390257835388184,
+                0.002534163184463978,
+                0.5846666097640991,
+                0.05405101180076599,
+                0.000800494512077421,
+                0.0008589478093199432,
+                0.0007331312517635524,
+                0.002452988177537918
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 1,
+                    "utter": "実は見た事ないの？\nプランダラの人だよ！\nあやとさんはすけべだよ！\nすけべなシーンもあるよ"
+                },
+                {
+                    "author": "did:plc:ztlosdapkofmrqryx32wbjzz",
+                    "type": 2,
+                    "utter": "実はないんだよ あんなに話題になったのにね\nつまりすけべなシーンがあるのをみてる かんなさんのすけべ！"
+                },
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 3,
+                    "utter": "話題になってたんだ！！\nすけべ！！\nすけべじゃないよ〜>_<"
+                }
+            ],
+            "uri": "at://did:plc:rovmfluci2hq3khaycmruecn/app.bsky.feed.post/3lab6hfxbio24",
+            "label": [
+                0.0018595177680253983,
+                0.0005073230713605881,
+                0.0009956879075616598,
+                0.9959990978240967,
+                0.00014646619092673063,
+                0.0001744350593071431,
+                0.00019214500207453966,
+                0.0001254148519365117
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 1,
+                    "utter": "話題になってたんだ！！\nすけべ！！\nすけべじゃないよ〜>_<"
+                },
+                {
+                    "author": "did:plc:ztlosdapkofmrqryx32wbjzz",
+                    "type": 2,
+                    "utter": "なってなかった？見たことなくても記憶にあるよ！\nなるほどかんなさんは ちょっとえっちなのが好き…"
+                },
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 3,
+                    "utter": "当時は自分はまだ年齢的に分からない....かも？💦\nいいえ🙂‍↔️\nすけべえはあやとさんです"
+                }
+            ],
+            "uri": "at://did:plc:rovmfluci2hq3khaycmruecn/app.bsky.feed.post/3labjqmrtwi2h",
+            "label": [
+                0.7940529584884644,
+                0.04946814477443695,
+                0.051311373710632324,
+                0.041891444474458694,
+                0.0024294459726661444,
+                0.04012024775147438,
+                0.006983532104641199,
+                0.013742960058152676
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 1,
+                    "utter": "当時は自分はまだ年齢的に分からない....かも？💦\nいいえ🙂‍↔️\nすけべえはあやとさんです"
+                },
+                {
+                    "author": "did:plc:ztlosdapkofmrqryx32wbjzz",
+                    "type": 2,
+                    "utter": "…！？かんなさん 超若い説出てきた…\nはい すけべをかんなさんです！"
+                },
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 3,
+                    "utter": "....😳！\nすけべではありませんざますわよ！"
+                }
+            ],
+            "uri": "at://did:plc:rovmfluci2hq3khaycmruecn/app.bsky.feed.post/3labklv6h3i2t",
+            "label": [
+                0.08879005163908005,
+                0.016011875122785568,
+                0.019327513873577118,
+                0.8497955203056335,
+                0.007825637236237526,
+                0.009017209522426128,
+                0.005746232345700264,
+                0.0034859227016568184
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 1,
+                    "utter": "じー...."
+                },
+                {
+                    "author": "did:plc:ztlosdapkofmrqryx32wbjzz",
+                    "type": 2,
+                    "utter": "じー……"
+                },
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 3,
+                    "utter": "....👀❕"
+                }
+            ],
+            "uri": "at://did:plc:rovmfluci2hq3khaycmruecn/app.bsky.feed.post/3la7deiicdk2t",
+            "label": [
+                0.8859537839889526,
+                0.03380388766527176,
+                0.0382319800555706,
+                0.004337525926530361,
+                0.0014630091609433293,
+                0.011366983875632286,
+                0.02201158180832863,
+                0.0028311624191701412
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 1,
+                    "utter": "....👀❕"
+                },
+                {
+                    "author": "did:plc:ztlosdapkofmrqryx32wbjzz",
+                    "type": 2,
+                    "utter": "このすけべ！"
+                },
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 3,
+                    "utter": "🥲❕❔"
+                }
+            ],
+            "uri": "at://did:plc:rovmfluci2hq3khaycmruecn/app.bsky.feed.post/3la7dq3f4tg25",
+            "label": [
+                0.9546816349029541,
+                0.01177217811346054,
+                0.016648171469569206,
+                0.0019300340209156275,
+                0.0008721540798433125,
+                0.003194320248439908,
+                0.009581330232322216,
+                0.0013202936388552189
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 1,
+                    "utter": "🥲❕❔"
+                },
+                {
+                    "author": "did:plc:ztlosdapkofmrqryx32wbjzz",
+                    "type": 2,
+                    "utter": "かんなさんの すけべ！"
+                },
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 3,
+                    "utter": "😖😖"
+                }
+            ],
+            "uri": "at://did:plc:rovmfluci2hq3khaycmruecn/app.bsky.feed.post/3la7eprexv424",
+            "label": [
+                0.9546816349029541,
+                0.01177217811346054,
+                0.016648171469569206,
+                0.0019300340209156275,
+                0.0008721540798433125,
+                0.003194320248439908,
+                0.009581330232322216,
+                0.0013202936388552189
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 1,
+                    "utter": "😖😖"
+                },
+                {
+                    "author": "did:plc:ztlosdapkofmrqryx32wbjzz",
+                    "type": 2,
+                    "utter": "…じー"
+                },
+                {
+                    "author": "did:plc:rovmfluci2hq3khaycmruecn",
+                    "type": 3,
+                    "utter": "あやとさんのすけべ！"
+                }
+            ],
+            "uri": "at://did:plc:rovmfluci2hq3khaycmruecn/app.bsky.feed.post/3la7exfad2z2s",
+            "label": [
+                0.9927144646644592,
+                0.0006806351011618972,
+                0.002172115258872509,
+                0.003762430278584361,
+                0.00010168123117182404,
+                0.00012921507004648447,
+                0.0002048090536845848,
+                0.00023471265740226954
+            ]
+        }
+    ]
+}

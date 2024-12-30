@@ -1,0 +1,1264 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "すき焼きはどうでしょう"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "すき焼きは大丈夫です"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "あんなに脂っこいのに"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3lc52dzmi2k24",
+            "label": [
+                0.05284496396780014,
+                0.36969348788261414,
+                0.008082767948508263,
+                0.3650340437889099,
+                0.00415437575429678,
+                0.133951798081398,
+                0.06333654373884201,
+                0.0029018872883170843
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:uqwnbo4z62fkporgdeniv73v",
+                    "type": 2,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "南無阿弥陀仏"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3lbvp74lyis2w",
+            "label": [
+                0.001339748385362327,
+                0.0007568802684545517,
+                0.9973328113555908,
+                9.10950984689407e-05,
+                9.259778744308278e-05,
+                0.00012193766451673582,
+                0.00014085289149079472,
+                0.00012400010018609464
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "私の方が眠いと思われます"
+                },
+                {
+                    "author": "did:plc:muqrbbdck2l6r3rsl2t2amlt",
+                    "type": 2,
+                    "utter": "本当にそうでしょうか？私の方が眠いのではないでしょうか"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "いまにも眠りそうです"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3lbrc4oquuc2f",
+            "label": [
+                0.257926344871521,
+                0.0194877739995718,
+                0.012261247262358665,
+                0.002511717611923814,
+                0.00046961032785475254,
+                0.7015040516853333,
+                0.004556555300951004,
+                0.0012827197788283229
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "いまにも眠りそうです"
+                },
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 2,
+                    "utter": "おれはすでに眠っています"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "さすがです"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3lbrcbe4pws2f",
+            "label": [
+                0.9422581791877747,
+                0.0011521107517182827,
+                0.012317411601543427,
+                0.03620889410376549,
+                0.0005934382206760347,
+                0.0009167548851110041,
+                0.0009752278565429151,
+                0.005577867850661278
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "探しものはなんでしょうか"
+                },
+                {
+                    "author": "did:plc:mz23gjry376hnlxmldlsdzfq",
+                    "type": 2,
+                    "utter": "見つけにくいものでしょうか"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "カバンの中も机の中も探したけど見つからないのでしょうか"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3lbsnsgtjis2f",
+            "label": [
+                0.0007401086622849107,
+                0.9880673885345459,
+                0.0009403380099684,
+                0.00025975960306823254,
+                0.00013218120147939771,
+                0.009314737282693386,
+                0.0004636130470316857,
+                8.21134090074338e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "軽薄なジャーナリストにはなりたくない"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "いくら落ちぶれてもなりたくない"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "軽薄なジャーナリストはテレビに出て"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3lbfvziib622d",
+            "label": [
+                0.003004247322678566,
+                0.0038816682063043118,
+                0.003630945226177573,
+                0.001923189265653491,
+                0.026393190026283264,
+                0.007399202324450016,
+                0.9523143768310547,
+                0.0014531220076605678
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "軽薄なジャーナリストはテレビに出て"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "軽薄な指示通りに台本を読む"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "そしてギャラをもらって家族を養う"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3lbfxwudogc2d",
+            "label": [
+                0.0007096688495948911,
+                0.0007395345601253211,
+                0.9979215264320374,
+                0.00011329790140734985,
+                0.00011259227903792635,
+                0.00019182366668246686,
+                0.00010291325452271849,
+                0.00010879190813284367
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "そしてギャラをもらって家族を養う"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "軽薄なジャーナリストはいい服を着て"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "なんにも知らない人に嘘をつく"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3lbg656lwrs2b",
+            "label": [
+                0.08448904007673264,
+                0.07244031131267548,
+                0.0028726805467158556,
+                0.01145617850124836,
+                0.003933482337743044,
+                0.7348026037216187,
+                0.08496306091547012,
+                0.00504260091111064
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "なんにも知らない人に嘘をつく"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "そして安全なところからただ見ているだけ"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "軽薄なジャーナリズムにはのりたくない"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3lbg765ljgc2b",
+            "label": [
+                0.0016047564567998052,
+                0.01708950847387314,
+                0.002208078745752573,
+                0.0004558919172268361,
+                0.0009269468137063086,
+                0.9697335362434387,
+                0.007518294267356396,
+                0.0004630854818969965
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "見えない太陽にむかって鳥たちはうたい"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "驚いたように地平へとはばたく"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "こたえを知らぬきみに　できるのはただ"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3lagcrxgds42a",
+            "label": [
+                0.120014987885952,
+                0.7945155501365662,
+                0.0195111483335495,
+                0.0012138750171288848,
+                0.0004341640160419047,
+                0.06024417653679848,
+                0.002264998387545347,
+                0.00180120300501585
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "こたえを知らぬきみに　できるのはただ"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "明けてゆく青空に問いかけること"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "ききなれた街のざわめきに　夢が隠れている"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3lagfkl7qak2x",
+            "label": [
+                0.0017595401732251048,
+                0.00023777545720804483,
+                0.9975264668464661,
+                0.0001588359591551125,
+                4.852846541325562e-05,
+                0.00014145793102215976,
+                4.479511335375719e-05,
+                8.24897360871546e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "ききなれた街のざわめきに　夢が隠れている"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "忘れたふるさとを求めて陸橋を渡り"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "雑踏の中にまぼろしをみつめる"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3lagisp67oy2b",
+            "label": [
+                0.6496893167495728,
+                0.16715773940086365,
+                0.01905541680753231,
+                0.021884778514504433,
+                0.0005935761728323996,
+                0.1373673975467682,
+                0.0021087718196213245,
+                0.0021430517081171274
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "雑踏の中にまぼろしをみつめる"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "答えを知らぬ君にできるのは"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "明けてゆく青空に問いかけること"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3lagsdxjos32x",
+            "label": [
+                0.18699614703655243,
+                0.0014543731231242418,
+                0.807715117931366,
+                0.0007216435042209923,
+                0.00029995059594511986,
+                0.000972654961515218,
+                0.0004001720226369798,
+                0.0014398597413673997
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "南無阿弥陀仏"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3laae7vgtr52a",
+            "label": [
+                0.001339748385362327,
+                0.0007568806177005172,
+                0.9973328113555908,
+                9.10950984689407e-05,
+                9.259778744308278e-05,
+                0.00012193778093205765,
+                0.00014085289149079472,
+                0.00012400010018609464
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "南無阿弥陀仏"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3laafyx7upt2m",
+            "label": [
+                0.001339748385362327,
+                0.0007568802684545517,
+                0.9973328113555908,
+                9.10950984689407e-05,
+                9.259778744308278e-05,
+                0.00012193766451673582,
+                0.00014085289149079472,
+                0.00012400010018609464
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "南無阿弥陀仏"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3laav5oykak2q",
+            "label": [
+                0.001339748385362327,
+                0.0007568802684545517,
+                0.9973328113555908,
+                9.10950984689407e-05,
+                9.259778744308278e-05,
+                0.00012193766451673582,
+                0.00014085289149079472,
+                0.00012400010018609464
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "　南無阿弥陀仏"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3laagyes4mn2x",
+            "label": [
+                0.001339748385362327,
+                0.0007568802684545517,
+                0.9973328113555908,
+                9.10950984689407e-05,
+                9.259778744308278e-05,
+                0.00012193766451673582,
+                0.00014085289149079472,
+                0.00012400010018609464
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "　南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "南無阿弥陀仏"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3laav5w7jsp2l",
+            "label": [
+                0.001339748385362327,
+                0.0007568802684545517,
+                0.9973328113555908,
+                9.10950984689407e-05,
+                9.259778744308278e-05,
+                0.00012193766451673582,
+                0.00014085289149079472,
+                0.00012400010018609464
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 2,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "南無阿弥陀仏"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3labt27tmic2q",
+            "label": [
+                0.001339748385362327,
+                0.0007568802684545517,
+                0.9973328113555908,
+                9.10950984689407e-05,
+                9.259778744308278e-05,
+                0.00012193766451673582,
+                0.00014085289149079472,
+                0.00012400010018609464
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "南無阿弥陀仏"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3laagy3zf2n2a",
+            "label": [
+                0.001339748385362327,
+                0.0007568802684545517,
+                0.9973328113555908,
+                9.10950984689407e-05,
+                9.259778744308278e-05,
+                0.00012193766451673582,
+                0.00014085289149079472,
+                0.00012400010018609464
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 2,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "南無阿弥陀仏南無阿弥陀仏"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3laap6i3xay2a",
+            "label": [
+                0.0012904548784717917,
+                0.0006216312176547945,
+                0.9975234866142273,
+                9.073263936443254e-05,
+                0.00010337514686398208,
+                0.0001173826094600372,
+                0.00012540954048745334,
+                0.0001274820533581078
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "南無阿弥陀仏南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "南無阿弥陀仏"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3laav63wq7r2l",
+            "label": [
+                0.001339748385362327,
+                0.0007568802684545517,
+                0.9973328113555908,
+                9.10950984689407e-05,
+                9.259778744308278e-05,
+                0.00012193766451673582,
+                0.00014085289149079472,
+                0.00012400010018609464
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 2,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "南無阿弥陀仏"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3labszwfwj62c",
+            "label": [
+                0.001339748385362327,
+                0.0007568802684545517,
+                0.9973328113555908,
+                9.10950984689407e-05,
+                9.259778744308278e-05,
+                0.00012193766451673582,
+                0.00014085289149079472,
+                0.00012400010018609464
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "南無阿弥陀仏"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3lacqmaruws2a",
+            "label": [
+                0.001339748385362327,
+                0.0007568802684545517,
+                0.9973328113555908,
+                9.10950984689407e-05,
+                9.259778744308278e-05,
+                0.00012193766451673582,
+                0.00014085289149079472,
+                0.00012400010018609464
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "南無阿弥陀仏"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3ladanjtlkk2l",
+            "label": [
+                0.001339748385362327,
+                0.0007568802684545517,
+                0.9973328113555908,
+                9.10950984689407e-05,
+                9.259778744308278e-05,
+                0.00012193766451673582,
+                0.00014085289149079472,
+                0.00012400010018609464
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "南無阿弥陀仏南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "南無阿弥陀仏"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3labgh34mpj2b",
+            "label": [
+                0.001339748385362327,
+                0.0007568802684545517,
+                0.9973328113555908,
+                9.10950984689407e-05,
+                9.259778744308278e-05,
+                0.00012193766451673582,
+                0.00014085289149079472,
+                0.00012400010018609464
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 2,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "南無阿弥陀仏"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3labszrjpgq2r",
+            "label": [
+                0.001339748385362327,
+                0.0007568802684545517,
+                0.9973328113555908,
+                9.10950984689407e-05,
+                9.259778744308278e-05,
+                0.00012193766451673582,
+                0.00014085289149079472,
+                0.00012400010018609464
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "南無阿弥陀仏"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3lacqm3irqj2c",
+            "label": [
+                0.001339748385362327,
+                0.0007568806177005172,
+                0.9973328113555908,
+                9.10950984689407e-05,
+                9.259778744308278e-05,
+                0.00012193778093205765,
+                0.00014085289149079472,
+                0.00012400010018609464
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "南無阿弥陀仏"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3ladandc5lc2a",
+            "label": [
+                0.001339748385362327,
+                0.0007568802684545517,
+                0.9973328113555908,
+                9.10950984689407e-05,
+                9.259778744308278e-05,
+                0.00012193766451673582,
+                0.00014085289149079472,
+                0.00012400010018609464
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "ウィーアーザ念仏"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "念仏アーザチルドレン"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "念仏アーザワールド"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3labmjwrosi2j",
+            "label": [
+                0.9987275004386902,
+                0.0001952841557795182,
+                0.000621868995949626,
+                0.00011644601909210905,
+                4.5159529690863565e-05,
+                5.764182424172759e-05,
+                0.00012412399519234896,
+                0.00011206635099370033
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "念仏アーザワールド"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "念仏アーザチルドレン"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "クインシー南無阿弥陀仏"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3labq5giiiv2j",
+            "label": [
+                0.21486666798591614,
+                0.007724791765213013,
+                0.7724564075469971,
+                0.0008021959802135825,
+                0.0005664107156917453,
+                0.0008805535035207868,
+                0.0013641102705150843,
+                0.0013387431390583515
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "クインシー南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "南無阿弥陀仏"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3lacqlvggwn2a",
+            "label": [
+                0.001339748385362327,
+                0.0007568802684545517,
+                0.9973328113555908,
+                9.10950984689407e-05,
+                9.259778744308278e-05,
+                0.00012193766451673582,
+                0.00014085289149079472,
+                0.00012400010018609464
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "南無阿弥陀仏"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "南無阿弥陀仏"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3ladan654zb2w",
+            "label": [
+                0.001339748385362327,
+                0.0007568802684545517,
+                0.9973328113555908,
+                9.10950984689407e-05,
+                9.259778744308278e-05,
+                0.00012193766451673582,
+                0.00014085289149079472,
+                0.00012400010018609464
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "火のないところにも煙はたっている"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "火のないところにも煙はたつのさ"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "ほらごらんよあそこにも"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3l7rbbmdxng2t",
+            "label": [
+                0.14741331338882446,
+                0.002391671761870384,
+                0.821839451789856,
+                0.021155057474970818,
+                0.0021343163680285215,
+                0.001053354819305241,
+                0.0014863525284454226,
+                0.0025265775620937347
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "ほらごらんよあそこにも"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "ぼくの煙がたっている"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "よくあることなのさ"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3l7rfgxs7bs27",
+            "label": [
+                0.9464436173439026,
+                0.018156541511416435,
+                0.00299682654440403,
+                0.003171315183863044,
+                0.00047531723976135254,
+                0.009746698662638664,
+                0.016865544021129608,
+                0.0021441695280373096
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "よくあることなのさ"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "ぼくの煙がたっている"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "はじめは腹も立ったが"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3l7ruehhfwo2y",
+            "label": [
+                0.007410792633891106,
+                0.005911923944950104,
+                0.0036554262042045593,
+                0.0072013637982308865,
+                0.9418118596076965,
+                0.004977152217179537,
+                0.026799743995070457,
+                0.0022317657712846994
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "はじめは腹も立ったが"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "今じゃもうなれちゃった"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "火があるならいざ知らず"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3l7rvh5mzk626",
+            "label": [
+                0.4300265908241272,
+                0.04374223202466965,
+                0.023405956104397774,
+                0.029574543237686157,
+                0.03305310383439064,
+                0.2214871197938919,
+                0.19127389788627625,
+                0.027436602860689163
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "火があるならいざ知らず"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "煙だけじゃ消せないさ"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "火のないところにも煙はたっている"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3l7rvpmbyul2h",
+            "label": [
+                0.006228521466255188,
+                0.0037130110431462526,
+                0.004912054166197777,
+                0.000474569242214784,
+                0.0013748573837801814,
+                0.9797980785369873,
+                0.002512378850951791,
+                0.0009864844614639878
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "ほんとうのことなんか言えない"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "言えば殺される"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "ほんとうのことなんか言えない"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3l7osclabas2s",
+            "label": [
+                0.0011717035667970777,
+                0.9943057894706726,
+                0.0002367278648307547,
+                0.00022153260943014175,
+                8.991605136543512e-05,
+                0.0032449401915073395,
+                0.0006703378749080002,
+                5.918428360018879e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "ほんとうのことなんか言えない"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "ほんとうのことなんか言えない"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "言えばにらまれる"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3l7ov6mq6qe2c",
+            "label": [
+                0.0044825104996562,
+                0.4651196300983429,
+                0.0018619965994730592,
+                0.0009737476357258856,
+                0.0017279217718169093,
+                0.5188281536102295,
+                0.0064985607750713825,
+                0.0005075003718957305
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "言えばにらまれる"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "そんなもの嘘さ"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "そんなものでたらめさ"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3l7ovtlwpbo2r",
+            "label": [
+                0.3255065381526947,
+                0.18474869430065155,
+                0.007810518145561218,
+                0.007188976742327213,
+                0.006406774744391441,
+                0.03776300325989723,
+                0.42527690529823303,
+                0.005298521835356951
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 1,
+                    "utter": "そんなものでたらめさ"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "それは不自由なもの"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 3,
+                    "utter": "それは不自由なもの"
+                }
+            ],
+            "uri": "at://did:plc:5dx4ekcevjojd5g72hgszr3r/app.bsky.feed.post/3l7ow75p5u22z",
+            "label": [
+                0.0037769703194499016,
+                0.9930557608604431,
+                0.00014742145140189677,
+                0.00036937580443918705,
+                0.00012275236076675355,
+                0.0009552914998494089,
+                0.0015039397403597832,
+                6.85618506395258e-05
+            ]
+        }
+    ]
+}

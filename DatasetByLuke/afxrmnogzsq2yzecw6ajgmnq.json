@@ -1,0 +1,389 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 1,
+                    "utter": "？"
+                },
+                {
+                    "author": "did:plc:jzwn6qhf3scfl7a5hgglmmok",
+                    "type": 2,
+                    "utter": "炎の中で"
+                },
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 3,
+                    "utter": "あー"
+                },
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 3,
+                    "utter": "踊り狂っているように見えた"
+                },
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 3,
+                    "utter": "地獄変のラストみたいな感じ"
+                }
+            ],
+            "uri": "at://did:plc:afxrmnogzsq2yzecw6ajgmnq/app.bsky.feed.post/3lbzgn4hits2o",
+            "label": [
+                0.2960878312587738,
+                0.020320983603596687,
+                0.008942827582359314,
+                0.5060949325561523,
+                0.0009647022816352546,
+                0.15800103545188904,
+                0.007470743730664253,
+                0.0021169083192944527
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 1,
+                    "utter": "あー"
+                },
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 1,
+                    "utter": "踊り狂っているように見えた"
+                },
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 1,
+                    "utter": "地獄変のラストみたいな感じ"
+                },
+                {
+                    "author": "did:plc:jzwn6qhf3scfl7a5hgglmmok",
+                    "type": 2,
+                    "utter": "地獄変？"
+                },
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 3,
+                    "utter": "ちょっと教養の差がでちゃったかな"
+                }
+            ],
+            "uri": "at://did:plc:afxrmnogzsq2yzecw6ajgmnq/app.bsky.feed.post/3lc3bbqllqs2i",
+            "label": [
+                0.0005523970467038453,
+                0.9985710382461548,
+                0.0001509991561761126,
+                0.00024664291413500905,
+                4.340563100413419e-05,
+                0.00022147526033222675,
+                0.00018089578952640295,
+                3.312964327051304e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 1,
+                    "utter": "ちょっと教養の差がでちゃったかな"
+                },
+                {
+                    "author": "did:plc:jzwn6qhf3scfl7a5hgglmmok",
+                    "type": 2,
+                    "utter": "ピアノ弾けないくせに."
+                },
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 3,
+                    "utter": "ピアノなんて練習すれば弾けるし"
+                },
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 3,
+                    "utter": "家にないだけだし"
+                }
+            ],
+            "uri": "at://did:plc:afxrmnogzsq2yzecw6ajgmnq/app.bsky.feed.post/3lc3be56ekk2i",
+            "label": [
+                0.3695766031742096,
+                0.0223064161837101,
+                0.5384795069694519,
+                0.001826521591283381,
+                0.002446250058710575,
+                0.005220642779022455,
+                0.050937723368406296,
+                0.009206435643136501
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 1,
+                    "utter": "いっしょに行こうよ"
+                },
+                {
+                    "author": "did:plc:jzwn6qhf3scfl7a5hgglmmok",
+                    "type": 2,
+                    "utter": "ええ, ぜひ."
+                },
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 3,
+                    "utter": "六本木はこのまえまりたんと行ったの"
+                },
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 3,
+                    "utter": "赤坂はおーたんとよく行くの"
+                },
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 3,
+                    "utter": "銀座行ったことない"
+                }
+            ],
+            "uri": "at://did:plc:afxrmnogzsq2yzecw6ajgmnq/app.bsky.feed.post/3lc3bcjddos2i",
+            "label": [
+                0.7128307819366455,
+                0.0008952307398431003,
+                0.2834022641181946,
+                0.0009683450334705412,
+                0.00025162988458760083,
+                0.0005606128834187984,
+                0.0003923634358216077,
+                0.0006988017121329904
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 1,
+                    "utter": "六本木はこのまえまりたんと行ったの"
+                },
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 1,
+                    "utter": "赤坂はおーたんとよく行くの"
+                },
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 1,
+                    "utter": "銀座行ったことない"
+                },
+                {
+                    "author": "did:plc:jzwn6qhf3scfl7a5hgglmmok",
+                    "type": 2,
+                    "utter": "西麻布は？"
+                },
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 3,
+                    "utter": "ない"
+                },
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 3,
+                    "utter": "麻布中は行ったことある"
+                }
+            ],
+            "uri": "at://did:plc:afxrmnogzsq2yzecw6ajgmnq/app.bsky.feed.post/3lc3bezmbqk2i",
+            "label": [
+                0.9520825743675232,
+                0.005151036661118269,
+                0.0194653682410717,
+                0.0064546335488557816,
+                0.0006513305124826729,
+                0.008666958659887314,
+                0.0028737776447087526,
+                0.004654448013752699
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 1,
+                    "utter": "ない"
+                },
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 1,
+                    "utter": "麻布中は行ったことある"
+                },
+                {
+                    "author": "did:plc:jzwn6qhf3scfl7a5hgglmmok",
+                    "type": 2,
+                    "utter": "麻布すらないわ."
+                },
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 3,
+                    "utter": "行こうぜ"
+                }
+            ],
+            "uri": "at://did:plc:afxrmnogzsq2yzecw6ajgmnq/app.bsky.feed.post/3lc3bgld5x22i",
+            "label": [
+                0.0006356989615596831,
+                0.00020574883092194796,
+                0.99870765209198,
+                0.00012143314961576834,
+                8.141129364958033e-05,
+                0.00010189036402152851,
+                8.520024130120873e-05,
+                6.0878835938638076e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 1,
+                    "utter": "明日全休🎵"
+                },
+                {
+                    "author": "did:plc:jzwn6qhf3scfl7a5hgglmmok",
+                    "type": 2,
+                    "utter": "みんなそうちゃうん？"
+                },
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 3,
+                    "utter": "なにしようかなー"
+                }
+            ],
+            "uri": "at://did:plc:afxrmnogzsq2yzecw6ajgmnq/app.bsky.feed.post/3lbrxkjdxcs2t",
+            "label": [
+                0.22706793248653412,
+                0.001194402459077537,
+                0.7696390151977539,
+                0.00038143008714541793,
+                0.00023709058586973697,
+                0.0007845201762393117,
+                0.0003617827605921775,
+                0.00033387780422344804
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 1,
+                    "utter": "なにしようかなー"
+                },
+                {
+                    "author": "did:plc:jzwn6qhf3scfl7a5hgglmmok",
+                    "type": 2,
+                    "utter": "最近夢中になってる本がある"
+                },
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 3,
+                    "utter": "いいことだ"
+                }
+            ],
+            "uri": "at://did:plc:afxrmnogzsq2yzecw6ajgmnq/app.bsky.feed.post/3lbrxm2hdik2t",
+            "label": [
+                0.999500036239624,
+                5.0699356506811455e-05,
+                0.00016359600704163313,
+                5.731718920287676e-05,
+                3.7855457776458934e-05,
+                5.376975241233595e-05,
+                6.829446647316217e-05,
+                6.843711889814585e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 1,
+                    "utter": "いいことだ"
+                },
+                {
+                    "author": "did:plc:jzwn6qhf3scfl7a5hgglmmok",
+                    "type": 2,
+                    "utter": "早く読みたい"
+                },
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 3,
+                    "utter": "早く寝て明日読めばいいよ"
+                }
+            ],
+            "uri": "at://did:plc:afxrmnogzsq2yzecw6ajgmnq/app.bsky.feed.post/3lbrxojlvic2t",
+            "label": [
+                0.01080300658941269,
+                0.0010582697577774525,
+                0.9873477220535278,
+                0.00010169082088395953,
+                0.00010026454401668161,
+                0.00018665939569473267,
+                0.00024035591923166066,
+                0.00016198174853343517
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 1,
+                    "utter": "早く寝て明日読めばいいよ"
+                },
+                {
+                    "author": "did:plc:jzwn6qhf3scfl7a5hgglmmok",
+                    "type": 2,
+                    "utter": "早く明日にならないかなー🎵"
+                },
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 3,
+                    "utter": "寝て起きたら明日"
+                }
+            ],
+            "uri": "at://did:plc:afxrmnogzsq2yzecw6ajgmnq/app.bsky.feed.post/3lbrxpplfxs2t",
+            "label": [
+                0.1922844648361206,
+                0.016567513346672058,
+                0.7852640748023987,
+                0.0005128488992340863,
+                0.00026513138436712325,
+                0.0024891593493521214,
+                0.0016270785126835108,
+                0.0009896542178466916
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 1,
+                    "utter": "寝て起きたら明日"
+                },
+                {
+                    "author": "did:plc:jzwn6qhf3scfl7a5hgglmmok",
+                    "type": 2,
+                    "utter": "寝る前にちょっと読み進める"
+                },
+                {
+                    "author": "did:plc:afxrmnogzsq2yzecw6ajgmnq",
+                    "type": 3,
+                    "utter": "寝れなくなる"
+                }
+            ],
+            "uri": "at://did:plc:afxrmnogzsq2yzecw6ajgmnq/app.bsky.feed.post/3lbrxqwmrhk2t",
+            "label": [
+                0.007010197266936302,
+                0.6674065589904785,
+                0.0012408415786921978,
+                0.007307841442525387,
+                0.0008757353061810136,
+                0.3107941746711731,
+                0.004976618569344282,
+                0.00038805208168923855
+            ]
+        }
+    ]
+}

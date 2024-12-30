@@ -1,0 +1,484 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 1,
+                    "utter": "ゆっくり休んで推し沢山摂取してくれ〜！心身ともにゆっくりと…🍀"
+                },
+                {
+                    "author": "did:plc:fjalcfrtwfekxaipyn3nahgj",
+                    "type": 2,
+                    "utter": "ありがとうー！！寝て起きたらなんや俺の才能が怖いだけかっていうスーパーウルトラポジティブに目が覚めたから元気✌️"
+                },
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 3,
+                    "utter": "そかそか！無理せずにね！"
+                }
+            ],
+            "uri": "at://did:plc:exptf77cpdnnwkryevbgcqhm/app.bsky.feed.post/3lbyk7sfhu22x",
+            "label": [
+                0.02484918385744095,
+                0.0007843339699320495,
+                0.9723923206329346,
+                0.00032022283994592726,
+                0.00012296339264139533,
+                0.0010556193301454186,
+                0.00020244179177097976,
+                0.0002728442195802927
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 1,
+                    "utter": "そかそか！無理せずにね！"
+                },
+                {
+                    "author": "did:plc:fjalcfrtwfekxaipyn3nahgj",
+                    "type": 2,
+                    "utter": "ありがと！！ちょっと立て続けだったからメンヘラになったわ😂😂😂"
+                },
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 3,
+                    "utter": "連続はしんどくなっちゃうよね🥲\n自由気ままに嫌だなって思った人はブロorミュートして楽しい生活送ろ〜！"
+                }
+            ],
+            "uri": "at://did:plc:exptf77cpdnnwkryevbgcqhm/app.bsky.feed.post/3lbytolps2s25",
+            "label": [
+                0.0012923869071528316,
+                0.0003671609447337687,
+                0.9978609681129456,
+                9.984509961213917e-05,
+                8.910651376936585e-05,
+                8.706327935215086e-05,
+                0.00012732186587527394,
+                7.621138502145186e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 1,
+                    "utter": "連続はしんどくなっちゃうよね🥲\n自由気ままに嫌だなって思った人はブロorミュートして楽しい生活送ろ〜！"
+                },
+                {
+                    "author": "did:plc:fjalcfrtwfekxaipyn3nahgj",
+                    "type": 2,
+                    "utter": "連チャン結構きついwww余計なこと何も呟いてないはずなんだけどなぁ…今の方が余計なこといっぱい呟いてるしww\nいっぱいブロ解してミュートしてきたから少しスッキリ"
+                },
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 3,
+                    "utter": "なんだろうねぇ🥲そういう人は合わない！終了！って割り切った方が楽かもしれんね🙃そかそか！自分が過ごしやすいTLにしようぜ！"
+                }
+            ],
+            "uri": "at://did:plc:exptf77cpdnnwkryevbgcqhm/app.bsky.feed.post/3lbz3yizejk27",
+            "label": [
+                0.0005973842344246805,
+                0.00347283692099154,
+                0.9909873604774475,
+                0.00020944415882695466,
+                0.00045674794819206,
+                0.00025858485605567694,
+                0.0038127617444843054,
+                0.0002048084861598909
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 1,
+                    "utter": "なんだろうねぇ🥲そういう人は合わない！終了！って割り切った方が楽かもしれんね🙃そかそか！自分が過ごしやすいTLにしようぜ！"
+                },
+                {
+                    "author": "did:plc:fjalcfrtwfekxaipyn3nahgj",
+                    "type": 2,
+                    "utter": "見ないようにしたらだいぶ楽な気がするから見えない見えない🫥ってしといた☺️過ごしやすさならブルスカくんの方が過ごしやすいからあっちはちょっと後々の宣伝用にシャドバンとかされんように適度に呟いとく"
+                },
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 3,
+                    "utter": "そだね気持ち的にも楽かもしれんね！\nぶるすか平和で過ごしやすいよね…ほんとに…😌"
+                }
+            ],
+            "uri": "at://did:plc:exptf77cpdnnwkryevbgcqhm/app.bsky.feed.post/3lbz7cmucd224",
+            "label": [
+                0.9993820190429688,
+                0.00010992289026034996,
+                0.0002531851932872087,
+                6.953130650799721e-05,
+                2.0059054804733023e-05,
+                4.5152850361773744e-05,
+                6.016170300426893e-05,
+                5.990595673210919e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 1,
+                    "utter": "目の塗りと構図が好きすぎ………🤦‍♀️🤦‍♀️🤦‍♀️🫶"
+                },
+                {
+                    "author": "did:plc:fjalcfrtwfekxaipyn3nahgj",
+                    "type": 2,
+                    "utter": "ありがとう！！！！🥰🥰私も逆光っぽいものに挑戦してみようと思って塗った！！！難しいね！！！！"
+                },
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 3,
+                    "utter": "逆光はちゃめちゃに上手いやんけ…🤦‍♀️🤦‍♀️とてつもなく雰囲気が好きやで🫶🫶"
+                }
+            ],
+            "uri": "at://did:plc:exptf77cpdnnwkryevbgcqhm/app.bsky.feed.post/3lbwiat3gwk2l",
+            "label": [
+                0.9996260404586792,
+                3.956227737944573e-05,
+                8.923331188270822e-05,
+                7.580185047117993e-05,
+                3.193095471942797e-05,
+                3.776697121793404e-05,
+                5.017976218368858e-05,
+                4.944638567394577e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 1,
+                    "utter": "逆光はちゃめちゃに上手いやんけ…🤦‍♀️🤦‍♀️とてつもなく雰囲気が好きやで🫶🫶"
+                },
+                {
+                    "author": "did:plc:fjalcfrtwfekxaipyn3nahgj",
+                    "type": 2,
+                    "utter": "マ？ちゃんと逆光できてる？🥹🥹光の魔術師にそう言ってもらえてうれぴだわ🥹🫶"
+                },
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 3,
+                    "utter": "マ！！！！めちゃめちゃ上手〜！！出来てる！！！"
+                }
+            ],
+            "uri": "at://did:plc:exptf77cpdnnwkryevbgcqhm/app.bsky.feed.post/3lbyk7jouss2x",
+            "label": [
+                0.9994701743125916,
+                4.4076336052967235e-05,
+                0.0001093986866180785,
+                0.0001878293405752629,
+                3.8095015042927116e-05,
+                3.77766446035821e-05,
+                5.700628025806509e-05,
+                5.580875586019829e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 1,
+                    "utter": "マ！！！！めちゃめちゃ上手〜！！出来てる！！！"
+                },
+                {
+                    "author": "did:plc:fjalcfrtwfekxaipyn3nahgj",
+                    "type": 2,
+                    "utter": "ありがとー！！！出来てるならうれぴだよ😭🫶"
+                },
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 3,
+                    "utter": "めちゃめちゃ光の入れ方上手いし顔とか手上手すぎだし男の人っていう手が好きすぎる🤦‍♀️"
+                }
+            ],
+            "uri": "at://did:plc:exptf77cpdnnwkryevbgcqhm/app.bsky.feed.post/3lbytn72bwc25",
+            "label": [
+                0.9996329545974731,
+                3.768667738768272e-05,
+                7.77450914029032e-05,
+                6.996287265792489e-05,
+                3.435949474805966e-05,
+                4.064329550601542e-05,
+                5.178904757485725e-05,
+                5.4973857913864776e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 1,
+                    "utter": "めちゃめちゃ光の入れ方上手いし顔とか手上手すぎだし男の人っていう手が好きすぎる🤦‍♀️"
+                },
+                {
+                    "author": "did:plc:fjalcfrtwfekxaipyn3nahgj",
+                    "type": 2,
+                    "utter": "ありがとう；；；🗝️💸あんまりゴツゴツしてるイメージないけど男な人の大きめの手っていいよね🥰🫶背景とかね…描けるともうちょっといいのかなって背景から目を背ける😂"
+                },
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 3,
+                    "utter": "スラッとしてる人が手ゴツゴツしとったらとんでもないギャップでしぬから良いと思う！！！！！！(\n背景は私も逃げてるからwwwwww"
+                }
+            ],
+            "uri": "at://did:plc:exptf77cpdnnwkryevbgcqhm/app.bsky.feed.post/3lbz3wkh76s27",
+            "label": [
+                0.9939879179000854,
+                0.00010735789692262188,
+                0.0038013472221791744,
+                0.001388488570228219,
+                0.00013519755157176405,
+                0.00013891741400584579,
+                0.00014224591723177582,
+                0.000298651255434379
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 1,
+                    "utter": "ガチそれメンツVALOすぎん？？？www"
+                },
+                {
+                    "author": "did:plc:fjalcfrtwfekxaipyn3nahgj",
+                    "type": 2,
+                    "utter": "ヴァロだとぶっ壊れティムになるよねwww\n許されなかった🫖🌿に死ぬほどわろてる"
+                },
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 3,
+                    "utter": "ヴァロだとむしろ組ませて貰えない絶対ありえないメンツwwwつよすぎwww\nサモランねwwwまじであれおもろかったし北みと魁星の道連ればかおもろかったwww"
+                }
+            ],
+            "uri": "at://did:plc:exptf77cpdnnwkryevbgcqhm/app.bsky.feed.post/3lb5duxcsnk2k",
+            "label": [
+                0.9996532201766968,
+                3.8210135244298726e-05,
+                8.555543172406033e-05,
+                6.676332122879103e-05,
+                2.8762098736478947e-05,
+                3.923207623302005e-05,
+                4.3659449147526175e-05,
+                4.469067062018439e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 1,
+                    "utter": "ヴァロだとむしろ組ませて貰えない絶対ありえないメンツwwwつよすぎwww\nサモランねwwwまじであれおもろかったし北みと魁星の道連ればかおもろかったwww"
+                },
+                {
+                    "author": "did:plc:fjalcfrtwfekxaipyn3nahgj",
+                    "type": 2,
+                    "utter": "絶対同チームになれない夢の構成がスプラで実現したの最高🙏🏻✨絵面が強いって言ってるよねwww\nサモランによって鍛えられた🫖🌿www\n道連れにするという強い意志くそおもろいwwww"
+                },
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 3,
+                    "utter": "まじでそれwwwエイム良さそうでとても楽しみwwwwww\n鍛えられたのにサモランの武器は使えないと言うねwwwwwwwwwwww\nながおにすくみはこんなんしかおらんのかってつっこまれてたwww"
+                }
+            ],
+            "uri": "at://did:plc:exptf77cpdnnwkryevbgcqhm/app.bsky.feed.post/3lb7rzcrb7k2f",
+            "label": [
+                0.9821515083312988,
+                0.00022381189046427608,
+                0.01665636897087097,
+                0.00040789449121803045,
+                9.796518861548975e-05,
+                0.00019680726109072566,
+                0.00011620369332376868,
+                0.00014927182928659022
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 1,
+                    "utter": "まじでそれwwwエイム良さそうでとても楽しみwwwwww\n鍛えられたのにサモランの武器は使えないと言うねwwwwwwwwwwww\nながおにすくみはこんなんしかおらんのかってつっこまれてたwww"
+                },
+                {
+                    "author": "did:plc:fjalcfrtwfekxaipyn3nahgj",
+                    "type": 2,
+                    "utter": "練習配信の音だけ聞いてるとまじでヴァロかと思うｗｗｗｗ\nサモランでしか使えないもんねｗｗｗしょうがないねｗｗｗｗｗ\n間違ってはいないツッコミｗｗｗｗ"
+                },
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 3,
+                    "utter": "あの4人もう顔合わせ来た？見るわwwwあの4人エイムいいもんなwww\nあの酒ﾖﾘそまもエイム良くて上手かったwww\nそうなんだよねwww今回使えない武器だからねwwwwwwwww\nかいせ、きたみと来てねすはどんなコメントにするんだって思ったらあれだからねwwwひたすらおもろかったwww"
+                }
+            ],
+            "uri": "at://did:plc:exptf77cpdnnwkryevbgcqhm/app.bsky.feed.post/3lbhcrg7w422r",
+            "label": [
+                0.9996485710144043,
+                4.1035898902919143e-05,
+                9.436433902010322e-05,
+                5.9411406255094334e-05,
+                2.7852418497786857e-05,
+                4.118177457712591e-05,
+                4.487799742491916e-05,
+                4.2524294258328155e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 1,
+                    "utter": "あの4人もう顔合わせ来た？見るわwwwあの4人エイムいいもんなwww\nあの酒ﾖﾘそまもエイム良くて上手かったwww\nそうなんだよねwww今回使えない武器だからねwwwwwwwww\nかいせ、きたみと来てねすはどんなコメントにするんだって思ったらあれだからねwwwひたすらおもろかったwww"
+                },
+                {
+                    "author": "did:plc:fjalcfrtwfekxaipyn3nahgj",
+                    "type": 2,
+                    "utter": "発表の次の日くらいからゴリゴリ顔合わせてスクリムしてる！\n🍇さんとかFPS得意勢は覚醒早いよね流石すぎるwww\nバイト用だからしょうがないねwwwバイト専用武器ぶっ壊れだしwww"
+                },
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 3,
+                    "utter": "見た！！うまかた！！！！\n相手チームのるべの方も上手くてすげぇ…ってなってる…上級者の方は勝つ条件初心者の方とかと違うけど勝つ条件なんなんだろう…🙃\n\nそうそうwwwそまめちゃくちゃエイム良くてえぐいwwかいせ視点で見てたんだけど敵にそまいてめちゃくちゃキルってたwww\nそうだねwww"
+                }
+            ],
+            "uri": "at://did:plc:exptf77cpdnnwkryevbgcqhm/app.bsky.feed.post/3lbjoaa5qws2h",
+            "label": [
+                0.9984040856361389,
+                6.69018118060194e-05,
+                0.00015893916133791208,
+                0.0010768396314233541,
+                5.622174285235815e-05,
+                6.238736386876553e-05,
+                8.032131154322997e-05,
+                9.442616283195093e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 1,
+                    "utter": "にぃっ！って顔が良すぎる！！！！！"
+                },
+                {
+                    "author": "did:plc:fjalcfrtwfekxaipyn3nahgj",
+                    "type": 2,
+                    "utter": "ありがとう！！ノチより52の方使ってる事が多いけどノチにした！デフォルメ楽しいね！！！！"
+                },
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 3,
+                    "utter": "多分武器の名前？スプラまじで無知の無知でハンコしか分からない人間ですごめんwwwwwwデフォ楽しいよねー！！"
+                }
+            ],
+            "uri": "at://did:plc:exptf77cpdnnwkryevbgcqhm/app.bsky.feed.post/3lbjodzou4c2h",
+            "label": [
+                0.9988898634910583,
+                0.0004917734186165035,
+                0.00013913170550949872,
+                8.446051651844755e-05,
+                2.6679730581236072e-05,
+                0.00018716862541623414,
+                0.00010586147254798561,
+                7.513162563554943e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 1,
+                    "utter": "多分武器の名前？スプラまじで無知の無知でハンコしか分からない人間ですごめんwwwwwwデフォ楽しいよねー！！"
+                },
+                {
+                    "author": "did:plc:fjalcfrtwfekxaipyn3nahgj",
+                    "type": 2,
+                    "utter": "そうなのか！！バイトとクマサン武器通じたから知ってるもんだとばっかりごめんｗｗｗハンコはスペシャルやね、🔑🐍の武器のウルトがハンコなんかな？🗝💸以外見てないから分からんすまねえ😭\nデフォルメなんぼでも描けるっていう錯覚に陥るくらいには楽しいよね！！"
+                },
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 3,
+                    "utter": "ほとんどわかんないwwwハンコはかいせ視点見てた時北ｺｳ路ひすiがハンコ使っててばか強くて覚えたwそしてその後教授も使ってた！かいせはわからん！(推しではあるけど)大丈夫！！\nそうなんだよねー！！デフォルメって多少省略しても許されるの強くない？www"
+                }
+            ],
+            "uri": "at://did:plc:exptf77cpdnnwkryevbgcqhm/app.bsky.feed.post/3lbjtp3aj4225",
+            "label": [
+                0.9075687527656555,
+                0.004862685687839985,
+                0.06560467183589935,
+                0.009233693592250347,
+                0.0007082608644850552,
+                0.005187440663576126,
+                0.0025976502802222967,
+                0.004236814100295305
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 1,
+                    "utter": "ほとんどわかんないwwwハンコはかいせ視点見てた時北ｺｳ路ひすiがハンコ使っててばか強くて覚えたwそしてその後教授も使ってた！かいせはわからん！(推しではあるけど)大丈夫！！\nそうなんだよねー！！デフォルメって多少省略しても許されるの強くない？www"
+                },
+                {
+                    "author": "did:plc:fjalcfrtwfekxaipyn3nahgj",
+                    "type": 2,
+                    "utter": "今日見たら🍵教授と同じ武器だわｗｗってなったｗｗハンコえっぎいなｗｗｗ🔑🐍は最近アプデされて射程長くなった武器使ってた！！\n\nデフォルメってなにしてもいいとすら思ってるｸｿ野郎😌✌️"
+                },
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 3,
+                    "utter": "そうそう！w教授もハンコ！ハンコ強すぎねwww\nあれスシコラ？だっけ？なんかピンクのやつ！\n\nそれは分かるwww"
+                }
+            ],
+            "uri": "at://did:plc:exptf77cpdnnwkryevbgcqhm/app.bsky.feed.post/3lbntyaq4uk2d",
+            "label": [
+                0.016199013218283653,
+                0.0003848558699246496,
+                0.0017200785223394632,
+                0.9804120063781738,
+                0.00024713503080420196,
+                0.0003484613844193518,
+                0.0003369017213117331,
+                0.0003514779091347009
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 1,
+                    "utter": "そうそう！w教授もハンコ！ハンコ強すぎねwww\nあれスシコラ？だっけ？なんかピンクのやつ！\n\nそれは分かるwww"
+                },
+                {
+                    "author": "did:plc:fjalcfrtwfekxaipyn3nahgj",
+                    "type": 2,
+                    "utter": "そうそうスシコラって呼ばれてるやつ！\n\n色んな事試せるのいいよねｗｗｗ"
+                },
+                {
+                    "author": "did:plc:exptf77cpdnnwkryevbgcqhm",
+                    "type": 3,
+                    "utter": "スシコラってどんな武器なの〜？\n\nうんwwwちょっと可愛めだったりしても許されたり🎶"
+                }
+            ],
+            "uri": "at://did:plc:exptf77cpdnnwkryevbgcqhm/app.bsky.feed.post/3lbomxyavl22l",
+            "label": [
+                0.9424053430557251,
+                0.0018796317745000124,
+                0.006294026970863342,
+                0.04669126123189926,
+                0.0002091329952236265,
+                0.0011817383347079158,
+                0.0005792907322756946,
+                0.000759557296987623
+            ]
+        }
+    ]
+}

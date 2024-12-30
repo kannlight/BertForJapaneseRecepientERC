@@ -1,0 +1,309 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fvzt3xuvzcghx6paxnaw6qmm",
+                    "type": 1,
+                    "utter": "モノが見えてないからなんとも言えないですけど、糸と針（号数）のバランスは合ってます？"
+                },
+                {
+                    "author": "did:plc:dibl3247qukavdsnyjx3rgfp",
+                    "type": 2,
+                    "utter": "6〜8号指定の糸を7号針で編んでます！\n平編みの真ん中あたりは大きさ揃うようになってきたんですが、1段目と両サイドがなーんかうまいこといかんのです😭"
+                },
+                {
+                    "author": "did:plc:fvzt3xuvzcghx6paxnaw6qmm",
+                    "type": 3,
+                    "utter": "ああ、棒針編みあるあるなんですよねー。\n1段目っていうのは、作り目の段かな、わかります…ちょっと見た目が悪いですよね。\n\nそれから両端も、大きさがまちまちになりがちですよね。"
+                }
+            ],
+            "uri": "at://did:plc:fvzt3xuvzcghx6paxnaw6qmm/app.bsky.feed.post/3lbz5y6v3w22c",
+            "label": [
+                0.05062292516231537,
+                0.7692528963088989,
+                0.00313206878490746,
+                0.003312098328024149,
+                0.0007087452686391771,
+                0.1391996294260025,
+                0.032391343265771866,
+                0.001380213419906795
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fvzt3xuvzcghx6paxnaw6qmm",
+                    "type": 1,
+                    "utter": "ああ、棒針編みあるあるなんですよねー。\n1段目っていうのは、作り目の段かな、わかります…ちょっと見た目が悪いですよね。\n\nそれから両端も、大きさがまちまちになりがちですよね。"
+                },
+                {
+                    "author": "did:plc:dibl3247qukavdsnyjx3rgfp",
+                    "type": 2,
+                    "utter": "そう！まさに作り目の段です！\nあるあるならしゃーなしなのですかね、、(T ^ T)\n一度糸きゅっと締めながら編んでみたら針が滑らなくなって、絶対これ違うよなーと思ったり…(  ･᷄-･᷅ )"
+                },
+                {
+                    "author": "did:plc:fvzt3xuvzcghx6paxnaw6qmm",
+                    "type": 3,
+                    "utter": "もしかすると、まったく逆効果だったかも…\nちょっと待ってていただけたら、ちょっとサンプルだせます。"
+                }
+            ],
+            "uri": "at://did:plc:fvzt3xuvzcghx6paxnaw6qmm/app.bsky.feed.post/3lbz6kizh222c",
+            "label": [
+                0.005008848849684,
+                0.020357834175229073,
+                0.0355491079390049,
+                0.0016156978672370315,
+                0.00038020755164325237,
+                0.9359056949615479,
+                0.0007212602067738771,
+                0.00046130194095894694
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fvzt3xuvzcghx6paxnaw6qmm",
+                    "type": 1,
+                    "utter": "一連の拝見しても、行動にメリハリをつけているだけなので、やっぱりせっかちではなく几帳面なだけかと😊"
+                },
+                {
+                    "author": "did:plc:4il55rjcmpzixwji46k7an53",
+                    "type": 2,
+                    "utter": "おやさしい表現（号泣しながら五体投地）\n\nありがとうございます\n人に強要してる風の圧にならぬよう気をつければ大丈夫でしょうか\nちょっぴり希望がわきました"
+                },
+                {
+                    "author": "did:plc:fvzt3xuvzcghx6paxnaw6qmm",
+                    "type": 3,
+                    "utter": "はい！\nもしも私がレジの人ならば、一応決まり事として「お持ちですか」と言ってるだけなので、その一言だけ言わせて頂ければ、あとは全部一気に言って頂いた方が助かります💖\n効率的なので！"
+                }
+            ],
+            "uri": "at://did:plc:fvzt3xuvzcghx6paxnaw6qmm/app.bsky.feed.post/3lc2kncffds2x",
+            "label": [
+                0.015666812658309937,
+                0.0005457621882669628,
+                0.9797648787498474,
+                0.0007438954198732972,
+                0.0008768105763010681,
+                0.00027752891764976084,
+                0.0012116488069295883,
+                0.0009126226068474352
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fvzt3xuvzcghx6paxnaw6qmm",
+                    "type": 1,
+                    "utter": "ありがと美味しかったけどね😭もったいない気持ちが〜"
+                },
+                {
+                    "author": "did:plc:thfdyg6ngfk7ra4ilo6w6e3j",
+                    "type": 2,
+                    "utter": "そうだよね～(^_^;)ドンマイ！"
+                },
+                {
+                    "author": "did:plc:thfdyg6ngfk7ra4ilo6w6e3j",
+                    "type": 2,
+                    "utter": "煮物食べたい"
+                },
+                {
+                    "author": "did:plc:fvzt3xuvzcghx6paxnaw6qmm",
+                    "type": 3,
+                    "utter": "美味しいよね、冬の煮物！"
+                }
+            ],
+            "uri": "at://did:plc:fvzt3xuvzcghx6paxnaw6qmm/app.bsky.feed.post/3lbz3mxp4wk2c",
+            "label": [
+                0.9995855689048767,
+                4.513078965828754e-05,
+                0.0001493022864451632,
+                5.3915311582386494e-05,
+                3.25207547575701e-05,
+                3.921771713066846e-05,
+                4.666653330787085e-05,
+                4.7666158934589475e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fvzt3xuvzcghx6paxnaw6qmm",
+                    "type": 1,
+                    "utter": "美味しいよね、冬の煮物！"
+                },
+                {
+                    "author": "did:plc:thfdyg6ngfk7ra4ilo6w6e3j",
+                    "type": 2,
+                    "utter": "うん、私あんまり上手くないんだよね…"
+                },
+                {
+                    "author": "did:plc:fvzt3xuvzcghx6paxnaw6qmm",
+                    "type": 3,
+                    "utter": "そうなの？味付け？それとも煮崩れちゃうとか"
+                }
+            ],
+            "uri": "at://did:plc:fvzt3xuvzcghx6paxnaw6qmm/app.bsky.feed.post/3lbz3r7epls2c",
+            "label": [
+                0.0006839290726929903,
+                0.00043600809294730425,
+                0.0008961043204180896,
+                0.9973403811454773,
+                0.00013352125824894756,
+                0.00021079591533634812,
+                0.00019065957167185843,
+                0.0001085781041183509
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fvzt3xuvzcghx6paxnaw6qmm",
+                    "type": 1,
+                    "utter": "そうなの？味付け？それとも煮崩れちゃうとか"
+                },
+                {
+                    "author": "did:plc:thfdyg6ngfk7ra4ilo6w6e3j",
+                    "type": 2,
+                    "utter": "味が染みない？のと鶏肉が美味しくないんだよねー。別々に煮るの？"
+                },
+                {
+                    "author": "did:plc:fvzt3xuvzcghx6paxnaw6qmm",
+                    "type": 3,
+                    "utter": "調味料はどんな順番で入れてる？"
+                }
+            ],
+            "uri": "at://did:plc:fvzt3xuvzcghx6paxnaw6qmm/app.bsky.feed.post/3lbz3u4jiec2c",
+            "label": [
+                0.1497909128665924,
+                0.0008813610766083002,
+                0.8421865105628967,
+                0.002548872958868742,
+                0.0008221783791668713,
+                0.001263527199625969,
+                0.0006888136267662048,
+                0.0018179070902988315
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fvzt3xuvzcghx6paxnaw6qmm",
+                    "type": 1,
+                    "utter": "岩戸を開いたのはアメノウズメノミコト、つまり今の雨野さんですな。"
+                },
+                {
+                    "author": "did:plc:thfdyg6ngfk7ra4ilo6w6e3j",
+                    "type": 2,
+                    "utter": "岩戸がチョロっと開いた所をこじ開けた大男がいるのよ"
+                },
+                {
+                    "author": "did:plc:fvzt3xuvzcghx6paxnaw6qmm",
+                    "type": 3,
+                    "utter": "もっと始祖的な神様の一人らしよ。"
+                }
+            ],
+            "uri": "at://did:plc:fvzt3xuvzcghx6paxnaw6qmm/app.bsky.feed.post/3lbxwpz3nwc2q",
+            "label": [
+                0.020825523883104324,
+                0.0007341939490288496,
+                0.0035715580452233553,
+                0.9726606011390686,
+                0.00028345812461338937,
+                0.0008149677887558937,
+                0.00046739180106669664,
+                0.0006423058803193271
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fvzt3xuvzcghx6paxnaw6qmm",
+                    "type": 1,
+                    "utter": "もっと始祖的な神様の一人らしよ。"
+                },
+                {
+                    "author": "did:plc:thfdyg6ngfk7ra4ilo6w6e3j",
+                    "type": 2,
+                    "utter": "そうなんだ！"
+                },
+                {
+                    "author": "did:plc:fvzt3xuvzcghx6paxnaw6qmm",
+                    "type": 3,
+                    "utter": "詳しくは知らないけど、天孫降臨（神様が地上にやって来た）の時に神器に宿った神の一人とか？\n古事記の中でも解釈が色々あるとか。"
+                }
+            ],
+            "uri": "at://did:plc:fvzt3xuvzcghx6paxnaw6qmm/app.bsky.feed.post/3lbxww6d6oc2q",
+            "label": [
+                0.18215727806091309,
+                0.0008371833246201277,
+                0.2940484285354614,
+                0.5134905576705933,
+                0.001009012688882649,
+                0.0027900799177587032,
+                0.0012686687987297773,
+                0.004398807417601347
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fvzt3xuvzcghx6paxnaw6qmm",
+                    "type": 1,
+                    "utter": "詳しくは知らないけど、天孫降臨（神様が地上にやって来た）の時に神器に宿った神の一人とか？\n古事記の中でも解釈が色々あるとか。"
+                },
+                {
+                    "author": "did:plc:thfdyg6ngfk7ra4ilo6w6e3j",
+                    "type": 2,
+                    "utter": "へー神器の…\n八百万の神様多すぎるよね😂"
+                },
+                {
+                    "author": "did:plc:fvzt3xuvzcghx6paxnaw6qmm",
+                    "type": 3,
+                    "utter": "神器の神なので、そもそも表にあまり出てこない、だから誰も見た事がないのかな。"
+                }
+            ],
+            "uri": "at://did:plc:fvzt3xuvzcghx6paxnaw6qmm/app.bsky.feed.post/3lbxwzuwb2k2q",
+            "label": [
+                0.5477399826049805,
+                0.11266172677278519,
+                0.20800456404685974,
+                0.07180359959602356,
+                0.0009521706961095333,
+                0.047051142901182175,
+                0.0030724606476724148,
+                0.008714362047612667
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fvzt3xuvzcghx6paxnaw6qmm",
+                    "type": 1,
+                    "utter": "神器の神なので、そもそも表にあまり出てこない、だから誰も見た事がないのかな。"
+                },
+                {
+                    "author": "did:plc:thfdyg6ngfk7ra4ilo6w6e3j",
+                    "type": 2,
+                    "utter": "神器一つ一つにも神様がいるってこと？付喪神じゃん。それとは違うのかな。\n神様だから何でもありだしな〜"
+                },
+                {
+                    "author": "did:plc:fvzt3xuvzcghx6paxnaw6qmm",
+                    "type": 3,
+                    "utter": "八百万だしねぇ。\nでも、神器だからやっぱり特別な存在なんだろうね"
+                }
+            ],
+            "uri": "at://did:plc:fvzt3xuvzcghx6paxnaw6qmm/app.bsky.feed.post/3lbxxu4c4ok2j",
+            "label": [
+                0.6670688986778259,
+                0.00728543009608984,
+                0.24425193667411804,
+                0.04253476485610008,
+                0.001506260596215725,
+                0.011517878621816635,
+                0.0037103621289134026,
+                0.02212449349462986
+            ]
+        }
+    ]
+}

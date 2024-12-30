@@ -1,0 +1,634 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 1,
+                    "utter": "すのちゃん精鋭狩りよく行くの！？"
+                },
+                {
+                    "author": "did:plc:hmfxzmj7q3q7nzwok4kgnqbs",
+                    "type": 2,
+                    "utter": "最近してないけど前はよくしてたし今もたまーにしてるよ"
+                },
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 3,
+                    "utter": "そうなんだ！？\n凄い私一回もしたことないwww"
+                }
+            ],
+            "uri": "at://did:plc:nnoxec7lo5suwrwz7kbynak6/app.bsky.feed.post/3lbemtpkhss2n",
+            "label": [
+                0.0020162949804216623,
+                0.0003467125352472067,
+                0.000938256795052439,
+                0.9959357976913452,
+                0.0001907576370285824,
+                0.00022441188048105687,
+                0.0002020900574279949,
+                0.0001457132020732388
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 1,
+                    "utter": "そうなんだ！？\n凄い私一回もしたことないwww"
+                },
+                {
+                    "author": "did:plc:hmfxzmj7q3q7nzwok4kgnqbs",
+                    "type": 2,
+                    "utter": "してる人のほうが少ないと思うよ～"
+                },
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 3,
+                    "utter": "そうなんだ！？みんなしてるイメージあった"
+                }
+            ],
+            "uri": "at://did:plc:nnoxec7lo5suwrwz7kbynak6/app.bsky.feed.post/3lbenixk2hc2n",
+            "label": [
+                0.001037185313180089,
+                0.0002861473767552525,
+                0.000985784106887877,
+                0.996944010257721,
+                0.00019920793420169502,
+                0.0001993989571928978,
+                0.00020446404232643545,
+                0.00014384744281414896
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 1,
+                    "utter": "そうなんだ！？みんなしてるイメージあった"
+                },
+                {
+                    "author": "did:plc:hmfxzmj7q3q7nzwok4kgnqbs",
+                    "type": 2,
+                    "utter": "そんなもんだよ～\n\nまあもしやってみたかったら手伝うよ"
+                },
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 3,
+                    "utter": "ぜひぜひ🥹🥹🥹\nルートとか全くわかんないけど🥹"
+                }
+            ],
+            "uri": "at://did:plc:nnoxec7lo5suwrwz7kbynak6/app.bsky.feed.post/3lbeorosjgc2n",
+            "label": [
+                0.001064667827449739,
+                0.0002042491250904277,
+                0.9983514547348022,
+                0.00010470428242115304,
+                5.89395385759417e-05,
+                9.251926530851051e-05,
+                6.138405296951532e-05,
+                6.207280966918916e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 1,
+                    "utter": "ぜひぜひ🥹🥹🥹\nルートとか全くわかんないけど🥹"
+                },
+                {
+                    "author": "did:plc:hmfxzmj7q3q7nzwok4kgnqbs",
+                    "type": 2,
+                    "utter": "今日やる？それとも後日にする？"
+                },
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 3,
+                    "utter": "わ〜！どうしよう！\n今日する？"
+                }
+            ],
+            "uri": "at://did:plc:nnoxec7lo5suwrwz7kbynak6/app.bsky.feed.post/3lbep6h7ndk2n",
+            "label": [
+                0.5508917570114136,
+                0.003626779420301318,
+                0.4343576729297638,
+                0.008176195435225964,
+                0.0004966944106854498,
+                0.0009629402193240821,
+                0.0007100986549630761,
+                0.0007778626750223339
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 1,
+                    "utter": "どうしても好きな人の幸せは願ってしまうんです😭私以外と幸せになるのは悔しいけどしかたなあ"
+                },
+                {
+                    "author": "did:plc:jj5xupgjdumqa6mb4frnk6uj",
+                    "type": 2,
+                    "utter": "こはなちゃんいい子だなぁ( ๑´•ω•)۶ﾖｼﾖｼ\nそういう子はいつかちゃんと報われるいい恋できると思うよ😌👍"
+                },
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 3,
+                    "utter": "ありがとう😭😭🫶\nいつか報われたらいいな🥹🥹"
+                }
+            ],
+            "uri": "at://did:plc:nnoxec7lo5suwrwz7kbynak6/app.bsky.feed.post/3lbq7j4ra6k2k",
+            "label": [
+                0.45295652747154236,
+                0.0022783081512898207,
+                0.5424717664718628,
+                0.0004154408525209874,
+                0.00031551651773042977,
+                0.0005175390397198498,
+                0.00046146209933795035,
+                0.0005834518233314157
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 1,
+                    "utter": "ありがとう😭😭🫶\nいつか報われたらいいな🥹🥹"
+                },
+                {
+                    "author": "did:plc:jj5xupgjdumqa6mb4frnk6uj",
+                    "type": 2,
+                    "utter": "沢山恋するといいよ☺️\nこれから自分を好きだと言ってくれる人が現れるかもしれないし、別の人を好きになるきっかけが起きるかもしれない。\n自分には好きな人がいるからって変に縛りをかけるんじゃなくて、自分の心が動く事は素直に受け止めるようにする事が大事だね😌"
+                },
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 3,
+                    "utter": "ありがとう😭😭\n私の事好きだって言ってくれる人現れるかなぁ…🥹"
+                }
+            ],
+            "uri": "at://did:plc:nnoxec7lo5suwrwz7kbynak6/app.bsky.feed.post/3lbrhbnp6hk2c",
+            "label": [
+                0.02471122331917286,
+                0.0013789664953947067,
+                0.9730188846588135,
+                0.00017365897656418383,
+                9.778439562069252e-05,
+                0.00025426672073081136,
+                0.00019544600218068808,
+                0.00016979170322883874
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 1,
+                    "utter": "ありがとう😭😭\n私の事好きだって言ってくれる人現れるかなぁ…🥹"
+                },
+                {
+                    "author": "did:plc:jj5xupgjdumqa6mb4frnk6uj",
+                    "type": 2,
+                    "utter": "ここまでの話聞いてて僕は素敵な子だなって思ったから、お互いを知るきっかけさえあれば好きになってくれる人も絶対現れると思うよ🤭"
+                },
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 3,
+                    "utter": "ほんとー！🥹\n素敵な子なんて初めて言われた…\nもっと可愛くなって好きになってくれる人現れたらいいな😭"
+                }
+            ],
+            "uri": "at://did:plc:nnoxec7lo5suwrwz7kbynak6/app.bsky.feed.post/3lbroauv2lc2t",
+            "label": [
+                0.8542212247848511,
+                0.0017285874346271157,
+                0.13684241473674774,
+                0.005768280941992998,
+                0.00025129999266937375,
+                0.00025216449284926057,
+                0.00031237886287271976,
+                0.0006236008484847844
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 1,
+                    "utter": "ほんとー！🥹\n素敵な子なんて初めて言われた…\nもっと可愛くなって好きになってくれる人現れたらいいな😭"
+                },
+                {
+                    "author": "did:plc:jj5xupgjdumqa6mb4frnk6uj",
+                    "type": 2,
+                    "utter": "男の子ってなかなか素直に人を褒めないから仕方ないかもね😂\n可愛くなる努力もきっかけを作るためには大事な事だと思うし、もっと可愛くなって相手を後悔させちゃおう😎"
+                },
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 3,
+                    "utter": "えーん🥹相手の人遠距離だから可愛くなってもわかんないけど🥹\n結構本気だったから悔しいです😭"
+                }
+            ],
+            "uri": "at://did:plc:nnoxec7lo5suwrwz7kbynak6/app.bsky.feed.post/3lbrqpl3bgs2t",
+            "label": [
+                0.0002015184290939942,
+                0.9991311430931091,
+                0.00017781666247174144,
+                9.046984632732347e-05,
+                7.030012784525752e-05,
+                9.95923182927072e-05,
+                0.00019450808758847415,
+                3.466121415840462e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 1,
+                    "utter": "えーん🥹相手の人遠距離だから可愛くなってもわかんないけど🥹\n結構本気だったから悔しいです😭"
+                },
+                {
+                    "author": "did:plc:jj5xupgjdumqa6mb4frnk6uj",
+                    "type": 2,
+                    "utter": "同じ学校の人とかではなかったのね😅‪‪\n恋愛は本気で挑んでこそ意味があるし、今は辛くて泣いても愚痴っても良いから乗り越えていこう✊\nそうすることでまた1つ魅力のある女性になってくのだと思うよ😌"
+                },
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 3,
+                    "utter": "同じ学校ではあるんですけどキャンパスが違くて…www\nクリスマス前後まで多分落ち込んでるとき多いかも🥹😭\n話し沢山聞いてくれてありがとう😭"
+                }
+            ],
+            "uri": "at://did:plc:nnoxec7lo5suwrwz7kbynak6/app.bsky.feed.post/3lbrsv4d3tc2y",
+            "label": [
+                0.9996047616004944,
+                8.463800622848794e-05,
+                7.264729356393218e-05,
+                5.872775727766566e-05,
+                1.773041731212288e-05,
+                5.884964411961846e-05,
+                4.778350194101222e-05,
+                5.482095366460271e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 1,
+                    "utter": "こちらこそありがとうございます🫶\n呼びタメ大歓迎ですので是非こちらこそ仲良くしてください🥹🫶"
+                },
+                {
+                    "author": "did:plc:vaiqlan2hyvscvjooe53jdfk",
+                    "type": 2,
+                    "utter": "では早速…\nこちらも呼びタメ大歓迎🙆‍♀️✨\n仲良くしてね〜⸜(*˙꒳˙*)⸝\n\n他ゲームと垢分けしてないけどごめん🙏💦"
+                },
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 3,
+                    "utter": "わー！うれしい！！🫶\n\n全然大丈夫だよ！私も雑多垢だしポケモンめちゃくちゃ楽しいよね🥹🫶"
+                }
+            ],
+            "uri": "at://did:plc:nnoxec7lo5suwrwz7kbynak6/app.bsky.feed.post/3l5oyjras6p2b",
+            "label": [
+                0.9995648264884949,
+                3.997932799393311e-05,
+                0.00016798953583929688,
+                6.696656782878563e-05,
+                3.2090305467136204e-05,
+                3.86598585464526e-05,
+                4.5357934141065925e-05,
+                4.4130774767836556e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 1,
+                    "utter": "わー！うれしい！！🫶\n\n全然大丈夫だよ！私も雑多垢だしポケモンめちゃくちゃ楽しいよね🥹🫶"
+                },
+                {
+                    "author": "did:plc:vaiqlan2hyvscvjooe53jdfk",
+                    "type": 2,
+                    "utter": "良かった( *´꒳`* )\n\nありがとう〜(；^；)！！！\nポケモンめっちゃ楽しい〜✨✨\nこはなちゃん(って呼んで良いのかな？)もポケモンやってるの( '-'* )？"
+                },
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 3,
+                    "utter": "大丈夫だよ！！！\nぐみたちゃん？って呼んで大丈夫？\nやってる！！最新作の追加コンテンツは買ってないけど🥹"
+                }
+            ],
+            "uri": "at://did:plc:nnoxec7lo5suwrwz7kbynak6/app.bsky.feed.post/3l5ozt23iq52a",
+            "label": [
+                0.998569130897522,
+                7.269768684636801e-05,
+                0.0008767493418417871,
+                9.521308675175533e-05,
+                5.410507583292201e-05,
+                0.000108795051346533,
+                8.134738891385496e-05,
+                0.000141860859002918
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 1,
+                    "utter": "大丈夫だよ！！！\nぐみたちゃん？って呼んで大丈夫？\nやってる！！最新作の追加コンテンツは買ってないけど🥹"
+                },
+                {
+                    "author": "did:plc:vaiqlan2hyvscvjooe53jdfk",
+                    "type": 2,
+                    "utter": "ありがとう⸜(*˙꒳˙*)⸝\n良いよー！！ぐみちゃんっていう人もいるからどちらでも(◎'ω')b\n追加コンテンツも買ってやったよ🙆‍♀️\n買わなくても全然楽しめるけどね😊✨"
+                },
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 3,
+                    "utter": "ぐみちゃん！いいね！\nポケモンどの子がすき？"
+                }
+            ],
+            "uri": "at://did:plc:nnoxec7lo5suwrwz7kbynak6/app.bsky.feed.post/3l5qo5wb3as2j",
+            "label": [
+                0.9963823556900024,
+                0.00012385651643853635,
+                0.002958134049549699,
+                0.00025025790091603994,
+                5.739355765399523e-05,
+                5.6561490055173635e-05,
+                7.43531491025351e-05,
+                9.700447844807059e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 1,
+                    "utter": "ぐみちゃん！いいね！\nポケモンどの子がすき？"
+                },
+                {
+                    "author": "did:plc:vaiqlan2hyvscvjooe53jdfk",
+                    "type": 2,
+                    "utter": "こはなちゃんの好きに呼んでね😊✨\nグレイシアが1番好きなの⸜(*˙꒳˙*)⸝"
+                },
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 3,
+                    "utter": "ありがとー！！\nえ！私イーブイだいすき！"
+                }
+            ],
+            "uri": "at://did:plc:nnoxec7lo5suwrwz7kbynak6/app.bsky.feed.post/3l5rg7xvvkf2d",
+            "label": [
+                0.9996297359466553,
+                4.209960752632469e-05,
+                0.00010865488002309576,
+                6.704516999889165e-05,
+                2.8509935873444192e-05,
+                3.712351463036612e-05,
+                4.344974513514899e-05,
+                4.325183545006439e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 1,
+                    "utter": "うっわあったら興奮しますねそれ"
+                },
+                {
+                    "author": "did:plc:k25yag62fgekeisuzkn4z4wd",
+                    "type": 2,
+                    "utter": "やばいえぐいですよね????????\n幼少期は付けてなかった(キャラストに表記がない)っぽいので……めちゃくちゃ気になって気になって……"
+                },
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 3,
+                    "utter": "隠すためにつけてたら全私が大歓喜するんですがどうなんですかね…キャラスト一通り目にはしたんですが表記されてたらすみません😭キャラスト1重すぎてだいすき😭😭"
+                }
+            ],
+            "uri": "at://did:plc:nnoxec7lo5suwrwz7kbynak6/app.bsky.feed.post/3l6d5uliwov2u",
+            "label": [
+                0.999643087387085,
+                4.2347652197349817e-05,
+                0.00010259481496177614,
+                5.31227451574523e-05,
+                2.6108547899639234e-05,
+                4.366116991150193e-05,
+                3.9499802369391546e-05,
+                4.9666286940919235e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 1,
+                    "utter": "隠すためにつけてたら全私が大歓喜するんですがどうなんですかね…キャラスト一通り目にはしたんですが表記されてたらすみません😭キャラスト1重すぎてだいすき😭😭"
+                },
+                {
+                    "author": "did:plc:k25yag62fgekeisuzkn4z4wd",
+                    "type": 2,
+                    "utter": "隠すために付けている、という表記はないので、わたしたちの妄想ということで楽しみましょ🥰👌\n全体的に重くて最高ですよね……そしてまともに教育を受けてないはずなのにあれだけ地頭が良い……最高です……生きる力が強い……"
+                },
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 3,
+                    "utter": "逃げてたら父親が崖から落ちるとか絶対トラウマもんなのに……😆\n私的にはほんとに隠すためにつけててほしい😭😭"
+                }
+            ],
+            "uri": "at://did:plc:nnoxec7lo5suwrwz7kbynak6/app.bsky.feed.post/3l6elyfmjfp2v",
+            "label": [
+                0.0005880630924366415,
+                0.004982654005289078,
+                0.0009501901804469526,
+                0.0009252175223082304,
+                0.0004891206044703722,
+                0.9910873770713806,
+                0.0008014844497665763,
+                0.0001759709557518363
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 1,
+                    "utter": "逃げてたら父親が崖から落ちるとか絶対トラウマもんなのに……😆\n私的にはほんとに隠すためにつけててほしい😭😭"
+                },
+                {
+                    "author": "did:plc:k25yag62fgekeisuzkn4z4wd",
+                    "type": 2,
+                    "utter": "あっれ、めちゃくちゃえぐいですよね……\nわたしも隠すために付けさせられたか、自らつけたかどちらでもいいのでとにかく傷跡のためにつけてて欲しいですね…へへへ……興奮してきました(落ち着け)"
+                },
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 3,
+                    "utter": "いやほんとに興奮しますよね…😏\n隠しなって渡してくれててもとってもいいし自ら仲間たちに見せないためにつけててもいい😭"
+                }
+            ],
+            "uri": "at://did:plc:nnoxec7lo5suwrwz7kbynak6/app.bsky.feed.post/3l6f3kmnvpl2b",
+            "label": [
+                0.9993701577186584,
+                4.759171133628115e-05,
+                0.00032004673266783357,
+                5.594715184997767e-05,
+                3.9954844396561384e-05,
+                5.297106326906942e-05,
+                5.094352309242822e-05,
+                6.23801170149818e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 1,
+                    "utter": "いやほんとに興奮しますよね…😏\n隠しなって渡してくれててもとってもいいし自ら仲間たちに見せないためにつけててもいい😭"
+                },
+                {
+                    "author": "did:plc:k25yag62fgekeisuzkn4z4wd",
+                    "type": 2,
+                    "utter": "他にも、父を間接的にでも56してしまった悔いを隠すという意味でもバンダナしててもいいな…と🥺👌✨\nも〜色んな妄想が膨らみますねッ"
+                },
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 3,
+                    "utter": "眉毛が隠れてて表情が読み取りにくいのも良いですよね😭😭"
+                }
+            ],
+            "uri": "at://did:plc:nnoxec7lo5suwrwz7kbynak6/app.bsky.feed.post/3l6fdevq3qz2l",
+            "label": [
+                0.9996153116226196,
+                4.137948781135492e-05,
+                0.00010043739166576415,
+                5.55368242203258e-05,
+                2.656604556250386e-05,
+                5.465922731673345e-05,
+                4.666084350901656e-05,
+                5.9370577218942344e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 1,
+                    "utter": "わー！よかったです！！\nこはなと申します〜‼️\n呼びタメ大歓迎なので是非仲良くしてください🥹🫶"
+                },
+                {
+                    "author": "did:plc:6borgtxuoxicjeqyqrh6te6z",
+                    "type": 2,
+                    "utter": "ふあこと言います！ゲーム内はふあでやらせてもらってます！\n\n了解です！\nこちらこそよろしくです！タイミング合えばマルチとかやりたいですね！(っ´ω`ｃ)"
+                },
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 3,
+                    "utter": "ふあこさん！よろしくお願いします！\n\nですねー！！！\nマルチいつでも大歓迎です🙂‍↔️"
+                }
+            ],
+            "uri": "at://did:plc:nnoxec7lo5suwrwz7kbynak6/app.bsky.feed.post/3l5tu7asc342b",
+            "label": [
+                0.05477095767855644,
+                0.000577131868340075,
+                0.94309401512146,
+                0.0003638894413597882,
+                0.00031651012250222266,
+                0.00026571479975245893,
+                0.00030055700335651636,
+                0.00031127428519539535
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 1,
+                    "utter": "ふあこさん！よろしくお願いします！\n\nですねー！！！\nマルチいつでも大歓迎です🙂‍↔️"
+                },
+                {
+                    "author": "did:plc:6borgtxuoxicjeqyqrh6te6z",
+                    "type": 2,
+                    "utter": "やったー！\nよかったらフレンドになっていただけると嬉しいです！\n\nUID貼っておきますね！\n893135810"
+                },
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 3,
+                    "utter": "ありがとうございます〜！！\n次ログインする際に申請させていただきます‼️\n名前は❀です！\n端末によっては空白なのでその時はキィニチアイコンなら私なので通してくださると嬉しいです‼️"
+                }
+            ],
+            "uri": "at://did:plc:nnoxec7lo5suwrwz7kbynak6/app.bsky.feed.post/3l5u6zjfdcq2r",
+            "label": [
+                0.5051379799842834,
+                0.0012421907158568501,
+                0.4911997318267822,
+                0.0004848440585192293,
+                0.00042681314516812563,
+                0.0004512264858931303,
+                0.0004831694532185793,
+                0.0005740781198255718
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 1,
+                    "utter": "ありがとうございます〜！！\n次ログインする際に申請させていただきます‼️\n名前は❀です！\n端末によっては空白なのでその時はキィニチアイコンなら私なので通してくださると嬉しいです‼️"
+                },
+                {
+                    "author": "did:plc:6borgtxuoxicjeqyqrh6te6z",
+                    "type": 2,
+                    "utter": "ありがとうございます！\nログインしたら確認してみますね！！"
+                },
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 3,
+                    "utter": "遅くなってすみません！追加させて頂きました！"
+                }
+            ],
+            "uri": "at://did:plc:nnoxec7lo5suwrwz7kbynak6/app.bsky.feed.post/3l5wlfzmlpw2a",
+            "label": [
+                0.9989312291145325,
+                0.00016207742737606168,
+                0.000459138595033437,
+                0.00011320667545078322,
+                3.674469917314127e-05,
+                0.00011193794489372522,
+                9.004645835375413e-05,
+                9.548935486236587e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 1,
+                    "utter": "遅くなってすみません！追加させて頂きました！"
+                },
+                {
+                    "author": "did:plc:6borgtxuoxicjeqyqrh6te6z",
+                    "type": 2,
+                    "utter": "ありがとうございます！\n「❀」見えました！！さっき承認しましたー！！"
+                },
+                {
+                    "author": "did:plc:nnoxec7lo5suwrwz7kbynak6",
+                    "type": 3,
+                    "utter": "ありがとうございます！\nよかったです🫶🫶"
+                }
+            ],
+            "uri": "at://did:plc:nnoxec7lo5suwrwz7kbynak6/app.bsky.feed.post/3l5yybcmyp22b",
+            "label": [
+                0.9996281862258911,
+                4.2109983041882515e-05,
+                0.0001129188240156509,
+                5.485115616465919e-05,
+                2.9269576771184802e-05,
+                4.33738277934026e-05,
+                4.709887070930563e-05,
+                4.2177543946309015e-05
+            ]
+        }
+    ]
+}

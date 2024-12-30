@@ -1,0 +1,514 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 1,
+                    "utter": "戦国なら左三が好きだよ🫶"
+                },
+                {
+                    "author": "did:plc:ah7wv4bhxlqh2vevo3dhhgrx",
+                    "type": 2,
+                    "utter": "左三カップルwww"
+                },
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 3,
+                    "utter": "さこみつは人気カプなんやで🥰"
+                }
+            ],
+            "uri": "at://did:plc:vlygxgxz4v2pjiyaz4nhcvk5/app.bsky.feed.post/3lbw7su4gak2l",
+            "label": [
+                0.002952986629679799,
+                0.00037881877506151795,
+                0.0017654811963438988,
+                0.9941204190254211,
+                0.00020727170340251178,
+                0.00018450288916938007,
+                0.00018048344645649195,
+                0.00021003300207667053
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 1,
+                    "utter": "さこみつは人気カプなんやで🥰"
+                },
+                {
+                    "author": "did:plc:ah7wv4bhxlqh2vevo3dhhgrx",
+                    "type": 2,
+                    "utter": "そうなんだ💡\nさすが腐女子😉👍"
+                },
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 3,
+                    "utter": "腐女子歴なげーからねｗ"
+                }
+            ],
+            "uri": "at://did:plc:vlygxgxz4v2pjiyaz4nhcvk5/app.bsky.feed.post/3lbylosrs3k2z",
+            "label": [
+                0.0043615554459393024,
+                0.001929481397382915,
+                0.00045665507786907256,
+                0.9878808259963989,
+                0.0003166637325193733,
+                0.0023737214505672455,
+                0.002399961929768324,
+                0.0002812664897646755
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 1,
+                    "utter": "腐女子歴なげーからねｗ"
+                },
+                {
+                    "author": "did:plc:ah7wv4bhxlqh2vevo3dhhgrx",
+                    "type": 2,
+                    "utter": "な…なんだと…💧"
+                },
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 3,
+                    "utter": "高校生のときから腐っているのだ👽❤"
+                }
+            ],
+            "uri": "at://did:plc:vlygxgxz4v2pjiyaz4nhcvk5/app.bsky.feed.post/3lbyytzq5h22w",
+            "label": [
+                0.7344313263893127,
+                0.08784496784210205,
+                0.010494643822312355,
+                0.01599237136542797,
+                0.0012826292077079415,
+                0.12968380749225616,
+                0.017112763598561287,
+                0.003157520666718483
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 1,
+                    "utter": "高校生のときから腐っているのだ👽❤"
+                },
+                {
+                    "author": "did:plc:ah7wv4bhxlqh2vevo3dhhgrx",
+                    "type": 2,
+                    "utter": "そりゃなげーわw\nつか20代前半にしか見えぬ姫だから、なげーのかも分からんwww"
+                },
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 3,
+                    "utter": "高校生とか十年単位前よｗｗ😂　めちゃくちゃ昔ｗｗ\n20代前半からの高校生だったら、確かにそこまで長くなく感じるけどねｗｗ"
+                }
+            ],
+            "uri": "at://did:plc:vlygxgxz4v2pjiyaz4nhcvk5/app.bsky.feed.post/3lc2ybp6rlk2r",
+            "label": [
+                0.0008131386712193489,
+                0.00031758082332089543,
+                0.0006596503080800176,
+                0.9974443912506104,
+                0.00016483230865560472,
+                0.00028176108025945723,
+                0.00021049905626568943,
+                0.00010817041038535535
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 1,
+                    "utter": "ありが滝～🏆\nこのミニゲーム地味に得意だった✨"
+                },
+                {
+                    "author": "did:plc:ah7wv4bhxlqh2vevo3dhhgrx",
+                    "type": 2,
+                    "utter": "マシュマロ大好きっ子だから、意外に僕もイケるかも？\n(関係ないやん!!💥✋️)"
+                },
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 3,
+                    "utter": "マシュマロ美味しいよね～🍬\n焼き加減の色合いで判断してボタン押すゲィムだね"
+                }
+            ],
+            "uri": "at://did:plc:vlygxgxz4v2pjiyaz4nhcvk5/app.bsky.feed.post/3lbevyzrnxc2l",
+            "label": [
+                0.9995651841163635,
+                4.3203657696722075e-05,
+                0.00016199742094613612,
+                5.54577745788265e-05,
+                3.323044438729994e-05,
+                4.0810184145811945e-05,
+                4.731293302029371e-05,
+                5.272871203487739e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 1,
+                    "utter": "マシュマロ美味しいよね～🍬\n焼き加減の色合いで判断してボタン押すゲィムだね"
+                },
+                {
+                    "author": "did:plc:ah7wv4bhxlqh2vevo3dhhgrx",
+                    "type": 2,
+                    "utter": "姫はマシュマロ食べれる女子なんだね💡"
+                },
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 3,
+                    "utter": "とあるいちご味のマシュマロがあってね、それがめっちゃ好きなん🍓"
+                }
+            ],
+            "uri": "at://did:plc:vlygxgxz4v2pjiyaz4nhcvk5/app.bsky.feed.post/3lbhapzzuqc2t",
+            "label": [
+                0.9996455907821655,
+                3.712821489898488e-05,
+                8.51596487336792e-05,
+                6.0750331613235176e-05,
+                3.346713856444694e-05,
+                3.816268508671783e-05,
+                4.7653113142587245e-05,
+                5.200732994126156e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 1,
+                    "utter": "とあるいちご味のマシュマロがあってね、それがめっちゃ好きなん🍓"
+                },
+                {
+                    "author": "did:plc:ah7wv4bhxlqh2vevo3dhhgrx",
+                    "type": 2,
+                    "utter": "なんだろう🤔\n\n俺は白いのばかりだから、気になって食べたいぞ〜🤤"
+                },
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 3,
+                    "utter": "ググったら「横井チョコレート いちごミルクマシュマロ」だった！\nチョコレートでコーティングされてるんだけどこれがまた上手いのだ😋"
+                }
+            ],
+            "uri": "at://did:plc:vlygxgxz4v2pjiyaz4nhcvk5/app.bsky.feed.post/3lbjnojllvk2c",
+            "label": [
+                0.9996490478515625,
+                4.084966712980531e-05,
+                7.886168896220624e-05,
+                7.053237641230226e-05,
+                3.0748262361157686e-05,
+                3.683884278871119e-05,
+                4.465124584385194e-05,
+                4.833009006688371e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 1,
+                    "utter": "ググったら「横井チョコレート いちごミルクマシュマロ」だった！\nチョコレートでコーティングされてるんだけどこれがまた上手いのだ😋"
+                },
+                {
+                    "author": "did:plc:ah7wv4bhxlqh2vevo3dhhgrx",
+                    "type": 2,
+                    "utter": "今ググった💡\nAmazonで☆5だよ🤤\n\nめっちゃ食べたいぞ〜🤤"
+                },
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 3,
+                    "utter": "うねしゃんのお口にも合うといいんだけど🤔"
+                }
+            ],
+            "uri": "at://did:plc:vlygxgxz4v2pjiyaz4nhcvk5/app.bsky.feed.post/3lbkjiboht22r",
+            "label": [
+                0.0029984477441757917,
+                0.0004508790443651378,
+                0.9960951209068298,
+                0.00010101258521899581,
+                5.834513285662979e-05,
+                0.0001377696607960388,
+                8.043039997573942e-05,
+                7.811954856151715e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 1,
+                    "utter": "ありが焚き🍸\nわーいお役に立てて嬉しい👍\n手伝ってほしいのはチーサバとチースレ？？だったらもう１個アカウント必要なんだよね🤔\nアイテム増殖バグならササっと協力できるよ🙌"
+                },
+                {
+                    "author": "did:plc:ah7wv4bhxlqh2vevo3dhhgrx",
+                    "type": 2,
+                    "utter": "…だね〜🤔\n緩募かけた方が良いかな？\n\nそう💡\n基本オントロのヤツだけだね😊"
+                },
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 3,
+                    "utter": "ググったらPS3版は各30回勝利なんだけど、PS4版は15回勝利みたいで\nでも、うちはもうトロコンしてるから、別の人と談合するなら談合相手の勝利数にも付き合わなあかんから、実質30回プレイするみたいなもんになるんだけど、どっちがいいかなぁ？？🤔\n\nあとそういやPS3版のバイオ6も持ってるんだった、3版なら同じく2アカウント用意出来るから、うねしゃんだけの勝利数稼ぐだけで終わる感じなんよね\nバイオ6はオントロ3人必要なのがあるのだ"
+                }
+            ],
+            "uri": "at://did:plc:vlygxgxz4v2pjiyaz4nhcvk5/app.bsky.feed.post/3lbevvshh4s2l",
+            "label": [
+                0.0023971926420927048,
+                0.0004075298784300685,
+                0.9966128468513489,
+                0.00010909539560088888,
+                5.097923713037744e-05,
+                0.000262858608039096,
+                7.996804924914613e-05,
+                7.952064333949238e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 1,
+                    "utter": "6、最初のチュートリアルクリアしないとメニュー画面にすらいけないクソ仕様だった…🤪"
+                },
+                {
+                    "author": "did:plc:ah7wv4bhxlqh2vevo3dhhgrx",
+                    "type": 2,
+                    "utter": "マジで！？\nじゃあ、最初はチュートリアルまではソロプするようなんだね🤔"
+                },
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 3,
+                    "utter": "そそそ\n手伝えるとこまでいくにはチュートリアルクリアしなあかん😥"
+                }
+            ],
+            "uri": "at://did:plc:vlygxgxz4v2pjiyaz4nhcvk5/app.bsky.feed.post/3lbjnqspopk2c",
+            "label": [
+                0.09553483873605728,
+                0.027018966153264046,
+                0.8483255505561829,
+                0.008706583641469479,
+                0.0006688405992463231,
+                0.01663239859044552,
+                0.0018191232811659575,
+                0.0012937713181599975
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 1,
+                    "utter": "そそそ\n手伝えるとこまでいくにはチュートリアルクリアしなあかん😥"
+                },
+                {
+                    "author": "did:plc:ah7wv4bhxlqh2vevo3dhhgrx",
+                    "type": 2,
+                    "utter": "でも最初の方だけでしょ？\n最初だけなら無問題👍"
+                },
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 3,
+                    "utter": "ちょっと２アカウント分チュートリアルクリアまでもっていくのめんｄ…（ｒｙ\n気、気が向いたらやっとくよ😓\n\nPS4版ならクリアデータあるから、そっちなら１アカウントだけになるけど手伝えるよ！"
+                }
+            ],
+            "uri": "at://did:plc:vlygxgxz4v2pjiyaz4nhcvk5/app.bsky.feed.post/3lbjydli44k2d",
+            "label": [
+                0.0028331479988992214,
+                0.0005304361693561077,
+                0.996081531047821,
+                0.00011014140181941912,
+                7.784325134707615e-05,
+                0.00015577390149701387,
+                0.0001230776688316837,
+                8.78179125720635e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 1,
+                    "utter": "ステラステージのやつだ😊\nこれはまだやったことないんだよね🤔\n\nや、やだアイドルより美人なんて照れるぜっっ…🫣"
+                },
+                {
+                    "author": "did:plc:ah7wv4bhxlqh2vevo3dhhgrx",
+                    "type": 2,
+                    "utter": "お世辞なし( ｰ`дｰ´)ｷﾘｯ\n以前姫の垢に素顔が出た時どストライクで衝撃を受けた⚾️💨"
+                },
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 3,
+                    "utter": "ひ～ん人を選ぶ顔のパーツしてるから嬉しいぜ😂\n加工アプリのお陰が9割を占めているんだけどね💦"
+                }
+            ],
+            "uri": "at://did:plc:vlygxgxz4v2pjiyaz4nhcvk5/app.bsky.feed.post/3lb52hsvuw226",
+            "label": [
+                0.9996626377105713,
+                5.14028433826752e-05,
+                6.466018385253847e-05,
+                6.005292379995808e-05,
+                2.3826043616281822e-05,
+                5.094788866699673e-05,
+                4.804462878382765e-05,
+                3.8402875361498445e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 1,
+                    "utter": "ひ～ん人を選ぶ顔のパーツしてるから嬉しいぜ😂\n加工アプリのお陰が9割を占めているんだけどね💦"
+                },
+                {
+                    "author": "did:plc:ah7wv4bhxlqh2vevo3dhhgrx",
+                    "type": 2,
+                    "utter": "気持ちが大事だから😊\n姫はいつも配信に見に来てくれるし、ホントに感謝してるんだ🙏ｱﾘｶﾞﾄｳ\n\n加工アプリが9割でも僕にはアイドル😳\n君は完璧で究極のアイドル♪"
+                },
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 3,
+                    "utter": "ベヨネッタはやはり神ゲーだから、人がやってるの観るのもおもろいしね✨\nトロコンしちゃったから、もう自分でやることはないだろうし…(笑)\n\n推しの子ｗｗ"
+                }
+            ],
+            "uri": "at://did:plc:vlygxgxz4v2pjiyaz4nhcvk5/app.bsky.feed.post/3lb5hihjdqc2w",
+            "label": [
+                0.9996442794799805,
+                4.544172770692967e-05,
+                0.00010912907600868493,
+                4.883230940322392e-05,
+                2.5085255401791073e-05,
+                3.7629892176482826e-05,
+                4.3613115849439055e-05,
+                4.5829150622012094e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 1,
+                    "utter": "ベヨネッタはやはり神ゲーだから、人がやってるの観るのもおもろいしね✨\nトロコンしちゃったから、もう自分でやることはないだろうし…(笑)\n\n推しの子ｗｗ"
+                },
+                {
+                    "author": "did:plc:ah7wv4bhxlqh2vevo3dhhgrx",
+                    "type": 2,
+                    "utter": "僕(猫被り)がFAILEDを出す度ひたする見る姫の辛さよ…🥹\n\nトロコンしちゃうとね〜🤔\n僕も気分が萎えちゃうかなぁ💧\n\n終わればBlack Knight Swordを短期集中かBeat Sketch!!\nどうなるか悩む〜🤔"
+                },
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 3,
+                    "utter": "わはは、でもゆーて着実に進んでるからね🙌\n\nやはしトロファーはそうゆう定めよねｗ\n\nBlack Knight Swordググったらグラスホッパーマニファクチャのゲームやん😳これは期待出来るのでは…！？"
+                }
+            ],
+            "uri": "at://did:plc:vlygxgxz4v2pjiyaz4nhcvk5/app.bsky.feed.post/3lb6zx7sdqs2z",
+            "label": [
+                0.023924443870782852,
+                0.0005477519007399678,
+                0.9745880961418152,
+                0.00023559863620903343,
+                0.00012206912651890889,
+                0.00027510826475918293,
+                0.0001317962451139465,
+                0.00017519912216812372
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 1,
+                    "utter": "ありがトゥース🦷🦷🦷\n\nもしOROCHI３やるなら、DLCのトロフィーでオンでやったほうが効率いいの１個あるから、手伝うし声かけて🙌"
+                },
+                {
+                    "author": "did:plc:ah7wv4bhxlqh2vevo3dhhgrx",
+                    "type": 2,
+                    "utter": "うん💡\n耀姫ありがとう👸\n\nその時はDMで直接送っても良いかなぁ〜？😊"
+                },
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 3,
+                    "utter": "もちろん何で送ってくれても大丈夫やで😘"
+                }
+            ],
+            "uri": "at://did:plc:vlygxgxz4v2pjiyaz4nhcvk5/app.bsky.feed.post/3lb3lmmdpv22b",
+            "label": [
+                0.9977360963821411,
+                7.68410463933833e-05,
+                0.0011317917378619313,
+                9.092723485082388e-05,
+                0.00015061126032378525,
+                0.0001898798655020073,
+                0.00032084318809211254,
+                0.00030310553847812116
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 1,
+                    "utter": "もちろん何で送ってくれても大丈夫やで😘"
+                },
+                {
+                    "author": "did:plc:ah7wv4bhxlqh2vevo3dhhgrx",
+                    "type": 2,
+                    "utter": "蟻が10🐜🐜🐜🐜🐜🐜🐜🐜🐜🐜\n\n姫は優しいのぅ…🥹\nはっΣ(ﾟДﾟ)💡\nまさか…これはL.O.V.E…\n\nいかん💦\nキモ猫が出てしまった!! Σ(ﾟДﾟ)💦"
+                },
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 3,
+                    "utter": "うねしゃんには世話んなってるからね😏✨\n𝑩𝑰𝑮 𝑳𝑶𝑽𝑬ってやつか…！"
+                }
+            ],
+            "uri": "at://did:plc:vlygxgxz4v2pjiyaz4nhcvk5/app.bsky.feed.post/3lb52murrqs25",
+            "label": [
+                0.998939573764801,
+                0.0001659459521761164,
+                0.00028591189766302705,
+                0.0001535142946522683,
+                6.212465814314783e-05,
+                6.373639917001128e-05,
+                0.00015044990868773311,
+                0.00017875758931040764
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 1,
+                    "utter": "💖"
+                },
+                {
+                    "author": "did:plc:ah7wv4bhxlqh2vevo3dhhgrx",
+                    "type": 2,
+                    "utter": "嬉し過ぎてドラえもんが実在したら姫に会って跪きたい💍🧎"
+                },
+                {
+                    "author": "did:plc:vlygxgxz4v2pjiyaz4nhcvk5",
+                    "type": 3,
+                    "utter": "さてはどこでもドアを使う気だな🤭"
+                }
+            ],
+            "uri": "at://did:plc:vlygxgxz4v2pjiyaz4nhcvk5/app.bsky.feed.post/3lb6zyg5t2c2z",
+            "label": [
+                0.01167511846870184,
+                0.000394844391848892,
+                0.9859223365783691,
+                0.0004230072954669595,
+                0.00025277401437051594,
+                0.0008562218863517046,
+                0.0003099300665780902,
+                0.000165716337505728
+            ]
+        }
+    ]
+}

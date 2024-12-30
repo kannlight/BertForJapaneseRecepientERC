@@ -1,0 +1,399 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mptiwbcw7w3gh5yaxxbicxti",
+                    "type": 1,
+                    "utter": "master見ながら叩けるのがおかしいのよ笑\nえびもちさんでした\nなんか似てる格好だった笑"
+                },
+                {
+                    "author": "did:plc:gqiy5p4hwibettqwzlav5p5y",
+                    "type": 2,
+                    "utter": "熱風MV見て戻してなかったｗ\nというかMV無い曲だと軽量のままになって、MVある曲が再び選択されるとMV設定になるから戻し忘れるんだよね\n\nそう、格好が似てるから同一の類くんかと思って、「あれ？類くんカット多くない？」ってなってた笑"
+                },
+                {
+                    "author": "did:plc:mptiwbcw7w3gh5yaxxbicxti",
+                    "type": 3,
+                    "utter": "わかります、MVやっちゃったー！！ってなるやつw\nわたしもアップだと、ん？どっちだ？ってなりましたw"
+                }
+            ],
+            "uri": "at://did:plc:mptiwbcw7w3gh5yaxxbicxti/app.bsky.feed.post/3l5fo7ib3h32i",
+            "label": [
+                0.9985790252685547,
+                6.938671140233055e-05,
+                0.0006257155910134315,
+                0.00042928484617732465,
+                3.982764974352904e-05,
+                8.558062108932063e-05,
+                6.837504042778164e-05,
+                0.00010280707647325471
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mptiwbcw7w3gh5yaxxbicxti",
+                    "type": 1,
+                    "utter": "わかります、MVやっちゃったー！！ってなるやつw\nわたしもアップだと、ん？どっちだ？ってなりましたw"
+                },
+                {
+                    "author": "did:plc:gqiy5p4hwibettqwzlav5p5y",
+                    "type": 2,
+                    "utter": "本物はどっちだ的なw\nまあどっちも本物なんだけどw"
+                },
+                {
+                    "author": "did:plc:mptiwbcw7w3gh5yaxxbicxti",
+                    "type": 3,
+                    "utter": "本物www\n5人で同じキャラ鑑賞会だと自分すら見失うw"
+                }
+            ],
+            "uri": "at://did:plc:mptiwbcw7w3gh5yaxxbicxti/app.bsky.feed.post/3l5ft2f4qin2w",
+            "label": [
+                0.7164013385772705,
+                0.0013119808863848448,
+                0.001929351594299078,
+                0.27688169479370117,
+                0.00034148740814998746,
+                0.0018572238041087985,
+                0.0005462837289087474,
+                0.0007307128980755806
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mptiwbcw7w3gh5yaxxbicxti",
+                    "type": 1,
+                    "utter": "本物www\n5人で同じキャラ鑑賞会だと自分すら見失うw"
+                },
+                {
+                    "author": "did:plc:gqiy5p4hwibettqwzlav5p5y",
+                    "type": 2,
+                    "utter": "だよねｗ\n五人同じはむしろ怖いでしょｗ"
+                },
+                {
+                    "author": "did:plc:mptiwbcw7w3gh5yaxxbicxti",
+                    "type": 3,
+                    "utter": "いやもう目の保養すぎて、\n「ノーツ叩いてる場合じゃねえ！！」\nってなるw"
+                }
+            ],
+            "uri": "at://did:plc:mptiwbcw7w3gh5yaxxbicxti/app.bsky.feed.post/3l5gm32ljwc23",
+            "label": [
+                0.9996485710144043,
+                4.773945329361595e-05,
+                7.218355312943459e-05,
+                6.99526208336465e-05,
+                2.2700807676301338e-05,
+                4.772438478539698e-05,
+                4.531201193458401e-05,
+                4.592271216097288e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mptiwbcw7w3gh5yaxxbicxti",
+                    "type": 1,
+                    "utter": "いやもう目の保養すぎて、\n「ノーツ叩いてる場合じゃねえ！！」\nってなるw"
+                },
+                {
+                    "author": "did:plc:gqiy5p4hwibettqwzlav5p5y",
+                    "type": 2,
+                    "utter": "最も満たされたライフゼロ笑"
+                },
+                {
+                    "author": "did:plc:mptiwbcw7w3gh5yaxxbicxti",
+                    "type": 3,
+                    "utter": "ノーツが降らないみんライがあればいい笑\nノーツ邪魔w"
+                }
+            ],
+            "uri": "at://did:plc:mptiwbcw7w3gh5yaxxbicxti/app.bsky.feed.post/3l5h62tc2bt2z",
+            "label": [
+                0.4964405298233032,
+                0.06759560853242874,
+                0.30363404750823975,
+                0.021993445232510567,
+                0.0021179351024329662,
+                0.010299831628799438,
+                0.09474246948957443,
+                0.0031761587597429752
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mptiwbcw7w3gh5yaxxbicxti",
+                    "type": 1,
+                    "utter": "9時くらいから30分ほどなんでもあり部屋立てたら来れるよーって人います？？"
+                },
+                {
+                    "author": "did:plc:eyh2df2t7jgmxjn6til43ubf",
+                    "type": 2,
+                    "utter": "なんでもありというと？"
+                },
+                {
+                    "author": "did:plc:mptiwbcw7w3gh5yaxxbicxti",
+                    "type": 3,
+                    "utter": "真面目に叩いても、easyで選曲してMV鑑賞してもOK、みたいなかんじです\nあと何かあったかな…"
+                }
+            ],
+            "uri": "at://did:plc:mptiwbcw7w3gh5yaxxbicxti/app.bsky.feed.post/3lay6xtaob22u",
+            "label": [
+                0.9946921467781067,
+                0.00034788859193213284,
+                0.003847771091386676,
+                0.00018877287220675498,
+                6.782537820981815e-05,
+                0.00031036511063575745,
+                0.00024384963035117835,
+                0.0003014750254806131
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mptiwbcw7w3gh5yaxxbicxti",
+                    "type": 1,
+                    "utter": "真面目に叩いても、easyで選曲してMV鑑賞してもOK、みたいなかんじです\nあと何かあったかな…"
+                },
+                {
+                    "author": "did:plc:eyh2df2t7jgmxjn6til43ubf",
+                    "type": 2,
+                    "utter": "なるほど！参加してもいいですか？"
+                },
+                {
+                    "author": "did:plc:mptiwbcw7w3gh5yaxxbicxti",
+                    "type": 3,
+                    "utter": "はい、でも直近すぎて集まらないかもしれません\nその時はごめんなさい！"
+                }
+            ],
+            "uri": "at://did:plc:mptiwbcw7w3gh5yaxxbicxti/app.bsky.feed.post/3lay7v5tgks2f",
+            "label": [
+                0.0020209054928272963,
+                0.9761902689933777,
+                0.0008695801952853799,
+                0.000402650999603793,
+                0.00012822223652619869,
+                0.01980152167379856,
+                0.00046530761756002903,
+                0.00012164952204329893
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mptiwbcw7w3gh5yaxxbicxti",
+                    "type": 1,
+                    "utter": "はい、でも直近すぎて集まらないかもしれません\nその時はごめんなさい！"
+                },
+                {
+                    "author": "did:plc:eyh2df2t7jgmxjn6til43ubf",
+                    "type": 2,
+                    "utter": "おっけーです！"
+                },
+                {
+                    "author": "did:plc:mptiwbcw7w3gh5yaxxbicxti",
+                    "type": 3,
+                    "utter": "ところでフレコ交換してましたっけ？\n\n364353550120194056\nです！"
+                }
+            ],
+            "uri": "at://did:plc:mptiwbcw7w3gh5yaxxbicxti/app.bsky.feed.post/3layceaak7k2h",
+            "label": [
+                0.0025609792210161686,
+                0.00025580645888112485,
+                0.996475875377655,
+                0.00025170273147523403,
+                8.615927799837664e-05,
+                0.00016189104644581676,
+                9.605430386727676e-05,
+                0.00011156487016705796
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mptiwbcw7w3gh5yaxxbicxti",
+                    "type": 1,
+                    "utter": "ところでフレコ交換してましたっけ？\n\n364353550120194056\nです！"
+                },
+                {
+                    "author": "did:plc:eyh2df2t7jgmxjn6til43ubf",
+                    "type": 2,
+                    "utter": "りょーかいです"
+                },
+                {
+                    "author": "did:plc:eyh2df2t7jgmxjn6til43ubf",
+                    "type": 2,
+                    "utter": "申請しました、さしうはひです"
+                },
+                {
+                    "author": "did:plc:mptiwbcw7w3gh5yaxxbicxti",
+                    "type": 3,
+                    "utter": "あれ？\nちゅぱちゅぱさんではない？"
+                }
+            ],
+            "uri": "at://did:plc:mptiwbcw7w3gh5yaxxbicxti/app.bsky.feed.post/3laydanoums2r",
+            "label": [
+                0.0017869999865069985,
+                0.0002771636063698679,
+                0.0019322390435263515,
+                0.995189905166626,
+                0.00022116552281659096,
+                0.0002125180180883035,
+                0.00019159182556904852,
+                0.00018855150847230107
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mptiwbcw7w3gh5yaxxbicxti",
+                    "type": 1,
+                    "utter": "帰ってきました\n1人でボジョレー1瓶の半分くらい飲みました🍷\nなんか追加で飲むか？って気分になってる"
+                },
+                {
+                    "author": "did:plc:gxoucmstc4loxpbxb467jo2m",
+                    "type": 2,
+                    "utter": "馬鹿舌なのでワインの味わからないんですけどやっぱりボジョレーは違います？"
+                },
+                {
+                    "author": "did:plc:mptiwbcw7w3gh5yaxxbicxti",
+                    "type": 3,
+                    "utter": "ボジョレーはその年の出来を見るための早出しなので、美味しいって言うよりまだ若いって感じで、どちらかと言うとお祭りだそうです（完全な受け売り）\nちょっと年数経った方が美味しい気がします♪"
+                }
+            ],
+            "uri": "at://did:plc:mptiwbcw7w3gh5yaxxbicxti/app.bsky.feed.post/3lbl2xqin6c2t",
+            "label": [
+                0.02179585210978985,
+                0.0005311964778229594,
+                0.9767557382583618,
+                0.00019681447884067893,
+                0.00012042323214700446,
+                0.0002528823388274759,
+                0.00015823388821445405,
+                0.0001888098631752655
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mptiwbcw7w3gh5yaxxbicxti",
+                    "type": 1,
+                    "utter": "ボジョレーはその年の出来を見るための早出しなので、美味しいって言うよりまだ若いって感じで、どちらかと言うとお祭りだそうです（完全な受け売り）\nちょっと年数経った方が美味しい気がします♪"
+                },
+                {
+                    "author": "did:plc:gxoucmstc4loxpbxb467jo2m",
+                    "type": 2,
+                    "utter": "はーーーそうなんやね\n飲み比べた時高いワインより安物の方が美味しく感じたからワインはほんとにわからん！"
+                },
+                {
+                    "author": "did:plc:mptiwbcw7w3gh5yaxxbicxti",
+                    "type": 3,
+                    "utter": "赤ワインまっず！！から、ちゃんと飲んだら美味しいんだ！になったばかりだから、もっとわからん！！笑"
+                }
+            ],
+            "uri": "at://did:plc:mptiwbcw7w3gh5yaxxbicxti/app.bsky.feed.post/3lbnkluwaok24",
+            "label": [
+                0.9026083946228027,
+                0.022907020524144173,
+                0.02343069761991501,
+                0.014356526546180248,
+                0.0007060880889184773,
+                0.030618565157055855,
+                0.002697266871109605,
+                0.002675318391993642
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mptiwbcw7w3gh5yaxxbicxti",
+                    "type": 1,
+                    "utter": "赤ワインまっず！！から、ちゃんと飲んだら美味しいんだ！になったばかりだから、もっとわからん！！笑"
+                },
+                {
+                    "author": "did:plc:gxoucmstc4loxpbxb467jo2m",
+                    "type": 2,
+                    "utter": "赤ワイン難しいよね…w\n格付けチェックみたいなことやったら恥晒せるわw"
+                },
+                {
+                    "author": "did:plc:mptiwbcw7w3gh5yaxxbicxti",
+                    "type": 3,
+                    "utter": "あーもう晒す自信しかない！伊東さんになるwww"
+                }
+            ],
+            "uri": "at://did:plc:mptiwbcw7w3gh5yaxxbicxti/app.bsky.feed.post/3lbp6wczntc2r",
+            "label": [
+                0.153617262840271,
+                0.0008780969073995948,
+                0.8420329689979553,
+                0.0007636811933480203,
+                0.0004044771194458008,
+                0.0012137513840571046,
+                0.00040772141073830426,
+                0.0006819559494033456
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mptiwbcw7w3gh5yaxxbicxti",
+                    "type": 1,
+                    "utter": "あーもう晒す自信しかない！伊東さんになるwww"
+                },
+                {
+                    "author": "did:plc:gxoucmstc4loxpbxb467jo2m",
+                    "type": 2,
+                    "utter": "でもアレ実際にやったら何が対象でも難しそうだよね？w\n特に楽器、演奏系はみてて全く分かりません…"
+                },
+                {
+                    "author": "did:plc:mptiwbcw7w3gh5yaxxbicxti",
+                    "type": 3,
+                    "utter": "牛肉とかも絶対外す自信あるwww🤣\nオーケストラは聴きに行くことがあるからわかるかも？"
+                }
+            ],
+            "uri": "at://did:plc:mptiwbcw7w3gh5yaxxbicxti/app.bsky.feed.post/3lbpyb3egsk2h",
+            "label": [
+                0.016042083501815796,
+                0.00038915645563974977,
+                0.9817919135093689,
+                0.0004344515909906477,
+                0.0002505360171198845,
+                0.0004920141655020416,
+                0.00020930574100930244,
+                0.0003906151105184108
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mptiwbcw7w3gh5yaxxbicxti",
+                    "type": 1,
+                    "utter": "牛肉とかも絶対外す自信あるwww🤣\nオーケストラは聴きに行くことがあるからわかるかも？"
+                },
+                {
+                    "author": "did:plc:gxoucmstc4loxpbxb467jo2m",
+                    "type": 2,
+                    "utter": "食べ物系も料理人がうまく調理してるからわからんねw"
+                },
+                {
+                    "author": "did:plc:mptiwbcw7w3gh5yaxxbicxti",
+                    "type": 3,
+                    "utter": "むりだねー浜田炒飯も無理そうw"
+                }
+            ],
+            "uri": "at://did:plc:mptiwbcw7w3gh5yaxxbicxti/app.bsky.feed.post/3lbrapjg7es22",
+            "label": [
+                0.00036533980164676905,
+                0.9983317255973816,
+                0.00013525213580578566,
+                0.00032088597072288394,
+                4.8378984502051026e-05,
+                0.0004895195015706122,
+                0.0002832802711054683,
+                2.572514677012805e-05
+            ]
+        }
+    ]
+}

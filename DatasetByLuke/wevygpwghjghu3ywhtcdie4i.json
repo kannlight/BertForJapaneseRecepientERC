@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wevygpwghjghu3ywhtcdie4i",
+                    "type": 1,
+                    "utter": "あそぶー？"
+                },
+                {
+                    "author": "did:plc:yt6krebmd4baxgc72cv3im4t",
+                    "type": 2,
+                    "utter": "いいよ〜！何日の何時頃がよろしいかしら"
+                },
+                {
+                    "author": "did:plc:wevygpwghjghu3ywhtcdie4i",
+                    "type": 3,
+                    "utter": "日曜は丸1日どこでもできる"
+                }
+            ],
+            "uri": "at://did:plc:wevygpwghjghu3ywhtcdie4i/app.bsky.feed.post/3lc3kwv2khs2l",
+            "label": [
+                0.9991484880447388,
+                6.557901360793039e-05,
+                0.0005281455814838409,
+                6.633583689108491e-05,
+                3.589775224099867e-05,
+                4.297234409023076e-05,
+                5.080027403892018e-05,
+                6.169138214318082e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wevygpwghjghu3ywhtcdie4i",
+                    "type": 1,
+                    "utter": "日曜は丸1日どこでもできる"
+                },
+                {
+                    "author": "did:plc:yt6krebmd4baxgc72cv3im4t",
+                    "type": 2,
+                    "utter": "午前中と夜なら空いてるわよ\nどっちがいい？！？"
+                },
+                {
+                    "author": "did:plc:wevygpwghjghu3ywhtcdie4i",
+                    "type": 3,
+                    "utter": "せっかくやるなら長く出来る方を取りたいな"
+                }
+            ],
+            "uri": "at://did:plc:wevygpwghjghu3ywhtcdie4i/app.bsky.feed.post/3lc3ogmlxvc2l",
+            "label": [
+                0.0004002659989055246,
+                0.00014970982738304883,
+                0.9990988969802856,
+                8.21386493043974e-05,
+                5.861133467988111e-05,
+                9.028876957017928e-05,
+                5.6697750551393256e-05,
+                6.33452000329271e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wevygpwghjghu3ywhtcdie4i",
+                    "type": 1,
+                    "utter": "せっかくやるなら長く出来る方を取りたいな"
+                },
+                {
+                    "author": "did:plc:yt6krebmd4baxgc72cv3im4t",
+                    "type": 2,
+                    "utter": "えじゃあ朝かな"
+                },
+                {
+                    "author": "did:plc:wevygpwghjghu3ywhtcdie4i",
+                    "type": 3,
+                    "utter": "起きれるか？"
+                }
+            ],
+            "uri": "at://did:plc:wevygpwghjghu3ywhtcdie4i/app.bsky.feed.post/3lc3q2ek6g22l",
+            "label": [
+                0.01350494846701622,
+                0.005362828262150288,
+                0.24058464169502258,
+                0.004050326067954302,
+                0.0006455183029174805,
+                0.7342497706413269,
+                0.0008416604832746089,
+                0.0007602989207953215
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wevygpwghjghu3ywhtcdie4i",
+                    "type": 1,
+                    "utter": "起きれるか？"
+                },
+                {
+                    "author": "did:plc:yt6krebmd4baxgc72cv3im4t",
+                    "type": 2,
+                    "utter": "何時ぐらい？？"
+                },
+                {
+                    "author": "did:plc:wevygpwghjghu3ywhtcdie4i",
+                    "type": 3,
+                    "utter": "自分は朝起きるのだいぶ早いから8時とか9時でも全然OK\n起きる時間にあわせんで"
+                }
+            ],
+            "uri": "at://did:plc:wevygpwghjghu3ywhtcdie4i/app.bsky.feed.post/3lc3qgbnobk2l",
+            "label": [
+                0.9056347012519836,
+                0.00036451005144044757,
+                0.08509661257266998,
+                0.0009904252365231514,
+                0.0015199886402115226,
+                0.0008998256525956094,
+                0.0023991677444428205,
+                0.0030948237981647253
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wevygpwghjghu3ywhtcdie4i",
+                    "type": 1,
+                    "utter": "え、すげぇぇぇええ！！！"
+                },
+                {
+                    "author": "did:plc:bgjtegack6vhkuzbvbzpfn2f",
+                    "type": 2,
+                    "utter": "凄いのよおおこれが‼️🥳🥳\n意外と生地もしっかりしてて普通に暖かそう！\n冬のコスプレに最適👏👏☺️\nただこれ地面着くほど長いからヒール必須なのがつらみ…👠🥹"
+                },
+                {
+                    "author": "did:plc:wevygpwghjghu3ywhtcdie4i",
+                    "type": 3,
+                    "utter": "誰のコスか知らんけど執行官のコートあれ着てみたいかも笑笑\nタル辺りならなれないかな()"
+                }
+            ],
+            "uri": "at://did:plc:wevygpwghjghu3ywhtcdie4i/app.bsky.feed.post/3lbmfjwkmsk2x",
+            "label": [
+                0.0006551872356794775,
+                0.0001903337106341496,
+                0.9987903237342834,
+                0.00010862774797715247,
+                4.727102714241482e-05,
+                0.00010037574975285679,
+                5.811153823742643e-05,
+                4.989235821994953e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wevygpwghjghu3ywhtcdie4i",
+                    "type": 1,
+                    "utter": "誰のコスか知らんけど執行官のコートあれ着てみたいかも笑笑\nタル辺りならなれないかな()"
+                },
+                {
+                    "author": "did:plc:bgjtegack6vhkuzbvbzpfn2f",
+                    "type": 2,
+                    "utter": "たるちゃん！！Hiroさんならきっといけます‼️(お会いしたことないけど笑)\nコートめちゃくちゃかっこいいのでぜひ……🥹執行官全員そろったら絶対かっこいい✨️"
+                },
+                {
+                    "author": "did:plc:wevygpwghjghu3ywhtcdie4i",
+                    "type": 3,
+                    "utter": "関東いるうちになんか一緒にやりたいよ〜！！🥹‪\nタルやるから召使やってくれ〜笑笑\n出来そうなのがタルか隊長くらい()\n隊長は装備が難しそう💦💦"
+                }
+            ],
+            "uri": "at://did:plc:wevygpwghjghu3ywhtcdie4i/app.bsky.feed.post/3lbmp3ovlsc2x",
+            "label": [
+                0.00038459411007352173,
+                0.00021379036479629576,
+                0.9990507960319519,
+                9.395923552801833e-05,
+                5.85393572691828e-05,
+                8.256207365775481e-05,
+                6.744273559888825e-05,
+                4.839942994294688e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wevygpwghjghu3ywhtcdie4i",
+                    "type": 1,
+                    "utter": "関東いるうちになんか一緒にやりたいよ〜！！🥹‪\nタルやるから召使やってくれ〜笑笑\n出来そうなのがタルか隊長くらい()\n隊長は装備が難しそう💦💦"
+                },
+                {
+                    "author": "did:plc:bgjtegack6vhkuzbvbzpfn2f",
+                    "type": 2,
+                    "utter": "おー！！ぜひやりましょ〜！\n召使は知り合いにやってる人いるからその人誘える！\n私はスカラマやるし、たるちゃんは友達にいるけど、Hiroさん隊長やるならだいぶ集まる‼️\n富者とか少女ちゃんとかやってる人いないかな……？🤔雄鶏はさすがに厳しいと思うけど……。\n野良で探してみるのはアリ！( *・ω・)ノ"
+                },
+                {
+                    "author": "did:plc:wevygpwghjghu3ywhtcdie4i",
+                    "type": 3,
+                    "utter": "隊長って装備難そうなんよな……\nどうしたらええやろか\n人見知りしそうだけどなんか楽しそう笑"
+                }
+            ],
+            "uri": "at://did:plc:wevygpwghjghu3ywhtcdie4i/app.bsky.feed.post/3lbmr5u4i4k2x",
+            "label": [
+                0.8950974345207214,
+                0.0009838322876021266,
+                0.09294804185628891,
+                0.004512358922511339,
+                0.00022302111028693616,
+                0.0046140169724822044,
+                0.0004239512491039932,
+                0.0011973619693890214
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wevygpwghjghu3ywhtcdie4i",
+                    "type": 1,
+                    "utter": "隊長って装備難そうなんよな……\nどうしたらええやろか\n人見知りしそうだけどなんか楽しそう笑"
+                },
+                {
+                    "author": "did:plc:bgjtegack6vhkuzbvbzpfn2f",
+                    "type": 2,
+                    "utter": "たしかに装備は難しそう笑\nあとやっぱりけっこうお値段はするやね……🤔\n初めてならなるべくお値段は控えめのものがいいかも。"
+                },
+                {
+                    "author": "did:plc:wevygpwghjghu3ywhtcdie4i",
+                    "type": 3,
+                    "utter": "なんか普通なキャラので初めてをやりたいかな〜\n服とウィッグでなんとかなるやつが望ましい笑"
+                }
+            ],
+            "uri": "at://did:plc:wevygpwghjghu3ywhtcdie4i/app.bsky.feed.post/3lbmwakhf3k2x",
+            "label": [
+                0.0008012623875401914,
+                0.00016926793614402413,
+                0.998649537563324,
+                9.658964700065553e-05,
+                5.870286622666754e-05,
+                0.00010305838077329099,
+                6.202186341397464e-05,
+                5.961337228654884e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wevygpwghjghu3ywhtcdie4i",
+                    "type": 1,
+                    "utter": "実家じゃないうちに原神長身男キャラのコスプレしてみたい笑\n実家はハードル高すぎる"
+                },
+                {
+                    "author": "did:plc:yt6krebmd4baxgc72cv3im4t",
+                    "type": 2,
+                    "utter": "やるとしたら誰やるのー❓"
+                },
+                {
+                    "author": "did:plc:wevygpwghjghu3ywhtcdie4i",
+                    "type": 3,
+                    "utter": "顔は女っぽいって言われるからショタキャラも出来るけど、如何せん体デカすぎるから長身キャラかな？\nまぁ衣装とか揃えな何も始まらんが"
+                }
+            ],
+            "uri": "at://did:plc:wevygpwghjghu3ywhtcdie4i/app.bsky.feed.post/3lbmrtihabc2x",
+            "label": [
+                0.0008942861459217966,
+                0.00018240469216834754,
+                0.9985321760177612,
+                0.00010975256009260193,
+                5.0341197493253276e-05,
+                0.00011938094394281507,
+                5.3516221669269726e-05,
+                5.8092082326766104e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wevygpwghjghu3ywhtcdie4i",
+                    "type": 1,
+                    "utter": "顔は女っぽいって言われるからショタキャラも出来るけど、如何せん体デカすぎるから長身キャラかな？\nまぁ衣装とか揃えな何も始まらんが"
+                },
+                {
+                    "author": "did:plc:yt6krebmd4baxgc72cv3im4t",
+                    "type": 2,
+                    "utter": "おメイク次第でどうにでもなるから大丈夫よ\n長身キャラができる背の高さがうらやまだよ😫😫"
+                },
+                {
+                    "author": "did:plc:wevygpwghjghu3ywhtcdie4i",
+                    "type": 3,
+                    "utter": "男の人と女の人で背が違うからそこはしょうがないべ\nえむちゃんもいずれ大きくなるさ\nメイクの心得一切ない……💦💦"
+                }
+            ],
+            "uri": "at://did:plc:wevygpwghjghu3ywhtcdie4i/app.bsky.feed.post/3lbmuncdlnc2x",
+            "label": [
+                0.0010496897157281637,
+                0.9973235726356506,
+                0.000327128276694566,
+                0.00020805123494938016,
+                3.747818118426949e-05,
+                0.0007886991952545941,
+                0.00022836016432847828,
+                3.702939648064785e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wevygpwghjghu3ywhtcdie4i",
+                    "type": 1,
+                    "utter": "男の人と女の人で背が違うからそこはしょうがないべ\nえむちゃんもいずれ大きくなるさ\nメイクの心得一切ない……💦💦"
+                },
+                {
+                    "author": "did:plc:yt6krebmd4baxgc72cv3im4t",
+                    "type": 2,
+                    "utter": "6年間もう身長が止まってる、✊🏻\nメイクは練習しよ✊🏻✊🏻"
+                },
+                {
+                    "author": "did:plc:wevygpwghjghu3ywhtcdie4i",
+                    "type": 3,
+                    "utter": "10歳から伸びてない……？\nメイク分からないから女の子の友達に教えを乞うわ💪\n男は無骨な硬派なやつしか周りにおらん………💦💦"
+                }
+            ],
+            "uri": "at://did:plc:wevygpwghjghu3ywhtcdie4i/app.bsky.feed.post/3lbocbl5w3s2n",
+            "label": [
+                0.0003558899334166199,
+                0.9985289573669434,
+                0.00024668590049259365,
+                0.00035311130341142416,
+                4.38393180957064e-05,
+                0.0003149025433231145,
+                0.00013262324500828981,
+                2.4183049390558153e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wevygpwghjghu3ywhtcdie4i",
+                    "type": 1,
+                    "utter": "10歳から伸びてない……？\nメイク分からないから女の子の友達に教えを乞うわ💪\n男は無骨な硬派なやつしか周りにおらん………💦💦"
+                },
+                {
+                    "author": "did:plc:yt6krebmd4baxgc72cv3im4t",
+                    "type": 2,
+                    "utter": "なぞに高校と中学の間の謎の3年間を作ってしまったww\n6年生から変わってないのよ😭\n周りに有識者いるのありがたすぎるな👏🏻✨️"
+                },
+                {
+                    "author": "did:plc:wevygpwghjghu3ywhtcdie4i",
+                    "type": 3,
+                    "utter": "今確か16とか言ってたよね？小6は何歳だか知らんが…もしかして結構小さい人？(´；ω；｀)\n女の子はみんなそういうの詳しいんじゃない？大学生にもなれば\n周りの男はメイクしてる奴なんて1人もおらんから聞けんから仕方ないさ💦"
+                }
+            ],
+            "uri": "at://did:plc:wevygpwghjghu3ywhtcdie4i/app.bsky.feed.post/3lbod2ea2ok2n",
+            "label": [
+                0.0059197647497057915,
+                0.04860856384038925,
+                0.003417713101953268,
+                0.9023284316062927,
+                0.0005873091286048293,
+                0.03541908785700798,
+                0.0030717323534190655,
+                0.0006473626708611846
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wevygpwghjghu3ywhtcdie4i",
+                    "type": 1,
+                    "utter": "今確か16とか言ってたよね？小6は何歳だか知らんが…もしかして結構小さい人？(´；ω；｀)\n女の子はみんなそういうの詳しいんじゃない？大学生にもなれば\n周りの男はメイクしてる奴なんて1人もおらんから聞けんから仕方ないさ💦"
+                },
+                {
+                    "author": "did:plc:yt6krebmd4baxgc72cv3im4t",
+                    "type": 2,
+                    "utter": "そっか！大学生なのね！\n男の子もこの頃自分磨き頑張ってる人多い印象なんだけどな、\n同クラで美顔器買ってる人いて感心した！\nまあ背は伸びたとしても誤差だからなあ😫"
+                },
+                {
+                    "author": "did:plc:wevygpwghjghu3ywhtcdie4i",
+                    "type": 3,
+                    "utter": "うちの大学はあんまそういうのガチってる男は多くはないかな〜\n女の子はちょっと小さいくらいがいちばん可愛いから問題ない︎︎👍\n男だと人権ないとかいう辛辣極まりない罵詈雑言が投げられることがたまにあるらしいけど()"
+                }
+            ],
+            "uri": "at://did:plc:wevygpwghjghu3ywhtcdie4i/app.bsky.feed.post/3lbofpdy6ys2n",
+            "label": [
+                0.9460589289665222,
+                0.002450379775837064,
+                0.00997084565460682,
+                0.000935835822019726,
+                0.0012041619047522545,
+                0.012945509515702724,
+                0.02085595577955246,
+                0.005578427109867334
+            ]
+        }
+    ]
+}
