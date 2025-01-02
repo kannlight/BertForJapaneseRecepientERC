@@ -29,7 +29,7 @@ MAX_LENGTH = 512
 def load_data():
     # データセットの対話データをトークン化して返す
     dataset_for_loader = []
-    for file in tqdm(os.listdir('dataset')):
+    for file in tqdm(os.listdir('DatasetByLuke')):
         # データセットから対話データを読み込む
         data = {}
         with open('DatasetByLuke/'+file, 'r', encoding='utf-8') as f:
@@ -134,7 +134,8 @@ def main():
     )
     # 学習方法の指定
     trainer = pl.Trainer(
-        gpus = 1, # 学習に使うgpuの個数
+        accelerator = 'gpu', # 学習にgpuを使用
+        devices = 1, # gpuの個数
         max_epochs = 10, # 学習のエポック数
         callbacks = [checkpoint]
     )
