@@ -56,7 +56,7 @@ def load_data():
                     padding="max_length",
                 )
                 # ラベル付け
-                token['label'] = talk['label']
+                token['labels'] = talk['label']
                 # バリューをテンソル化して追加
                 token = { k: torch.tensor(v) for k, v in token.items() }
                 dataset_for_loader.append(token)
@@ -73,31 +73,31 @@ class BertForJapaneseRecepientERC(pl.LightningModule):
         # 事前学習モデルのロード
         self.model = BertForSequenceClassification.from_pretrained(model_name, num_labels=num_labels)
 
-        # 学習データを受け取って損失を返すメソッド
-        def training_step(self, batch):
-            output = self.model(**batch)
-            loss = output.loss
-            self.log('train_loss', loss)
-            return loss
-        
-        # 検証データを受け取って損失を返すメソッド
-        def validation_step(self, batch):
-            output = self.model(**batch)
-            val_loss = output.loss
-            self.log('val_loss', val_loss)
+    # 学習データを受け取って損失を返すメソッド
+    def training_step(self, batch):
+        output = self.model(**batch)
+        loss = output.loss
+        self.log('train_loss', loss)
+        return loss
+    
+    # 検証データを受け取って損失を返すメソッド
+    def validation_step(self, batch):
+        output = self.model(**batch)
+        val_loss = output.loss
+        self.log('val_loss', val_loss)
 
-        # テストデータを受け取って評価指標を計算
-        def test_step(self, batch):
-            # モデルが出力した分類スコアから、最大値となるクラスを取得
-            output =self.model(**batch)
-            predicted_labels = output.logits.argmax(-1)
-            # テストデータのラベル
-            true_labels = batch.pop('labels')
-            # precision, recall, f1, データ数 をクラス毎、ミクロ、マクロ、加重平均で算出
-            self.log('test_report', classification_report(true_labels, predicted_labels, target_names=CATEGORIES))
+    # テストデータを受け取って評価指標を計算
+    def test_step(self, batch):
+        # モデルが出力した分類スコアから、最大値となるクラスを取得
+        output =self.model(**batch)
+        predicted_labels = output.logits.argmax(-1)
+        # テストデータのラベル
+        true_labels = batch.pop('labels')
+        # precision, recall, f1, データ数 をクラス毎、ミクロ、マクロ、加重平均で算出
+        self.log('test_report', classification_report(true_labels, predicted_labels, target_names=CATEGORIES))
 
-        def configure_optimizers(self):
-            return torch.optim.Adam(self.parameters(), lr=self.hparams.lr)
+    def configure_optimizers(self):
+        return torch.optim.Adam(self.parameters(), lr=self.hparams.lr)
 
 
 
