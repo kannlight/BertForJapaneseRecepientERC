@@ -1,5 +1,5 @@
 import random
-from tqdm import tqdm
+# from tqdm import tqdm
 import json
 import os
 import torch
@@ -8,7 +8,7 @@ from transformers import BertJapaneseTokenizer, BertForSequenceClassification
 import pytorch_lightning as pl
 from sklearn.metrics import classification_report
 
-MODEL_NAME = 'cl-tohoku/bert-base-japanese-whole-word-masking'
+MODEL_NAME = 'tohoku-nlp/bert-base-japanese-whole-word-masking'
 tokenizer =BertJapaneseTokenizer.from_pretrained(MODEL_NAME)
 # pretrained_bert = BertForSequenceClassification.from_pretrained(MODEL_NAME, num_labels=8)
 # pretrained_bert = pretrained_bert.cuda()
@@ -28,7 +28,7 @@ MAX_LENGTH = 512
 def load_data():
     # データセットの対話データをトークン化して返す
     dataset_for_loader = []
-    for file in tqdm(os.listdir('DatasetByLuke')):
+    for file in os.listdir('DatasetByLuke'):
         # データセットから対話データを読み込む
         data = {}
         with open('DatasetByLuke/'+file, 'r', encoding='utf-8') as f:
