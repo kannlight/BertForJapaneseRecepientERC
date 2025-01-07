@@ -23,6 +23,17 @@ CATEGORIES = [
 ]
 MAX_LENGTH = 512
 
+class_frequency = [
+    4450.92560337,
+     1259.4576316,
+     2719.97370069,
+     1071.27600888,
+     96.64192807,
+     686.30217162,
+     237.07288376,
+     12.35007948
+]
+
 def tokenize_data(filename):
     # データセットの対話データをトークン化して返す関数
     dataset_for_loader = []
@@ -72,7 +83,9 @@ class BertForJapaneseRecepientERC(pl.LightningModule):
     # 学習データを受け取って損失を返すメソッド
     def training_step(self, batch):
         output = self.model(**batch)
-        loss = output.loss
+        # 損失関数にCEではなくICFを用いる
+        loss_func = torch.nn.CrossEntropyLoss(weight = 1 / torch.tensor(class_frequency))
+        loss = loss_func(output.logits, batch['labels'])
         self.log('train_loss', loss)
         return loss
     
@@ -99,11 +112,9 @@ def main():
     # データセットから対話データをトークン化
     dataset_train = tokenize_data('DatasetTrain.json')
     dataset_val = tokenize_data('DatasetVal.json')
-    # dataset_test = tokenize_data('DatasetTest.json')
     # データローダ作成
     dataloader_train = DataLoader(dataset_train, batch_size=32, shuffle=True)
     dataloader_val = DataLoader(dataset_val, batch_size=256)
-    # dataloader_test = DataLoader(dataset_test, batch_size=256)
 
     # ファインチューニングの設定
     checkpoint = pl.callbacks.ModelCheckpoint(

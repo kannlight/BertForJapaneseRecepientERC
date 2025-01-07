@@ -25,12 +25,12 @@ utter1 = '助かる！'
 utter2 = '僕も助かる〜！\n心愛さんが眠るまで話そ'
 
 token=tokenizer(
-                    utter1, utter2,
-                    truncation=True,
-                    max_length=MAX_LENGTH,
-                    padding="max_length",
-                    return_tensors="pt"
-                )
+    utter1, utter2,
+    truncation=True,
+    max_length=MAX_LENGTH,
+    padding="max_length",
+    return_tensors="pt"
+)
 
 output = model(**token)
 print(output.logits)
