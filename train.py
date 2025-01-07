@@ -10,8 +10,6 @@ from sklearn.metrics import classification_report
 
 MODEL_NAME = 'tohoku-nlp/bert-base-japanese-whole-word-masking'
 tokenizer =BertJapaneseTokenizer.from_pretrained(MODEL_NAME)
-# pretrained_bert = BertForSequenceClassification.from_pretrained(MODEL_NAME, num_labels=8)
-# pretrained_bert = pretrained_bert.cuda()
 
 CATEGORIES = [
     'joy',
@@ -86,11 +84,11 @@ class BertForJapaneseRecepientERC(pl.LightningModule):
 
     # # テストデータを受け取って評価指標を計算
     # def test_step(self, batch):
+    #     # テストデータのラベル
+    #     true_labels = batch.pop('labels')
     #     # モデルが出力した分類スコアから、最大値となるクラスを取得
     #     output =self.model(**batch)
     #     predicted_labels = output.logits.argmax(-1)
-    #     # テストデータのラベル
-    #     true_labels = batch.pop('labels')
     #     # precision, recall, f1, データ数 をクラス毎、ミクロ、マクロ、加重平均で算出
     #     self.log('test_report', classification_report(true_labels, predicted_labels, target_names=CATEGORIES))
 
@@ -101,11 +99,11 @@ def main():
     # データセットから対話データをトークン化
     dataset_train = tokenize_data('DatasetTrain.json')
     dataset_val = tokenize_data('DatasetVal.json')
-    dataset_test = tokenize_data('DatasetTest.json')
+    # dataset_test = tokenize_data('DatasetTest.json')
     # データローダ作成
     dataloader_train = DataLoader(dataset_train, batch_size=32, shuffle=True)
     dataloader_val = DataLoader(dataset_val, batch_size=256)
-    dataloader_test = DataLoader(dataset_test, batch_size=256)
+    # dataloader_test = DataLoader(dataset_test, batch_size=256)
 
     # ファインチューニングの設定
     checkpoint = pl.callbacks.ModelCheckpoint(
