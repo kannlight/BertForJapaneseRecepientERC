@@ -117,7 +117,7 @@ def main():
     dataset_val = tokenize_data('DatasetVal.json')
     # データローダ作成
     dataloader_train = DataLoader(dataset_train, batch_size=32, shuffle=True)
-    dataloader_val = DataLoader(dataset_val, batch_size=32)
+    dataloader_val = DataLoader(dataset_val, batch_size=256)
 
     # ファインチューニングの設定
     checkpoint = pl.callbacks.ModelCheckpoint(
