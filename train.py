@@ -34,7 +34,9 @@ class_frequency = [
      12.35007948
 ]
 
-ICFweight = 1 / torch.tensor(class_frequency).cuda()
+cf = torch.tensor(class_frequency).cuda()
+
+ICFweight = cf.sum / cf # 割合の逆数
 
 def tokenize_data(filename):
     # データセットの対話データをトークン化して返す関数
