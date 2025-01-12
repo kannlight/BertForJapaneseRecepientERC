@@ -74,10 +74,10 @@ def tokenize_data(filename):
     return dataset_for_loader
 
 class BertForJapaneseRecepientERC(pl.LightningModule):
-    def __init__(self, lr, model_name=MODEL_NAME, num_labels=8):
+    def __init__(self, lr=0.001, model_name=MODEL_NAME, num_labels=8):
         # model_name: 事前学習モデル
         # num_labels: ラベル数
-        # lr: 学習率
+        # lr: 学習率(特に指定なければAdamのデフォルト値を設定)
         super().__init__()
         self.save_hyperparameters()
 
@@ -137,7 +137,7 @@ def main():
         callbacks = [checkpoint]
     )
     # 学習率を指定してモデルをロード
-    model = BertForJapaneseRecepientERC(lr=1e-5)
+    model = BertForJapaneseRecepientERC()
     # ファインチューニング
     trainer.fit(model, dataloader_train, dataloader_val)
 
