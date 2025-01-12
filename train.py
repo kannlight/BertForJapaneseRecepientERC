@@ -133,7 +133,7 @@ def main():
     trainer = pl.Trainer(
         accelerator = 'gpu', # 学習にgpuを使用
         devices = 1, # gpuの個数
-        max_epochs = 5, # 学習のエポック数
+        max_epochs = 20, # 学習のエポック数
         callbacks = [checkpoint]
     )
     # 学習率を指定してモデルをロード
