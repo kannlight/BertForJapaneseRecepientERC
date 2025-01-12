@@ -118,7 +118,7 @@ def main():
     dataset_train = tokenize_data('DatasetTrain.json')
     dataset_val = tokenize_data('DatasetVal.json')
     # データローダ作成
-    dataloader_train = DataLoader(dataset_train, batch_size=32, shuffle=True)
+    dataloader_train = DataLoader(dataset_train, batch_size=8, shuffle=True)
     dataloader_val = DataLoader(dataset_val, batch_size=256)
 
     # ファインチューニングの設定

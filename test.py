@@ -26,12 +26,12 @@ MAX_LENGTH = 512
 
 test_data_file = 'DatasetTest.json'
 
-# データセットから対話データを読み込む
-data = {}
-with open(test_data_file, 'r', encoding='utf-8') as f:
-    data = json.load(f)
-
 def test():
+    # データセットから対話データを読み込む
+    data = {}
+    with open(test_data_file, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
     dataset_test = []
     # 各対話をトークン化して追加
     if 'data' in data:
@@ -75,8 +75,12 @@ def test():
     print(classification_report(true_labels, predicted_labels, labels=[0,1,2,3,4,5,6,7], target_names=CATEGORIES))
 
 def list_incorrect(model_name):
-    incorrect_data = []
+    # データセットから対話データを読み込む
+    data = {}
+    with open(test_data_file, 'r', encoding='utf-8') as f:
+        data = json.load(f)
 
+    incorrect_data = []
     if 'data' in data:
         for talk in data['data']:
             # 1発話目(受信者の発話)と2発話目(送信者の発話)を取り出す（複数続いたら改行で繋げる）
@@ -121,5 +125,7 @@ def list_incorrect(model_name):
         json.dump(incorrect_data, f, indent=4, ensure_ascii=False)
 
 if __name__ == "__main__":
-    # test()
-    list_incorrect(sys.argv[1]) # 例:v11
+    if len(sys.argv) > 1:
+        list_incorrect(sys.argv[1]) # 例:v11
+    else:
+        test()
