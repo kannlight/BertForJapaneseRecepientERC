@@ -4,7 +4,7 @@
     "BertForSequenceClassification"
   ],
   "attention_probs_dropout_prob": 0.1,
-  "classifier_dropout": 0.3,
+  "classifier_dropout": 0.2,
   "hidden_act": "gelu",
   "hidden_dropout_prob": 0.1,
   "hidden_size": 768,
