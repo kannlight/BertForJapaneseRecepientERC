@@ -74,7 +74,7 @@ def tokenize_data(filename):
     return dataset_for_loader
 
 class BertForJapaneseRecepientERC(pl.LightningModule):
-    def __init__(self, model_name=MODEL_NAME, num_labels=8, lr=0.001, weight_decay=0.01):
+    def __init__(self, model_name=MODEL_NAME, num_labels=8, lr=0.001, weight_decay=0.01, dropout=None):
         # model_name: 事前学習モデル
         # num_labels: ラベル数
         # lr: 学習率(特に指定なければAdamのデフォルト値を設定)
@@ -83,7 +83,7 @@ class BertForJapaneseRecepientERC(pl.LightningModule):
         self.save_hyperparameters()
 
         # 事前学習モデルのロード
-        self.model = BertForSequenceClassification.from_pretrained(model_name, num_labels=num_labels)
+        self.model = BertForSequenceClassification.from_pretrained(model_name, num_labels=num_labels, classifier_dropout=dropout)
 
     # 学習データを受け取って損失を返すメソッド
     def training_step(self, batch):
@@ -112,8 +112,8 @@ class BertForJapaneseRecepientERC(pl.LightningModule):
     #     self.log('test_report', classification_report(true_labels, predicted_labels, target_names=CATEGORIES))
 
     def configure_optimizers(self):
-        # return torch.optim.Adam(self.parameters(), lr=self.hparams.lr)
-        return torch.optim.AdamW(self.parameters(), lr=self.hparams.lr, weight_decay=self.hparams.weight_decay)
+        return torch.optim.Adam(self.parameters(), lr=self.hparams.lr)
+        # return torch.optim.AdamW(self.parameters(), lr=self.hparams.lr, weight_decay=self.hparams.weight_decay)
 
 def main():
     # データセットから対話データをトークン化
@@ -139,7 +139,7 @@ def main():
         callbacks = [checkpoint]
     )
     # 学習率を指定してモデルをロード
-    model = BertForJapaneseRecepientERC(lr=3e-5)
+    model = BertForJapaneseRecepientERC(lr=3e-5, weight_decay=0, dropout=0.3)
     # ファインチューニング
     trainer.fit(model, dataloader_train, dataloader_val)
 

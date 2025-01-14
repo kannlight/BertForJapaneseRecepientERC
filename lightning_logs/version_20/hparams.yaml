@@ -1,0 +1,5 @@
+dropout: 0.2
+lr: 3.0e-05
+model_name: tohoku-nlp/bert-base-japanese-whole-word-masking
+num_labels: 8
+weight_decay: 0
