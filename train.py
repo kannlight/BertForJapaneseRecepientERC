@@ -79,6 +79,7 @@ class BertForJapaneseRecepientERC(pl.LightningModule):
         # num_labels: ラベル数
         # lr: 学習率(特に指定なければAdamのデフォルト値を設定)
         # weight_decay: 重み減衰の強度(L2正則化のような役割)
+        # dropout: 全結合層の前に適用するdropout率、デフォルトでNoneとしているがこの場合はconfig.hidden_dropout_probが適用される(0.1など)
         super().__init__()
         self.save_hyperparameters()
 
@@ -112,8 +113,8 @@ class BertForJapaneseRecepientERC(pl.LightningModule):
     #     self.log('test_report', classification_report(true_labels, predicted_labels, target_names=CATEGORIES))
 
     def configure_optimizers(self):
-        return torch.optim.Adam(self.parameters(), lr=self.hparams.lr)
-        # return torch.optim.AdamW(self.parameters(), lr=self.hparams.lr, weight_decay=self.hparams.weight_decay)
+        # return torch.optim.Adam(self.parameters(), lr=self.hparams.lr)
+        return torch.optim.AdamW(self.parameters(), lr=self.hparams.lr, weight_decay=self.hparams.weight_decay)
 
 def main():
     # データセットから対話データをトークン化
@@ -139,7 +140,7 @@ def main():
         callbacks = [checkpoint]
     )
     # 学習率を指定してモデルをロード
-    model = BertForJapaneseRecepientERC(lr=3e-5, weight_decay=0, dropout=0.3)
+    model = BertForJapaneseRecepientERC(lr=3e-5, weight_decay=0.1, dropout=0.1)
     # ファインチューニング
     trainer.fit(model, dataloader_train, dataloader_val)
 
