@@ -125,6 +125,10 @@ class BertForJapaneseRecepientERC(pl.LightningModule):
         current_lr = self.trainer.optimizers[0].param_groups[0]['lr']
         self.log('learning_rate', current_lr)
 
+    def on_train_batch_end(self, outputs, batch, batch_idx):
+        total_norm = torch.norm(torch.stack([torch.norm(p.grad.detach(), 2) for p in self.parameters() if p.grad is not None]), 2)
+        self.log("gradient_norm", total_norm)
+
     def configure_optimizers(self):
         # オプティマイザーの指定
         # optimizer = torch.optim.Adam(self.parameters(), lr=self.hparams.lr)
@@ -156,7 +160,7 @@ def main():
     lr = 3e-5 # 初期学習率
     wd = 0.1 # 重み減衰率
     dropout = 0.1 # 全結合前のドロップアウト率
-    clip_th = 1.0 # ノルムベース勾配クリッピングの閾値
+    clip_th = 0.06 # ノルムベース勾配クリッピングの閾値
 
     # ファインチューニングの設定
     checkpoint = pl.callbacks.ModelCheckpoint(
