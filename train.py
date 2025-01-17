@@ -4,7 +4,7 @@ import json
 import os
 import torch
 from torch.utils.data import DataLoader
-from transformers import BertJapaneseTokenizer, BertForSequenceClassification
+from transformers import BertJapaneseTokenizer, BertForSequenceClassification, get_scheduler
 import pytorch_lightning as pl
 from sklearn.metrics import classification_report
 
@@ -35,8 +35,8 @@ class_frequency = [
 ]
 
 cf = torch.tensor(class_frequency).cuda()
-
-ICFweight = torch.sum(cf) / cf # 割合の逆数
+ICFweight = 1 / cf
+ICFweight = ICFweight / torch.sum(ICFweight)
 
 def tokenize_data(filename):
     # データセットの対話データをトークン化して返す関数
@@ -74,7 +74,16 @@ def tokenize_data(filename):
     return dataset_for_loader
 
 class BertForJapaneseRecepientERC(pl.LightningModule):
-    def __init__(self, model_name=MODEL_NAME, num_labels=8, lr=0.001, weight_decay=0.01, dropout=None):
+    def __init__(
+        self,
+        model_name=MODEL_NAME,
+        num_labels=8,
+        lr=0.001,
+        weight_decay=0.01,
+        dropout=None,
+        warmup_steps=None,
+        total_steps=None
+    ):
         # model_name: 事前学習モデル
         # num_labels: ラベル数
         # lr: 学習率(特に指定なければAdamのデフォルト値を設定)
@@ -87,7 +96,7 @@ class BertForJapaneseRecepientERC(pl.LightningModule):
         self.model = BertForSequenceClassification.from_pretrained(model_name, num_labels=num_labels, classifier_dropout=dropout)
 
     # 学習データを受け取って損失を返すメソッド
-    def training_step(self, batch):
+    def training_step(self, batch, batch_idx):
         output = self.model(**batch)
         # 損失関数にCEではなくICFを用いる
         loss_func = torch.nn.CrossEntropyLoss(weight = ICFweight)
@@ -96,7 +105,7 @@ class BertForJapaneseRecepientERC(pl.LightningModule):
         return loss
     
     # 検証データを受け取って損失を返すメソッド
-    def validation_step(self, batch):
+    def validation_step(self, batch, batch_idx):
         output = self.model(**batch)
         loss_func = torch.nn.CrossEntropyLoss(weight = ICFweight)
         val_loss = loss_func(output.logits, batch['labels'])
@@ -112,9 +121,25 @@ class BertForJapaneseRecepientERC(pl.LightningModule):
     #     # precision, recall, f1, データ数 をクラス毎、ミクロ、マクロ、加重平均で算出
     #     self.log('test_report', classification_report(true_labels, predicted_labels, target_names=CATEGORIES))
 
+    def on_train_batch_start(self, batch, batch_idx):
+        current_lr = self.trainer.optimizers[0].param_groups[0]['lr']
+        self.log('learning_rate', current_lr)
+
     def configure_optimizers(self):
-        # return torch.optim.Adam(self.parameters(), lr=self.hparams.lr)
-        return torch.optim.AdamW(self.parameters(), lr=self.hparams.lr, weight_decay=self.hparams.weight_decay)
+        # オプティマイザーの指定
+        # optimizer = torch.optim.Adam(self.parameters(), lr=self.hparams.lr)
+        optimizer = torch.optim.AdamW(self.parameters(), lr=self.hparams.lr, weight_decay=self.hparams.weight_decay)
+        # ウォームアップを適用
+        if self.hparams.warmup_steps is not None and self.hparams.total_steps is not None:
+            scheduler = get_scheduler(
+                name='linear',
+                optimizer=optimizer,
+                num_warmup_steps=self.hparams.warmup_steps,
+                num_training_steps=self.hparams.total_steps
+            )
+            return [optimizer], [{"scheduler": scheduler, "interval": "step", "frequency": 1}]
+        else:
+            return optimizer
 
 def main():
     # データセットから対話データをトークン化
@@ -122,7 +147,16 @@ def main():
     dataset_val = tokenize_data('DatasetVal.json')
     # データローダ作成
     dataloader_train = DataLoader(dataset_train, batch_size=8, shuffle=True)
-    dataloader_val = DataLoader(dataset_val, batch_size=256)
+    dataloader_val = DataLoader(dataset_val, batch_size=8)
+
+    # ハイパーパラメータ
+    max_epochs = 10 # 学習のエポック数
+    total_steps = len(dataloader_train) * max_epochs
+    warmup_steps = int(0.1 * total_steps) # ウォームアップの適用期間
+    lr = 3e-5 # 初期学習率
+    wd = 0.1 # 重み減衰率
+    dropout = 0.1 # 全結合前のドロップアウト率
+    clip_th = 1.0 # ノルムベース勾配クリッピングの閾値
 
     # ファインチューニングの設定
     checkpoint = pl.callbacks.ModelCheckpoint(
@@ -136,11 +170,19 @@ def main():
     trainer = pl.Trainer(
         accelerator = 'gpu', # 学習にgpuを使用
         devices = 1, # gpuの個数
-        max_epochs = 10, # 学習のエポック数
-        callbacks = [checkpoint]
+        max_epochs = max_epochs, # 学習のエポック数
+        callbacks = [checkpoint],
+        gradient_clip_val = clip_th, # 勾配ノルムの閾値
+        gradient_clip_algorithm = "norm" # ノルムベースの勾配クリッピング
     )
-    # 学習率を指定してモデルをロード
-    model = BertForJapaneseRecepientERC(lr=3e-5, weight_decay=0.1, dropout=0.1)
+    # ハイパーパラメータを指定してモデルをロード
+    model = BertForJapaneseRecepientERC(
+        lr=lr,
+        weight_decay=wd,
+        dropout=dropout,
+        warmup_steps=warmup_steps,
+        total_steps=total_steps
+    )
     # ファインチューニング
     trainer.fit(model, dataloader_train, dataloader_val)
 
