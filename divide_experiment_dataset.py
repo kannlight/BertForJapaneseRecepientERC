@@ -1,12 +1,6 @@
 import random
-from tqdm import tqdm
 import json
 import os
-import torch
-from torch.utils.data import DataLoader
-from transformers import BertJapaneseTokenizer, BertForSequenceClassification
-import pytorch_lightning as pl
-from sklearn.metrics import classification_report
 
 def load_data():
     # データセットの対話データをトークン化して返す
@@ -35,11 +29,11 @@ def main():
     dataset_train = {"data": all_talk_data[:n_train]}
     dataset_val = {"data": all_talk_data[n_train:n_train+n_val]}
     dataset_test = {"data": all_talk_data[n_train+n_val:]}
-    with open('DatasetTrain.json', 'w', encoding='utf-8') as f:
+    with open('DatasetForExperiment/DatasetTrain.json', 'w', encoding='utf-8') as f:
         json.dump(dataset_train, f, indent=4, ensure_ascii=False)
-    with open('DatasetVal.json', 'w', encoding='utf-8') as f:
+    with open('DatasetForExperiment/DatasetVal.json', 'w', encoding='utf-8') as f:
         json.dump(dataset_val, f, indent=4, ensure_ascii=False)
-    with open('DatasetTest.json', 'w', encoding='utf-8') as f:
+    with open('DatasetForExperiment/DatasetTest.json', 'w', encoding='utf-8') as f:
         json.dump(dataset_test, f, indent=4, ensure_ascii=False)
 
 

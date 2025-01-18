@@ -116,11 +116,11 @@ def list_incorrect(model_name):
                 incorrect_data.append(talk)
 
     # jsonファイルで出力
-    filename = 'test_results/incorrect_data_'+model_name+'.json'
+    filename = 'incorrect_data/incorrect_data_'+model_name+'.json'
     i = 1
     while os.path.isfile(filename):
         i += 1
-        filename = 'test_results/incorrect_data_'+model_name+'_'+str(i)+'.json'
+        filename = 'incorrect_data/incorrect_data_'+model_name+'_'+str(i)+'.json'
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(incorrect_data, f, indent=4, ensure_ascii=False)
 
