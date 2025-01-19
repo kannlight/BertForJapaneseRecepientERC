@@ -38,17 +38,21 @@ cf = torch.tensor(class_frequency).cuda()
 ICFweight = 1 / cf
 ICFweight = ICFweight / torch.sum(ICFweight)
 
-def tokenize_data(filename):
-    # データセットの対話データをトークン化して返す関数
-    dataset_for_loader = []
+def load_pack(filename):
     # データセットから対話データを読み込む
     data = {}
     with open(filename, 'r', encoding='utf-8') as f:
         data = json.load(f)
+    # 対話パックのリストを返す
+    return data['data']
+
+def unpack_tokenize(pack_list):
+    # データセットの対話パック(対話データの配列)をトークン化して対話ごとのリストで返す関数
+    dataset_for_loader = []
 
     # 各対話をトークン化して追加
-    if 'data' in data:
-        for talk in data['data']:
+    for pack in pack_list:
+        for talk in pack:
             # 1発話目(受信者の発話)と2発話目(送信者の発話)を取り出す（複数続いたら改行で繋げる）
             t1 = []
             t2 = []
@@ -59,7 +63,7 @@ def tokenize_data(filename):
                     t2.append(utter['utter'])
             text1 = '\n'.join(t1)
             text2 = '\n'.join(t2)
-            # トークン化
+            # 対話データをトークン化
             token=tokenizer(
                 text1, text2,
                 truncation=True,
@@ -70,6 +74,7 @@ def tokenize_data(filename):
             token['labels'] = talk['label']
             # バリューをテンソル化して追加
             token = { k: torch.tensor(v) for k, v in token.items() }
+            # トークン化されたこの対話をリストに追加
             dataset_for_loader.append(token)
     return dataset_for_loader
 
@@ -97,37 +102,31 @@ class BertForJapaneseRecepientERC(pl.LightningModule):
 
     # 学習データを受け取って損失を返すメソッド
     def training_step(self, batch, batch_idx):
-        output = self.model(**batch)
+        output = self.model(
+            input_ids=batch['input_ids'],
+            attention_mask=batch['attention_mask'],
+            token_type_ids=batch['token_type_ids']
+        )
         # 損失関数にCEではなくICFを用いる
         loss_func = torch.nn.CrossEntropyLoss(weight = ICFweight)
-        loss = loss_func(output.logits, batch['labels'])
+        loss = loss_func(output.logits.view(-1,self.hparams.num_labels), batch['labels'].view(-1,self.hparams.num_labels))
         self.log('train_loss', loss)
         return loss
     
     # 検証データを受け取って損失を返すメソッド
     def validation_step(self, batch, batch_idx):
-        output = self.model(**batch)
+        output = self.model(
+            input_ids=batch['input_ids'],
+            attention_mask=batch['attention_mask'],
+            token_type_ids=batch['token_type_ids']
+        )
         loss_func = torch.nn.CrossEntropyLoss(weight = ICFweight)
-        val_loss = loss_func(output.logits, batch['labels'])
+        val_loss = loss_func(output.logits.view(-1,self.hparams.num_labels), batch['labels'].view(-1,self.hparams.num_labels))
         self.log('val_loss', val_loss)
-
-    # # テストデータを受け取って評価指標を計算
-    # def test_step(self, batch):
-    #     # テストデータのラベル
-    #     true_labels = batch.pop('labels')
-    #     # モデルが出力した分類スコアから、最大値となるクラスを取得
-    #     output =self.model(**batch)
-    #     predicted_labels = output.logits.argmax(-1)
-    #     # precision, recall, f1, データ数 をクラス毎、ミクロ、マクロ、加重平均で算出
-    #     self.log('test_report', classification_report(true_labels, predicted_labels, target_names=CATEGORIES))
 
     def on_train_batch_start(self, batch, batch_idx):
         current_lr = self.trainer.optimizers[0].param_groups[0]['lr']
         self.log('learning_rate', current_lr)
-
-    def on_train_batch_end(self, outputs, batch, batch_idx):
-        total_norm = torch.norm(torch.stack([torch.norm(p.grad.detach(), 2) for p in self.parameters() if p.grad is not None]), 2)
-        self.log("gradient_norm", total_norm)
 
     def configure_optimizers(self):
         # オプティマイザーの指定
@@ -146,11 +145,19 @@ class BertForJapaneseRecepientERC(pl.LightningModule):
             return optimizer
 
 def main():
-    # データセットから対話データをトークン化
-    dataset_train = tokenize_data('DatasetTrain.json')
-    dataset_val = tokenize_data('DatasetVal.json')
+    # データセットから対話パック(対話データの配列)を読み込み
+    # ->(num_packs,pack_size)
+    packs_train = load_pack('DatasetTrain.json')
+    packs_val = load_pack('DatasetVal.json')
+    # 訓練データのパックはシャッフル
+    random.shuffle(packs_train)
+    # パックを崩して対話データをトークン化
+    # (num_packs,pack_size)->(num_talk)
+    dataset_train = unpack_tokenize(packs_train)
+    dataset_val = unpack_tokenize(packs_val)
     # データローダ作成
-    dataloader_train = DataLoader(dataset_train, batch_size=32, shuffle=True)
+    # (num_talk)->(num_batches,batch_size)
+    dataloader_train = DataLoader(dataset_train, batch_size=32)
     dataloader_val = DataLoader(dataset_val, batch_size=32)
 
     # ハイパーパラメータ
@@ -160,7 +167,6 @@ def main():
     lr = 3e-5 # 初期学習率
     wd = 0.1 # 重み減衰率
     dropout = 0.1 # 全結合前のドロップアウト率
-    clip_th = 0.06 # ノルムベース勾配クリッピングの閾値
 
     # ファインチューニングの設定
     checkpoint = pl.callbacks.ModelCheckpoint(
@@ -176,8 +182,6 @@ def main():
         devices = 1, # gpuの個数
         max_epochs = max_epochs, # 学習のエポック数
         callbacks = [checkpoint],
-        gradient_clip_val = clip_th, # 勾配ノルムの閾値
-        gradient_clip_algorithm = "norm" # ノルムベースの勾配クリッピング
     )
     # ハイパーパラメータを指定してモデルをロード
     model = BertForJapaneseRecepientERC(
@@ -193,10 +197,6 @@ def main():
     # 結果表示
     print('best_model_path:', checkpoint.best_model_path)
     print('val_loss for best_model:', checkpoint.best_model_score)
-
-    # テストデータで評価
-    # test = trainer.test(dataloaders=dataloader_test)
-    # print(test[0]['test_report'])
 
     best_model = BertForJapaneseRecepientERC.load_from_checkpoint(
         checkpoint.best_model_path

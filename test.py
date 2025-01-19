@@ -35,30 +35,31 @@ def test():
     dataset_test = []
     # 各対話をトークン化して追加
     if 'data' in data:
-        for talk in data['data']:
-            # 1発話目(受信者の発話)と2発話目(送信者の発話)を取り出す（複数続いたら改行で繋げる）
-            t1 = []
-            t2 = []
-            for utter in talk['talk']:
-                if utter['type'] == 1:
-                    t1.append(utter['utter'])
-                if utter['type'] == 2:
-                    t2.append(utter['utter'])
-            text1 = '\n'.join(t1)
-            text2 = '\n'.join(t2)
-            # トークン化
-            token=tokenizer(
-                text1, text2,
-                truncation=True,
-                max_length=MAX_LENGTH,
-                padding="max_length",
-                return_tensors="pt"
-            )
-            # GPUを使用
-            token = {k: v.cuda() for k, v in token.items()}
-            # ラベル付け(これはテンソルでなくて良い)
-            token['labels'] = talk['label']
-            dataset_test.append(token)
+        for pack in data['data']:
+            for talk in pack:
+                # 1発話目(受信者の発話)と2発話目(送信者の発話)を取り出す（複数続いたら改行で繋げる）
+                t1 = []
+                t2 = []
+                for utter in talk['talk']:
+                    if utter['type'] == 1:
+                        t1.append(utter['utter'])
+                    if utter['type'] == 2:
+                        t2.append(utter['utter'])
+                text1 = '\n'.join(t1)
+                text2 = '\n'.join(t2)
+                # トークン化
+                token=tokenizer(
+                    text1, text2,
+                    truncation=True,
+                    max_length=MAX_LENGTH,
+                    padding="max_length",
+                    return_tensors="pt"
+                )
+                # GPUを使用
+                token = {k: v.cuda() for k, v in token.items()}
+                # ラベル付け(これはテンソルでなくて良い)
+                token['labels'] = talk['label']
+                dataset_test.append(token)
 
     # テスト
     true_labels = []
