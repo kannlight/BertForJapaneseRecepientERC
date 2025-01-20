@@ -1,0 +1,454 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3fwgpp3f6pgcoajtifoqqbjt",
+                    "type": 1,
+                    "utter": "ありがとうございまーす✨\n\nスタバと昔撮ったﾈｺﾁｬﾝのおかげですねー😆"
+                },
+                {
+                    "author": "did:plc:vurovnadlobcntatincz5xq5",
+                    "type": 2,
+                    "utter": "次は1000万ですね！"
+                },
+                {
+                    "author": "did:plc:3fwgpp3f6pgcoajtifoqqbjt",
+                    "type": 3,
+                    "utter": "めざせ、スタバで1000万円！　…なんっじゃそりゃ🤣"
+                }
+            ],
+            "uri": "at://did:plc:3fwgpp3f6pgcoajtifoqqbjt/app.bsky.feed.post/3lbe37i3e4225",
+            "label": [
+                0.004027220420539379,
+                0.0014395496109500527,
+                0.9684286117553711,
+                0.024933822453022003,
+                0.000308044021949172,
+                0.0003930039529222995,
+                0.00021385519357863814,
+                0.000255933846347034
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3fwgpp3f6pgcoajtifoqqbjt",
+                    "type": 1,
+                    "utter": "めざせ、スタバで1000万円！　…なんっじゃそりゃ🤣"
+                },
+                {
+                    "author": "did:plc:vurovnadlobcntatincz5xq5",
+                    "type": 2,
+                    "utter": "会社のお金使い込んで有名人かｗ"
+                },
+                {
+                    "author": "did:plc:3fwgpp3f6pgcoajtifoqqbjt",
+                    "type": 3,
+                    "utter": "スタバで1000万円使わないと帰れまてぇん ってのに嵌められた有名人だったりしてｗｗ"
+                }
+            ],
+            "uri": "at://did:plc:3fwgpp3f6pgcoajtifoqqbjt/app.bsky.feed.post/3lbe3h4sno225",
+            "label": [
+                0.008704038336873055,
+                0.0015432793879881501,
+                0.006624196656048298,
+                0.9775468111038208,
+                0.00015060327132232487,
+                0.004619687329977751,
+                0.00047620563418604434,
+                0.0003352756320964545
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3fwgpp3f6pgcoajtifoqqbjt",
+                    "type": 1,
+                    "utter": "スタバで1000万円使わないと帰れまてぇん ってのに嵌められた有名人だったりしてｗｗ"
+                },
+                {
+                    "author": "did:plc:vurovnadlobcntatincz5xq5",
+                    "type": 2,
+                    "utter": "一日中フラペチーノ飲んで糖尿待ったなしｗｗｗ"
+                },
+                {
+                    "author": "did:plc:3fwgpp3f6pgcoajtifoqqbjt",
+                    "type": 3,
+                    "utter": "病院のスタバだと速攻でドクターストップもらえそうですなぁ😆"
+                }
+            ],
+            "uri": "at://did:plc:3fwgpp3f6pgcoajtifoqqbjt/app.bsky.feed.post/3lbe3mx7csk25",
+            "label": [
+                0.000982927973382175,
+                0.0021812536288052797,
+                0.0008928587194532156,
+                0.0011092409258708358,
+                0.0003085533971898258,
+                0.9939517378807068,
+                0.0004132323956582695,
+                0.00016011265688575804
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3fwgpp3f6pgcoajtifoqqbjt",
+                    "type": 1,
+                    "utter": "病院のスタバだと速攻でドクターストップもらえそうですなぁ😆"
+                },
+                {
+                    "author": "did:plc:vurovnadlobcntatincz5xq5",
+                    "type": 2,
+                    "utter": "それいいかもｗｗｗ\n\nおじいさんの前にフラペチーノがたくさん\nビビる看護師、止めに入る医者ｗ"
+                },
+                {
+                    "author": "did:plc:3fwgpp3f6pgcoajtifoqqbjt",
+                    "type": 3,
+                    "utter": "ちょっまっっｗｗ\n\n「入院食のスタバラーメン」の悪夢再び😂🤣🤣"
+                }
+            ],
+            "uri": "at://did:plc:3fwgpp3f6pgcoajtifoqqbjt/app.bsky.feed.post/3lbe3tlkh5c25",
+            "label": [
+                0.006401094142347574,
+                0.920367956161499,
+                0.001079523004591465,
+                0.020351164042949677,
+                0.00037653010804206133,
+                0.04792768508195877,
+                0.0032896113116294146,
+                0.00020644803589675575
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3fwgpp3f6pgcoajtifoqqbjt",
+                    "type": 1,
+                    "utter": "さすがカンパネラさんすなぁ🤣😂🤣"
+                },
+                {
+                    "author": "did:plc:vurovnadlobcntatincz5xq5",
+                    "type": 2,
+                    "utter": "笑える歌はいいよね～ｗ"
+                },
+                {
+                    "author": "did:plc:3fwgpp3f6pgcoajtifoqqbjt",
+                    "type": 3,
+                    "utter": "この人の曲たまーにドライブ中に流れてくることありましたなぁ　なんなのこの歌、とふぉふぉふぉ…言いながら楽しんでおりもした😆"
+                }
+            ],
+            "uri": "at://did:plc:3fwgpp3f6pgcoajtifoqqbjt/app.bsky.feed.post/3lbwphnjxh22x",
+            "label": [
+                0.9996304512023926,
+                4.232418359606527e-05,
+                0.00011406233534216881,
+                5.561483703786507e-05,
+                2.5559716959833167e-05,
+                4.0758161048870534e-05,
+                4.6132794523146003e-05,
+                4.5171098463470116e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3fwgpp3f6pgcoajtifoqqbjt",
+                    "type": 1,
+                    "utter": "これはひど…いや、いいスタバ🤣👍"
+                },
+                {
+                    "author": "did:plc:vurovnadlobcntatincz5xq5",
+                    "type": 2,
+                    "utter": "いいよね～🐈可愛いしｗ"
+                },
+                {
+                    "author": "did:plc:3fwgpp3f6pgcoajtifoqqbjt",
+                    "type": 3,
+                    "utter": "ﾈｺﾁｬﾝ飯テロありがとござましたー😻"
+                }
+            ],
+            "uri": "at://did:plc:3fwgpp3f6pgcoajtifoqqbjt/app.bsky.feed.post/3lbwqzdrxhk2x",
+            "label": [
+                0.9996286630630493,
+                4.4343105400912464e-05,
+                0.00011326821550028399,
+                5.64491274417378e-05,
+                2.8567494155140594e-05,
+                3.8301903259707615e-05,
+                4.708142296294682e-05,
+                4.33120148954913e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3fwgpp3f6pgcoajtifoqqbjt",
+                    "type": 1,
+                    "utter": "こちらも震度1〜2？の割には、揺れを感じなかったですねー\n\n能登の地震は他所とはメカニズムが違うので、揺れ方も異なるのかもしれませんねー　…知らんけど😅"
+                },
+                {
+                    "author": "did:plc:bvlokiejjxqwr5ehp4uujv32",
+                    "type": 2,
+                    "utter": "今、富士市は、雨が凄いです！\n大雨です！\n雷も一回鳴りました。"
+                },
+                {
+                    "author": "did:plc:3fwgpp3f6pgcoajtifoqqbjt",
+                    "type": 3,
+                    "utter": "うおぁっさらに地震なんか来たら、最悪ですやーん😵\n揺れが少なくてよかったです😊"
+                }
+            ],
+            "uri": "at://did:plc:3fwgpp3f6pgcoajtifoqqbjt/app.bsky.feed.post/3lbuadap7ps2e",
+            "label": [
+                0.0019047192763537169,
+                0.0013827121583744884,
+                0.0010879375040531158,
+                0.0026686429046094418,
+                0.0003440989530645311,
+                0.9919978976249695,
+                0.0003150551638100296,
+                0.00029891071608290076
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3fwgpp3f6pgcoajtifoqqbjt",
+                    "type": 1,
+                    "utter": "うおぁっさらに地震なんか来たら、最悪ですやーん😵\n揺れが少なくてよかったです😊"
+                },
+                {
+                    "author": "did:plc:bvlokiejjxqwr5ehp4uujv32",
+                    "type": 2,
+                    "utter": "今日は、日付が変わる前に大荒れですね。"
+                },
+                {
+                    "author": "did:plc:3fwgpp3f6pgcoajtifoqqbjt",
+                    "type": 3,
+                    "utter": "ですねー\n大雨はまだある程度予測がつくけど、地震はどうにもならないってのがまた ((((；ﾟДﾟ)))))))"
+                }
+            ],
+            "uri": "at://did:plc:3fwgpp3f6pgcoajtifoqqbjt/app.bsky.feed.post/3lbualvdj5s2e",
+            "label": [
+                0.000737242866307497,
+                0.0012312019243836403,
+                0.0007806670619174838,
+                0.0018044760217890143,
+                0.0005223822663538158,
+                0.9942893981933594,
+                0.00043294415809214115,
+                0.00020164615125395358
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3fwgpp3f6pgcoajtifoqqbjt",
+                    "type": 1,
+                    "utter": "ですねー\n大雨はまだある程度予測がつくけど、地震はどうにもならないってのがまた ((((；ﾟДﾟ)))))))"
+                },
+                {
+                    "author": "did:plc:bvlokiejjxqwr5ehp4uujv32",
+                    "type": 2,
+                    "utter": "地震で雨雲レーダーに変化があるか見てみた。\n変化は、確認出来ず・・・\n噴火は、週間天気がガラッと変わるんですよ！\nすいません！大雨で興奮しています！"
+                },
+                {
+                    "author": "did:plc:3fwgpp3f6pgcoajtifoqqbjt",
+                    "type": 3,
+                    "utter": "なーるほど、噴火は天気に大きく影響するんですねー\n\n大雨お気をつけください、外に出ないのが一番かな？？"
+                }
+            ],
+            "uri": "at://did:plc:3fwgpp3f6pgcoajtifoqqbjt/app.bsky.feed.post/3lbuawwxw5s2e",
+            "label": [
+                0.004452189430594444,
+                0.003946545533835888,
+                0.003833848051726818,
+                0.3202378749847412,
+                0.001575710717588663,
+                0.6637591123580933,
+                0.001310552703216672,
+                0.0008841701201163232
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3fwgpp3f6pgcoajtifoqqbjt",
+                    "type": 1,
+                    "utter": "なーるほど、噴火は天気に大きく影響するんですねー\n\n大雨お気をつけください、外に出ないのが一番かな？？"
+                },
+                {
+                    "author": "did:plc:bvlokiejjxqwr5ehp4uujv32",
+                    "type": 2,
+                    "utter": "精度が上がれば地震の後も雨雲レーダーが更新される様になるはずです。\n電磁波は、出るんで・・・\n雲に影響は、あるはずです。\n持論ですが・・・\n科学的には、説明が付くはずです。"
+                },
+                {
+                    "author": "did:plc:3fwgpp3f6pgcoajtifoqqbjt",
+                    "type": 3,
+                    "utter": "大地震なら何らかの影響は出るんかなどうなんかな？\nんん〜よくわからん？？\n過去のデータとか、気になりますねー"
+                }
+            ],
+            "uri": "at://did:plc:3fwgpp3f6pgcoajtifoqqbjt/app.bsky.feed.post/3lbubhvdpvk2e",
+            "label": [
+                0.002792049665004015,
+                0.0010598774533718824,
+                0.007730148732662201,
+                0.0022821701131761074,
+                0.0003630634455475956,
+                0.9849667549133301,
+                0.0005157288978807628,
+                0.00029019685462117195
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3fwgpp3f6pgcoajtifoqqbjt",
+                    "type": 1,
+                    "utter": "ここんとこ実験みたいなもんばっか生成しとるからなぁそろそろ真面目にやらんといかんなぁ　ってかおら真面目なもん生成したことあるんか？ｗｗ"
+                },
+                {
+                    "author": "did:plc:vurovnadlobcntatincz5xq5",
+                    "type": 2,
+                    "utter": "真面目に、アンコールワットのスタバや、ナスカの地上絵とスタバとかしないとｗ\nあとイースター島のスタバもよろｗ"
+                },
+                {
+                    "author": "did:plc:3fwgpp3f6pgcoajtifoqqbjt",
+                    "type": 3,
+                    "utter": "ちょっ、結局スタバですやーーん🤣💦\nでも「世界のスタバなう」？ちょっと面白そうですなぁ😃"
+                }
+            ],
+            "uri": "at://did:plc:3fwgpp3f6pgcoajtifoqqbjt/app.bsky.feed.post/3lbrpyh7u5s2k",
+            "label": [
+                0.04341568052768707,
+                0.03598332032561302,
+                0.6943710446357727,
+                0.21957942843437195,
+                0.0006687760469503701,
+                0.0028605624102056026,
+                0.0022637383081018925,
+                0.0008574419189244509
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3fwgpp3f6pgcoajtifoqqbjt",
+                    "type": 1,
+                    "utter": "ちょっ、結局スタバですやーーん🤣💦\nでも「世界のスタバなう」？ちょっと面白そうですなぁ😃"
+                },
+                {
+                    "author": "did:plc:vurovnadlobcntatincz5xq5",
+                    "type": 2,
+                    "utter": "でしょｗｗｗ\nあとは、高級おフランス料理チックな銀座のスタバとかｗ"
+                },
+                {
+                    "author": "did:plc:3fwgpp3f6pgcoajtifoqqbjt",
+                    "type": 3,
+                    "utter": "それめっちゃ難易度高そうですなぁ💦\n\nってか高級おフランス料理なんか食べたことないからわかんなーーい ＞＜；"
+                }
+            ],
+            "uri": "at://did:plc:3fwgpp3f6pgcoajtifoqqbjt/app.bsky.feed.post/3lbrqal4psk2k",
+            "label": [
+                0.02104131691157818,
+                0.2769544720649719,
+                0.0029908509459346533,
+                0.009025590494275093,
+                0.0003753367636818439,
+                0.6868056058883667,
+                0.0023193275555968285,
+                0.0004875517333857715
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3fwgpp3f6pgcoajtifoqqbjt",
+                    "type": 1,
+                    "utter": "それめっちゃ難易度高そうですなぁ💦\n\nってか高級おフランス料理なんか食べたことないからわかんなーーい ＞＜；"
+                },
+                {
+                    "author": "did:plc:vurovnadlobcntatincz5xq5",
+                    "type": 2,
+                    "utter": "ｗｗｗ\n\nその気になればいけるいけるｗ"
+                },
+                {
+                    "author": "did:plc:3fwgpp3f6pgcoajtifoqqbjt",
+                    "type": 3,
+                    "utter": "イタリア料理のスタバなら、銀座にあるらしいすねー　知らんけど🤣"
+                }
+            ],
+            "uri": "at://did:plc:3fwgpp3f6pgcoajtifoqqbjt/app.bsky.feed.post/3lbrqwjxyj22k",
+            "label": [
+                0.26234641671180725,
+                0.006652954965829849,
+                0.6845367550849915,
+                0.03794756159186363,
+                0.0006408951012417674,
+                0.0034856246784329414,
+                0.0016673837089911103,
+                0.0027223718352615833
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3fwgpp3f6pgcoajtifoqqbjt",
+                    "type": 1,
+                    "utter": "イタリア料理のスタバなら、銀座にあるらしいすねー　知らんけど🤣"
+                },
+                {
+                    "author": "did:plc:vurovnadlobcntatincz5xq5",
+                    "type": 2,
+                    "utter": "熱海の秘宝館とスタバにコラボとかどうよｗ"
+                },
+                {
+                    "author": "did:plc:3fwgpp3f6pgcoajtifoqqbjt",
+                    "type": 3,
+                    "utter": "っっ、そっち方面行きますか🤣🤣\n\nゆうこちゃんにおまかせしまーす！？？😆"
+                }
+            ],
+            "uri": "at://did:plc:3fwgpp3f6pgcoajtifoqqbjt/app.bsky.feed.post/3lbrraeilvc2k",
+            "label": [
+                0.008703219704329967,
+                0.0004010401025880128,
+                0.9902273416519165,
+                0.00018808082677423954,
+                9.410073835169896e-05,
+                0.00017290700634475797,
+                0.00010844282223843038,
+                0.00010478711919859052
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3fwgpp3f6pgcoajtifoqqbjt",
+                    "type": 1,
+                    "utter": "っっ、そっち方面行きますか🤣🤣\n\nゆうこちゃんにおまかせしまーす！？？😆"
+                },
+                {
+                    "author": "did:plc:vurovnadlobcntatincz5xq5",
+                    "type": 2,
+                    "utter": "やだーｗ"
+                },
+                {
+                    "author": "did:plc:3fwgpp3f6pgcoajtifoqqbjt",
+                    "type": 3,
+                    "utter": "ええぇーっ！あの秘宝館ですよ！？？"
+                }
+            ],
+            "uri": "at://did:plc:3fwgpp3f6pgcoajtifoqqbjt/app.bsky.feed.post/3lbrrg6yfmk2k",
+            "label": [
+                0.0007779172738082707,
+                0.0003520096361171454,
+                0.0007382211042568088,
+                0.9974154233932495,
+                0.00021675364405382425,
+                0.00021549513621721417,
+                0.00016953794693108648,
+                0.0001146529903053306
+            ]
+        }
+    ]
+}

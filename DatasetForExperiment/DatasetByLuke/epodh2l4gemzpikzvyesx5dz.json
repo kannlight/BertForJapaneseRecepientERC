@@ -1,0 +1,724 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 1,
+                    "utter": "日々Xに投稿している写真だけど、まだまだ出来にムラがありますね。うまくいかなかった時など、密かに落ち込んでいるプリンです"
+                },
+                {
+                    "author": "did:plc:wmqrtozu5lpqorqydlonkscv",
+                    "type": 2,
+                    "utter": "プリンおちこまないでー|ω･`)"
+                },
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 3,
+                    "utter": "ありがとう～。プリンは立ち直りました！"
+                }
+            ],
+            "uri": "at://did:plc:epodh2l4gemzpikzvyesx5dz/app.bsky.feed.post/3lbjq4p644c2p",
+            "label": [
+                0.9995825886726379,
+                9.43719714996405e-05,
+                0.00011046846339013427,
+                5.633477485389449e-05,
+                2.266033334308304e-05,
+                4.069212809554301e-05,
+                4.52012536698021e-05,
+                4.772869942826219e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 1,
+                    "utter": "ありがとう～。プリンは立ち直りました！"
+                },
+                {
+                    "author": "did:plc:wmqrtozu5lpqorqydlonkscv",
+                    "type": 2,
+                    "utter": "やったー！立ち直ったプリン！🍮"
+                },
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 3,
+                    "utter": "うん！声かけてもらったから！"
+                }
+            ],
+            "uri": "at://did:plc:epodh2l4gemzpikzvyesx5dz/app.bsky.feed.post/3lbjqbekmoc2a",
+            "label": [
+                0.9995784163475037,
+                5.204724584473297e-05,
+                0.00014375174941960722,
+                7.13294866727665e-05,
+                2.8539481718325987e-05,
+                3.2187224860535935e-05,
+                4.6607936383225024e-05,
+                4.703727609012276e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 1,
+                    "utter": "うん！声かけてもらったから！"
+                },
+                {
+                    "author": "did:plc:wmqrtozu5lpqorqydlonkscv",
+                    "type": 2,
+                    "utter": "他の子も声掛けて貰えたらいいのにね 🍮それならもっと楽しかったりするのにね_(:3」∠)_"
+                },
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 3,
+                    "utter": "うんうん、声かけあって仲良しになって、楽しく出来るよね！"
+                }
+            ],
+            "uri": "at://did:plc:epodh2l4gemzpikzvyesx5dz/app.bsky.feed.post/3lbjr4p6b622q",
+            "label": [
+                0.9987658262252808,
+                7.621315307915211e-05,
+                0.0008389246067963541,
+                7.607329462189227e-05,
+                5.1939561672043055e-05,
+                5.2981911721872166e-05,
+                6.844432937214151e-05,
+                6.960523023735732e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 1,
+                    "utter": "うんうん、声かけあって仲良しになって、楽しく出来るよね！"
+                },
+                {
+                    "author": "did:plc:wmqrtozu5lpqorqydlonkscv",
+                    "type": 2,
+                    "utter": "やよやよーたのしくなるよー_(:3」∠)_"
+                },
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 3,
+                    "utter": "プリンは毎日楽しいな。いつもありがとうね！"
+                }
+            ],
+            "uri": "at://did:plc:epodh2l4gemzpikzvyesx5dz/app.bsky.feed.post/3lbjroqysgk2q",
+            "label": [
+                0.9996358156204224,
+                4.718748459708877e-05,
+                0.00011244342022109777,
+                5.49308824702166e-05,
+                2.5957040634239092e-05,
+                3.781084524234757e-05,
+                4.373824776848778e-05,
+                4.2116163967875764e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 1,
+                    "utter": "プリンは毎日楽しいな。いつもありがとうね！"
+                },
+                {
+                    "author": "did:plc:wmqrtozu5lpqorqydlonkscv",
+                    "type": 2,
+                    "utter": "いえいえー寝てた↩︎そろそろねるのーおやすみープリンゆにこさん🍮"
+                },
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 3,
+                    "utter": "うん、レシピちゃんおやすみ～。プリンゆにこより"
+                }
+            ],
+            "uri": "at://did:plc:epodh2l4gemzpikzvyesx5dz/app.bsky.feed.post/3lbjyepqos22w",
+            "label": [
+                0.9995865225791931,
+                8.510517363902181e-05,
+                0.0001108101278077811,
+                5.3068448323756456e-05,
+                2.0606514226528816e-05,
+                3.3839038223959506e-05,
+                6.293673504842445e-05,
+                4.7245404857676476e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 1,
+                    "utter": "こんにちはをプリン語で言いたいんだけれど、思いつかないわよ"
+                },
+                {
+                    "author": "did:plc:wmqrtozu5lpqorqydlonkscv",
+                    "type": 2,
+                    "utter": "プリン語！ なんかに気になる！"
+                },
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 3,
+                    "utter": "わたしも気になる！↩\nおはプリンは思いついたけど、こんにちはは何て言おうか？こんにちプリン？"
+                }
+            ],
+            "uri": "at://did:plc:epodh2l4gemzpikzvyesx5dz/app.bsky.feed.post/3lbeat6w6is2m",
+            "label": [
+                0.008787018246948719,
+                0.0002947020693682134,
+                0.9902059435844421,
+                0.0002788863785099238,
+                7.528089918196201e-05,
+                0.0001603426062501967,
+                8.58948114910163e-05,
+                0.00011177077249158174
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 1,
+                    "utter": "わたしも気になる！↩\nおはプリンは思いついたけど、こんにちはは何て言おうか？こんにちプリン？"
+                },
+                {
+                    "author": "did:plc:wmqrtozu5lpqorqydlonkscv",
+                    "type": 2,
+                    "utter": "こんにプリン🍮とかかな(？)(^^ω)でもどの道美味しそうなプリン(*´ω｀*)"
+                },
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 3,
+                    "utter": "こんにプリン🍮いいね。美味しそうな挨拶を交わしたいね！"
+                }
+            ],
+            "uri": "at://did:plc:epodh2l4gemzpikzvyesx5dz/app.bsky.feed.post/3lbeb3zaqx222",
+            "label": [
+                0.16586712002754211,
+                0.0014221102464944124,
+                0.8309130072593689,
+                0.0004112320893909782,
+                0.0002673128619790077,
+                0.00038384547224268317,
+                0.0003969293611589819,
+                0.0003383722505532205
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 1,
+                    "utter": "こんにプリン🍮いいね。美味しそうな挨拶を交わしたいね！"
+                },
+                {
+                    "author": "did:plc:wmqrtozu5lpqorqydlonkscv",
+                    "type": 2,
+                    "utter": "やねー！美味しい挨拶やよ( ᐛ )و"
+                },
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 3,
+                    "utter": "お腹がすいてたまらないっ（さっき食べてた人"
+                }
+            ],
+            "uri": "at://did:plc:epodh2l4gemzpikzvyesx5dz/app.bsky.feed.post/3lbebeaix622b",
+            "label": [
+                0.004298682790249586,
+                0.9736114740371704,
+                0.00482249865308404,
+                0.0036033280193805695,
+                0.001047217519953847,
+                0.004565013572573662,
+                0.007890540175139904,
+                0.00016119513020385057
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 1,
+                    "utter": "お腹がすいてたまらないっ（さっき食べてた人"
+                },
+                {
+                    "author": "did:plc:wmqrtozu5lpqorqydlonkscv",
+                    "type": 2,
+                    "utter": "わかるー(*´ω｀*)プリンおいしいもんね↩︎"
+                },
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 3,
+                    "utter": "いつまでも食べていたいよね↩"
+                }
+            ],
+            "uri": "at://did:plc:epodh2l4gemzpikzvyesx5dz/app.bsky.feed.post/3lbecplzjjk2i",
+            "label": [
+                0.9970675110816956,
+                0.0001873274304671213,
+                0.0023746159859001637,
+                6.502473843283951e-05,
+                4.7105044359341264e-05,
+                8.704575157025829e-05,
+                9.285273699788377e-05,
+                7.874434959376231e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 1,
+                    "utter": "いつまでも食べていたいよね↩"
+                },
+                {
+                    "author": "did:plc:wmqrtozu5lpqorqydlonkscv",
+                    "type": 2,
+                    "utter": "やよね～たべたい～"
+                },
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 3,
+                    "utter": "一句出来ました→プリンをね 食べたいのだと 言い合って"
+                }
+            ],
+            "uri": "at://did:plc:epodh2l4gemzpikzvyesx5dz/app.bsky.feed.post/3lbeebsc6ss25",
+            "label": [
+                0.9988228678703308,
+                8.322356006829068e-05,
+                0.0008150921785272658,
+                6.12464064033702e-05,
+                3.358542744535953e-05,
+                5.847902502864599e-05,
+                6.004271926940419e-05,
+                6.553938146680593e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 1,
+                    "utter": "おはようレシピん～。なっちゃんもおはよ！"
+                },
+                {
+                    "author": "did:plc:wmqrtozu5lpqorqydlonkscv",
+                    "type": 2,
+                    "utter": "ゆにこさん おはよー(*^ω^)ノ今日も寒いよー"
+                },
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 3,
+                    "utter": "さむいねー。福岡は今日からグッと冷え込むよ。あっ、わたしはプリン星に住んでるんだった！"
+                }
+            ],
+            "uri": "at://did:plc:epodh2l4gemzpikzvyesx5dz/app.bsky.feed.post/3lb6hpwvwzk2g",
+            "label": [
+                0.18336790800094604,
+                0.11672849208116531,
+                0.02671170048415661,
+                0.6479851007461548,
+                0.0006221371004357934,
+                0.01823313720524311,
+                0.004119130317121744,
+                0.0022324081510305405
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 1,
+                    "utter": "さむいねー。福岡は今日からグッと冷え込むよ。あっ、わたしはプリン星に住んでるんだった！"
+                },
+                {
+                    "author": "did:plc:wmqrtozu5lpqorqydlonkscv",
+                    "type": 2,
+                    "utter": "福岡は ぐっと冷えるんかぁ～(・ω・`)さむいなぁ プリン星は冷蔵…(違)"
+                },
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 3,
+                    "utter": "あはは。要冷蔵なわたしですよー"
+                }
+            ],
+            "uri": "at://did:plc:epodh2l4gemzpikzvyesx5dz/app.bsky.feed.post/3lb6hxaxjzc2g",
+            "label": [
+                0.1091814860701561,
+                0.4558146595954895,
+                0.004727235995233059,
+                0.036501653492450714,
+                0.0007432508282363415,
+                0.3835439383983612,
+                0.008164318278431892,
+                0.00132356071844697
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 1,
+                    "utter": "あはは。要冷蔵なわたしですよー"
+                },
+                {
+                    "author": "did:plc:wmqrtozu5lpqorqydlonkscv",
+                    "type": 2,
+                    "utter": "ゆにこさんもってレンチンしよう暖かい🍮ができるのら☆(・ω・`)"
+                },
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 3,
+                    "utter": "あったかいんだから～（古い"
+                }
+            ],
+            "uri": "at://did:plc:epodh2l4gemzpikzvyesx5dz/app.bsky.feed.post/3lb6i65s4us2i",
+            "label": [
+                0.6782703995704651,
+                0.20223569869995117,
+                0.0804697647690773,
+                0.0010300735011696815,
+                0.0020578280091285706,
+                0.004437771625816822,
+                0.029171427711844444,
+                0.0023269541561603546
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 1,
+                    "utter": "あったかいんだから～（古い"
+                },
+                {
+                    "author": "did:plc:wmqrtozu5lpqorqydlonkscv",
+                    "type": 2,
+                    "utter": "最近聞かないけどいい歌だよねー さて、お仕事行ってきます(*`･ω･)ゞくまむしだっけ？"
+                },
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 3,
+                    "utter": "うんクマムシ。いまきいてるw 行ってらっしゃい、レシピん。がんばってきてね。応援してるよ！"
+                }
+            ],
+            "uri": "at://did:plc:epodh2l4gemzpikzvyesx5dz/app.bsky.feed.post/3lb6idtltuk2h",
+            "label": [
+                0.0182063989341259,
+                0.0005639049340970814,
+                0.9803480505943298,
+                0.00017379973724018782,
+                0.00013610965106636286,
+                0.00020938256056979299,
+                0.00016217725351452827,
+                0.00020002853125333786
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 1,
+                    "utter": "【見た】パーカーのフードにポケモンのぬいぐるみを入れたお姉さん"
+                },
+                {
+                    "author": "did:plc:wmqrtozu5lpqorqydlonkscv",
+                    "type": 2,
+                    "utter": "！( ˇωˇ ) むっちゃきになるー、"
+                },
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 3,
+                    "utter": "レシピんおはよう！わたしもチラッとしか見てないんだけど、その子は普通にゲーセンでゲームしてて、背中のフードにすっぽりポケモンが入ってるんよね。カンガルーみたいって思ったw"
+                }
+            ],
+            "uri": "at://did:plc:epodh2l4gemzpikzvyesx5dz/app.bsky.feed.post/3lb3xqiuzc22y",
+            "label": [
+                0.15806204080581665,
+                0.0008039294043555856,
+                0.006306330673396587,
+                0.8322277069091797,
+                0.0004492398875299841,
+                0.0005866881110705435,
+                0.0007178900996223092,
+                0.0008461971883662045
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 1,
+                    "utter": "レシピんおはよう！わたしもチラッとしか見てないんだけど、その子は普通にゲーセンでゲームしてて、背中のフードにすっぽりポケモンが入ってるんよね。カンガルーみたいって思ったw"
+                },
+                {
+                    "author": "did:plc:wmqrtozu5lpqorqydlonkscv",
+                    "type": 2,
+                    "utter": "おはよぉ〜(｡･ω･)ﾉﾞ\nむっちゃかわいいー！ 子供かな？ 大人だったら 多分ネタ？って見ちゃうけど"
+                },
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 3,
+                    "utter": "うん、大人と子どもの中間くらいの雰囲気を持った女性だった。最初に書いた通り、お姉さん、お姉ちゃんって感じ。似合ってたよすごく"
+                }
+            ],
+            "uri": "at://did:plc:epodh2l4gemzpikzvyesx5dz/app.bsky.feed.post/3lb3z4rqdos2b",
+            "label": [
+                0.999566376209259,
+                4.5855569624109194e-05,
+                9.581908670952544e-05,
+                0.00010387146176071838,
+                2.646246321091894e-05,
+                4.007424649898894e-05,
+                5.8917576097883284e-05,
+                6.261977250687778e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 1,
+                    "utter": "うん、大人と子どもの中間くらいの雰囲気を持った女性だった。最初に書いた通り、お姉さん、お姉ちゃんって感じ。似合ってたよすごく"
+                },
+                {
+                    "author": "did:plc:wmqrtozu5lpqorqydlonkscv",
+                    "type": 2,
+                    "utter": "そうなんや その場合はきっとネタかな(？)でもゲーセンには色んな人がおるけんおもろいよね( ˇωˇ )✨似合ってたの見てみたかった"
+                },
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 3,
+                    "utter": "見た感じだと「フードはぬいぐるみ入れとくのにちょうどいいな」みたいなフィーリングだったよ。ゲーセン面白いよね、ドラムマニアやりに行ったんだけど、わたし格闘ゲームも出来るから見てて、あちこちに人だかりが出来るのに懐かしさを覚えたよね。集団で対戦してるからさ。それはともかく、フードのお姉さんは見せてあげたかった！"
+                }
+            ],
+            "uri": "at://did:plc:epodh2l4gemzpikzvyesx5dz/app.bsky.feed.post/3lb3zznvcnk2m",
+            "label": [
+                0.984730064868927,
+                0.01093740202486515,
+                0.001634321641176939,
+                0.0011677497532218695,
+                0.00011699869355652481,
+                0.0004931805888190866,
+                0.0005403921823017299,
+                0.00037998336483724415
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 1,
+                    "utter": "見た感じだと「フードはぬいぐるみ入れとくのにちょうどいいな」みたいなフィーリングだったよ。ゲーセン面白いよね、ドラムマニアやりに行ったんだけど、わたし格闘ゲームも出来るから見てて、あちこちに人だかりが出来るのに懐かしさを覚えたよね。集団で対戦してるからさ。それはともかく、フードのお姉さんは見せてあげたかった！"
+                },
+                {
+                    "author": "did:plc:wmqrtozu5lpqorqydlonkscv",
+                    "type": 2,
+                    "utter": "ドラムマニア！聞いたことあるけど最近ある？あまりみかけない気がする( ˇωˇ )昔ギターのもあったよね 格ゲーもいいなぁ眺めるだけは楽しい↩︎"
+                },
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 3,
+                    "utter": "ギターとドラムがあってギタドラって略すんだけど、最近はもう古い台がたまにあるだけだねー。指示通りに叩いたり弾いたりするのはパターンを覚えれば出来るようになるんよ、楽器経験者のわたしには、ちょっと物足りない感じもしました"
+                }
+            ],
+            "uri": "at://did:plc:epodh2l4gemzpikzvyesx5dz/app.bsky.feed.post/3lb42kjln222m",
+            "label": [
+                0.01897580176591873,
+                0.9749730825424194,
+                0.0008044812711887062,
+                0.0018875126261264086,
+                5.9793204854940996e-05,
+                0.0013788065407425165,
+                0.00176826526876539,
+                0.000152259788592346
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 1,
+                    "utter": "ギターとドラムがあってギタドラって略すんだけど、最近はもう古い台がたまにあるだけだねー。指示通りに叩いたり弾いたりするのはパターンを覚えれば出来るようになるんよ、楽器経験者のわたしには、ちょっと物足りない感じもしました"
+                },
+                {
+                    "author": "did:plc:wmqrtozu5lpqorqydlonkscv",
+                    "type": 2,
+                    "utter": "しっとるーあの太鼓の達人みたいなのやね( ˇωˇ )ほえ～ 物足りない感じなんやね？"
+                },
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 3,
+                    "utter": "そうそう、たいたつ的な！わたしは楽器でも楽譜通りにやらないというか、そういう感性だよねってオカンとも話してたよー。でもゲームとしてはめっちゃ面白いとおもう！対戦でヾ(*´∀｀*)ﾉｷｬｯｷｬするのすき"
+                }
+            ],
+            "uri": "at://did:plc:epodh2l4gemzpikzvyesx5dz/app.bsky.feed.post/3lb43bftoac2m",
+            "label": [
+                0.9995874762535095,
+                4.088160130777396e-05,
+                0.00013113953173160553,
+                5.623692413792014e-05,
+                3.7456582504091784e-05,
+                3.8359430618584156e-05,
+                5.406019408837892e-05,
+                5.429139855550602e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 1,
+                    "utter": "楽しかったよ。プリンだよ（プリンキャラをつらぬく"
+                },
+                {
+                    "author": "did:plc:wmqrtozu5lpqorqydlonkscv",
+                    "type": 2,
+                    "utter": "プリンきゃら貫く！٩( 'ω' )و"
+                },
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 3,
+                    "utter": "貫きつつ爆睡してたわたし！ディグダ美味しそうね"
+                }
+            ],
+            "uri": "at://did:plc:epodh2l4gemzpikzvyesx5dz/app.bsky.feed.post/3lazwmcsf2k22",
+            "label": [
+                0.9980655312538147,
+                0.00020374149607960135,
+                0.0010057557374238968,
+                0.00034797785338014364,
+                3.1447241781279445e-05,
+                0.00014833539898972958,
+                9.441710426472127e-05,
+                0.00010281606228090823
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 1,
+                    "utter": "貫きつつ爆睡してたわたし！ディグダ美味しそうね"
+                },
+                {
+                    "author": "did:plc:wmqrtozu5lpqorqydlonkscv",
+                    "type": 2,
+                    "utter": "爆睡してたんやおはよう？ ディグダ多分美味しいはず(あとでみんなで半分こ🌸)"
+                },
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 3,
+                    "utter": "おはよう～（昼すぎ\n半分こいいね、絵も可愛かった♡(*´ `*)ｲﾔｼ､､､"
+                }
+            ],
+            "uri": "at://did:plc:epodh2l4gemzpikzvyesx5dz/app.bsky.feed.post/3lazwy46z7c2t",
+            "label": [
+                0.999639630317688,
+                4.851513585890643e-05,
+                0.00010664819274097681,
+                5.615550253423862e-05,
+                2.5241939511033706e-05,
+                3.794891381403431e-05,
+                4.5139215217204764e-05,
+                4.078384881722741e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 1,
+                    "utter": "おはよう～（昼すぎ\n半分こいいね、絵も可愛かった♡(*´ `*)ｲﾔｼ､､､"
+                },
+                {
+                    "author": "did:plc:wmqrtozu5lpqorqydlonkscv",
+                    "type": 2,
+                    "utter": "半分こ幸せいっぱーいやよ 絵ありがとー( ˇωˇ )"
+                },
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 3,
+                    "utter": "ハピネスをシェアしよう！わたしももうちょっとしたら出かけゆ～"
+                }
+            ],
+            "uri": "at://did:plc:epodh2l4gemzpikzvyesx5dz/app.bsky.feed.post/3lazxg75cqc2p",
+            "label": [
+                0.17618529498577118,
+                0.0014569740742444992,
+                0.8204586505889893,
+                0.0004769581137225032,
+                0.0002973930677399039,
+                0.0003631114377640188,
+                0.00037650068406946957,
+                0.00038510304875671864
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 1,
+                    "utter": "ハピネスをシェアしよう！わたしももうちょっとしたら出かけゆ～"
+                },
+                {
+                    "author": "did:plc:wmqrtozu5lpqorqydlonkscv",
+                    "type": 2,
+                    "utter": "ハピネスをシェア！お母さんとおでかけ？"
+                },
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 3,
+                    "utter": "そうそう～。トイカメラ持って出かけるね、休日を満喫してくるね！"
+                }
+            ],
+            "uri": "at://did:plc:epodh2l4gemzpikzvyesx5dz/app.bsky.feed.post/3lazyleyb6c2p",
+            "label": [
+                0.9047074913978577,
+                0.0006079206359572709,
+                0.09315238147974014,
+                0.0003042890748474747,
+                0.00027222189237363636,
+                0.0003074886044487357,
+                0.00030864894506521523,
+                0.000339620717568323
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 1,
+                    "utter": "そうそう～。トイカメラ持って出かけるね、休日を満喫してくるね！"
+                },
+                {
+                    "author": "did:plc:wmqrtozu5lpqorqydlonkscv",
+                    "type": 2,
+                    "utter": "楽しんできてね！お母さんとのでーと(^^ω)"
+                },
+                {
+                    "author": "did:plc:epodh2l4gemzpikzvyesx5dz",
+                    "type": 3,
+                    "utter": "うんありがとう！レッツゴー٩( ᐛ )و"
+                }
+            ],
+            "uri": "at://did:plc:epodh2l4gemzpikzvyesx5dz/app.bsky.feed.post/3lazyra2xfc25",
+            "label": [
+                0.9995934367179871,
+                5.708245953428559e-05,
+                0.00013983930693939328,
+                5.493489152286202e-05,
+                2.7119378501083702e-05,
+                3.690923404064961e-05,
+                4.785515193361789e-05,
+                4.2707226384663954e-05
+            ]
+        }
+    ]
+}

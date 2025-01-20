@@ -1,0 +1,604 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 1,
+                    "utter": "ずっとモヤモヤしてんのよくない🥺\nなにか熱中できるものはないか？\n久々にあんスタでもするか✨"
+                },
+                {
+                    "author": "did:plc:2kcwmwwqwmfuvks73wodqdkc",
+                    "type": 2,
+                    "utter": "何モヤモヤ！？"
+                },
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 3,
+                    "utter": "色々あるんだよ〜🤪🤟✨"
+                }
+            ],
+            "uri": "at://did:plc:4zfiav3zp3acyqjiwq3tdvzm/app.bsky.feed.post/3lc4yxce5pc2c",
+            "label": [
+                0.9978352189064026,
+                0.00030787999276071787,
+                0.0013284898595884442,
+                0.00010213850328000262,
+                5.755107122240588e-05,
+                0.00010885421215789393,
+                0.00013871575356461108,
+                0.00012124575732741505
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 1,
+                    "utter": "色々あるんだよ〜🤪🤟✨"
+                },
+                {
+                    "author": "did:plc:2kcwmwwqwmfuvks73wodqdkc",
+                    "type": 2,
+                    "utter": "そんな時は、かぶれぇ！！！\n\nMr.パーカージュニア！！！"
+                },
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 3,
+                    "utter": "それで解決するかぁ〜🤪🤟✨"
+                }
+            ],
+            "uri": "at://did:plc:4zfiav3zp3acyqjiwq3tdvzm/app.bsky.feed.post/3lc52nt4w5c2c",
+            "label": [
+                0.542946994304657,
+                0.0027202055789530277,
+                0.45180538296699524,
+                0.0005519467522390187,
+                0.00023732561385259032,
+                0.0006849293713457882,
+                0.0006113798008300364,
+                0.00044173322385177016
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 1,
+                    "utter": "それで解決するかぁ〜🤪🤟✨"
+                },
+                {
+                    "author": "did:plc:2kcwmwwqwmfuvks73wodqdkc",
+                    "type": 2,
+                    "utter": "俺がひとりで画面に向かってやってる事想像して、馬鹿だなぁって思って貰えれば解決だァ！！\n↑↑↑何も解決ではない笑"
+                },
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 3,
+                    "utter": "それはおもろいわ🤣\nそういえば昨日ぶーやんＸでみんなから変態とか言われてた🥺笑"
+                }
+            ],
+            "uri": "at://did:plc:4zfiav3zp3acyqjiwq3tdvzm/app.bsky.feed.post/3lc54mydb6c2o",
+            "label": [
+                0.9979647397994995,
+                8.29640994197689e-05,
+                0.00025860164896585047,
+                0.0013934988528490067,
+                4.006773087894544e-05,
+                0.00010574849875411019,
+                7.704608287895098e-05,
+                7.738356362096965e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 1,
+                    "utter": "それはおもろいわ🤣\nそういえば昨日ぶーやんＸでみんなから変態とか言われてた🥺笑"
+                },
+                {
+                    "author": "did:plc:2kcwmwwqwmfuvks73wodqdkc",
+                    "type": 2,
+                    "utter": "いや、ほんとに🤣\nいないから言いたい放題できるー！って🤣🤣\n\nドスケベヒモ男なんてさー🤣\nドスケベは認めるけど！！！ww"
+                },
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 3,
+                    "utter": "ドスケベヒモ男草\n散々な言われようや😭\n男はみんなドスケベだよ🤪🤟✨"
+                }
+            ],
+            "uri": "at://did:plc:4zfiav3zp3acyqjiwq3tdvzm/app.bsky.feed.post/3lc56baz2ek2o",
+            "label": [
+                0.004225051961839199,
+                0.9693179130554199,
+                0.0002818145148921758,
+                0.005863632075488567,
+                0.001287165330722928,
+                0.0010236157104372978,
+                0.0178358256816864,
+                0.0001648968900553882
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 1,
+                    "utter": "ドスケベヒモ男草\n散々な言われようや😭\n男はみんなドスケベだよ🤪🤟✨"
+                },
+                {
+                    "author": "did:plc:2kcwmwwqwmfuvks73wodqdkc",
+                    "type": 2,
+                    "utter": "困っちゃうよねー🤣🤣🤣\n\n女性もたまに…🫣w\nまあ、男がドスケベで野獣よね🦁🤣"
+                },
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 3,
+                    "utter": "可哀想😢\n\n確かに女性でもドスケベな人はいるよなぁ🤪🤟✨\n野獣は草\n男の人はそういうもんですわww"
+                }
+            ],
+            "uri": "at://did:plc:4zfiav3zp3acyqjiwq3tdvzm/app.bsky.feed.post/3lc57a4qsmc2o",
+            "label": [
+                0.8246512413024902,
+                0.03702899441123009,
+                0.020627746358513832,
+                0.07233749330043793,
+                0.0011929108295589685,
+                0.029587063938379288,
+                0.00895304512232542,
+                0.0056215254589915276
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 1,
+                    "utter": "なんかブルスカ愚痴とかネガティブ発言アカウントになってんなぁ💦\nでもしょうがないじゃん、吐き出さないとやってられないんだよ😭"
+                },
+                {
+                    "author": "did:plc:2kcwmwwqwmfuvks73wodqdkc",
+                    "type": 2,
+                    "utter": "吐き出せ吐きダセェい！！！"
+                },
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 3,
+                    "utter": "ありがと😭\n吐き出す🤮ｵﾛﾛﾛﾛww"
+                }
+            ],
+            "uri": "at://did:plc:4zfiav3zp3acyqjiwq3tdvzm/app.bsky.feed.post/3lbtysqwwos2x",
+            "label": [
+                0.9995032548904419,
+                0.00011016628559445962,
+                5.628680810332298e-05,
+                0.00010790028318297118,
+                2.298164508829359e-05,
+                8.738155156606808e-05,
+                7.399438618449494e-05,
+                3.795784868998453e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 1,
+                    "utter": "ありがと😭\n吐き出す🤮ｵﾛﾛﾛﾛww"
+                },
+                {
+                    "author": "did:plc:2kcwmwwqwmfuvks73wodqdkc",
+                    "type": 2,
+                    "utter": "その吐き出したやつ全部飲み込むね😉😉😉www"
+                },
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 3,
+                    "utter": "あ、これはやべぇ奴ですわ🤣ww\nでもおかげで気にせず吐き出せるわ🤪（？）"
+                }
+            ],
+            "uri": "at://did:plc:4zfiav3zp3acyqjiwq3tdvzm/app.bsky.feed.post/3lbtzad7i5c2x",
+            "label": [
+                0.9961930513381958,
+                0.0004924850654788315,
+                0.000455369969131425,
+                0.0005175799014978111,
+                7.58913010940887e-05,
+                0.0013611804461106658,
+                0.0006857499829493463,
+                0.00021877956169191748
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 1,
+                    "utter": "あ、これはやべぇ奴ですわ🤣ww\nでもおかげで気にせず吐き出せるわ🤪（？）"
+                },
+                {
+                    "author": "did:plc:2kcwmwwqwmfuvks73wodqdkc",
+                    "type": 2,
+                    "utter": "キモさ全1任せて欲しい🤟🤟🤟ww\n\n後処理はちゃんと綺麗にするから！！！ww"
+                },
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 3,
+                    "utter": "ウケる🤣任せるわww\nさすが出来る人は違うわね😎✨ww"
+                }
+            ],
+            "uri": "at://did:plc:4zfiav3zp3acyqjiwq3tdvzm/app.bsky.feed.post/3lbtzlxhzcs2x",
+            "label": [
+                0.9990905523300171,
+                4.67637692054268e-05,
+                0.0003755219222512096,
+                0.00024321732053067535,
+                4.502798037719913e-05,
+                4.9764581490308046e-05,
+                5.5758886446710676e-05,
+                9.33466071728617e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 1,
+                    "utter": "ウケる🤣任せるわww\nさすが出来る人は違うわね😎✨ww"
+                },
+                {
+                    "author": "did:plc:2kcwmwwqwmfuvks73wodqdkc",
+                    "type": 2,
+                    "utter": "キモいおじさんで行くネ‼️www\n何事も無かったかのように綺麗にするヨ‼️w"
+                },
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 3,
+                    "utter": "じゃああたしもキモいおばさんでいくか🤪ww\nやばすんぎ🤣"
+                }
+            ],
+            "uri": "at://did:plc:4zfiav3zp3acyqjiwq3tdvzm/app.bsky.feed.post/3lbu22aqhls2x",
+            "label": [
+                0.05993930995464325,
+                0.0036384582053869963,
+                0.9185914397239685,
+                0.0033695902675390244,
+                0.00045168836368247867,
+                0.007683829870074987,
+                0.005651944782584906,
+                0.0006737438379786909
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 1,
+                    "utter": "じゃああたしもキモいおばさんでいくか🤪ww\nやばすんぎ🤣"
+                },
+                {
+                    "author": "did:plc:2kcwmwwqwmfuvks73wodqdkc",
+                    "type": 2,
+                    "utter": "あなたは違うわよ！\nピチピチのギャルよ！👱🏼‍♀️🤟"
+                },
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 3,
+                    "utter": "えっ、嬉しいこと言ってくれるじゃない☺️✨\nそれを言うならぶーやんだってギャルよ👩🤟✨ww"
+                }
+            ],
+            "uri": "at://did:plc:4zfiav3zp3acyqjiwq3tdvzm/app.bsky.feed.post/3lbu2bk2mlk2x",
+            "label": [
+                0.9994563460350037,
+                6.601876521017402e-05,
+                0.0001238875847775489,
+                0.00018874034867621958,
+                3.101934271398932e-05,
+                3.201651634299196e-05,
+                5.479164610733278e-05,
+                4.715274553745985e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 1,
+                    "utter": "自信がなくなる。\nどうやったら自信が持てるんだ？\n何がいいんだろう？？"
+                },
+                {
+                    "author": "did:plc:2kcwmwwqwmfuvks73wodqdkc",
+                    "type": 2,
+                    "utter": "わかる🥺\n個人的には信頼してる人から言われると自信持てるような気がする…🫣\n\n全く参考にならんけど🫠\nまあ、それでも定期的に自信持てなくなる時ある🫠"
+                },
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 3,
+                    "utter": "だよね、定期的に自信なくなっちゃう😭\n私なんかでいいのか…？って😢\n確かに信頼してる人から言われると自信持てるかも✨"
+                }
+            ],
+            "uri": "at://did:plc:4zfiav3zp3acyqjiwq3tdvzm/app.bsky.feed.post/3lbo2q57rtk25",
+            "label": [
+                0.11411240696907043,
+                0.005088819190859795,
+                0.8748264908790588,
+                0.0009465585462749004,
+                0.00027649544063024223,
+                0.0026244681794196367,
+                0.00044430041452869773,
+                0.001680628047324717
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 1,
+                    "utter": "だよね、定期的に自信なくなっちゃう😭\n私なんかでいいのか…？って😢\n確かに信頼してる人から言われると自信持てるかも✨"
+                },
+                {
+                    "author": "did:plc:2kcwmwwqwmfuvks73wodqdkc",
+                    "type": 2,
+                    "utter": "いいに決まっておろう！！\nミッキーじゃないとダメに決まってる！！😤😤😤\n何か言われたならまだしも、何も言われてなければ大丈夫だぁ💪"
+                },
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 3,
+                    "utter": "ありがとう、自信ついたよ😢\n何か言われたとか全然なくて勝手に自信喪失してるだけ😭\nもっと前向きにいかなきゃね✨"
+                }
+            ],
+            "uri": "at://did:plc:4zfiav3zp3acyqjiwq3tdvzm/app.bsky.feed.post/3lbo3ixkn5s25",
+            "label": [
+                0.9976425766944885,
+                0.00010478551121195778,
+                0.0018706823466345668,
+                8.079386316239834e-05,
+                5.5527907534269616e-05,
+                5.899465759284794e-05,
+                7.764462498016655e-05,
+                0.00010899107292061672
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 1,
+                    "utter": "ありがとう、自信ついたよ😢\n何か言われたとか全然なくて勝手に自信喪失してるだけ😭\nもっと前向きにいかなきゃね✨"
+                },
+                {
+                    "author": "did:plc:2kcwmwwqwmfuvks73wodqdkc",
+                    "type": 2,
+                    "utter": "わかるわかる🥺\nそうなっちゃうの🥺\n\n不安ならその気持ちを本人に打ち明けてもいいかもしれない🤔\nちゃんと応えてくれるはず😤"
+                },
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 3,
+                    "utter": "誰でもそうなっちゃうものかなぁ？？\n本人に打ち明けるかぁ…そうだね、打ち明けてみてもいいかもしれない😢✨"
+                }
+            ],
+            "uri": "at://did:plc:4zfiav3zp3acyqjiwq3tdvzm/app.bsky.feed.post/3lbo47cmhvs25",
+            "label": [
+                0.0005397620843723416,
+                0.000482529285363853,
+                0.9984714388847351,
+                0.00012506748316809535,
+                3.975577783421613e-05,
+                0.00019953596347477287,
+                7.123949035303667e-05,
+                7.059415656840429e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 1,
+                    "utter": "誰でもそうなっちゃうものかなぁ？？\n本人に打ち明けるかぁ…そうだね、打ち明けてみてもいいかもしれない😢✨"
+                },
+                {
+                    "author": "did:plc:2kcwmwwqwmfuvks73wodqdkc",
+                    "type": 2,
+                    "utter": "自信持てない人はなっちゃうかも？💦\n\n言いづらければ無理に打ち明けなくてもね💦\n不安になったらいつでもいいなさい！\nアタシが褒めちぎるわ！👩"
+                },
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 3,
+                    "utter": "うん、なかなか自分に自信持つのは難しいよね😢\n\nありがと、ちょっと自信出たよ☺️✨"
+                }
+            ],
+            "uri": "at://did:plc:4zfiav3zp3acyqjiwq3tdvzm/app.bsky.feed.post/3lbo4kjvpzc25",
+            "label": [
+                0.9995152950286865,
+                5.4095638915896416e-05,
+                0.0002066117594949901,
+                5.820281876367517e-05,
+                3.0023969884496182e-05,
+                3.820089477812871e-05,
+                4.7284633183153346e-05,
+                5.032208719057962e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 1,
+                    "utter": "うん、なかなか自分に自信持つのは難しいよね😢\n\nありがと、ちょっと自信出たよ☺️✨"
+                },
+                {
+                    "author": "did:plc:2kcwmwwqwmfuvks73wodqdkc",
+                    "type": 2,
+                    "utter": "そうなのよ🥺🥺\n\nそうよ！あなた最高なんだから☺️"
+                },
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 3,
+                    "utter": "ぶーやんも最高よ☺️\n自信持ってこうね✨"
+                }
+            ],
+            "uri": "at://did:plc:4zfiav3zp3acyqjiwq3tdvzm/app.bsky.feed.post/3lbo4x5fdvc25",
+            "label": [
+                0.999578058719635,
+                4.821902621188201e-05,
+                0.0001537620701128617,
+                5.900834730709903e-05,
+                2.987344669236336e-05,
+                3.930582170141861e-05,
+                4.661729690269567e-05,
+                4.5166532800067216e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 1,
+                    "utter": "サモラン、ドンブラコランダムカンスト編成を仕事で時間がなくて逃す😭\nあんまりにもあんまりだ😢"
+                },
+                {
+                    "author": "did:plc:2kcwmwwqwmfuvks73wodqdkc",
+                    "type": 2,
+                    "utter": "ぬわぁぁぁぁぁぁぁ\n時間ない時の悲しみ😭"
+                },
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 3,
+                    "utter": "いつも編成いい時夜勤でする時間ないんだよね😭\n気長にいい編成待つしかないね😢"
+                }
+            ],
+            "uri": "at://did:plc:4zfiav3zp3acyqjiwq3tdvzm/app.bsky.feed.post/3l5vehju5al23",
+            "label": [
+                0.0011869450099766254,
+                0.9875680208206177,
+                0.010240666568279266,
+                0.00016109869466163218,
+                9.31470058276318e-05,
+                0.00036393897607922554,
+                0.0003063174372073263,
+                8.009727753233165e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 1,
+                    "utter": "いつも編成いい時夜勤でする時間ないんだよね😭\n気長にいい編成待つしかないね😢"
+                },
+                {
+                    "author": "did:plc:2kcwmwwqwmfuvks73wodqdkc",
+                    "type": 2,
+                    "utter": "わかるわかる😭\nそういう時は仕事が憎い( ≖_≖)\n\n悲しみ😭😭"
+                },
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 3,
+                    "utter": "ニートになりたい🤪ww\nいつかカンスト出来るといいけど😭\n\n出来そうな時頑張る😤💪"
+                }
+            ],
+            "uri": "at://did:plc:4zfiav3zp3acyqjiwq3tdvzm/app.bsky.feed.post/3l5veuvy4hh25",
+            "label": [
+                0.0004523622046690434,
+                0.0002432634064462036,
+                0.9989615678787231,
+                8.83973843883723e-05,
+                5.196118581807241e-05,
+                8.350647840416059e-05,
+                6.909039802849293e-05,
+                5.0020265916828066e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 1,
+                    "utter": "ニートになりたい🤪ww\nいつかカンスト出来るといいけど😭\n\n出来そうな時頑張る😤💪"
+                },
+                {
+                    "author": "did:plc:2kcwmwwqwmfuvks73wodqdkc",
+                    "type": 2,
+                    "utter": "ニートなろ🤪笑\n私ほぼニートみたいなもん🤪🤪🤪笑\n時間さえあればね😭\n時間が無い時キツイ😭\n\nファイティンᕦ(ò_óˇ)ᕤ\n応援してる！"
+                },
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 3,
+                    "utter": "ぶーやんニートなん？\n最高やん🤪🤪🤪\nお家継ぐんだっけ？\n大変そうだけどな😢\n\nきっといつかカンスト出来るさ…たぶん…🙄笑"
+                }
+            ],
+            "uri": "at://did:plc:4zfiav3zp3acyqjiwq3tdvzm/app.bsky.feed.post/3l5vf7jznqr2j",
+            "label": [
+                0.9874182939529419,
+                0.00029198871925473213,
+                0.011592907831072807,
+                0.00023031207092572004,
+                8.311588317155838e-05,
+                0.0001112772588385269,
+                0.00011843561514979228,
+                0.00015368728782050312
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 1,
+                    "utter": "ぶーやんニートなん？\n最高やん🤪🤪🤪\nお家継ぐんだっけ？\n大変そうだけどな😢\n\nきっといつかカンスト出来るさ…たぶん…🙄笑"
+                },
+                {
+                    "author": "did:plc:2kcwmwwqwmfuvks73wodqdkc",
+                    "type": 2,
+                    "utter": "ずっと家に居るからニートや🤪🤪笑\nそうそう笑\n農業👨‍🌾\n普通に外で働いてる人の方が大変だと思うよ🥺\n個人的にはね💦\n\n行けるいけるぅ🤟🤟"
+                },
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 3,
+                    "utter": "いや農業も大変やん😭\nあたし農業とか絶対無理やもんww\n偉いわ👏\n\nマジで働かずゲームだけしてたいよな🤪"
+                }
+            ],
+            "uri": "at://did:plc:4zfiav3zp3acyqjiwq3tdvzm/app.bsky.feed.post/3l5vflqruf423",
+            "label": [
+                0.019265083596110344,
+                0.4505874812602997,
+                0.009602357633411884,
+                0.4298781156539917,
+                0.0013461410999298096,
+                0.05443938449025154,
+                0.03312637284398079,
+                0.0017549005569890141
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 1,
+                    "utter": "いや農業も大変やん😭\nあたし農業とか絶対無理やもんww\n偉いわ👏\n\nマジで働かずゲームだけしてたいよな🤪"
+                },
+                {
+                    "author": "did:plc:2kcwmwwqwmfuvks73wodqdkc",
+                    "type": 2,
+                    "utter": "全然大変じゃないよー🤭\n社会人やってる人の方が大変だと感じる🫣\n\n農業なんてやりたがる人なんて居ないよ😂😂\nしんどさを知ってる人からすれば笑\n\nほんとそれ！\n最近疲れてて何もやるが起きない🤣"
+                },
+                {
+                    "author": "did:plc:4zfiav3zp3acyqjiwq3tdvzm",
+                    "type": 3,
+                    "utter": "本当？まぁ人それぞれ考え方は違うけどあたしは農業の方がずっと大変そうだと思うわ😢\n\n最近の若い子は特に農業とかしないかもね😭\nぶーやんお家継いで偉いわ👏\n\nニートで楽してぇよぉ🤪🤟✨"
+                }
+            ],
+            "uri": "at://did:plc:4zfiav3zp3acyqjiwq3tdvzm/app.bsky.feed.post/3l5vg76kff22x",
+            "label": [
+                0.015181361697614193,
+                0.04245452955365181,
+                0.7022688388824463,
+                0.17108753323554993,
+                0.01017891988158226,
+                0.002810252830386162,
+                0.05128966644406319,
+                0.004729010164737701
+            ]
+        }
+    ]
+}

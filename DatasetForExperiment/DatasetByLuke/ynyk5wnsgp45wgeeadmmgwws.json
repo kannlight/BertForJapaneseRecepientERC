@@ -1,0 +1,514 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 1,
+                    "utter": "迎えありがとう、俺はリンクだ。\n\nよろしく頼むよ。"
+                },
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 2,
+                    "utter": "私は潜水艦I-507のメンタルモデル···人間たちの間では、私は魔女と呼ばれているよ。\nよろしくねぇ？"
+                },
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 3,
+                    "utter": "ああ、よろしく頼むよ"
+                }
+            ],
+            "uri": "at://did:plc:ynyk5wnsgp45wgeeadmmgwws/app.bsky.feed.post/3lb7wb2d2xs2p",
+            "label": [
+                0.004043058957904577,
+                0.00043133896542713046,
+                0.9949363470077515,
+                0.00011820152576547116,
+                8.270279067801312e-05,
+                0.0001563826372148469,
+                0.00013166228018235415,
+                0.00010022825881605968
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 1,
+                    "utter": "ああ、よろしく頼むよ"
+                },
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 2,
+                    "utter": "えぇ···♪\nそれにしても、貴方からは不思議な力を感じるわねぇ？"
+                },
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 3,
+                    "utter": "え、そうか？"
+                }
+            ],
+            "uri": "at://did:plc:ynyk5wnsgp45wgeeadmmgwws/app.bsky.feed.post/3lb7xgw3tg22p",
+            "label": [
+                0.0003777820384129882,
+                0.0004579038650263101,
+                0.0004884892259724438,
+                0.997853696346283,
+                0.00023016771592665464,
+                0.00026711818645708263,
+                0.0002269695687573403,
+                9.778219828149304e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 1,
+                    "utter": "え、そうか？"
+                },
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 2,
+                    "utter": "あぁ···私は兵器として存在しているが···相手の力や感情等が流れ込みやすい体質でねぇ···他の人間たちには無い力を感じたのさ。"
+                },
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 3,
+                    "utter": "ドキドキするな。"
+                }
+            ],
+            "uri": "at://did:plc:ynyk5wnsgp45wgeeadmmgwws/app.bsky.feed.post/3lb7xvadqjs2p",
+            "label": [
+                0.05921854078769684,
+                0.0011118148686364293,
+                0.879314661026001,
+                0.004407284315675497,
+                0.0003477428399492055,
+                0.0545039065182209,
+                0.00037594244349747896,
+                0.000720251991879195
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 1,
+                    "utter": "ドキドキするな。"
+                },
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 2,
+                    "utter": "ドキドキ···？"
+                },
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 3,
+                    "utter": "俺はそんなに力があるというか、パワーがあるのかな。"
+                }
+            ],
+            "uri": "at://did:plc:ynyk5wnsgp45wgeeadmmgwws/app.bsky.feed.post/3lba23hz6s22i",
+            "label": [
+                0.013801670633256435,
+                0.0060351211577653885,
+                0.02816614881157875,
+                0.004625194240361452,
+                0.00028205622220411897,
+                0.9453883767127991,
+                0.000998356263153255,
+                0.0007030237466096878
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 1,
+                    "utter": "おはようだぜ。"
+                },
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 2,
+                    "utter": "(にこり、背中の翼でリンクをつつみ)"
+                },
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 3,
+                    "utter": "おはよう、エリス"
+                }
+            ],
+            "uri": "at://did:plc:ynyk5wnsgp45wgeeadmmgwws/app.bsky.feed.post/3lbv3a4piu22z",
+            "label": [
+                0.9994332194328308,
+                6.961421604501083e-05,
+                0.00023898521612863988,
+                6.639063212787732e-05,
+                2.709510226850398e-05,
+                3.50437403540127e-05,
+                7.586656283820048e-05,
+                5.387990313465707e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 1,
+                    "utter": "おはよう、エリス"
+                },
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 2,
+                    "utter": "私の種族わかるかしら…？"
+                },
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 3,
+                    "utter": "天使かな"
+                }
+            ],
+            "uri": "at://did:plc:ynyk5wnsgp45wgeeadmmgwws/app.bsky.feed.post/3lbv3cxsbcs2z",
+            "label": [
+                0.9952940344810486,
+                0.00021764005941804498,
+                0.0037563308142125607,
+                0.00022482404892798513,
+                4.9032267270376906e-05,
+                0.00010782989556901157,
+                0.00012270236038602889,
+                0.00022766171605326235
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 1,
+                    "utter": "天使かな"
+                },
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 2,
+                    "utter": "フェザーフォルクっていう有翼人なの。"
+                },
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 3,
+                    "utter": "なるほど…、天使だと思ったよ。"
+                }
+            ],
+            "uri": "at://did:plc:ynyk5wnsgp45wgeeadmmgwws/app.bsky.feed.post/3lbv3ksqttc2i",
+            "label": [
+                0.0024382302071899176,
+                0.00044015925959683955,
+                0.000705431797541678,
+                0.9956731200218201,
+                0.00013711737119592726,
+                0.0002098212717100978,
+                0.00022914493456482887,
+                0.00016692523786332458
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 1,
+                    "utter": "なるほど…、天使だと思ったよ。"
+                },
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 2,
+                    "utter": "♪"
+                },
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 3,
+                    "utter": "︎💕︎︎"
+                }
+            ],
+            "uri": "at://did:plc:ynyk5wnsgp45wgeeadmmgwws/app.bsky.feed.post/3lbv3mew2zc2p",
+            "label": [
+                0.9995495676994324,
+                6.904258043505251e-05,
+                0.00015658869233448058,
+                5.171464727027342e-05,
+                2.7901578505407088e-05,
+                4.0054128476185724e-05,
+                6.112454138929024e-05,
+                4.410469045978971e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 1,
+                    "utter": "︎💕︎︎"
+                },
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 2,
+                    "utter": "(背中の翼でリンクを撫で)"
+                },
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 3,
+                    "utter": "気持ちいいよ︎💕︎︎"
+                }
+            ],
+            "uri": "at://did:plc:ynyk5wnsgp45wgeeadmmgwws/app.bsky.feed.post/3lbv3ygro2s26",
+            "label": [
+                0.9996107220649719,
+                4.4054795580450445e-05,
+                0.0001182508931378834,
+                5.900870019104332e-05,
+                3.0035715099074878e-05,
+                4.259927663952112e-05,
+                5.421081368695013e-05,
+                4.128630826016888e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 1,
+                    "utter": "可愛い"
+                },
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 2,
+                    "utter": "///"
+                },
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 3,
+                    "utter": "照れてるー"
+                }
+            ],
+            "uri": "at://did:plc:ynyk5wnsgp45wgeeadmmgwws/app.bsky.feed.post/3lbhce4m6322l",
+            "label": [
+                0.9925236105918884,
+                0.0010555725311860442,
+                0.0019841727335006,
+                0.0014827116392552853,
+                6.774983194191009e-05,
+                0.0023343574721366167,
+                0.0003268370928708464,
+                0.00022497658210340887
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 1,
+                    "utter": "照れてるー"
+                },
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 2,
+                    "utter": "わ、わたし…どんなシスターに見えてますか…？"
+                },
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 3,
+                    "utter": "神の加護を持つシスターだ。"
+                }
+            ],
+            "uri": "at://did:plc:ynyk5wnsgp45wgeeadmmgwws/app.bsky.feed.post/3lbhcoss3js2l",
+            "label": [
+                0.9969742298126221,
+                0.0001756329438649118,
+                0.0014271967811509967,
+                0.0002929772308561951,
+                9.995702566811815e-05,
+                0.00019742967560887337,
+                0.0001650097983656451,
+                0.0006675893673673272
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 1,
+                    "utter": "どんなお姫様って、君はいつもお転婆だよ"
+                },
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 2,
+                    "utter": "ゼルダ『ここでの私、よ？（口調どう…？）』"
+                },
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 3,
+                    "utter": "変なじゃないから大丈夫"
+                }
+            ],
+            "uri": "at://did:plc:ynyk5wnsgp45wgeeadmmgwws/app.bsky.feed.post/3lb4yel2vmc2e",
+            "label": [
+                0.04014010727405548,
+                0.0020671195816248655,
+                0.11887793242931366,
+                0.0011661368189379573,
+                0.0022403430193662643,
+                0.8274173736572266,
+                0.0032902564853429794,
+                0.0048007178120315075
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 1,
+                    "utter": "ああ、わかったよ"
+                },
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 2,
+                    "utter": "リンク、これでいいかしら"
+                },
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 3,
+                    "utter": "大丈夫"
+                }
+            ],
+            "uri": "at://did:plc:ynyk5wnsgp45wgeeadmmgwws/app.bsky.feed.post/3lb4zumufpk2m",
+            "label": [
+                0.26492780447006226,
+                0.004616284742951393,
+                0.28370586037635803,
+                0.0015581261832267046,
+                0.0034533182624727488,
+                0.4281459152698517,
+                0.004023535177111626,
+                0.009569204412400723
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 1,
+                    "utter": "こちらこそ。"
+                },
+                {
+                    "author": "did:plc:yqluiblkffwma54ob4latfcl",
+                    "type": 2,
+                    "utter": "えぇ！私は三玖よろしくね♪、スマブラはしてるよ！"
+                },
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 3,
+                    "utter": "そうか、こっち最近やってないな……。\n\n時々やってるが。"
+                }
+            ],
+            "uri": "at://did:plc:ynyk5wnsgp45wgeeadmmgwws/app.bsky.feed.post/3lagdp3xszi2m",
+            "label": [
+                0.23984192311763763,
+                0.057318806648254395,
+                0.011865603737533092,
+                0.6593316197395325,
+                0.0006947150104679167,
+                0.022439634427428246,
+                0.005464085843414068,
+                0.0030436634551733732
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 1,
+                    "utter": "そうか、こっち最近やってないな……。\n\n時々やってるが。"
+                },
+                {
+                    "author": "did:plc:yqluiblkffwma54ob4latfcl",
+                    "type": 2,
+                    "utter": "なるほど、私も久々にしてるけどメインはソラとベレスだよ！カズヤと！"
+                },
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 3,
+                    "utter": "戦国好きの君がスマブラやってるとはね。\n\n俺の背後はリンク3人組使ってるぜ！"
+                }
+            ],
+            "uri": "at://did:plc:ynyk5wnsgp45wgeeadmmgwws/app.bsky.feed.post/3lagerofuxe22",
+            "label": [
+                0.008217932656407356,
+                0.0007775004487484694,
+                0.00121477956417948,
+                0.9888840913772583,
+                0.000193955420400016,
+                0.0002605183399282396,
+                0.00022868468658998609,
+                0.00022259398247115314
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 1,
+                    "utter": "戦国好きの君がスマブラやってるとはね。\n\n俺の背後はリンク3人組使ってるぜ！"
+                },
+                {
+                    "author": "did:plc:yqluiblkffwma54ob4latfcl",
+                    "type": 2,
+                    "utter": "なるほど！リンクメインですか！時々おじさんことガノン使ってるよ！"
+                },
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 3,
+                    "utter": "ネーム使いながらやってる。"
+                }
+            ],
+            "uri": "at://did:plc:ynyk5wnsgp45wgeeadmmgwws/app.bsky.feed.post/3lagjl4dodn22",
+            "label": [
+                0.4891209602355957,
+                0.002888785907998681,
+                0.49959489703178406,
+                0.0008901825058273971,
+                0.0005290251574479043,
+                0.003987216390669346,
+                0.001344831776805222,
+                0.0016440007602795959
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 1,
+                    "utter": "ネーム使いながらやってる。"
+                },
+                {
+                    "author": "did:plc:yqluiblkffwma54ob4latfcl",
+                    "type": 2,
+                    "utter": "なるほど！私が1番使うならソラだよ"
+                },
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 3,
+                    "utter": "こっちは1番目は俺、2番目はトゥーンで3番目はこどもリンクだ。"
+                }
+            ],
+            "uri": "at://did:plc:ynyk5wnsgp45wgeeadmmgwws/app.bsky.feed.post/3laglgqiu222s",
+            "label": [
+                0.9905630350112915,
+                0.0004008374526165426,
+                0.007752812933176756,
+                0.00018767558503895998,
+                0.00013900974590796977,
+                0.00029966916190460324,
+                0.0002954697993118316,
+                0.00036151224048808217
+            ]
+        }
+    ]
+}
