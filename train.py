@@ -157,8 +157,8 @@ def main():
     dataset_val = unpack_tokenize(packs_val)
     # データローダ作成
     # (num_talk)->(num_batches,batch_size)
-    dataloader_train = DataLoader(dataset_train, num_workers=19, batch_size=32)
-    dataloader_val = DataLoader(dataset_val, num_workers=19, batch_size=256)
+    dataloader_train = DataLoader(dataset_train, num_workers=2, batch_size=32)
+    dataloader_val = DataLoader(dataset_val, num_workers=2, batch_size=32)
 
     # ハイパーパラメータ
     max_epochs = 10 # 学習のエポック数
