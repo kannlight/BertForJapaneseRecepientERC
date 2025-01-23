@@ -1,0 +1,7 @@
+dropout: 0.1
+lr: 1.0e-06
+model_name: tohoku-nlp/bert-base-japanese-whole-word-masking
+num_labels: 8
+total_steps: 6190
+warmup_steps: 619
+weight_decay: 0.1

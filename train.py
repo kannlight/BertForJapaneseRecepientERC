@@ -147,8 +147,8 @@ class BertForJapaneseRecepientERC(pl.LightningModule):
 def main():
     # データセットから対話パック(対話データの配列)を読み込み
     # ->(num_packs,pack_size)
-    packs_train = load_pack('./DatasetForExperiment2/DatasetTrain.json')
-    packs_val = load_pack('./DatasetForExperiment2/DatasetVal.json')
+    packs_train = load_pack('DatasetTrain.json')
+    packs_val = load_pack('DatasetVal.json')
     # 訓練データのパックはシャッフル
     random.shuffle(packs_train)
     # パックを崩して対話データをトークン化
@@ -164,7 +164,7 @@ def main():
     max_epochs = 10 # 学習のエポック数
     total_steps = len(dataloader_train) * max_epochs
     warmup_steps = int(0.1 * total_steps) # ウォームアップの適用期間
-    lr = 1e-4 # 初期学習率
+    lr = 3e-5 # 初期学習率
     wd = 0.1 # 重み減衰率
     dropout = 0.1 # 全結合前のドロップアウト率
 
