@@ -38,43 +38,44 @@ cf = torch.tensor(class_frequency).cuda()
 ICFweight = 1 / cf
 ICFweight = ICFweight / torch.sum(ICFweight)
 
-def load_pack(filename):
+def tokenize_pack(filename):
+    # データセットの対話パック(対話データの配列)をトークン化して返す関数
+    dataset_for_loader = []
     # データセットから対話データを読み込む
     data = {}
     with open(filename, 'r', encoding='utf-8') as f:
         data = json.load(f)
-    # 対話パックのリストを返す
-    return data['data']
-
-def unpack_tokenize(pack_list):
-    # データセットの対話パック(対話データの配列)をトークン化して対話ごとのリストで返す関数
-    dataset_for_loader = []
 
     # 各対話をトークン化して追加
-    for pack in pack_list:
-        for talk in pack:
-            # 1発話目(受信者の発話)と2発話目(送信者の発話)を取り出す（複数続いたら改行で繋げる）
-            t1 = []
-            t2 = []
-            for utter in talk['talk']:
-                if utter['type'] == 1:
-                    t1.append(utter['utter'])
-                if utter['type'] == 2:
-                    t2.append(utter['utter'])
-            text1 = '\n'.join(t1)
-            text2 = '\n'.join(t2)
-            # 対話データをトークン化
+    if 'data' in data:
+        for pack in data['data']:
+            text1 = []
+            text2 = []
+            for talk in pack:
+                # 1発話目(受信者の発話)と2発話目(送信者の発話)を取り出す（複数続いたら改行で繋げる）
+                t1 = []
+                t2 = []
+                for utter in talk['talk']:
+                    if utter['type'] == 1:
+                        t1.append(utter['utter'])
+                    if utter['type'] == 2:
+                        t2.append(utter['utter'])
+                text1.append('\n'.join(t1))
+                text2.append('\n'.join(t2))
+            # 1パック分の対話データをまとめてトークン化
             token=tokenizer(
                 text1, text2,
                 truncation=True,
                 max_length=MAX_LENGTH,
                 padding="max_length",
+                return_tensors="pt"
             )
             # ラベル付け
-            token['labels'] = talk['label']
+            labels = []
+            for talk in pack:
+                labels.append(talk['label'])
             # バリューをテンソル化して追加
-            token = { k: torch.tensor(v) for k, v in token.items() }
-            # トークン化されたこの対話をリストに追加
+            token['labels'] = torch.tensor(labels)
             dataset_for_loader.append(token)
     return dataset_for_loader
 
@@ -151,24 +152,28 @@ class BertForJapaneseRecepientERC(pl.LightningModule):
         else:
             return optimizer
 
+def unpack_batch(batch):
+    # (batch_size,pack_size)->(batch_size)
+    collated_batch = {key: torch.cat([item[key] for item in batch], dim=0) for key in batch[0].keys()}
+    return collated_batch
+
 def main():
-    # データセットから対話パック(対話データの配列)を読み込み
-    # ->(num_packs,pack_size)
-    packs_train = load_pack('./DatasetForExperiment2/DatasetTrain.json')
-    packs_val = load_pack('./DatasetForExperiment2/DatasetVal.json')
-    # 訓練データのパックはシャッフル
-    random.shuffle(packs_train)
-    # パックを崩して対話データをトークン化
-    # (num_packs,pack_size)->(num_talk)
-    dataset_train = unpack_tokenize(packs_train)
-    dataset_val = unpack_tokenize(packs_val)
+    # データセットから対話パック(対話データの配列)をトークン化
+    # (num_packs,pack_size)
+    dataset_train = tokenize_pack('./DatasetForExperiment2/DatasetTrain.json')
+    dataset_val = tokenize_pack('./DatasetForExperiment2/DatasetVal.json')
 
     acc_batches = 4 # 累積勾配を適用するバッチサイズ(適用しないならNone)
     
-    # データローダ作成
-    # (num_talk)->(num_batches,batch_size)
-    dataloader_train = DataLoader(dataset_train, num_workers=2, batch_size=int(32/acc_batches))
-    dataloader_val = DataLoader(dataset_val, num_workers=2, batch_size=32)
+    # データローダ作成(呼び出し時にパックをばらす)
+    # (num_packs,pack_size)->(num_batches,batch_size*pack_size)
+    dataloader_train = DataLoader(
+        dataset_train, num_workers=2, batch_size=int(16/acc_batches),
+        shuffle=True, collate_fn=unpack_batch
+    )
+    dataloader_val = DataLoader(
+        dataset_val, num_workers=2, batch_size=16, collate_fn=unpack_batch
+    )
 
     # ハイパーパラメータ
     max_epochs = 10 # 学習のエポック数
