@@ -160,8 +160,8 @@ def unpack_batch(batch):
 def main():
     # データセットから対話パック(対話データの配列)をトークン化
     # (num_packs,pack_size)
-    dataset_train = tokenize_pack('./DatasetForExperiment2/DatasetTrain.json')
-    dataset_val = tokenize_pack('./DatasetForExperiment2/DatasetVal.json')
+    dataset_train = tokenize_pack('./DatasetTrain.json')
+    dataset_val = tokenize_pack('./DatasetVal.json')
 
     acc_batches = 4 # 累積勾配を適用するバッチサイズ(適用しないならNone)
     
