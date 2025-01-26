@@ -110,7 +110,12 @@ class BertForJapaneseRecepientERC(pl.LightningModule):
         # 損失関数にCEではなくICFを用いる
         loss_func = torch.nn.CrossEntropyLoss(weight = ICFweight)
         loss = loss_func(output.logits.view(-1,self.hparams.num_labels), batch['labels'].view(-1,self.hparams.num_labels))
-        self.log('train_loss', loss)
+
+        if self.trainer.accumulate_grad_batches is not None:
+            if (batch_idx + 1) % self.trainer.accumulate_grad_batches == 0:
+                self.log('train_loss', loss)
+        else:
+            self.log('train_loss', loss)
         return loss
     
     # 検証データを受け取って損失を返すメソッド
@@ -140,6 +145,8 @@ class BertForJapaneseRecepientERC(pl.LightningModule):
                 num_warmup_steps=self.hparams.warmup_steps,
                 num_training_steps=self.hparams.total_steps
             )
+            if self.trainer.accumulate_grad_batches is not None:
+                return [optimizer], [{"scheduler": scheduler, "interval": "step", "frequency": self.trainer.accumulate_grad_batches}]
             return [optimizer], [{"scheduler": scheduler, "interval": "step", "frequency": 1}]
         else:
             return optimizer
@@ -147,22 +154,27 @@ class BertForJapaneseRecepientERC(pl.LightningModule):
 def main():
     # データセットから対話パック(対話データの配列)を読み込み
     # ->(num_packs,pack_size)
-    packs_train = load_pack('DatasetTrain.json')
-    packs_val = load_pack('DatasetVal.json')
+    packs_train = load_pack('./DatasetForExperiment2/DatasetTrain.json')
+    packs_val = load_pack('./DatasetForExperiment2/DatasetVal.json')
     # 訓練データのパックはシャッフル
     random.shuffle(packs_train)
     # パックを崩して対話データをトークン化
     # (num_packs,pack_size)->(num_talk)
     dataset_train = unpack_tokenize(packs_train)
     dataset_val = unpack_tokenize(packs_val)
+
+    acc_batches = 4 # 累積勾配を適用するバッチサイズ(適用しないならNone)
+    
     # データローダ作成
     # (num_talk)->(num_batches,batch_size)
-    dataloader_train = DataLoader(dataset_train, num_workers=2, batch_size=32)
+    dataloader_train = DataLoader(dataset_train, num_workers=2, batch_size=int(32/acc_batches))
     dataloader_val = DataLoader(dataset_val, num_workers=2, batch_size=32)
 
     # ハイパーパラメータ
     max_epochs = 10 # 学習のエポック数
     total_steps = len(dataloader_train) * max_epochs
+    if acc_batches is not None:
+        total_steps /= acc_batches
     warmup_steps = int(0.1 * total_steps) # ウォームアップの適用期間
     lr = 3e-5 # 初期学習率
     wd = 0.1 # 重み減衰率
@@ -178,6 +190,7 @@ def main():
     )
     # 学習方法の指定
     trainer = pl.Trainer(
+        accumulate_grad_batches = acc_batches, # 累積勾配4ステップ分
         accelerator = 'gpu', # 学習にgpuを使用
         devices = 1, # gpuの個数
         max_epochs = max_epochs, # 学習のエポック数
