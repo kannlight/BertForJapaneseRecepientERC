@@ -6,6 +6,7 @@ import torch
 from torch.utils.data import DataLoader
 from transformers import BertJapaneseTokenizer, BertForSequenceClassification, get_scheduler
 import pytorch_lightning as pl
+from pytorch_lightning.callbacks import ModelCheckpoint, EarlyStopping
 from sklearn.metrics import classification_report
 
 MODEL_NAME = 'tohoku-nlp/bert-base-japanese-whole-word-masking'
@@ -186,12 +187,18 @@ def main():
     dropout = 0.1 # 全結合前のドロップアウト率
 
     # ファインチューニングの設定
-    checkpoint = pl.callbacks.ModelCheckpoint(
+    checkpoint = ModelCheckpoint(
         monitor = 'val_loss',
         mode = 'min', # monitorの値が小さいモデルを保存
         save_top_k = 1, # 最小のモデルだけ保存
         save_weights_only = True, # モデルの重みのみを保存
         dirpath='model/' # 保存先
+    )
+    # early stopping の設定
+    early_stopping = EarlyStopping(
+        monitor='val_loss',
+        patience=3,  # 3エポック性能が向上しなければ停止
+        mode='min'
     )
     # 学習方法の指定
     trainer = pl.Trainer(
@@ -199,8 +206,9 @@ def main():
         accelerator = 'gpu', # 学習にgpuを使用
         devices = 1, # gpuの個数
         max_epochs = max_epochs, # 学習のエポック数
-        callbacks = [checkpoint],
+        callbacks = [checkpoint, early_stopping],
     )
+
     # ハイパーパラメータを指定してモデルをロード
     model = BertForJapaneseRecepientERC(
         lr=lr,
