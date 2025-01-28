@@ -161,19 +161,19 @@ def unpack_batch(batch):
 def main():
     # データセットから対話パック(対話データの配列)をトークン化
     # (num_packs,pack_size)
-    dataset_train = tokenize_pack('./DatasetTrain.json')
-    dataset_val = tokenize_pack('./DatasetVal.json')
+    dataset_train = tokenize_pack('./DatasetForExperiment2/DatasetTrain.json')
+    dataset_val = tokenize_pack('./DatasetForExperiment2/DatasetVal.json')
 
-    acc_batches = 4 # 累積勾配を適用するバッチサイズ(適用しないならNone)
+    acc_batches = None # 累積勾配を適用するバッチサイズ(適用しないならNone)
     
     # データローダ作成(呼び出し時にパックをばらす)
     # (num_packs,pack_size)->(num_batches,batch_size*pack_size)
     dataloader_train = DataLoader(
-        dataset_train, num_workers=2, batch_size=int(16/acc_batches),
+        dataset_train, num_workers=2, batch_size=4,
         shuffle=True, collate_fn=unpack_batch
     )
     dataloader_val = DataLoader(
-        dataset_val, num_workers=2, batch_size=16, collate_fn=unpack_batch
+        dataset_val, num_workers=2, batch_size=4, collate_fn=unpack_batch
     )
 
     # ハイパーパラメータ
@@ -182,7 +182,7 @@ def main():
     if acc_batches is not None:
         total_steps /= acc_batches
     warmup_steps = int(0.1 * total_steps) # ウォームアップの適用期間
-    lr = 1e-4 # 初期学習率
+    lr = 3e-5 # 初期学習率
     wd = 0.1 # 重み減衰率
     dropout = 0.1 # 全結合前のドロップアウト率
 

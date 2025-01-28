@@ -24,7 +24,7 @@ CATEGORIES = [
 ]
 MAX_LENGTH = 512
 
-test_data_file = './DatasetTest.json'
+test_data_file = './DatasetForExperiment2/DatasetTest.json'
 
 def test():
     # データセットから対話データを読み込む
