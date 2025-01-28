@@ -113,11 +113,9 @@ class BertForJapaneseRecepientERC(pl.LightningModule):
         loss_func = torch.nn.CrossEntropyLoss(weight = ICFweight)
         loss = loss_func(output.logits.view(-1,self.hparams.num_labels), batch['labels'].view(-1,self.hparams.num_labels))
 
-        if self.trainer.accumulate_grad_batches is not None:
-            if (batch_idx + 1) % self.trainer.accumulate_grad_batches == 0:
-                self.log('train_loss', loss)
-        else:
-            self.log('train_loss', loss)
+        # if (batch_idx + 1) % self.trainer.accumulate_grad_batches == 0:
+        #     self.log('train_loss', loss)
+        self.log('train_loss', loss)
         return loss
     
     # 検証データを受け取って損失を返すメソッド
@@ -147,8 +145,7 @@ class BertForJapaneseRecepientERC(pl.LightningModule):
                 num_warmup_steps=self.hparams.warmup_steps,
                 num_training_steps=self.hparams.total_steps
             )
-            if self.trainer.accumulate_grad_batches is not None:
-                return [optimizer], [{"scheduler": scheduler, "interval": "step", "frequency": self.trainer.accumulate_grad_batches}]
+            # return [optimizer], [{"scheduler": scheduler, "interval": "step", "frequency": self.trainer.accumulate_grad_batches}]
             return [optimizer], [{"scheduler": scheduler, "interval": "step", "frequency": 1}]
         else:
             return optimizer
@@ -202,6 +199,7 @@ def main():
     )
     # 学習方法の指定
     trainer = pl.Trainer(
+        # accumulate_grad_batches = acc_batches, # 累積勾配4ステップ分
         accelerator = 'gpu', # 学習にgpuを使用
         devices = 1, # gpuの個数
         max_epochs = max_epochs, # 学習のエポック数
