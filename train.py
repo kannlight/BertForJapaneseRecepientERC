@@ -182,7 +182,7 @@ def main():
     if acc_batches is not None:
         total_steps /= acc_batches
     warmup_steps = int(0.1 * total_steps) # ウォームアップの適用期間
-    lr = 3e-5 # 初期学習率
+    lr = 1e-4 # 初期学習率
     wd = 0.1 # 重み減衰率
     dropout = 0.1 # 全結合前のドロップアウト率
 
