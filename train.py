@@ -164,7 +164,7 @@ def main():
     dataset_train = tokenize_pack('./DatasetForExperiment2/DatasetTrain.json')
     dataset_val = tokenize_pack('./DatasetForExperiment2/DatasetVal.json')
 
-    acc_batches = None # 累積勾配を適用するバッチサイズ(適用しないならNone)
+    acc_batches = None # 累積勾配を適用するバッチサイズ
     
     # データローダ作成(呼び出し時にパックをばらす)
     # (num_packs,pack_size)->(num_batches,batch_size*pack_size)
@@ -202,7 +202,6 @@ def main():
     )
     # 学習方法の指定
     trainer = pl.Trainer(
-        accumulate_grad_batches = acc_batches, # 累積勾配4ステップ分
         accelerator = 'gpu', # 学習にgpuを使用
         devices = 1, # gpuの個数
         max_epochs = max_epochs, # 学習のエポック数
