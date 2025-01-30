@@ -113,9 +113,9 @@ class BertForJapaneseRecepientERC(pl.LightningModule):
         loss_func = torch.nn.CrossEntropyLoss(weight = ICFweight)
         loss = loss_func(output.logits.view(-1,self.hparams.num_labels), batch['labels'].view(-1,self.hparams.num_labels))
 
-        # if (batch_idx + 1) % self.trainer.accumulate_grad_batches == 0:
-        #     self.log('train_loss', loss)
-        self.log('train_loss', loss)
+        if (batch_idx + 1) % self.trainer.accumulate_grad_batches == 0:
+            self.log('train_loss', loss)
+        # self.log('train_loss', loss)
         return loss
     
     # 検証データを受け取って損失を返すメソッド
@@ -145,8 +145,8 @@ class BertForJapaneseRecepientERC(pl.LightningModule):
                 num_warmup_steps=self.hparams.warmup_steps,
                 num_training_steps=self.hparams.total_steps
             )
-            # return [optimizer], [{"scheduler": scheduler, "interval": "step", "frequency": self.trainer.accumulate_grad_batches}]
-            return [optimizer], [{"scheduler": scheduler, "interval": "step", "frequency": 1}]
+            return [optimizer], [{"scheduler": scheduler, "interval": "step", "frequency": self.trainer.accumulate_grad_batches}]
+            # return [optimizer], [{"scheduler": scheduler, "interval": "step", "frequency": 1}]
         else:
             return optimizer
 
@@ -158,19 +158,19 @@ def unpack_batch(batch):
 def main():
     # データセットから対話パック(対話データの配列)をトークン化
     # (num_packs,pack_size)
-    dataset_train = tokenize_pack('./DatasetForExperiment2/DatasetTrain.json')
-    dataset_val = tokenize_pack('./DatasetForExperiment2/DatasetVal.json')
+    dataset_train = tokenize_pack('./DatasetTrain.json')
+    dataset_val = tokenize_pack('./DatasetVal.json')
 
-    acc_batches = None # 累積勾配を適用するバッチサイズ
+    acc_batches = 4 # 累積勾配を適用するバッチサイズ
     
     # データローダ作成(呼び出し時にパックをばらす)
     # (num_packs,pack_size)->(num_batches,batch_size*pack_size)
     dataloader_train = DataLoader(
-        dataset_train, num_workers=2, batch_size=4,
+        dataset_train, num_workers=2, batch_size=int(16/acc_batches),
         shuffle=True, collate_fn=unpack_batch
     )
     dataloader_val = DataLoader(
-        dataset_val, num_workers=2, batch_size=4, collate_fn=unpack_batch
+        dataset_val, num_workers=2, batch_size=16, collate_fn=unpack_batch
     )
 
     # ハイパーパラメータ
@@ -179,7 +179,7 @@ def main():
     if acc_batches is not None:
         total_steps /= acc_batches
     warmup_steps = int(0.1 * total_steps) # ウォームアップの適用期間
-    lr = 3e-5 # 初期学習率
+    lr = 8e-5 # 初期学習率
     wd = 0.1 # 重み減衰率
     dropout = 0.1 # 全結合前のドロップアウト率
 
@@ -199,7 +199,7 @@ def main():
     )
     # 学習方法の指定
     trainer = pl.Trainer(
-        # accumulate_grad_batches = acc_batches, # 累積勾配4ステップ分
+        accumulate_grad_batches = acc_batches, # 累積勾配4ステップ分
         accelerator = 'gpu', # 学習にgpuを使用
         devices = 1, # gpuの個数
         max_epochs = max_epochs, # 学習のエポック数
